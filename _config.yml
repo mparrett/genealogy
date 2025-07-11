@@ -1,0 +1,24 @@
+title: Genealogy Resources
+description: Research and reports documenting family history and lineage
+author: Matt
+url: ""
+baseurl: ""
+
+# GitHub Pages configuration
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+  - .git/
+
+# Include files that start with underscore
+include:
+  - _pages
