@@ -38,10 +38,10 @@ just --list
 
 ## 🏗️ Family Tree Resources
 
-- **Ancestry**: TBD
-- **WikiTree**: TBD
-- **FamilySearch**: TBD
-- **23andMe**: TBD
+- **Ancestry**: Available upon request
+- **WikiTree**: Available upon request
+- **FamilySearch**: Available upon request
+- **23andMe**: Available upon request
 
 ## 📖 About
 
