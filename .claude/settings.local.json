@@ -7,7 +7,12 @@
       "Bash(gh repo create:*)",
       "Bash(mv:*)",
       "Bash(just build-report:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(convert:*)",
+      "Bash(rm:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(just serve)"
     ],
     "deny": []
   }

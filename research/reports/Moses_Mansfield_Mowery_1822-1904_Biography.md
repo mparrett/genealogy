@@ -29,7 +29,7 @@ While earlier researchers were uncertain of his parentage, multiple sources now 
 
 ### Additional Research
 
-For detailed lineage documentation and ancestry confirmation, see: [Moses Mansfield Mowery (1822–1904) – Lineage and Ancestry Confirmation (PDF)](../../pdf/Moses%20Mansfield%20Mowery%20(1822%E2%80%931904)%20%E2%80%93%20Lineage%20and%20Ancestry%20Confirmation.pdf)
+For detailed lineage documentation and ancestry confirmation, see: [Moses Mansfield Mowery (1822–1904) – Lineage and Ancestry Confirmation (PDF)](../../pdf/Moses_Mansfield_Mowery_1822-1904_Lineage_Confirmation.pdf)
 
 ### Footnotes
 
