@@ -12,7 +12,8 @@
       "Bash(rm:*)",
       "Bash(ls:*)",
       "Bash(find:*)",
-      "Bash(just serve)"
+      "Bash(just serve)",
+      "Bash(diff:*)"
     ],
     "deny": []
   }
