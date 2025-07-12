@@ -38,10 +38,7 @@ just --list
 
 ## 🏗️ Family Tree Resources
 
-- **Ancestry**: Available upon request
-- **WikiTree**: Available upon request
-- **FamilySearch**: Available upon request
-- **23andMe**: Available upon request
+Family tree profiles and genetic genealogy data are maintained across multiple platforms including Ancestry, WikiTree, FamilySearch, and 23andMe. Links to these profiles are available upon request.
 
 ## 📖 About
 
