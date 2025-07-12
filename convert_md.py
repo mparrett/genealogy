@@ -34,6 +34,20 @@ def convert_file(md_file_path, html_file_path):
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{title}</title>
     <style>
+        /* CSS Custom Properties */
+        :root {{
+            --primary: #7a3a0f;      /* Rich brown - evokes old documents */
+            --secondary: #2c5530;    /* Deep forest green */
+            --accent: #d4a574;       /* Warm gold */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #fefefe;
+            --paper: #fcfcfc;        /* Slight warmth */
+            --border-light: #e8e5e0;
+            --footnote-red: #c53030; /* Warmer red */
+        }}
+        
         /* Modern CSS Reset */
         *, *::before, *::after {{
             box-sizing: border-box;
@@ -62,23 +76,32 @@ def convert_file(md_file_path, html_file_path):
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
             font-size: 16px;
             line-height: 1.6;
-            color: #2c3e50;
-            background-color: #fdfdfd;
+            color: var(--text-primary);
+            background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
             max-width: 800px;
             margin: 0 auto;
             padding: 2rem;
+            box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
+            border-radius: 8px;
+            min-height: 100vh;
         }}
         
         h1, h2, h3, h4, h5, h6 {{
-            font-weight: 600;
-            line-height: 1.4;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            line-height: 1.5;
             margin-bottom: 1rem;
-            color: #1a252f;
+            color: var(--primary);
         }}
         
         h1 {{ font-size: 2.25rem; margin-bottom: 1.5rem; }}
         h2 {{ font-size: 1.875rem; margin-top: 2rem; }}
         h3 {{ font-size: 1.5rem; margin-top: 1.5rem; }}
+        
+        /* Add breathing room at the top */
+        h1:first-child, h2:first-child, h3:first-child {{
+            margin-top: 1rem;
+        }}
         
         p {{
             margin-bottom: 1.25rem;
@@ -86,12 +109,12 @@ def convert_file(md_file_path, html_file_path):
         
         strong {{
             font-weight: 600;
-            color: #1a252f;
+            color: var(--primary);
         }}
         
         em {{
             font-style: italic;
-            color: #34495e;
+            color: var(--text-secondary);
         }}
         
         /* Lists */
@@ -107,22 +130,32 @@ def convert_file(md_file_path, html_file_path):
         
         /* Links */
         a {{
-            color: #3498db;
+            color: var(--secondary);
             text-decoration: none;
-            border-bottom: 1px solid transparent;
-            transition: border-color 0.2s ease;
+            background-image: linear-gradient(120deg, transparent 0%, var(--accent) 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0px;
+            background-position: 0 88%;
+            transition: background-size 0.25s ease-in;
         }}
         
         a:hover {{
-            border-bottom-color: #3498db;
+            background-size: 100% 3px;
         }}
         
         /* Horizontal Rule */
         hr {{
             border: none;
             height: 1px;
-            background: linear-gradient(to right, transparent, #bdc3c7, transparent);
+            background: linear-gradient(to right, transparent, var(--border-light), transparent);
             margin: 2rem 0;
+        }}
+        
+        /* Genealogy-specific classes */
+        .date, .location {{
+            font-variant: small-caps;
+            letter-spacing: 0.5px;
+            color: var(--text-secondary);
         }}
         
         /* Footnotes */
@@ -132,24 +165,29 @@ def convert_file(md_file_path, html_file_path):
         }}
         
         .footnote-ref a {{
-            color: #e74c3c;
+            color: var(--footnote-red);
             text-decoration: none;
-            border: none;
+            background: none;
         }}
         
         .footnote-ref a:hover {{
-            color: #c0392b;
+            color: #9c1f1f;
         }}
         
         .footnotes {{
             margin-top: 3rem;
             padding-top: 2rem;
-            border-top: 1px solid #ecf0f1;
+            border-top: 1px solid var(--border-light);
+            background-color: var(--paper);
+            border-radius: 6px;
+            padding: 2rem;
+            margin-left: -2rem;
+            margin-right: -2rem;
         }}
         
         .footnotes h3 {{
             font-size: 1.25rem;
-            color: #7f8c8d;
+            color: var(--text-muted);
             margin-bottom: 1rem;
         }}
         
@@ -161,17 +199,34 @@ def convert_file(md_file_path, html_file_path):
             font-size: 0.9rem;
             line-height: 1.4;
             margin-bottom: 0.75rem;
-            color: #5a6c7d;
+            color: var(--text-secondary);
         }}
         
         .footnotes .footnote {{
-            color: #95a5a6;
+            color: var(--text-muted);
             text-decoration: none;
             margin-left: 0.5rem;
         }}
         
         .footnotes .footnote:hover {{
-            color: #7f8c8d;
+            color: var(--text-secondary);
+        }}
+        
+        /* Responsive Design */
+        @media (max-width: 600px) {{
+            body {{ 
+                padding: 1rem; 
+                box-shadow: none;
+                border-radius: 0;
+            }}
+            h1 {{ font-size: 1.875rem; }}
+            h2 {{ font-size: 1.5rem; }}
+            h3 {{ font-size: 1.25rem; }}
+            
+            .footnotes {{
+                margin-left: -1rem;
+                margin-right: -1rem;
+            }}
         }}
         
         /* Print styles */
@@ -183,11 +238,19 @@ def convert_file(md_file_path, html_file_path):
                 background: #fff;
                 margin: 0;
                 padding: 1in;
+                box-shadow: none;
+                border-radius: 0;
             }}
             
             a {{
                 color: #000;
                 text-decoration: underline;
+                background: none;
+            }}
+            
+            .footnotes {{
+                background: #fff;
+                border: 1px solid #ccc;
             }}
         }}
     </style>

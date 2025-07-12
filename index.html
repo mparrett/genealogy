@@ -5,31 +5,133 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Genealogy Resources</title>
     <style>
+        /* CSS Custom Properties */
+        :root {
+            --primary: #7a3a0f;        /* Rich brown - evokes old documents */
+            --secondary: #2c5530;      /* Deep forest green */
+            --accent: #d4a574;         /* Warm gold */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #fefefe;
+            --paper: #fcfcfc;          /* Slight warmth */
+            --border-light: #e8e5e0;
+            --footnote-red: #c53030;   /* Warmer red */
+        }
+
+        /* Modern CSS Reset */
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+
+        * {
+            margin: 0;
+        }
+
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        img, picture, video, canvas, svg {
+            display: block;
+            max-width: 100%;
+        }
+
+        input, button, textarea, select {
+            font: inherit;
+        }
+
+        /* Base Typography */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background-color: var(--background);
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            line-height: 1.5;
+            color: var(--primary);
+        }
+
+        strong {
+            font-weight: 600;
+            color: var(--primary);
+        }
+
+        em {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+
+        /* Base Link Styling */
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+            background-image: linear-gradient(120deg, transparent 0%, var(--accent) 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0px;
+            background-position: 0 88%;
+            transition: background-size 0.25s ease-in;
+        }
+
+        a:hover {
+            background-size: 100% 3px;
+        }
+
+        /* Page-specific styles */
+        body {
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
-            line-height: 1.6;
+            background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
+            min-height: 100vh;
         }
+        
         .header {
-            border-bottom: 2px solid #333;
+            border-bottom: 2px solid var(--primary);
             padding-bottom: 20px;
             margin-bottom: 30px;
         }
+        
+        .header h1 {
+            margin-bottom: 0.5rem;
+        }
+        
+        .header p {
+            color: var(--text-secondary);
+            margin: 0;
+        }
+        
         .section {
             margin-bottom: 30px;
         }
+        
+        .section h2 {
+            margin-bottom: 1rem;
+        }
+        
         .report-item {
-            border: 1px solid #ddd;
+            border: 1px solid var(--border-light);
             padding: 15px;
             margin-bottom: 15px;
-            border-radius: 5px;
-            background-color: #fefefe;
+            border-radius: 8px;
+            background-color: var(--paper);
             display: flex;
             gap: 20px;
             align-items: flex-start;
+            box-shadow: 0 2px 8px rgba(122, 58, 15, 0.06);
+            transition: box-shadow 0.2s ease;
         }
+        
+        .report-item:hover {
+            box-shadow: 0 4px 16px rgba(122, 58, 15, 0.1);
+        }
+        
         .report-image {
             flex-shrink: 0;
             width: 128px;
@@ -42,43 +144,81 @@
             position: relative;
             opacity: 0.8;
         }
+        
         .report-image::after {
             content: 'MM';
             position: absolute;
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-            font-family: serif;
+            font-family: Georgia, 'Times New Roman', serif;
             font-size: 32px;
-            font-weight: bold;
+            font-weight: 500;
             color: rgba(255, 255, 255, 0.9);
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         }
+        
         .report-content {
             flex: 1;
         }
+        
         .report-image-link {
             text-decoration: none;
             display: block;
             transition: opacity 0.2s ease;
+            background: none;
         }
+        
         .report-image-link:hover {
             opacity: 0.9;
+            background: none;
         }
+        
         .report-title {
-            font-weight: bold;
-            color: #333;
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
         }
+        
         .report-date {
-            color: #666;
+            color: var(--text-muted);
             font-size: 0.9em;
+            margin-bottom: 0.75rem;
         }
-        a {
-            color: #0366d6;
-            text-decoration: none;
+        
+        .report-content p {
+            margin-bottom: 0.75rem;
         }
-        a:hover {
-            text-decoration: underline;
+        
+        .report-content a {
+            font-weight: 500;
+        }
+        
+        /* Family Tree Resources styling */
+        .section p {
+            margin-bottom: 1rem;
+        }
+        
+        /* Mobile responsive */
+        @media (max-width: 600px) {
+            body {
+                padding: 1rem;
+            }
+            
+            .report-item {
+                flex-direction: column;
+                gap: 15px;
+            }
+            
+            .report-image {
+                width: 100px;
+                height: 100px;
+                align-self: center;
+            }
+            
+            .report-image::after {
+                font-size: 24px;
+            }
         }
     </style>
 </head>
