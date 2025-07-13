@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>george_w_kuthe_bio</title>
+    <style>
+        /* CSS Custom Properties */
+        :root {
+            --primary: #7a3a0f;      /* Rich brown - evokes old documents */
+            --secondary: #2c5530;    /* Deep forest green */
+            --accent: #d4a574;       /* Warm gold */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #fefefe;
+            --paper: #fcfcfc;        /* Slight warmth */
+            --border-light: #e8e5e0;
+            --footnote-red: #c53030; /* Warmer red */
+        }
+        
+        /* Modern CSS Reset */
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+        
+        * {
+            margin: 0;
+        }
+        
+        body {
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        img, picture, video, canvas, svg {
+            display: block;
+            max-width: 100%;
+        }
+        
+        input, button, textarea, select {
+            font: inherit;
+        }
+        
+        /* Typography */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
+            border-radius: 8px;
+            min-height: 100vh;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 1rem;
+            color: var(--primary);
+        }
+        
+        h1 { font-size: 2.25rem; margin-bottom: 1.5rem; }
+        h2 { font-size: 1.875rem; margin-top: 2rem; }
+        h3 { font-size: 1.5rem; margin-top: 1.5rem; }
+        
+        /* Add breathing room at the top */
+        h1:first-child, h2:first-child, h3:first-child {
+            margin-top: 1rem;
+        }
+        
+        p {
+            margin-bottom: 1.25rem;
+        }
+        
+        strong {
+            font-weight: 600;
+            color: var(--primary);
+        }
+        
+        em {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+        
+        /* Lists */
+        ul, ol {
+            margin-bottom: 1.25rem;
+            padding-left: 1.5rem;
+        }
+        
+        li {
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+        
+        /* Links */
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+            background-image: linear-gradient(120deg, transparent 0%, var(--accent) 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0px;
+            background-position: 0 88%;
+            transition: background-size 0.25s ease-in;
+        }
+        
+        a:hover {
+            background-size: 100% 3px;
+        }
+        
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--border-light), transparent);
+            margin: 2rem 0;
+        }
+        
+        /* Genealogy-specific classes */
+        .date, .location {
+            font-variant: small-caps;
+            letter-spacing: 0.5px;
+            color: var(--text-secondary);
+        }
+        
+        /* Footnotes */
+        .footnote-ref {
+            font-size: 0.85em;
+            font-weight: 500;
+        }
+        
+        .footnote-ref a {
+            color: var(--footnote-red);
+            text-decoration: none;
+            background: none;
+        }
+        
+        .footnote-ref a:hover {
+            color: #9c1f1f;
+        }
+        
+        .footnotes {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-light);
+            background-color: var(--paper);
+            border-radius: 6px;
+            padding: 2rem;
+            margin-left: -2rem;
+            margin-right: -2rem;
+        }
+        
+        .footnotes h3 {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        
+        .footnotes ol {
+            padding-left: 1.25rem;
+        }
+        
+        .footnotes li {
+            font-size: 0.9rem;
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+            color: var(--text-secondary);
+        }
+        
+        .footnotes .footnote {
+            color: var(--text-muted);
+            text-decoration: none;
+            margin-left: 0.5rem;
+        }
+        
+        .footnotes .footnote:hover {
+            color: var(--text-secondary);
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            body { 
+                padding: 1rem; 
+                box-shadow: none;
+                border-radius: 0;
+            }
+            h1 { font-size: 1.875rem; }
+            h2 { font-size: 1.5rem; }
+            h3 { font-size: 1.25rem; }
+            
+            .footnotes {
+                margin-left: -1rem;
+                margin-right: -1rem;
+            }
+        }
+        
+        /* Print styles */
+        @media print {
+            body {
+                font-size: 12pt;
+                line-height: 1.5;
+                color: #000;
+                background: #fff;
+                margin: 0;
+                padding: 1in;
+                box-shadow: none;
+                border-radius: 0;
+            }
+            
+            a {
+                color: #000;
+                text-decoration: underline;
+                background: none;
+            }
+            
+            .footnotes {
+                background: #fff;
+                border: 1px solid #ccc;
+            }
+        }
+    </style>
+</head>
+<body>
+<h3><strong>George Washington Kuthe (1869–1925)</strong></h3>
+<p><em>Farmer, Pioneer Descendant, German-American Migrant</em></p>
+<p>George Washington Kuthe was born on October 14, 1869, in Salem, Dent County, Missouri, to German immigrant Frederick Kuthe and likely Sarah Ann Steagall. Raised in a rural setting amid a growing German-American community, George was part of a generation straddling Old World roots and the promise of the American frontier.</p>
+<p>By the early 1890s, George had migrated west to Oregon, joining a tide of settlers seeking opportunity in the fertile Willamette Valley. In 1892, at age 23, he married <strong>Huldah Imogene Bridgefarmer</strong>, the daughter of Oregon pioneers from both the Bridgefarmer and Bond families. Their union symbolized the merging of German immigrant heritage with families who had crossed the Oregon Trail decades earlier.</p>
+<p>George and Huldah settled near Jefferson, straddling Linn and Marion counties, where George worked as a farmer. Together they had at least one daughter, Frances Anita Kuthe, born in 1898. Tragedy struck early—Huldah died in 1907 at just 33 years old, leaving George a widower with a young child.</p>
+<p>In the years that followed, George relocated to the Southwest, ultimately settling in Phoenix, Arizona. Whether drawn by health concerns, economic opportunity, or personal reinvention, his move marked the final westward arc of his life’s journey. He remarried, and his second wife was named Nell. George died in Phoenix on December 2, 1925, at the age of 56, and was buried in Greenwood Memory Lawn Cemetery.</p>
+<p>His daughter Frances died less than a year later, in 1926, at the age of 27.</p>
+<p>George W. Kuthe’s life bridged the closing of the American frontier: born to immigrants, married into pioneer stock, and laid to rest in the desert Southwest. His story is a quiet testament to the restless migrations and resilience that shaped America’s western landscapes.</p>
+
+</body>
+</html>

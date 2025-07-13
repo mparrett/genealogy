@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>huldah_imogene_kuthe_bio</title>
+    <style>
+        /* CSS Custom Properties */
+        :root {
+            --primary: #7a3a0f;      /* Rich brown - evokes old documents */
+            --secondary: #2c5530;    /* Deep forest green */
+            --accent: #d4a574;       /* Warm gold */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #fefefe;
+            --paper: #fcfcfc;        /* Slight warmth */
+            --border-light: #e8e5e0;
+            --footnote-red: #c53030; /* Warmer red */
+        }
+        
+        /* Modern CSS Reset */
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+        
+        * {
+            margin: 0;
+        }
+        
+        body {
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        img, picture, video, canvas, svg {
+            display: block;
+            max-width: 100%;
+        }
+        
+        input, button, textarea, select {
+            font: inherit;
+        }
+        
+        /* Typography */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
+            border-radius: 8px;
+            min-height: 100vh;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 1rem;
+            color: var(--primary);
+        }
+        
+        h1 { font-size: 2.25rem; margin-bottom: 1.5rem; }
+        h2 { font-size: 1.875rem; margin-top: 2rem; }
+        h3 { font-size: 1.5rem; margin-top: 1.5rem; }
+        
+        /* Add breathing room at the top */
+        h1:first-child, h2:first-child, h3:first-child {
+            margin-top: 1rem;
+        }
+        
+        p {
+            margin-bottom: 1.25rem;
+        }
+        
+        strong {
+            font-weight: 600;
+            color: var(--primary);
+        }
+        
+        em {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+        
+        /* Lists */
+        ul, ol {
+            margin-bottom: 1.25rem;
+            padding-left: 1.5rem;
+        }
+        
+        li {
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+        
+        /* Links */
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+            background-image: linear-gradient(120deg, transparent 0%, var(--accent) 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0px;
+            background-position: 0 88%;
+            transition: background-size 0.25s ease-in;
+        }
+        
+        a:hover {
+            background-size: 100% 3px;
+        }
+        
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--border-light), transparent);
+            margin: 2rem 0;
+        }
+        
+        /* Genealogy-specific classes */
+        .date, .location {
+            font-variant: small-caps;
+            letter-spacing: 0.5px;
+            color: var(--text-secondary);
+        }
+        
+        /* Footnotes */
+        .footnote-ref {
+            font-size: 0.85em;
+            font-weight: 500;
+        }
+        
+        .footnote-ref a {
+            color: var(--footnote-red);
+            text-decoration: none;
+            background: none;
+        }
+        
+        .footnote-ref a:hover {
+            color: #9c1f1f;
+        }
+        
+        .footnotes {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-light);
+            background-color: var(--paper);
+            border-radius: 6px;
+            padding: 2rem;
+            margin-left: -2rem;
+            margin-right: -2rem;
+        }
+        
+        .footnotes h3 {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        
+        .footnotes ol {
+            padding-left: 1.25rem;
+        }
+        
+        .footnotes li {
+            font-size: 0.9rem;
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+            color: var(--text-secondary);
+        }
+        
+        .footnotes .footnote {
+            color: var(--text-muted);
+            text-decoration: none;
+            margin-left: 0.5rem;
+        }
+        
+        .footnotes .footnote:hover {
+            color: var(--text-secondary);
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            body { 
+                padding: 1rem; 
+                box-shadow: none;
+                border-radius: 0;
+            }
+            h1 { font-size: 1.875rem; }
+            h2 { font-size: 1.5rem; }
+            h3 { font-size: 1.25rem; }
+            
+            .footnotes {
+                margin-left: -1rem;
+                margin-right: -1rem;
+            }
+        }
+        
+        /* Print styles */
+        @media print {
+            body {
+                font-size: 12pt;
+                line-height: 1.5;
+                color: #000;
+                background: #fff;
+                margin: 0;
+                padding: 1in;
+                box-shadow: none;
+                border-radius: 0;
+            }
+            
+            a {
+                color: #000;
+                text-decoration: underline;
+                background: none;
+            }
+            
+            .footnotes {
+                background: #fff;
+                border: 1px solid #ccc;
+            }
+        }
+    </style>
+</head>
+<body>
+<h3><strong>Huldah Imogene (Bridgefarmer) Kuthe (1873–1907)</strong></h3>
+<p><em>Oregon Native, Pioneer Descendant, Early 20th Century Farm Wife</em></p>
+<p>Huldah Imogene Bridgefarmer was born on August 9, 1873, in Albany, Linn County, Oregon—just a generation after her grandparents crossed the Oregon Trail. Known as “Imogene” to family and friends, she was the firstborn child of <strong>Alanson Lawson Bridgefarmer</strong> and <strong>Susan Augusta Bond</strong>, both members of prominent Oregon pioneer families.</p>
+<p>Imogene’s childhood was shaped by her family’s deep roots in the Willamette Valley. Her paternal grandfather, David Bridgefarmer, arrived in Oregon in 1847, and her maternal grandparents, Solomon and Huldah Bond, were 1853 Oregon Trail pioneers. Her parents raised her on a farm near Tangent, Oregon, instilling in her the values of hard work, faith, and close family ties.</p>
+<p>On October 19, 1892, at the age of 19, Imogene married <strong>George Washington Kuthe</strong>, a Missouri-born farmer of German-American descent. The couple settled near Jefferson, Oregon, at the border of Linn and Marion Counties. Their union blended two legacies: Imogene’s pioneer ancestry and George’s immigrant roots.</p>
+<p>Imogene gave birth to their daughter, <strong>Frances Anita Kuthe</strong>, in 1898. She spent her short life in Oregon as a wife and mother, contributing to her family's farm and home. Sadly, Imogene passed away just days before her 34th birthday, on August 6, 1907. She was buried in Jefferson Cemetery in Marion County, Oregon.</p>
+<p>Though her life was brief, Huldah Imogene (Bridgefarmer) Kuthe carried forward the spirit of the Oregon pioneers. Born into the stability her forebears helped create, she was part of the first generation raised entirely in the state they had once dreamed of reaching. Her story is woven into the quiet fabric of early Oregon life: resilience, rootedness, and the passing of legacy from mother to daughter.</p>
+
+</body>
+</html>

@@ -13,7 +13,9 @@
       "Bash(ls:*)",
       "Bash(find:*)",
       "Bash(just serve)",
-      "Bash(diff:*)"
+      "Bash(diff:*)",
+      "Bash(python:*)",
+      "Bash(sips:*)"
     ],
     "deny": []
   }
