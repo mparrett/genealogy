@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biography of Elizabeth "Betsy" Lusby Mowery</title>
+    <style>
+        /* CSS Custom Properties */
+        :root {
+            --primary: #7a3a0f;      /* Rich brown - evokes old documents */
+            --secondary: #2c5530;    /* Deep forest green */
+            --accent: #d4a574;       /* Warm gold */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #fefefe;
+            --paper: #fcfcfc;        /* Slight warmth */
+            --border-light: #e8e5e0;
+            --footnote-red: #c53030; /* Warmer red */
+        }
+        
+        /* Modern CSS Reset */
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+        
+        * {
+            margin: 0;
+        }
+        
+        body {
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        img, picture, video, canvas, svg {
+            display: block;
+            max-width: 100%;
+        }
+        
+        input, button, textarea, select {
+            font: inherit;
+        }
+        
+        /* Typography */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
+            border-radius: 8px;
+            min-height: 100vh;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 1rem;
+            color: var(--primary);
+        }
+        
+        h1 { font-size: 2.25rem; margin-bottom: 1.5rem; }
+        h2 { font-size: 1.875rem; margin-top: 2rem; }
+        h3 { font-size: 1.5rem; margin-top: 1.5rem; }
+        
+        /* Add breathing room at the top */
+        h1:first-child, h2:first-child, h3:first-child {
+            margin-top: 1rem;
+        }
+        
+        p {
+            margin-bottom: 1.25rem;
+        }
+        
+        strong {
+            font-weight: 600;
+            color: var(--primary);
+        }
+        
+        em {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+        
+        /* Lists */
+        ul, ol {
+            margin-bottom: 1.25rem;
+            padding-left: 1.5rem;
+        }
+        
+        li {
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+        
+        /* Links */
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+            background-image: linear-gradient(120deg, transparent 0%, var(--accent) 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0px;
+            background-position: 0 88%;
+            transition: background-size 0.25s ease-in;
+        }
+        
+        a:hover {
+            background-size: 100% 3px;
+        }
+        
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--border-light), transparent);
+            margin: 2rem 0;
+        }
+        
+        /* Genealogy-specific classes */
+        .date, .location {
+            font-variant: small-caps;
+            letter-spacing: 0.5px;
+            color: var(--text-secondary);
+        }
+        
+        /* Footnotes */
+        .footnote-ref {
+            font-size: 0.85em;
+            font-weight: 500;
+        }
+        
+        .footnote-ref a {
+            color: var(--footnote-red);
+            text-decoration: none;
+            background: none;
+        }
+        
+        .footnote-ref a:hover {
+            color: #9c1f1f;
+        }
+        
+        .footnotes {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-light);
+            background-color: var(--paper);
+            border-radius: 6px;
+            padding: 2rem;
+            margin-left: -2rem;
+            margin-right: -2rem;
+        }
+        
+        .footnotes h3 {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        
+        .footnotes ol {
+            padding-left: 1.25rem;
+        }
+        
+        .footnotes li {
+            font-size: 0.9rem;
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+            color: var(--text-secondary);
+        }
+        
+        .footnotes .footnote {
+            color: var(--text-muted);
+            text-decoration: none;
+            margin-left: 0.5rem;
+        }
+        
+        .footnotes .footnote:hover {
+            color: var(--text-secondary);
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            body { 
+                padding: 1rem; 
+                box-shadow: none;
+                border-radius: 0;
+            }
+            h1 { font-size: 1.875rem; }
+            h2 { font-size: 1.5rem; }
+            h3 { font-size: 1.25rem; }
+            
+            .footnotes {
+                margin-left: -1rem;
+                margin-right: -1rem;
+            }
+        }
+        
+        /* Print styles */
+        @media print {
+            body {
+                font-size: 12pt;
+                line-height: 1.5;
+                color: #000;
+                background: #fff;
+                margin: 0;
+                padding: 1in;
+                box-shadow: none;
+                border-radius: 0;
+            }
+            
+            a {
+                color: #000;
+                text-decoration: underline;
+                background: none;
+            }
+            
+            .footnotes {
+                background: #fff;
+                border: 1px solid #ccc;
+            }
+        }
+    </style>
+</head>
+<body>
+<h2>Biography of Elizabeth &quot;Betsy&quot; Lusby Mowery</h2>
+<p><em>Tennessee Native, Pioneer Wife, Maternal Matriarch</em></p>
+<p><strong>Elizabeth &quot;Betsy&quot; Lusby</strong> was born in Tennessee, likely in the late 1790s or early 1800s, and became the matriarch of the Mowery family in America through her marriage to German immigrant <strong>Lewis R. Mowery</strong><sup class="footnote-ref" id="fnref-1"><a href="#fn-1">1</a></sup>. Her life represents the experiences of countless pioneer women who helped build families and communities on the American frontier.</p>
+<h3>Early Life and Family Background</h3>
+<p>Elizabeth was born to Tennessee natives, making her family among the early settlers of the region<sup class="footnote-ref" id="fnref-2"><a href="#fn-2">2</a></sup>. The Lusby family name suggests English or possibly Anglo-Saxon origins, and they were likely among the families who moved into Tennessee during its early territorial period. Her nickname &quot;Betsy&quot; was common for Elizabeth during this era and suggests she was known by this familiar name throughout her life.</p>
+<h3>Marriage and Family Life</h3>
+<p>Elizabeth married <strong>Lewis R. Mowery</strong>, a German immigrant, in Knox County, Tennessee, likely in the early 1800s<sup class="footnote-ref" id="fnref-3"><a href="#fn-3">3</a></sup>. Their union represents the blending of German immigrant heritage with established Tennessee pioneer families—a common pattern in the expanding American frontier.</p>
+<p>Together, Elizabeth and Lewis raised a large family of at least ten children<sup class="footnote-ref" id="fnref-4"><a href="#fn-4">4</a></sup>, including:</p>
+<ul>
+<li><strong>Moses Mansfield Mowery</strong> (1822-1904) - Later became a Texas pioneer</li>
+<li><strong>Pleasant A. Mowrey</strong> - Documented in Texas historical records</li>
+<li><strong>Ephraim Lusby Mowery</strong> - Carried his mother's family name as middle name</li>
+<li><strong>Lewis Daily Mowery</strong> - Named after his father</li>
+<li><em>[Additional children to be researched and documented]</em></li>
+</ul>
+<h3>The Lusby Legacy</h3>
+<p>The Lusby family name continued through Elizabeth's descendants, with several of her grandchildren carrying &quot;Lusby&quot; as a middle name, demonstrating the family's commitment to preserving maternal lineage<sup class="footnote-ref" id="fnref-5"><a href="#fn-5">5</a></sup>. This practice suggests the Lusby family held significance in the community and that Elizabeth maintained strong connections to her birth family.</p>
+<h3>Pioneer Life in Tennessee</h3>
+<p>Elizabeth lived through the transformation of Tennessee from frontier territory to established state. She would have experienced the challenges of pioneer life: raising a large family in a log cabin, managing household production, and supporting her husband's farming endeavors. The family's move from Knox County to Bradley County around 1837 likely reflected their search for better land and opportunities<sup class="footnote-ref" id="fnref-6"><a href="#fn-6">6</a></sup>.</p>
+<h3>Maternal Influence</h3>
+<p>Elizabeth's influence on her children extended far beyond Tennessee. When her sons Moses and Pleasant migrated to Texas, they carried with them the values, work ethic, and family traditions she had instilled. The fact that multiple grandchildren carried the Lusby name suggests she maintained strong family connections and that her heritage was valued by subsequent generations.</p>
+<hr />
+<h3>Research Notes</h3>
+<p><em>This biography is under active development. Additional research is needed on:</em></p>
+<ul>
+<li><em>Specific birth date and location within Tennessee</em></li>
+<li><em>Parents' names and Lusby family origins</em></li>
+<li><em>Marriage date and location to Lewis R. Mowery</em></li>
+<li><em>Complete list of children and their birth years</em></li>
+<li><em>Death date and burial location</em></li>
+<li><em>Church affiliations and community involvement</em></li>
+<li><em>Connections to other Tennessee Lusby families</em></li>
+</ul>
+<h3>Sources and Further Research</h3>
+<section class="footnotes">
+<ol>
+<li id="fn-1"><p>Marriage documented through Moses Mansfield Mowery's 1900 census record showing both parents born in Tennessee.<a href="#fnref-1" class="footnote">&#8617;</a></p></li>
+<li id="fn-2"><p>1900 U.S. Census indicates Elizabeth's parents were both born in Tennessee, suggesting established Tennessee family.<a href="#fnref-2" class="footnote">&#8617;</a></p></li>
+<li id="fn-3"><p>Knox County location inferred from Moses's birth location and family residence patterns.<a href="#fnref-3" class="footnote">&#8617;</a></p></li>
+<li id="fn-4"><p>Children referenced in various records including <em>Biographical Souvenir of the State of Texas</em>, 1889, and descendant documentation.<a href="#fnref-4" class="footnote">&#8617;</a></p></li>
+<li id="fn-5"><p>Naming patterns observed in Moses's children: Ephraim Lusby Mowery demonstrates preservation of maternal family name.<a href="#fnref-5" class="footnote">&#8617;</a></p></li>
+<li id="fn-6"><p>Family migration documented in 1840 U.S. Census, Bradley County, Tennessee records.<a href="#fnref-6" class="footnote">&#8617;</a></p></li>
+</ol>
+</section>
+
+</body>
+</html>

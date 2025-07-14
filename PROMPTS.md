@@ -27,6 +27,84 @@ CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
 Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
 ```
 
+### Elizabeth "Betsy" Lusby Mowery (c. 1790s-1850s) - Tennessee Native, Pioneer Wife
+
+```
+Create a vintage-style illustration representing Tennessee pioneer women and early family life in the 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Tennessee landscape with rolling hills and early settlements
+- A log cabin or simple wooden home with smoke rising from chimney
+- Pioneer family life elements: garden plots, washing areas, children playing
+- Split-rail fencing and farm animals (chickens, cow, etc.)
+- Traditional pioneer women's work: spinning wheel, garden tools, hanging laundry
+- Native Tennessee vegetation and wildflowers
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1850s Tennessee pioneer family life but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Lewis R. Mowery (c. 1780s-1850s) - German Immigrant, Tennessee Pioneer
+
+```
+Create a vintage-style illustration representing German immigration to early Tennessee in the early 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Appalachian foothills landscape typical of East Tennessee (Knox/Bradley Counties)
+- A simple log cabin or early settler's homestead with German architectural influences
+- Perhaps a covered wagon or cart suggesting immigration/migration
+- Split-rail fencing and cleared farmland showing frontier settlement
+- Distant mountains (Great Smoky Mountains) in the background
+- Tools of early farming and homesteading (axe, plow, etc.)
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1840s German-American frontier settlement period in Tennessee but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Elizabeth "Betsy" Lusby Mowery (c. 1790s-1850s) - Tennessee Native, Pioneer Wife
+
+```
+Create a vintage-style illustration representing Tennessee pioneer women and early family life in the 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Tennessee landscape with rolling hills and early settlements
+- A log cabin or simple wooden home with smoke rising from chimney
+- Pioneer family life elements: garden plots, washing areas, children playing
+- Split-rail fencing and farm animals (chickens, cow, etc.)
+- Traditional pioneer women's work: spinning wheel, garden tools, hanging laundry
+- Native Tennessee vegetation and wildflowers
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1850s Tennessee pioneer family life but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
 ### George Washington Kuthe (1869–1925) - German-American Migration
 
 ```
@@ -41,6 +119,84 @@ Create a vintage-style illustration representing German-American migration and f
 - Soft, aged appearance with slight sepia tones
 
 Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1870s-1920s period of German-American settlement and westward migration but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Elizabeth "Betsy" Lusby Mowery (c. 1790s-1850s) - Tennessee Native, Pioneer Wife
+
+```
+Create a vintage-style illustration representing Tennessee pioneer women and early family life in the 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Tennessee landscape with rolling hills and early settlements
+- A log cabin or simple wooden home with smoke rising from chimney
+- Pioneer family life elements: garden plots, washing areas, children playing
+- Split-rail fencing and farm animals (chickens, cow, etc.)
+- Traditional pioneer women's work: spinning wheel, garden tools, hanging laundry
+- Native Tennessee vegetation and wildflowers
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1850s Tennessee pioneer family life but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Lewis R. Mowery (c. 1780s-1850s) - German Immigrant, Tennessee Pioneer
+
+```
+Create a vintage-style illustration representing German immigration to early Tennessee in the early 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Appalachian foothills landscape typical of East Tennessee (Knox/Bradley Counties)
+- A simple log cabin or early settler's homestead with German architectural influences
+- Perhaps a covered wagon or cart suggesting immigration/migration
+- Split-rail fencing and cleared farmland showing frontier settlement
+- Distant mountains (Great Smoky Mountains) in the background
+- Tools of early farming and homesteading (axe, plow, etc.)
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1840s German-American frontier settlement period in Tennessee but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Elizabeth "Betsy" Lusby Mowery (c. 1790s-1850s) - Tennessee Native, Pioneer Wife
+
+```
+Create a vintage-style illustration representing Tennessee pioneer women and early family life in the 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Tennessee landscape with rolling hills and early settlements
+- A log cabin or simple wooden home with smoke rising from chimney
+- Pioneer family life elements: garden plots, washing areas, children playing
+- Split-rail fencing and farm animals (chickens, cow, etc.)
+- Traditional pioneer women's work: spinning wheel, garden tools, hanging laundry
+- Native Tennessee vegetation and wildflowers
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1850s Tennessee pioneer family life but remain legible and not too busy when used behind text.
 
 CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
 - Maintain the same vintage illustration style with sepia/aged tones
@@ -67,6 +223,84 @@ Create a vintage-style illustration representing Oregon Trail pioneer families a
 - Soft, aged appearance with slight sepia tones
 
 Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1870s-1900s Oregon pioneer settlement period but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Elizabeth "Betsy" Lusby Mowery (c. 1790s-1850s) - Tennessee Native, Pioneer Wife
+
+```
+Create a vintage-style illustration representing Tennessee pioneer women and early family life in the 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Tennessee landscape with rolling hills and early settlements
+- A log cabin or simple wooden home with smoke rising from chimney
+- Pioneer family life elements: garden plots, washing areas, children playing
+- Split-rail fencing and farm animals (chickens, cow, etc.)
+- Traditional pioneer women's work: spinning wheel, garden tools, hanging laundry
+- Native Tennessee vegetation and wildflowers
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1850s Tennessee pioneer family life but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Lewis R. Mowery (c. 1780s-1850s) - German Immigrant, Tennessee Pioneer
+
+```
+Create a vintage-style illustration representing German immigration to early Tennessee in the early 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Appalachian foothills landscape typical of East Tennessee (Knox/Bradley Counties)
+- A simple log cabin or early settler's homestead with German architectural influences
+- Perhaps a covered wagon or cart suggesting immigration/migration
+- Split-rail fencing and cleared farmland showing frontier settlement
+- Distant mountains (Great Smoky Mountains) in the background
+- Tools of early farming and homesteading (axe, plow, etc.)
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1840s German-American frontier settlement period in Tennessee but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Elizabeth "Betsy" Lusby Mowery (c. 1790s-1850s) - Tennessee Native, Pioneer Wife
+
+```
+Create a vintage-style illustration representing Tennessee pioneer women and early family life in the 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Tennessee landscape with rolling hills and early settlements
+- A log cabin or simple wooden home with smoke rising from chimney
+- Pioneer family life elements: garden plots, washing areas, children playing
+- Split-rail fencing and farm animals (chickens, cow, etc.)
+- Traditional pioneer women's work: spinning wheel, garden tools, hanging laundry
+- Native Tennessee vegetation and wildflowers
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1850s Tennessee pioneer family life but remain legible and not too busy when used behind text.
 
 CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
 - Maintain the same vintage illustration style with sepia/aged tones
@@ -103,6 +337,84 @@ CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
 Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
 ```
 
+### Elizabeth "Betsy" Lusby Mowery (c. 1790s-1850s) - Tennessee Native, Pioneer Wife
+
+```
+Create a vintage-style illustration representing Tennessee pioneer women and early family life in the 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Tennessee landscape with rolling hills and early settlements
+- A log cabin or simple wooden home with smoke rising from chimney
+- Pioneer family life elements: garden plots, washing areas, children playing
+- Split-rail fencing and farm animals (chickens, cow, etc.)
+- Traditional pioneer women's work: spinning wheel, garden tools, hanging laundry
+- Native Tennessee vegetation and wildflowers
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1850s Tennessee pioneer family life but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Lewis R. Mowery (c. 1780s-1850s) - German Immigrant, Tennessee Pioneer
+
+```
+Create a vintage-style illustration representing German immigration to early Tennessee in the early 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Appalachian foothills landscape typical of East Tennessee (Knox/Bradley Counties)
+- A simple log cabin or early settler's homestead with German architectural influences
+- Perhaps a covered wagon or cart suggesting immigration/migration
+- Split-rail fencing and cleared farmland showing frontier settlement
+- Distant mountains (Great Smoky Mountains) in the background
+- Tools of early farming and homesteading (axe, plow, etc.)
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1840s German-American frontier settlement period in Tennessee but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Elizabeth "Betsy" Lusby Mowery (c. 1790s-1850s) - Tennessee Native, Pioneer Wife
+
+```
+Create a vintage-style illustration representing Tennessee pioneer women and early family life in the 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Tennessee landscape with rolling hills and early settlements
+- A log cabin or simple wooden home with smoke rising from chimney
+- Pioneer family life elements: garden plots, washing areas, children playing
+- Split-rail fencing and farm animals (chickens, cow, etc.)
+- Traditional pioneer women's work: spinning wheel, garden tools, hanging laundry
+- Native Tennessee vegetation and wildflowers
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1850s Tennessee pioneer family life but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
 ### George Washington Kuthe (1869–1925) - German-American Migration
 
 ```
@@ -117,6 +429,84 @@ Create a vintage-style illustration representing German-American migration and f
 - Soft, aged appearance with slight sepia tones
 
 Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1870s-1920s period of German-American settlement and westward migration but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Elizabeth "Betsy" Lusby Mowery (c. 1790s-1850s) - Tennessee Native, Pioneer Wife
+
+```
+Create a vintage-style illustration representing Tennessee pioneer women and early family life in the 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Tennessee landscape with rolling hills and early settlements
+- A log cabin or simple wooden home with smoke rising from chimney
+- Pioneer family life elements: garden plots, washing areas, children playing
+- Split-rail fencing and farm animals (chickens, cow, etc.)
+- Traditional pioneer women's work: spinning wheel, garden tools, hanging laundry
+- Native Tennessee vegetation and wildflowers
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1850s Tennessee pioneer family life but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Lewis R. Mowery (c. 1780s-1850s) - German Immigrant, Tennessee Pioneer
+
+```
+Create a vintage-style illustration representing German immigration to early Tennessee in the early 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Appalachian foothills landscape typical of East Tennessee (Knox/Bradley Counties)
+- A simple log cabin or early settler's homestead with German architectural influences
+- Perhaps a covered wagon or cart suggesting immigration/migration
+- Split-rail fencing and cleared farmland showing frontier settlement
+- Distant mountains (Great Smoky Mountains) in the background
+- Tools of early farming and homesteading (axe, plow, etc.)
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1840s German-American frontier settlement period in Tennessee but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Elizabeth "Betsy" Lusby Mowery (c. 1790s-1850s) - Tennessee Native, Pioneer Wife
+
+```
+Create a vintage-style illustration representing Tennessee pioneer women and early family life in the 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Tennessee landscape with rolling hills and early settlements
+- A log cabin or simple wooden home with smoke rising from chimney
+- Pioneer family life elements: garden plots, washing areas, children playing
+- Split-rail fencing and farm animals (chickens, cow, etc.)
+- Traditional pioneer women's work: spinning wheel, garden tools, hanging laundry
+- Native Tennessee vegetation and wildflowers
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1850s Tennessee pioneer family life but remain legible and not too busy when used behind text.
 
 CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
 - Maintain the same vintage illustration style with sepia/aged tones
@@ -143,6 +533,84 @@ Create a vintage-style illustration representing Oregon Trail pioneer families a
 - Soft, aged appearance with slight sepia tones
 
 Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1870s-1900s Oregon pioneer settlement period but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Elizabeth "Betsy" Lusby Mowery (c. 1790s-1850s) - Tennessee Native, Pioneer Wife
+
+```
+Create a vintage-style illustration representing Tennessee pioneer women and early family life in the 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Tennessee landscape with rolling hills and early settlements
+- A log cabin or simple wooden home with smoke rising from chimney
+- Pioneer family life elements: garden plots, washing areas, children playing
+- Split-rail fencing and farm animals (chickens, cow, etc.)
+- Traditional pioneer women's work: spinning wheel, garden tools, hanging laundry
+- Native Tennessee vegetation and wildflowers
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1850s Tennessee pioneer family life but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Lewis R. Mowery (c. 1780s-1850s) - German Immigrant, Tennessee Pioneer
+
+```
+Create a vintage-style illustration representing German immigration to early Tennessee in the early 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Appalachian foothills landscape typical of East Tennessee (Knox/Bradley Counties)
+- A simple log cabin or early settler's homestead with German architectural influences
+- Perhaps a covered wagon or cart suggesting immigration/migration
+- Split-rail fencing and cleared farmland showing frontier settlement
+- Distant mountains (Great Smoky Mountains) in the background
+- Tools of early farming and homesteading (axe, plow, etc.)
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1840s German-American frontier settlement period in Tennessee but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+### Elizabeth "Betsy" Lusby Mowery (c. 1790s-1850s) - Tennessee Native, Pioneer Wife
+
+```
+Create a vintage-style illustration representing Tennessee pioneer women and early family life in the 1800s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Tennessee landscape with rolling hills and early settlements
+- A log cabin or simple wooden home with smoke rising from chimney
+- Pioneer family life elements: garden plots, washing areas, children playing
+- Split-rail fencing and farm animals (chickens, cow, etc.)
+- Traditional pioneer women's work: spinning wheel, garden tools, hanging laundry
+- Native Tennessee vegetation and wildflowers
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1800-1850s Tennessee pioneer family life but remain legible and not too busy when used behind text.
 
 CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
 - Maintain the same vintage illustration style with sepia/aged tones

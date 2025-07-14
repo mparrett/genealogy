@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biography of Lewis R. Mowery</title>
+    <style>
+        /* CSS Custom Properties */
+        :root {
+            --primary: #7a3a0f;      /* Rich brown - evokes old documents */
+            --secondary: #2c5530;    /* Deep forest green */
+            --accent: #d4a574;       /* Warm gold */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #fefefe;
+            --paper: #fcfcfc;        /* Slight warmth */
+            --border-light: #e8e5e0;
+            --footnote-red: #c53030; /* Warmer red */
+        }
+        
+        /* Modern CSS Reset */
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+        
+        * {
+            margin: 0;
+        }
+        
+        body {
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        img, picture, video, canvas, svg {
+            display: block;
+            max-width: 100%;
+        }
+        
+        input, button, textarea, select {
+            font: inherit;
+        }
+        
+        /* Typography */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
+            border-radius: 8px;
+            min-height: 100vh;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 1rem;
+            color: var(--primary);
+        }
+        
+        h1 { font-size: 2.25rem; margin-bottom: 1.5rem; }
+        h2 { font-size: 1.875rem; margin-top: 2rem; }
+        h3 { font-size: 1.5rem; margin-top: 1.5rem; }
+        
+        /* Add breathing room at the top */
+        h1:first-child, h2:first-child, h3:first-child {
+            margin-top: 1rem;
+        }
+        
+        p {
+            margin-bottom: 1.25rem;
+        }
+        
+        strong {
+            font-weight: 600;
+            color: var(--primary);
+        }
+        
+        em {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+        
+        /* Lists */
+        ul, ol {
+            margin-bottom: 1.25rem;
+            padding-left: 1.5rem;
+        }
+        
+        li {
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+        
+        /* Links */
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+            background-image: linear-gradient(120deg, transparent 0%, var(--accent) 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0px;
+            background-position: 0 88%;
+            transition: background-size 0.25s ease-in;
+        }
+        
+        a:hover {
+            background-size: 100% 3px;
+        }
+        
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--border-light), transparent);
+            margin: 2rem 0;
+        }
+        
+        /* Genealogy-specific classes */
+        .date, .location {
+            font-variant: small-caps;
+            letter-spacing: 0.5px;
+            color: var(--text-secondary);
+        }
+        
+        /* Footnotes */
+        .footnote-ref {
+            font-size: 0.85em;
+            font-weight: 500;
+        }
+        
+        .footnote-ref a {
+            color: var(--footnote-red);
+            text-decoration: none;
+            background: none;
+        }
+        
+        .footnote-ref a:hover {
+            color: #9c1f1f;
+        }
+        
+        .footnotes {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-light);
+            background-color: var(--paper);
+            border-radius: 6px;
+            padding: 2rem;
+            margin-left: -2rem;
+            margin-right: -2rem;
+        }
+        
+        .footnotes h3 {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        
+        .footnotes ol {
+            padding-left: 1.25rem;
+        }
+        
+        .footnotes li {
+            font-size: 0.9rem;
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+            color: var(--text-secondary);
+        }
+        
+        .footnotes .footnote {
+            color: var(--text-muted);
+            text-decoration: none;
+            margin-left: 0.5rem;
+        }
+        
+        .footnotes .footnote:hover {
+            color: var(--text-secondary);
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            body { 
+                padding: 1rem; 
+                box-shadow: none;
+                border-radius: 0;
+            }
+            h1 { font-size: 1.875rem; }
+            h2 { font-size: 1.5rem; }
+            h3 { font-size: 1.25rem; }
+            
+            .footnotes {
+                margin-left: -1rem;
+                margin-right: -1rem;
+            }
+        }
+        
+        /* Print styles */
+        @media print {
+            body {
+                font-size: 12pt;
+                line-height: 1.5;
+                color: #000;
+                background: #fff;
+                margin: 0;
+                padding: 1in;
+                box-shadow: none;
+                border-radius: 0;
+            }
+            
+            a {
+                color: #000;
+                text-decoration: underline;
+                background: none;
+            }
+            
+            .footnotes {
+                background: #fff;
+                border: 1px solid #ccc;
+            }
+        }
+    </style>
+</head>
+<body>
+<h2>Biography of Lewis R. Mowery</h2>
+<p><em>German Immigrant, Tennessee Pioneer, Family Patriarch</em></p>
+<p><strong>Lewis R. Mowery</strong> was a German immigrant who established his family in early Tennessee, becoming one of the founding fathers of the Mowery lineage in America. His journey from Germany to the Tennessee frontier represents the broader story of German-American immigration in the early 1800s.</p>
+<h3>Early Life and Immigration</h3>
+<p>Lewis R. Mowery was born in Germany, likely in the late 1700s or early 1800s<sup class="footnote-ref" id="fnref-1"><a href="#fn-1">1</a></sup>. Like many German immigrants of his era, he was drawn to America by opportunities for land ownership and religious freedom. The exact circumstances of his immigration and arrival in Tennessee remain subjects for further research.</p>
+<h3>Settlement in Tennessee</h3>
+<p>By the 1820s, Lewis had established himself in <strong>Knox County, Tennessee</strong>, where he married <strong>Elizabeth &quot;Betsy&quot; Lusby</strong><sup class="footnote-ref" id="fnref-2"><a href="#fn-2">2</a></sup>. Knox County, formed in 1792, was an active frontier settlement area that attracted many German immigrants seeking agricultural opportunities in the fertile Tennessee valleys.</p>
+<h3>Family and Children</h3>
+<p>Lewis and Elizabeth raised a large family, with at least ten children documented in various records<sup class="footnote-ref" id="fnref-3"><a href="#fn-3">3</a></sup>. Their known children include:</p>
+<ul>
+<li><strong>Moses Mansfield Mowery</strong> (1822-1904) - Tennessee farmer, Texas pioneer</li>
+<li><strong>Pleasant A. Mowrey</strong> - Later documented in Texas historical records</li>
+<li><em>[Additional children to be researched and documented]</em></li>
+</ul>
+<p>The family later moved to <strong>Bradley County, Tennessee</strong> around 1837, suggesting Lewis was part of the westward migration patterns common among Tennessee settlers<sup class="footnote-ref" id="fnref-4"><a href="#fn-4">4</a></sup>.</p>
+<h3>Legacy and Migration</h3>
+<p>Lewis R. Mowery's influence extended beyond his immediate family. His children, particularly Moses and Pleasant, became part of the great westward migration to Texas, carrying the family name and German-American heritage to new frontiers. The family's use of both &quot;Mowery&quot; and &quot;Mowrey&quot; spellings reflects common variations in immigrant family name documentation.</p>
+<hr />
+<h3>Research Notes</h3>
+<p><em>This biography is under active development. Additional research is needed on:</em></p>
+<ul>
+<li><em>Specific immigration details and German origins</em></li>
+<li><em>Complete list of children and their life stories</em></li>
+<li><em>Land records and property ownership in Tennessee</em></li>
+<li><em>Military service records (War of 1812, etc.)</em></li>
+<li><em>Church affiliations and community involvement</em></li>
+</ul>
+<h3>Sources and Further Research</h3>
+<section class="footnotes">
+<ol>
+<li id="fn-1"><p>Birth date and location inferred from children's ages and immigration patterns; specific documentation needed.<a href="#fnref-1" class="footnote">&#8617;</a></p></li>
+<li id="fn-2"><p>Marriage documented through Moses Mansfield Mowery's 1900 census record and family documentation.<a href="#fnref-2" class="footnote">&#8617;</a></p></li>
+<li id="fn-3"><p>Multiple children referenced in <em>Biographical Souvenir of the State of Texas</em>, 1889, and descendant records.<a href="#fnref-3" class="footnote">&#8617;</a></p></li>
+<li id="fn-4"><p>Family migration from Knox Co. to Bradley Co. documented in 1840 U.S. Census records.<a href="#fnref-4" class="footnote">&#8617;</a></p></li>
+</ol>
+</section>
+
+</body>
+</html>

@@ -1,26 +1,47 @@
-# TODO - Moses Mansfield Mowery Biography Updates
+# TODO - Project Development
 
-## Major Update Needed
-- [ ] **Update birth date**: Change "February 1822" to "1 November 1822" based on Find a Grave record
-  - Location: Line 3 of biography
-  - Source: Find a Grave record shows specific date
+## New Biography Research
+- [ ] **Research Lewis R. Mowery** (Moses's father) - German immigrant, early Tennessee settler
+  - Sources: Available census records, land records, immigration documentation
+  - Focus: Migration from Germany to Tennessee, family establishment
+  
+- [ ] **Research Elizabeth "Betsy" Lusby Mowery** (Moses's mother)
+  - Sources: Marriage records, family Bible records, descendant interviews
+  - Focus: Lusby family lineage, maternal ancestry connections
 
-## Minor Clarifications
-- [ ] **Death date sourcing**: Add note that 29 August 1904 date comes from Find a Grave record
-  - Location: Line 24
-  - Current: "He passed away on **29 August 1904**, likely in Lamar County"
-  - Suggested: "He passed away on **29 August 1904** (per Find a Grave), likely in Lamar County"
+- [ ] **Research Pleasant A. Mowrey** (Moses's brother documented in Texas)
+  - Sources: *Biographical Souvenir of the State of Texas*, census records
+  - Focus: Family connections, parallel migration story
 
-- [ ] **Update footnote [^1]**: Reference Find a Grave record for birth date precision
-  - Current: "1900 U.S. Census, Lamar County, TX; shows Moses born Feb 1822 in Tennessee, both parents born in TN."
-  - Suggested: Add Find a Grave reference for specific November 1st date
+## Site Enhancement Features
+- [ ] **Family Tree Visualization**
+  - Interactive family tree showing relationships between documented individuals
+  - Consider using D3.js or similar for web-based family tree
+  - Connect to existing biographies
+  
+- [ ] **Timeline View**
+  - Chronological timeline of family events and migrations
+  - Show parallel timelines for different family branches
+  - Include historical context (Civil War, westward expansion, etc.)
 
-## Potential Enhancements
-- [ ] **Consider adding Samuel S. context**: Brief note about some children's later lives/marriages
-- [ ] **Spelling variations note**: Mention that "Mowery/Mowrey" appear in different records for future researchers
+- [ ] **Search Functionality**
+  - Search across all biographies for names, places, dates
+  - Filter by time period, location, or family branch
+  - Tag system for categorizing content
 
-## Research Updates to Incorporate
-- [ ] Find a Grave record details:
-  - Birth: 1 Nov 1822, Knox County, Tennessee
-  - Death: 29 Aug 1904, Milton, Lamar County, Texas
-  - Confirms Knox County birth location vs Bradley County census misinterpretation
+## Documentation & Organization
+- [ ] **Create research methodology documentation**
+  - Document source evaluation process
+  - Standard citation format for genealogy sources
+  - Research workflow for new biographies
+
+- [ ] **Enhance image gallery**
+  - Add more historical context images
+  - Create image prompts for additional family members
+  - Organize images by time period and location
+
+## Data Management
+- [ ] **Consider structured data format**
+  - GEDCOM compatibility for family tree software
+  - JSON schema for family data
+  - Database consideration for larger family trees
