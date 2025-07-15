@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biography of Pleasant A. Mowrey</title>
+    <style>
+        /* CSS Custom Properties */
+        :root {
+            --primary: #7a3a0f;      /* Rich brown - evokes old documents */
+            --secondary: #2c5530;    /* Deep forest green */
+            --accent: #d4a574;       /* Warm gold */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #fefefe;
+            --paper: #fcfcfc;        /* Slight warmth */
+            --border-light: #e8e5e0;
+            --footnote-red: #c53030; /* Warmer red */
+        }
+        
+        /* Modern CSS Reset */
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+        
+        * {
+            margin: 0;
+        }
+        
+        body {
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        img, picture, video, canvas, svg {
+            display: block;
+            max-width: 100%;
+        }
+        
+        input, button, textarea, select {
+            font: inherit;
+        }
+        
+        /* Typography */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
+            border-radius: 8px;
+            min-height: 100vh;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 1rem;
+            color: var(--primary);
+        }
+        
+        h1 { font-size: 2.25rem; margin-bottom: 1.5rem; }
+        h2 { font-size: 1.875rem; margin-top: 2rem; }
+        h3 { font-size: 1.5rem; margin-top: 1.5rem; }
+        
+        /* Add breathing room at the top */
+        h1:first-child, h2:first-child, h3:first-child {
+            margin-top: 1rem;
+        }
+        
+        p {
+            margin-bottom: 1.25rem;
+        }
+        
+        strong {
+            font-weight: 600;
+            color: var(--primary);
+        }
+        
+        em {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+        
+        /* Lists */
+        ul, ol {
+            margin-bottom: 1.25rem;
+            padding-left: 1.5rem;
+        }
+        
+        li {
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+        
+        /* Links */
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+            background-image: linear-gradient(120deg, transparent 0%, var(--accent) 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0px;
+            background-position: 0 88%;
+            transition: background-size 0.25s ease-in;
+        }
+        
+        a:hover {
+            background-size: 100% 3px;
+        }
+        
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--border-light), transparent);
+            margin: 2rem 0;
+        }
+        
+        /* Genealogy-specific classes */
+        .date, .location {
+            font-variant: small-caps;
+            letter-spacing: 0.5px;
+            color: var(--text-secondary);
+        }
+        
+        /* Footnotes */
+        .footnote-ref {
+            font-size: 0.85em;
+            font-weight: 500;
+        }
+        
+        .footnote-ref a {
+            color: var(--footnote-red);
+            text-decoration: none;
+            background: none;
+        }
+        
+        .footnote-ref a:hover {
+            color: #9c1f1f;
+        }
+        
+        .footnotes {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-light);
+            background-color: var(--paper);
+            border-radius: 6px;
+            padding: 2rem;
+            margin-left: -2rem;
+            margin-right: -2rem;
+        }
+        
+        .footnotes h3 {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        
+        .footnotes ol {
+            padding-left: 1.25rem;
+        }
+        
+        .footnotes li {
+            font-size: 0.9rem;
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+            color: var(--text-secondary);
+        }
+        
+        .footnotes .footnote {
+            color: var(--text-muted);
+            text-decoration: none;
+            margin-left: 0.5rem;
+        }
+        
+        .footnotes .footnote:hover {
+            color: var(--text-secondary);
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            body { 
+                padding: 1rem; 
+                box-shadow: none;
+                border-radius: 0;
+            }
+            h1 { font-size: 1.875rem; }
+            h2 { font-size: 1.5rem; }
+            h3 { font-size: 1.25rem; }
+            
+            .footnotes {
+                margin-left: -1rem;
+                margin-right: -1rem;
+            }
+        }
+        
+        /* Print styles */
+        @media print {
+            body {
+                font-size: 12pt;
+                line-height: 1.5;
+                color: #000;
+                background: #fff;
+                margin: 0;
+                padding: 1in;
+                box-shadow: none;
+                border-radius: 0;
+            }
+            
+            a {
+                color: #000;
+                text-decoration: underline;
+                background: none;
+            }
+            
+            .footnotes {
+                background: #fff;
+                border: 1px solid #ccc;
+            }
+        }
+    </style>
+</head>
+<body>
+<h2>Biography of Pleasant A. Mowrey</h2>
+<p><em>Tennessee Native, Texas Pioneer, Documented Family Member</em></p>
+<p><strong>Pleasant A. Mowrey</strong> was born in Tennessee, likely in the 1820s or 1830s, and became one of the documented members of the Mowery family who made the westward journey to Texas<sup class="footnote-ref" id="fnref-1"><a href="#fn-1">1</a></sup>. His story parallels that of his brother <strong>Moses Mansfield Mowery</strong>, representing the broader pattern of Tennessee families seeking new opportunities in the expanding Texas frontier.</p>
+<h3>Family Background and Early Life</h3>
+<p>Pleasant was born to <strong>Lewis R. Mowery</strong>, a German immigrant, and <strong>Elizabeth &quot;Betsy&quot; Lusby Mowery</strong>, a Tennessee native<sup class="footnote-ref" id="fnref-2"><a href="#fn-2">2</a></sup>. He was one of at least ten children in the family, growing up in the Tennessee counties of Knox and Bradley during the 1830s and 1840s. Like his siblings, Pleasant would have experienced the challenges and opportunities of frontier life in early Tennessee.</p>
+<p>The family's move from Knox County to Bradley County around 1837 likely influenced Pleasant's later decision to continue westward to Texas, following the migration patterns common among Tennessee families of the era<sup class="footnote-ref" id="fnref-3"><a href="#fn-3">3</a></sup>.</p>
+<h3>Migration to Texas</h3>
+<p>Pleasant A. Mowrey made his way to Texas, joining the tide of settlers who were drawn by land opportunities and the promise of new beginnings. His presence in Texas is documented in the <em>Biographical Souvenir of the State of Texas</em> (1889), which confirms him as a son of Lewis and Elizabeth (Lisby) Mowrey<sup class="footnote-ref" id="fnref-4"><a href="#fn-4">4</a></sup>.</p>
+<h3>Texas Life and Legacy</h3>
+<p>While specific details of Pleasant's Texas life remain to be researched, his documentation in Texas historical records suggests he established himself as a permanent resident and contributed to the development of his adopted state. His story represents the experiences of countless Tennessee families who helped build the foundations of Texas communities.</p>
+<p>The spelling of his surname as &quot;Mowrey&quot; (rather than &quot;Mowery&quot; used by his brother Moses) reflects the common variations in family name documentation during this period, particularly as families moved between states and regions<sup class="footnote-ref" id="fnref-5"><a href="#fn-5">5</a></sup>.</p>
+<h3>Connection to Brother Moses</h3>
+<p>Pleasant's relationship with his brother <strong>Moses Mansfield Mowery</strong> provides important confirmation of the family's Tennessee origins and Texas connections. Both brothers carried forward the family traditions established by their parents, Lewis and Elizabeth, while adapting to life on the Texas frontier.</p>
+<hr />
+<h3>Research Notes</h3>
+<p><em>This biography is under active development. Additional research is needed on:</em></p>
+<ul>
+<li><em>Specific birth date and location within Tennessee</em></li>
+<li><em>Marriage and family details</em></li>
+<li><em>Exact Texas location and settlement details</em></li>
+<li><em>Occupation and community involvement in Texas</em></li>
+<li><em>Death date and burial location</em></li>
+<li><em>Connections to other Tennessee families in Texas</em></li>
+<li><em>Property ownership and business activities</em></li>
+</ul>
+<h3>Sources and Further Research</h3>
+<section class="footnotes">
+<ol>
+<li id="fn-1"><p>Texas residence documented in <em>Biographical Souvenir of the State of Texas</em>, 1889, p. 622.<a href="#fnref-1" class="footnote">&#8617;</a></p></li>
+<li id="fn-2"><p>Family parentage confirmed through Moses Mansfield Mowery documentation and <em>Biographical Souvenir</em> reference.<a href="#fnref-2" class="footnote">&#8617;</a></p></li>
+<li id="fn-3"><p>Tennessee family migration patterns inferred from Moses Mansfield Mowery's documented journey and family records.<a href="#fnref-3" class="footnote">&#8617;</a></p></li>
+<li id="fn-4"><p><em>Biographical Souvenir of the State of Texas</em>, 1889, p. 622; confirms Pleasant A. Mowrey as son of Lewis and Elizabeth (Lisby) Mowrey.<a href="#fnref-4" class="footnote">&#8617;</a></p></li>
+<li id="fn-5"><p>Surname spelling variations common in 19th-century records, particularly during interstate migration periods.<a href="#fnref-5" class="footnote">&#8617;</a></p></li>
+</ol>
+</section>
+
+</body>
+</html>
