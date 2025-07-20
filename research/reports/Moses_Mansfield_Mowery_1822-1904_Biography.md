@@ -33,7 +33,7 @@ The family's journey from East Tennessee to the Red River valley reflects a comm
 
 ### Additional Research
 
-For detailed lineage documentation and ancestry confirmation, see: [Moses Mansfield Mowery (1822–1904) – Lineage and Ancestry Confirmation (PDF)](../../pdf/Moses_Mansfield_Mowery_1822-1904_Lineage_Confirmation.pdf)
+For detailed lineage documentation and ancestry confirmation, see: [Moses Mansfield Mowery (1822–1904) – Lineage and Ancestry Confirmation (PDF)](../../../pdf/Moses_Mansfield_Mowery_1822-1904_Lineage_Confirmation.pdf)
 
 ### Footnotes
 
