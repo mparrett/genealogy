@@ -15,7 +15,8 @@
       "Bash(just serve)",
       "Bash(diff:*)",
       "Bash(python:*)",
-      "Bash(sips:*)"
+      "Bash(sips:*)",
+      "Bash(pip install:*)"
     ],
     "deny": []
   }
