@@ -1,4 +1,5 @@
 ## Biography of Moses Mansfield Mowery
+**Relationship:** 3rd great-grandfather (Mowery line)
 
 **Moses Mansfield Mowery** was born on **1 November 1822** in **Knox County, Tennessee**, likely the third of at least ten children born to **Lewis R. Mowery** and **Elizabeth “Betsy” Lusby**[^1]. His middle name, *Mansfield*, was later passed down to one of his sons, suggesting family or ancestral significance.
 

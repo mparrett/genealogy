@@ -1,5 +1,7 @@
 
-### **Huldah Imogene (Bridgefarmer) Kuthe (1873–1907)**  
+### **Huldah Imogene (Bridgefarmer) Kuthe (1873–1907)**
+**Relationship:** 2nd great-grandmother (Kuthe line)
+
 *Oregon Native, Pioneer Descendant, Early 20th Century Farm Wife*
 
 Huldah Imogene Bridgefarmer was born on August 9, 1873, in Albany, Linn County, Oregon—just a generation after her grandparents crossed the Oregon Trail. Known as “Imogene” to family and friends, she was the firstborn child of **Alanson Lawson Bridgefarmer** and **Susan Augusta Bond**, both members of prominent Oregon pioneer families.

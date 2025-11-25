@@ -1,4 +1,6 @@
 ## Biography of Pleasant A. Mowrey
+**Relationship:** 3rd great-granduncle (Mowery line) — brother of Moses Mansfield Mowery
+
 *Tennessee Native, Texas Pioneer, Documented Family Member*
 
 **Pleasant A. Mowrey** was born in Tennessee, likely in the 1820s or 1830s, and became one of the documented members of the Mowery family who made the westward journey to Texas[^1]. His story parallels that of his brother **Moses Mansfield Mowery**, representing the broader pattern of Tennessee families seeking new opportunities in the expanding Texas frontier.

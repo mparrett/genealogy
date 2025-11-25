@@ -1,5 +1,7 @@
 
-### **George Washington Kuthe (1869–1925)**  
+### **George Washington Kuthe (1869–1925)**
+**Relationship:** 2nd great-grandfather (Kuthe line)
+
 *Farmer, Pioneer Descendant, German-American Migrant*
 
 George Washington Kuthe was born on October 14, 1869, in Salem, Dent County, Missouri, to German immigrant Frederick Kuthe and likely Sarah Ann Steagall. Raised in a rural setting amid a growing German-American community, George was part of a generation straddling Old World roots and the promise of the American frontier.

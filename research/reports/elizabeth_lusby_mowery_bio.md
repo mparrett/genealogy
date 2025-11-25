@@ -1,4 +1,6 @@
 ## Biography of Elizabeth "Betsy" Lusby Mowery
+**Relationship:** 4th great-grandmother (Mowery line)
+
 *Tennessee Native, Pioneer Wife, Maternal Matriarch*
 
 **Elizabeth "Betsy" Lusby** was born in Tennessee, likely in the late 1790s or early 1800s, and became the matriarch of the Mowery family in America through her marriage to German immigrant **Lewis R. Mowery**[^1]. Her life represents the experiences of countless pioneer women who helped build families and communities on the American frontier.

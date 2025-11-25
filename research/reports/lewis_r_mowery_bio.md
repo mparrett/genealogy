@@ -1,4 +1,6 @@
 ## Biography of Lewis R. Mowery
+**Relationship:** 4th great-grandfather (Mowery line)
+
 *German Immigrant, Tennessee Pioneer, Family Patriarch*
 
 **Lewis R. Mowery** was a German immigrant who established his family in early Tennessee, becoming one of the founding fathers of the Mowery lineage in America. His journey from Germany to the Tennessee frontier represents the broader story of German-American immigration in the early 1800s.
