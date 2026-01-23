@@ -50,8 +50,13 @@ These sources can be checked against Ancestry records to confirm corrections:
 - **J. Six genealogy forum post (2002)** — Outlines descendants of Peter Maurer/Mowry. Identifies Elizabeth as "daughter of Moses Lisbee and Lucy."
 
 ### Online Genealogy Profiles
-- [WikiTree: Mowery family](https://www.wikitree.com/genealogy/MOWERY) — Moses death 29 Aug 1904
-- [WikiTree: Margaret Witt](https://www.wikitree.com/wiki/Witt-857) — "abt. 1829–abt. 1900"
+- [WikiTree: Lewis R. Mowrey (Mowrey-83)](https://www.wikitree.com/wiki/Mowrey-83) — b. c. 1801 Knox Co TN, d. c. 1850 Hempstead Co AR
+- [WikiTree: Elizabeth (Lisby-12)](https://www.wikitree.com/wiki/Lisby-12) — Elizabeth Lisbee profile
+- [WikiTree: Moses M. Mowery (Mowery-136)](https://www.wikitree.com/wiki/Mowery-136) — d. 29 Aug 1904 Lamar Co TX
+- [WikiTree: Margaret Witt (Witt-857)](https://www.wikitree.com/wiki/Witt-857) — "abt. 1829–abt. 1900"
 - [Geni: Margaret Witt](https://www.geni.com/people/Margaret-Witt/6000000222791465592) — 1828–1904 (disputed)
 - [Geni: Samuel Mowry](https://www.geni.com/people/Samuel-Mowry/6000000222791465483) — died 29 Aug 1904
 - [FamilySearch: Effie Mae Coker](https://ancestors.familysearch.org/en/K2SB-89S/effie-mae-coker-1878-1958) — Samuel's marriage date confirmed
+
+### Digital Books
+- [Biographical Souvenir of the State of Texas (1889)](https://texashistory.unt.edu/ark:/67531/metapth1151235/) — Portal to Texas History, p. 622 for Mowrey family
