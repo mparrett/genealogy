@@ -78,9 +78,9 @@ Also shown: James Fred Garliepp (1952–Living), Melanie D. Birch Garliepp (1953
 | # | Person | Dates | Line |
 |---|--------|-------|------|
 | 1 | Moses Mansfield Mowery | 1822–1904 | Mowrey |
-| 2 | Margaret Elizabeth Witt | c. 1828–1904? | Witt |
+| 2 | Margaret Elizabeth Witt | c. 1828–c. 1900/03 | Witt |
 
-*Moses and Margaret married c. 1845. Both died in 1904 in Lamar County, TX. Moses's death confirmed as 29 Aug 1904; Margaret's death year disputed (1900 vs 1904 across sources).*
+*Moses and Margaret married c. 1845 in Tennessee. Margaret was alive in the 1900 census but died before Moses (c. 1900–1903). Moses died 29 Aug 1904 — the same day as his son Samuel. Moses served as postmaster of Milton, TX in the 1870s.*
 
 ---
 
@@ -88,10 +88,23 @@ Also shown: James Fred Garliepp (1952–Living), Melanie D. Birch Garliepp (1953
 
 | # | Person | Dates | Line |
 |---|--------|-------|------|
-| 1 | Lewis R. Mowery | c. 1801–1859 | Mowery |
+| 1 | Lewis R. Mowery | c. 1801–c. 1850 | Mowery |
 | 2 | Elizabeth "Betsy" Lisbee | c. 1806–1859 | Lisbee |
 
-*Married 3 March 1819 in Knox County, Tennessee (per Knox County marriage record transcription). Both reportedly died 1859 — cause unconfirmed (Texas yellow fever epidemics occurred that year).*
+*Married 3 March 1819 in Knox County, Tennessee. Lewis died c. 1850 (per Biographical Souvenir), likely in Tennessee. Elizabeth survived him, moved to Texas, and died 1859 in Lamar County.*
+
+---
+
+## Generation 8: 5th Great-Grandparents (Mowrey line only)
+
+| # | Person | Dates | Line |
+|---|--------|-------|------|
+| 1 | Peter W. Mowrey (Johann Peter Maurer) | 1760–1840 | Mowrey/Maurer |
+| 2 | Sophia Clapp | 1768–1829 | Clapp |
+| 3 | Moses Lisbee | ? | Lisbee |
+| 4 | Lucy [?] | ? | ? |
+
+*Peter was of Pennsylvania German stock (Rhineland origins). Migrated VA → TN. His will proved 1840 in Knox County names sons Samuel, Lewis, and Moses. Moses Lisbee is known only from Elizabeth's marriage record.*
 
 ---
 
@@ -106,10 +119,10 @@ George W. Kuthe + Huldah I. Bridgefarmer → Doris P. Kuthe → Howard R. Higgin
 **Maternal (Mowrey line):**
 Samuel S. Mowrey + Effie May Coker → Raymond R. Mowrey → Patricia A. Mowrey → Michele A. Birch → **Matthew**
 
-**Mowrey line (full, through 4th great-grandparents):**
-Lewis R. Mowery (c. 1801–1859) + Elizabeth Lisbee (c. 1806–1859) → Moses Mansfield Mowery (1822–1904) → Samuel S. Mowrey (1867–1904) → Raymond R. Mowrey (1899–1973) → Patricia A. Mowrey (1929–2009) → Michele A. Birch (1951–Living) → **Matthew**
+**Mowrey line (full, through 5th great-grandparents):**
+Peter W. Mowrey (1760–1840) + Sophia Clapp (1768–1829) → Lewis R. Mowery (c. 1801–c. 1850) + Elizabeth Lisbee (c. 1806–1859) → Moses Mansfield Mowery (1822–1904) → Samuel S. Mowrey (1867–1904) → Raymond R. Mowrey (1899–1973) → Patricia A. Mowrey (1929–2009) → Michele A. Birch (1951–Living) → **Matthew**
 
-*Samuel died the same year — and possibly the same day (29 Aug 1904) — as his father Moses. Cause unknown.*
+*Moses and Samuel both died 29 August 1904 in Lamar County, TX. Cause unknown — no epidemic or disaster recorded. No obituary found.*
 
 ---
 

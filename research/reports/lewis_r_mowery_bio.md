@@ -1,46 +1,49 @@
 ## Biography of Lewis R. Mowery
 **Relationship:** 4th great-grandfather (Mowery line)
 
-*German Immigrant, Tennessee Pioneer, Family Patriarch*
+*Tennessee Pioneer, Farmer, Family Patriarch*
 
-**Lewis R. Mowery** was a German immigrant who established his family in early Tennessee, becoming one of the founding fathers of the Mowery lineage in America. His journey from Germany to the Tennessee frontier represents the broader story of German-American immigration in the early 1800s.
+**Lewis R. Mowery** was born about 1801 in Knox County, Tennessee, the son of **Peter W. Mowrey** (Johann Peter Maurer, 1760–1840) and **Sophia Clapp** (1768–1829)[^1]. Though long described in family lore as a "German immigrant," Lewis was in fact American-born — it was his father Peter who brought the German heritage from Pennsylvania to the Tennessee frontier. The surname Mowery/Mowrey is an Anglicized form of the German "Maurer."
 
-### Early Life and Immigration
+### Family Origins
 
-Lewis R. Mowery was born in Germany, likely in the late 1700s or early 1800s[^1]. Like many German immigrants of his era, he was drawn to America by opportunities for land ownership and religious freedom. The exact circumstances of his immigration and arrival in Tennessee remain subjects for further research.
+Lewis's father, Peter W. Mowrey, was of Pennsylvania German stock, descended from Rhineland immigrants who settled in Philadelphia County in the mid-1700s[^2]. Peter and Sophia migrated south through Virginia to Knox County, Tennessee, where Peter died in 1840. His will, proved that year in Knox County, names sons Samuel, Lewis, and Moses among his heirs[^3].
 
-### Settlement in Tennessee
+### Marriage and Settlement
 
-By 1819, Lewis had established himself in **Knox County, Tennessee**, where he married **Elizabeth "Betsy" Lisbee** on **3 March 1819**[^2]. Knox County, formed in 1792, was an active frontier settlement area that attracted many settlers seeking agricultural opportunities in the fertile Tennessee valleys.
+On **3 March 1819**, Lewis married **Elizabeth "Betsy" Lisbee** in Knox County, Tennessee[^4]. Elizabeth was the daughter of **Moses Lisbee** and **Lucy [?]** of Knox County[^5]. Together they raised a large family of at least ten children, including:
 
-### Family and Children
-
-Lewis and Elizabeth raised a large family, with at least ten children documented in various records[^3]. Their known children include:
-
-- **Moses Mansfield Mowery** (1822-1904) - Tennessee farmer, Texas pioneer
-- **Pleasant A. Mowrey** - Later documented in Texas historical records
+- **Moses Mansfield Mowery** (1822–1904) — Tennessee farmer, Texas pioneer
+- **Pleasant A. Mowrey** — Later documented in Texas historical records
+- **Ephraim Lusby Mowery** — Carried his mother's family name as middle name
+- **Lewis Daily Mowery** — Named after his father
 - *[Additional children to be researched and documented]*
 
-The family later moved to **Bradley County, Tennessee** around 1837, suggesting Lewis was part of the westward migration patterns common among Tennessee settlers[^4].
+### Move to Bradley County
 
-### Legacy and Migration
+Around 1837, the family moved from Knox County to **Bradley County, Tennessee**. The 1840 U.S. Census confirms Lewis Mowery as a head of household in Bradley County[^6]. This move to southeast Tennessee followed a common pattern among Knox County families seeking better farmland.
 
-Lewis R. Mowery's influence extended beyond his immediate family. His children, particularly Moses and Pleasant, became part of the great westward migration to Texas, carrying the family name and German-American heritage to new frontiers. The family's use of both "Mowery" and "Mowrey" spellings reflects common variations in immigrant family name documentation.
+### Death
+
+Lewis died around **1850**, likely in Tennessee[^7]. He does not appear in the 1850 census, and the *Biographical Souvenir of the State of Texas* (1889) states that he "died in 1850." Some genealogical sources suggest he may have died en route to Texas or in Arkansas, but no death or probate record has been found outside Tennessee. His wife Elizabeth survived him by nine years, eventually joining their children in Texas before her death in 1859.
 
 ---
 
 ### Research Notes
 
-*This biography is under active development. Additional research is needed on:*
-- *Specific immigration details and German origins*
-- *Complete list of children and their life stories*
-- *Land records and property ownership in Tennessee*
-- *Military service records (War of 1812, etc.)*
-- *Church affiliations and community involvement*
+*Additional research needed on:*
+- *Exact death date, location, and burial*
+- *Complete list of children and their birth years*
+- *Land records and property ownership in Bradley County*
+- *Military service records (War of 1812 era)*
+- *Peter W. Mowrey's will (Knox County, 1840) — full transcription*
 
 ### Sources and Further Research
 
-[^1]: Birth date and location inferred from children's ages and immigration patterns; specific documentation needed.
-[^2]: Knox County, Tennessee marriage record: "Mowry, Lewis to Betsy Lisbee — Mch 3" (transcribed in *Tennessee Historical Magazine*, via Internet Archive).
-[^3]: Multiple children referenced in *Biographical Souvenir of the State of Texas*, 1889, and descendant records.
-[^4]: Family migration from Knox Co. to Bradley Co. documented in 1840 U.S. Census records.
+[^1]: Birth year of ~1801 from compiled genealogies; the 1889 *Biographical Souvenir* gives "about 1810" but this appears approximate. Knox County origin confirmed by family records and father's will.
+[^2]: Peter W. Mowrey (Johann Peter Maurer) traced to Pennsylvania German settlers from the Rhineland; family migrated VA → TN.
+[^3]: Knox County, TN will of Peter Mowrey, proved 1840, naming sons Samuel, Lewis, and Moses (per genealogical research by J. Six, 2002).
+[^4]: Knox County, Tennessee marriage record: "Mowry, Lewis to Betsy Lisbee — Mch 3" (transcribed in *Tennessee Historical Magazine*, via Internet Archive).
+[^5]: Elizabeth Lisbee identified as "daughter of Moses Lisbee and Lucy" in compiled genealogy (J. Six, 2002).
+[^6]: 1840 U.S. Census, Bradley County, Tennessee — "Mowery, Lewis" listed as head of household, p. 45.
+[^7]: *Biographical Souvenir of the State of Texas* (1889), p. 622: "Louis Mowrey…died in 1850."
