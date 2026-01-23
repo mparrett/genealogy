@@ -26,7 +26,7 @@ Six published biographies across two family lines:
 | Lewis R. Mowery | c. 1780s–1850s | 4th great-grandfather |
 | Elizabeth "Betsy" Lusby Mowery | c. 1790s–1850s | 4th great-grandmother |
 | Moses Mansfield Mowery | 1822–1904 | 3rd great-grandfather |
-| Pleasant A. Mowrey | c. 1820s–1830s | 3rd great-granduncle (collateral) |
+| Pleasant A. Mowrey | b. c. 1820s/1830s | 3rd great-granduncle (collateral) |
 
 ### Kuthe Line (Missouri → Oregon → Arizona)
 
