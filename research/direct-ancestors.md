@@ -84,7 +84,10 @@ George W. Kuthe + Huldah I. Bridgefarmer → Doris P. Kuthe → Howard R. Higgin
 **Maternal (Mowrey line):**
 Samuel S. Mowrey + Effie May Coker → Raymond R. Mowrey → Patricia A. Mowrey → Michele A. Birch → **Matthew**
 
-*Note: Moses Mansfield Mowery (1822–1904), documented as 3rd great-grandfather, is one generation beyond this chart — likely Samuel S. Mowrey's father.*
+**Mowrey line (full, through 3rd great-grandfather):**
+Moses Mansfield Mowery (1822–1904) → Samuel S. Mowrey (1867–1904) → Raymond R. Mowrey (1899–1973) → Patricia A. Mowrey (1929–2009) → Michele A. Birch (1951–Living) → **Matthew**
+
+*Samuel S. Mowrey is the connecting generation between the documented 3rd great-grandfather Moses and grandmother Patricia. Samuel died the same year as his father Moses (1904), at age 37.*
 
 ---
 
