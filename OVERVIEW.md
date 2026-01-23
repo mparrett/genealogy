@@ -23,8 +23,8 @@ Six published biographies across two family lines:
 
 | Person | Dates | Relationship |
 |--------|-------|--------------|
-| Lewis R. Mowery | c. 1780s–1850s | 4th great-grandfather |
-| Elizabeth "Betsy" Lusby Mowery | c. 1790s–1850s | 4th great-grandmother |
+| Lewis R. Mowery | c. 1801–1859 | 4th great-grandfather |
+| Elizabeth "Betsy" Lisbee Mowery | c. 1806–1859 | 4th great-grandmother |
 | Moses Mansfield Mowery | 1822–1904 | 3rd great-grandfather |
 | Pleasant A. Mowrey | b. c. 1820s/1830s | 3rd great-granduncle (collateral) |
 

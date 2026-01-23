@@ -1,7 +1,7 @@
 ## Biography of Moses Mansfield Mowery
 **Relationship:** 3rd great-grandfather (Mowery line)
 
-**Moses Mansfield Mowery** was born on **1 November 1822** in **Knox County, Tennessee**, likely the third of at least ten children born to **Lewis R. Mowery** and **Elizabeth “Betsy” Lusby**[^1]. His middle name, *Mansfield*, was later passed down to one of his sons, suggesting family or ancestral significance.
+**Moses Mansfield Mowery** was born on **1 November 1822** in **Knox County, Tennessee**, likely the third of at least ten children born to **Lewis R. Mowery** and **Elizabeth "Betsy" Lisbee**[^1]. His middle name, *Mansfield*, was later passed down to one of his sons, suggesting family or ancestral significance.
 
 The Mowery family moved to **Bradley County, Tennessee** around 1837[^2], and Moses came of age there. In about **1845**, he married **Margaret Elizabeth Witt**, a Tennessee native[^3]. Together they began a large family and soon joined the westward migration to Texas. By 1853, they had passed briefly through Alabama and arrived in **Red River County, Texas**, settling on newly acquired farmland[^4].
 
@@ -24,7 +24,7 @@ These children and their descendants helped build the Mowery name into the fabri
 
 Moses was described in an 1889 Texas biography as "a substantial citizen of the county"[^9]. By 1900, widowed, he was living with his daughter Sarah and son-in-law John Sain in **Deport, Texas**[^10]. He passed away on **29 August 1904** (per Find a Grave), likely in Lamar County. Though his grave is unmarked, **he is believed to be buried in Milton Cemetery**, where many Mowery relatives rest[^11].
 
-While earlier researchers were uncertain of his parentage, multiple sources now confirm Moses was indeed the son of **Lewis R. Mowery and Elizabeth (Lusby) Mowery**[^12]. His brother, **Pleasant A. Mowrey**, is documented in Texas history as a son of Lewis and Elizabeth[^13], and Moses's children carried both Lusby and Lewis as middle names. 
+While earlier researchers were uncertain of his parentage, multiple sources now confirm Moses was indeed the son of **Lewis R. Mowery and Elizabeth (Lisbee) Mowery**[^12]. His brother, **Pleasant A. Mowrey**, is documented in Texas history as a son of Lewis and Elizabeth[^13], and Moses's children carried the Lisbee family name (rendered as "Lusby" in later records) and "Lewis" as middle names. 
 
 *Note for researchers: The surname appears as both "Mowery" and "Mowrey" in various historical records, representing common spelling variations of the same family name.*
 

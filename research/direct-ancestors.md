@@ -73,6 +73,28 @@ Also shown: James Fred Garliepp (1952–Living), Melanie D. Birch Garliepp (1953
 
 ---
 
+## Generation 6: 3rd Great-Grandparents (Mowrey line only)
+
+| # | Person | Dates | Line |
+|---|--------|-------|------|
+| 1 | Moses Mansfield Mowery | 1822–1904 | Mowrey |
+| 2 | Margaret Elizabeth Witt | c. 1828–1904? | Witt |
+
+*Moses and Margaret married c. 1845. Both died in 1904 in Lamar County, TX. Moses's death confirmed as 29 Aug 1904; Margaret's death year disputed (1900 vs 1904 across sources).*
+
+---
+
+## Generation 7: 4th Great-Grandparents (Mowrey line only)
+
+| # | Person | Dates | Line |
+|---|--------|-------|------|
+| 1 | Lewis R. Mowery | c. 1801–1859 | Mowery |
+| 2 | Elizabeth "Betsy" Lisbee | c. 1806–1859 | Lisbee |
+
+*Married 3 March 1819 in Knox County, Tennessee (per Knox County marriage record transcription). Both reportedly died 1859 — cause unconfirmed (Texas yellow fever epidemics occurred that year).*
+
+---
+
 ## Lineage Paths
 
 **Paternal:**
@@ -84,10 +106,10 @@ George W. Kuthe + Huldah I. Bridgefarmer → Doris P. Kuthe → Howard R. Higgin
 **Maternal (Mowrey line):**
 Samuel S. Mowrey + Effie May Coker → Raymond R. Mowrey → Patricia A. Mowrey → Michele A. Birch → **Matthew**
 
-**Mowrey line (full, through 3rd great-grandfather):**
-Moses Mansfield Mowery (1822–1904) → Samuel S. Mowrey (1867–1904) → Raymond R. Mowrey (1899–1973) → Patricia A. Mowrey (1929–2009) → Michele A. Birch (1951–Living) → **Matthew**
+**Mowrey line (full, through 4th great-grandparents):**
+Lewis R. Mowery (c. 1801–1859) + Elizabeth Lisbee (c. 1806–1859) → Moses Mansfield Mowery (1822–1904) → Samuel S. Mowrey (1867–1904) → Raymond R. Mowrey (1899–1973) → Patricia A. Mowrey (1929–2009) → Michele A. Birch (1951–Living) → **Matthew**
 
-*Samuel S. Mowrey is the connecting generation between the documented 3rd great-grandfather Moses and grandmother Patricia. Samuel died the same year as his father Moses (1904), at age 37.*
+*Samuel died the same year — and possibly the same day (29 Aug 1904) — as his father Moses. Cause unknown.*
 
 ---
 
@@ -96,4 +118,5 @@ Moses Mansfield Mowery (1822–1904) → Samuel S. Mowrey (1867–1904) → Raym
 - Red/green dots on photos indicate deceased/living status
 - The William* Pittman entry has an asterisk in the source (meaning unclear)
 - Howard R. Higgins Birch — surname appears as both "Higgins" (from father James E. Higgins) and "Birch" (the surname carried by his children Michele, Melanie, Michael)
-- Chart covers 5 generations totaling 31 direct ancestors
+- Samuel's middle initial: shown as "S" in Ancestry tree, but FamilySearch records suggest "H" — needs primary-source confirmation
+- Chart covers 7 generations (with Mowrey line extended to 4th great-grandparents)

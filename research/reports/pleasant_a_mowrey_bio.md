@@ -7,7 +7,7 @@
 
 ### Family Background and Early Life
 
-Pleasant was born to **Lewis R. Mowery**, a German immigrant, and **Elizabeth "Betsy" Lusby Mowery**, a Tennessee native[^2]. He was one of at least ten children in the family, growing up in the Tennessee counties of Knox and Bradley during the 1830s and 1840s. Like his siblings, Pleasant would have experienced the challenges and opportunities of frontier life in early Tennessee.
+Pleasant was born to **Lewis R. Mowery** and **Elizabeth "Betsy" Lisbee Mowery**, a Tennessee native[^2]. He was one of at least ten children in the family, growing up in the Tennessee counties of Knox and Bradley during the 1830s and 1840s. Like his siblings, Pleasant would have experienced the challenges and opportunities of frontier life in early Tennessee.
 
 The family's move from Knox County to Bradley County around 1837 likely influenced Pleasant's later decision to continue westward to Texas, following the migration patterns common among Tennessee families of the era[^3].
 

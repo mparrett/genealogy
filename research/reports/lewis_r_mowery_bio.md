@@ -11,7 +11,7 @@ Lewis R. Mowery was born in Germany, likely in the late 1700s or early 1800s[^1]
 
 ### Settlement in Tennessee
 
-By the 1820s, Lewis had established himself in **Knox County, Tennessee**, where he married **Elizabeth "Betsy" Lusby**[^2]. Knox County, formed in 1792, was an active frontier settlement area that attracted many German immigrants seeking agricultural opportunities in the fertile Tennessee valleys.
+By 1819, Lewis had established himself in **Knox County, Tennessee**, where he married **Elizabeth "Betsy" Lisbee** on **3 March 1819**[^2]. Knox County, formed in 1792, was an active frontier settlement area that attracted many settlers seeking agricultural opportunities in the fertile Tennessee valleys.
 
 ### Family and Children
 
@@ -41,6 +41,6 @@ Lewis R. Mowery's influence extended beyond his immediate family. His children, 
 ### Sources and Further Research
 
 [^1]: Birth date and location inferred from children's ages and immigration patterns; specific documentation needed.
-[^2]: Marriage documented through Moses Mansfield Mowery's 1900 census record and family documentation.
+[^2]: Knox County, Tennessee marriage record: "Mowry, Lewis to Betsy Lisbee — Mch 3" (transcribed in *Tennessee Historical Magazine*, via Internet Archive).
 [^3]: Multiple children referenced in *Biographical Souvenir of the State of Texas*, 1889, and descendant records.
 [^4]: Family migration from Knox Co. to Bradley Co. documented in 1840 U.S. Census records.
