@@ -4,14 +4,16 @@
 
 *Farmer, Pioneer Descendant, German-American Migrant*
 
-George Washington Kuthe was born on October 14, 1869, in Salem, Dent County, Missouri, to German immigrant Frederick Kuthe and likely Sarah Ann Steagall. Raised in a rural setting amid a growing German-American community, George was part of a generation straddling Old World roots and the promise of the American frontier.
+George Washington Kuthe was born on October 14, 1869, in Salem, Dent County, Missouri, to German immigrant **Frederick Kuthe** (reportedly from Darmstadt, Hesse, Germany) and likely **Sarah Ann Steagall**. Raised in a rural setting amid a growing German-American community, George was part of a generation straddling Old World roots and the promise of the American frontier.
 
 By the early 1890s, George had migrated west to Oregon, joining a tide of settlers seeking opportunity in the fertile Willamette Valley. In 1892, at age 23, he married **Huldah Imogene Bridgefarmer**, the daughter of Oregon pioneers from both the Bridgefarmer and Bond families. Their union symbolized the merging of German immigrant heritage with families who had crossed the Oregon Trail decades earlier.
 
-George and Huldah settled near Jefferson, straddling Linn and Marion counties, where George worked as a farmer. Together they had at least one daughter, Frances Anita Kuthe, born in 1898. Tragedy struck early—Huldah died in 1907 at just 33 years old, leaving George a widower with a young child.
+George and Huldah settled near Jefferson, straddling Linn and Marion counties, where George worked as a farmer. Together they had two daughters: Frances Anita Kuthe (1898–1926) and **Doris P. Kuthe** (1902–1996). Tragedy struck early—Huldah died of tuberculosis in 1907 at just 33 years old, leaving George a widower with two young girls.
 
-In the years that followed, George relocated to the Southwest, ultimately settling in Phoenix, Arizona. Whether drawn by health concerns, economic opportunity, or personal reinvention, his move marked the final westward arc of his life’s journey. He remarried, and his second wife was named Nell. George died in Phoenix on December 2, 1925, at the age of 56, and was buried in Greenwood Memory Lawn Cemetery.
+In the years that followed, George relocated with both daughters to Phoenix, Arizona—likely seeking the dry desert climate as a refuge from the tuberculosis that had taken Huldah. By the 1920 census, George, Frances, and Doris were all living together in Phoenix. On 8 December 1917, George married **Nell Irene Taylor** (1876–1952) in Franklin, Ohio. He died in Phoenix on December 2, 1925, at the age of 56, and was buried in Greenwood Memory Lawn Cemetery.
 
-His daughter Frances died less than a year later, in 1926, at the age of 27.
+Frances died less than a year later, in 1926, at the age of 27—also of tuberculosis, the same disease that had claimed her mother nearly two decades earlier. She is buried alongside George at Greenwood Memory Lawn.
 
-George W. Kuthe’s life bridged the closing of the American frontier: born to immigrants, married into pioneer stock, and laid to rest in the desert Southwest. His story is a quiet testament to the restless migrations and resilience that shaped America’s western landscapes.
+Doris married **James Everett Higgins** on 6 November 1926 in Phoenix, beginning the family line that would continue in Arizona.
+
+George W. Kuthe's life bridged the closing of the American frontier: born to German immigrants in Missouri, married into Oregon pioneer stock, and laid to rest in the desert Southwest. His move to Arizona—driven by tuberculosis—ultimately planted the family roots that remain there today.
