@@ -4,7 +4,11 @@
 
 *Farmer, Pioneer Descendant, German-American Migrant*
 
-George Washington Kuthe was born on October 14, 1869, in Salem, Dent County, Missouri, to German immigrant **Frederick Kuthe** (reportedly from Darmstadt, Hesse, Germany) and likely **Sarah Ann Steagall**. Raised in a rural setting amid a growing German-American community, George was part of a generation straddling Old World roots and the promise of the American frontier.
+George Washington Kuthe was born on October 14, 1869, in Salem, Dent County, Missouri, to German immigrant **Frederick Kuthe** (c. 1822–1900, from Vöhl in the Waldeck region of Hesse, Germany) and **Sarah Ann Steagall** (c. 1837–1876). Sarah had previously been married to a man named Patterson and was a widow when she married Frederick in 1868.
+
+George was one of six children. His siblings were William, Mary (who married Louis Schmit), Catherine, Susan, and Adam. Tragedy came early—his mother Sarah died in 1876 when George was only seven years old, leaving Frederick to raise the children alone on their Dent County farm.
+
+Raised in a rural setting amid a small but persistent German-American community, George was part of a generation straddling Old World roots and the promise of the American frontier.
 
 By the early 1890s, George had migrated west to Oregon, joining a tide of settlers seeking opportunity in the fertile Willamette Valley. In 1892, at age 23, he married **Huldah Imogene Bridgefarmer**, the daughter of Oregon pioneers from both the Bridgefarmer and Bond families. Their union symbolized the merging of German immigrant heritage with families who had crossed the Oregon Trail decades earlier.
 
@@ -16,4 +20,4 @@ Frances died less than a year later, in 1926, at the age of 27—also of tubercu
 
 Doris married **James Everett Higgins** on 6 November 1926 in Phoenix, beginning the family line that would continue in Arizona.
 
-George W. Kuthe's life bridged the closing of the American frontier: born to German immigrants in Missouri, married into Oregon pioneer stock, and laid to rest in the desert Southwest. His move to Arizona—driven by tuberculosis—ultimately planted the family roots that remain there today.
+George W. Kuthe's life bridged the closing of the American frontier: born to a German immigrant father in Missouri, orphaned of his mother at seven, married into Oregon pioneer stock, and laid to rest in the desert Southwest. His move to Arizona—driven by tuberculosis—ultimately planted the family roots that remain there today.
