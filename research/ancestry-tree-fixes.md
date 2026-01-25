@@ -112,3 +112,52 @@ Sarah Ann Steagall was a **widow** (previously married to a Patterson) when she 
 - **Louis Schleicher biography** — States his wife Mary C. Kuthe "born in Germany in 1824, and came to America in 1845"
 - **Dent County local history (c. 1880s)** — Lists Frederick's six children: William, Mary (Mrs. Schmit), George, Catherine, Susan, Adam
 - **Goodspeed's History of Dent County (1889)** — References German Lutheran church in the area
+
+---
+
+## Gleeson/Fitzgerald Line Corrections (Jan 2025)
+
+Based on ChatGPT web search using FamilySearch, WikiTree, Geni, and census records.
+
+### Corrections
+
+| Person | Field | Currently shows | Should be | Source |
+|--------|-------|----------------|-----------|--------|
+| **James J. Gleeson** | Birth year | 1863 | 1864 (21 Dec 1864) | FamilySearch |
+| **James J. Gleeson** | Birthplace | (blank?) | Ireland | FamilySearch, WikiTree |
+| **James J. Gleeson** | Parents | (none?) | Patrick Gleeson + Margaret Moloney | FamilySearch |
+| **James J. Gleeson** | Death location | Arizona? | Waite Park, Stearns County, Minnesota | WikiTree, MN death records |
+| **James J. Gleeson** | Death date | (blank?) | 28 Jan 1946 | WikiTree |
+| **Maria Ann Fitzgerald** | Birthplace | Ireland? | Ironton, Sauk County, Wisconsin (US-born) | Geni |
+| **Maria Ann Fitzgerald** | Birth date | (blank?) | 3 Jul 1865 | Geni |
+| **Anne B. Gleeson** | Birthplace | (blank?) | Mondovi, Buffalo County, Wisconsin | WikiTree |
+| **Anne B. Gleeson** | Birth date | (blank?) | 17 Aug 1903 | WikiTree |
+| **Anne B. Gleeson** | Death location | (blank?) | Tucson, Pima County, Arizona | WikiTree |
+
+### Additions
+
+- **Patrick Gleeson** — James's father. Ireland. Dates unknown.
+- **Margaret Moloney** — James's mother. Ireland. Dates unknown.
+- **Maria's parents** — Not yet identified. Irish immigrants to Wisconsin. Search 1870/1880 Sauk County census.
+
+### Profile Notes to Add
+
+- **James:** Immigration c. 1883 (arrived New York from Liverpool/Queenstown, age ~19). Settled in Wisconsin, NOT Arizona. Died in Minnesota.
+- **Maria:** US-born, not Irish immigrant. The Irish connection is through her parents.
+- **Anne:** The one who moved to Arizona (c. 1930). Married Raymond Mowrey 1930 in Arizona.
+
+### Key Narrative Change
+
+The family path is **Ireland → Wisconsin → Arizona**, not "Ireland → Arizona":
+- James immigrated from Ireland to Wisconsin (c. 1883)
+- Maria was born in Wisconsin to Irish immigrant parents
+- Family was based in Mondovi, Buffalo County, WI through the 1900s–1920s
+- James died in Minnesota (1946), never lived in Arizona
+- Anne is the one who moved to Arizona as an adult (c. 1930)
+
+### Gleeson References
+
+- **FamilySearch** — James J. Gleeson profile: birth 21 Dec 1864 Ireland, parents Patrick Gleeson + Margaret Moloney, marriage 23 Nov 1892
+- **WikiTree** — James death 28 Jan 1946 Waite Park, Stearns County, MN; Anne born 17 Aug 1903 Mondovi, WI
+- **Geni** — Maria Ann Fitzgerald born 3 Jul 1865 Ironton, Sauk County, WI
+- **Passenger records** — James Gleeson, 19, Ireland, arrived New York 29 Sep 1883 from Liverpool/Queenstown
