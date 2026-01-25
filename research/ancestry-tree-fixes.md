@@ -101,9 +101,9 @@ Sarah Ann Steagall was a **widow** (previously married to a Patterson) when she 
 
 ### Possible Relatives (Not Our Line)
 
-**George Keithe** (1822–1909) of Schuyler County, MO — obituary found on Ancestry. Born April 23, 1822 in "Hessian Darmstadt, Germany," came to America 1844, to Schuyler County 1845. Married Mrs. Eliza C. Miller in 1852. Died Feb 10, 1909 in Lancaster, MO. Six children: Henry, Mary Eichmeier, Elizabeth Simmons, George, Catherine Sholtz, Mary Schondelmeir. Member of German M.E. church, buried in Lutheran cemetery.
+**George E. Kethe Sr.** (28 Apr 1822 – 10 Feb 1909) of Schuyler County, MO — [Find a Grave #45551447](https://www.findagrave.com/memorial/45551447/george_e-kethe). Born in Germany, buried Germania Cemetery, Schuyler County. Spouse: Elizabeth C. "Eliza" Weitzel Kethe (1825–1901). Children: Margaret, George Jr., Henry, Mary Elizabeth.
 
-**Assessment:** NOT our Frederick Kuthe (different wife, children, county, death year) but likely a relative from the same 1845 immigrant cohort. The *Olbers* manifest shows multiple Küthe family members traveling together. Birth year and German origin match closely. Worth tracking for broader family context.
+**Assessment:** Confirmed DIFFERENT family from our Frederick Kuthe. Different wife (Weitzel vs Steagall), different county (Schuyler vs Dent), different death year (1909 vs 1900). Similar German origin and 1840s immigration timing suggests possible distant relation, but not our direct line.
 
 ### Kuthe References
 
