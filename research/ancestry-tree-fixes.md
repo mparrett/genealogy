@@ -60,3 +60,49 @@ These sources can be checked against Ancestry records to confirm corrections:
 
 ### Digital Books
 - [Biographical Souvenir of the State of Texas (1889)](https://texashistory.unt.edu/ark:/67531/metapth1151235/) — Portal to Texas History, p. 622 for Mowrey family
+
+---
+
+## Kuthe Line Corrections (Jan 2025)
+
+Based on ChatGPT deep research using ship manifests, census records, and county histories.
+
+### Corrections
+
+| Person | Field | Currently shows | Should be | Source |
+|--------|-------|----------------|-----------|--------|
+| **Frederick Kuthe** | Birthplace | Darmstadt, Hesse | Vöhl, Waldeck region of Hesse | 1845 *Olbers* passenger manifest (ISTG) |
+| **Frederick Kuthe** | Birth year | (varies) | c. 1822–1827 | Ship manifest (age 18 in 1845) |
+| **Frederick Kuthe** | Immigration | (blank?) | June 1845, ship *Olbers* (Bremen → New Orleans) | ISTG manifest; Schleicher biography |
+| **Frederick Kuthe** | Death | (blank?) | Feb 10, 1900, Dent County, MO | Local records; absent from 1900 census |
+| **Sarah Ann Steagall** | Married name at wedding | Sarah Ann Steagall | Sarah Ann Patterson (née Steagall) | Dent Co marriage register: "Sarah A. Patterson" |
+| **Sarah Ann Steagall** | Death year | (blank?) | 1876 | Frederick widower in 1880 census |
+| **George W. Kuthe** | Mother's death | (blank?) | 1876 (age 7 when orphaned) | 1880 census shows Frederick as widower |
+
+### Additions
+
+- **Andreas Kuthe** — Frederick's father (family tradition). Born c. 1798 in Hesse. No primary source.
+- **Mary C. Kuthe** — Frederick's sister. Born 1824 Germany, immigrated 1845. Married Louis Schleicher in Lancaster, Ohio (April 1847).
+- **William Kuthe** — George's brother. Born c. 1868–1870.
+- **Mary Kuthe** — George's sister. Married Louis Schmit. Remained in Missouri.
+- **Catherine Kuthe** — George's sister. Born c. 1873.
+- **Susan Kuthe** — George's sister. Born mid-1870s.
+- **Adam Kuthe** — George's youngest brother. Born c. 1875–1876. Married "Sally" (surname unknown).
+
+### Profile Notes to Add
+
+- **Frederick:** Full name may be "George Frederick Kuthe" (per marriage register). Surname variants in records: Kuethe, Küthe, Kuth, Kuthy, Koothe, "Kite"
+- **Frederick:** Initially settled in Palmyra, Marion County, MO before moving to Dent County (organized 1851)
+- **George:** Add siblings; note mother died when he was 7
+
+### Key Narrative Change
+
+Sarah Ann Steagall was a **widow** (previously married to a Patterson) when she married Frederick in 1868. She died in 1876, leaving Frederick to raise six children alone. The "Sarah Ann Kuthe marrying Patterson in 1867" record was misread—she was Patterson's widow marrying Kuthe, not vice versa.
+
+### Kuthe References
+
+- **Dent County, MO Marriage Book A (1851–1870)** — "KUTHE, GEORGE F." to "Sarah A. Patterson", 19 Jan 1868. (USGenWeb/Genealogy Trails transcription)
+- **ISTG ship manifest, *Olbers*** — Bremen to New Orleans, 13 June 1845. Küthe family from Vöhl including Friederich (18), Maria (20).
+- **Louis Schleicher biography** — States his wife Mary C. Kuthe "born in Germany in 1824, and came to America in 1845"
+- **Dent County local history (c. 1880s)** — Lists Frederick's six children: William, Mary (Mrs. Schmit), George, Catherine, Susan, Adam
+- **Goodspeed's History of Dent County (1889)** — References German Lutheran church in the area
