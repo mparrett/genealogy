@@ -99,6 +99,12 @@ Based on ChatGPT deep research using ship manifests, census records, and county 
 
 Sarah Ann Steagall was a **widow** (previously married to a Patterson) when she married Frederick in 1868. She died in 1876, leaving Frederick to raise six children alone. The "Sarah Ann Kuthe marrying Patterson in 1867" record was misread—she was Patterson's widow marrying Kuthe, not vice versa.
 
+### Possible Relatives (Not Our Line)
+
+**George Keithe** (1822–1909) of Schuyler County, MO — obituary found on Ancestry. Born April 23, 1822 in "Hessian Darmstadt, Germany," came to America 1844, to Schuyler County 1845. Married Mrs. Eliza C. Miller in 1852. Died Feb 10, 1909 in Lancaster, MO. Six children: Henry, Mary Eichmeier, Elizabeth Simmons, George, Catherine Sholtz, Mary Schondelmeir. Member of German M.E. church, buried in Lutheran cemetery.
+
+**Assessment:** NOT our Frederick Kuthe (different wife, children, county, death year) but likely a relative from the same 1845 immigrant cohort. The *Olbers* manifest shows multiple Küthe family members traveling together. Birth year and German origin match closely. Worth tracking for broader family context.
+
 ### Kuthe References
 
 - **Dent County, MO Marriage Book A (1851–1870)** — "KUTHE, GEORGE F." to "Sarah A. Patterson", 19 Jan 1868. (USGenWeb/Genealogy Trails transcription)
