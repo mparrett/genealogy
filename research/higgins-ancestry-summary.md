@@ -168,11 +168,88 @@ Extracted from Ancestry profile exports (Jan 2025).
 
 1. **Laurence's exact death date/place** — we know it was before Feb 17, 1930, but no record found
 2. **Who was James's first wife (c. 1914 Spokane)?**
-3. **How did Howard get the "Birch" surname?** Doris did NOT marry a Birch. Possible NM orphanage connection? Was Howard legally adopted?
-4. **The 1930/1941/1942 Laurence Higgins census entries** — same person or different?
+3. **The 1930/1941/1942 Laurence Higgins census entries** — same person or different?
 
 ## Resolved Questions
 
 - **Why was James in an institution at age 13?** → St Agatha's Home For Children, Nanuet, NY (orphanage). Sister Theresa was also there.
 - **Why did James die in jail?** → He was in the lodger's cell (free overnight shelter for those in need), not incarcerated. Financial troubles.
 - **Did Doris remarry a Birch?** → No. She was friends with Mary Birch but never married her.
+- **How did Howard get the "Birch" surname?** → **SOLVED:** Howard was fostered/adopted by **Robert Birch (1869–1950)** and **Sarah Cope Birch (1878–1959)**. c. 1931 during the Depression, Howard was sent to a Catholic orphanage in Silver City, NM along with his cousin Willis "Bill" Rosser (son of Jessie Kuthe). The Birch family took him in. Doris was friends with Mary Birch and attended her 1930 wedding.
+
+---
+
+## Howard Robert Higgins Birch (1927–2019)
+
+**Maternal grandfather**
+
+- **Birth:** 15 September 1927, Tucson, Pima, Arizona
+- **Death:** 2019, Tucson, Pima, Arizona
+- **Biological parents:** James Everett Higgins (1892–1938) + Doris Pauline Kuthe (1902–1996)
+- **Foster parents:** Robert Birch (1869–1950) + Sarah Cope Birch (1878–1959)
+
+### Timeline
+- 1927: Born Tucson
+- 1930: Living with Doris in Buckeye, AZ as "lodger" (Doris divorced, working as teacher)
+- **c. 1931: Sent to Catholic orphanage in Silver City, NM** with cousin Willis "Bill" Rosser (Jessie Kuthe's son)
+- 1933: Living with Birch family in Agua Caliente; Doris visits him
+- 1935: Agua Caliente, Maricopa County, AZ
+- 1938: Father James Everett Higgins died in San Francisco
+- 1940: Phoenix, lodger (age 13)
+- 1944: North Phoenix High School (ROTC)
+- 1945: Navy — USS Clytie (submarine tender), WWII
+- **1949: Married Patricia Anne Mowrey** (daughter of Anne Barbara Gleeson!)
+- 1950: Foster father Robert Birch died
+- 1959: Foster mother Sarah Cope Birch died
+- 1960s: General Electric employee
+- 1989: President, Tucson Rod and Gun Club
+- 1996: Mother Doris died
+- 2009: Wife Patricia died
+- 2019: Died Tucson
+
+### Children (with Patricia Anne Mowrey)
+- Michele Anne Birch (1951–)
+- Melanie Doris Birch Garliepp (1953–)
+- Michael K Birch (1958–2010)
+
+### The Birch Connection
+Howard's surname came from his foster family. The Birch family (Robert and Sarah) were friends of the Kuthe family. Mary Birch married in Oct 1930, and Doris attended the wedding. When the Depression hit and Doris couldn't care for Howard while working as a teacher, he was sent to the Catholic orphanage in Silver City, NM (c. 1931) along with his cousin Bill Rosser. The Birch family later took Howard in.
+
+---
+
+## Doris Pauline Kuthe (1902–1996)
+
+**Great-grandmother**
+
+- **Birth:** 16 August 1902, Jefferson, Oregon
+- **Death:** 22 February 1996, Nogales, Santa Cruz, Arizona
+- **Parents:** George Washington Kuthe (1869–1925) + Huldah Imogene Bridgefarmer (1873–1907)
+- **Occupation:** Teacher
+
+### Marriages
+1. **James Everett Higgins** — married 6 Nov 1926, Phoenix; divorced Dec 1928
+2. **Claude M. Allen (1890–1990)** — married 29 May 1930
+3. **Henry H Bynon (1896–1947)** — married 20 Sep 1933
+
+### Timeline
+- 1902: Born Jefferson, Oregon
+- 1907: Mother Huldah died (Doris was 4)
+- 1910: West Albany, Oregon
+- 1913–1920: Phoenix (school)
+- 1925: Father George W. Kuthe died
+- 1926: Married James Everett Higgins
+- 1927: Howard born in Tucson
+- 1928: Brother Wallace died; divorce from James filed
+- 1930: Living in Buckeye as divorced teacher; married Claude Allen
+- 1932: Three-year teaching diploma from Flagstaff
+- 1933: Married Henry Bynon; visited Howard in Agua Caliente
+- 1939–1940: Teacher in Nogales
+- 1996: Died Nogales
+
+### Kuthe Siblings
+- Charles Austin Kuthe (1897–1967)
+- Frances Anita Kuthe (1898–1926)
+- Wallace (William Wallace) Kuthe (1901–1928)
+- **Doris Pauline Kuthe (1902–1996)**
+- Jessie Velma Kuthe (1905–1993)
+- George Leslie Kuthe (1906–1962)
