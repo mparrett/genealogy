@@ -54,3 +54,59 @@ Memory files live in `docs/project_notes/`.
 **When looking up config**: Check `key_facts.md` for ports, URLs, environments
 
 When resolving bugs or making decisions, update the relevant file.
+
+## Bear Notes Sync
+
+Research prompts and notes are maintained in Bear and mirrored to `assets/bear/` for version control.
+
+### Directory Structure
+
+```
+assets/bear/
+├── higgins-research.md      # Higgins/Knight line research prompt
+├── higgins-deep-research.md # Higgins deep research questions
+├── gleeson-research.md      # Gleeson/Fitzgerald research prompt
+└── gleeson-deep-research.md # Gleeson deep research questions
+```
+
+### Bear CLI Commands
+
+```bash
+# Search for notes
+bear search "<term>"
+
+# Export note to file (includes bear_uuid in frontmatter)
+bear export-note --uuid "<uuid>" --output "<path>"
+
+# Update Bear from local file (requires bear_uuid in frontmatter)
+bear update-note --file "<path>"
+
+# Get note content to stdout
+bear get-note --uuid "<uuid>"
+```
+
+### Sync Workflow
+
+**When updating a research note:**
+1. Make edits to `assets/bear/<note>.md`
+2. Run `bear update-note --file assets/bear/<note>.md` to push to Bear
+3. Commit the local file
+
+**When Bear has newer content:**
+1. Export: `bear export-note --uuid "<uuid>" --output assets/bear/<note>.md`
+2. Review diff with `git diff`
+3. Commit if changes are intentional
+
+**When creating a new research note:**
+1. Create in Bear first (to get UUID)
+2. Export to `assets/bear/` with descriptive filename
+3. Commit the new file
+
+### Key Note UUIDs
+
+| Note | UUID |
+|------|------|
+| Higgins Research | `0593C530-E296-4934-99D6-6E23B8D1172B` |
+| Higgins Deep Research | `3066BF31-1FAA-4342-A060-D34F1460A44A` |
+| Gleeson Research | `0DEA9B4E-6E21-48EC-AB24-2699EA2CE87F` |
+| Gleeson Deep Research | `4F423776-2BC2-4F01-98FF-563DFF24301B` |
