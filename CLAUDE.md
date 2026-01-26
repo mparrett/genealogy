@@ -44,3 +44,13 @@ The build uses `uvx --from mistune python convert_md.py` to run the converter wi
 ## Content Guidelines
 
 Reports use Markdown footnotes for citations. The HTML converter applies custom vintage-style CSS with sepia tones appropriate for genealogy content.
+
+## Project Memory
+
+Memory files live in `docs/project_notes/`.
+
+**Before proposing changes**: Check `decisions.md` for existing ADRs
+**When encountering errors**: Search `bugs.md` for known solutions
+**When looking up config**: Check `key_facts.md` for ports, URLs, environments
+
+When resolving bugs or making decisions, update the relevant file.
