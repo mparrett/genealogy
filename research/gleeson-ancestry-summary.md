@@ -131,6 +131,54 @@ Extracted from Ancestry profile exports (Jan 2026).
 
 ---
 
+## James Joseph "John" Gleeson Sr (1895–1959)
+
+**Great-granduncle** (brother of Anne Barbara)
+
+- **Birth:** 20 March 1895, Mondovi, Buffalo County, Wisconsin
+- **Death:** 3 July 1959, Alma, Buffalo County, Wisconsin
+- **Burial:** Mondovi, Wisconsin
+- **Parents:** James Joseph Gleeson (1863–1946) + Maria Ann Fitzgerald (1865–1916)
+
+### Career
+- **Occupation:** Lawyer (listed in 1920, 1930, 1940 census records)
+- **Resided:** North Bend, Nebraska (1920); Alma, Wisconsin (1930–1959)
+
+### Military Service
+- WWI Draft Registration (1917–1918)
+- WWII Draft Registration (1942)
+- Tagged with "Military Service" in Ancestry
+
+### First Marriage
+- **Wife:** Grace Katherine Corrigan Gleeson (1898–1984)
+- **Marriage:** 4 June 1918, Stillwater, Washington County, Minnesota
+
+### Children
+- **James "Jimmie" Joseph Gleeson Jr.** (1920–1927) — died at age 6
+  - Born: 7 Dec 1920, Stillwater, Washington County, Minnesota
+  - Died: 7 Sep 1927, Eau Claire, Eau Claire County, Wisconsin
+- **Richard Lamont Corrigan Gleeson (adopted)** (1938–)
+  - Born: 16 Oct 1938, Buffalo County, Wisconsin
+
+### Second Marriage
+- 1944, Dade, Florida (spouse unknown from this record)
+
+### Timeline
+- 1895: Born Mondovi, WI
+- 1916: Mother Maria Ann died (John was 21)
+- 1917: Brother Joseph Patrick died; living in Dodge County, Nebraska
+- 1918: Married Grace in Stillwater, MN
+- 1920: North Bend, Dodge, Nebraska (Lawyer)
+- 1927: Son Jimmie died at age 6
+- 1930–1940: Alma, Buffalo, Wisconsin (Lawyer)
+- 1938: Adopted son Richard
+- 1944: Second marriage in Florida
+- 1946: Father James Joseph died
+- 1951: Arrival from Liverpool, England (trip abroad?)
+- 1959: Death in Alma, WI
+
+---
+
 ## Patrick Gleason (c. 1843–bef. 1925) — SPECULATIVE
 
 **3rd great-grandfather (if confirmed)**
