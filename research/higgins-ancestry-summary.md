@@ -103,7 +103,7 @@ Extracted from Ancestry profile exports (Jan 2025).
 - **Burial:** 8 July 1938, San Francisco
 
 ### Early Life
-- 1905: Listed as "inmate" in Clarkstown, Rockland, NY (age 13) — institution?
+- 1905: Inmate at **St Agatha's Home For Children**, Nanuet, NY (age 13) — per NY State Census. Sister Theresa was also there.
 - 1906: Possibly in Spokane, WA (age 14)
 - 1910: Lodger in San Francisco (age 18, single)
 
@@ -129,6 +129,7 @@ Extracted from Ancestry profile exports (Jan 2025).
 - **Son:** Howard Robert Higgins Birch (15 Sep 1927, Tucson, AZ)
 - **Divorce filed:** December 1928, Phoenix
 - **Divorce finalized:** by April 1930 (Doris living in Buckeye, AZ as divorced)
+- **Note:** Doris was close friends with Mary Birch (appear together in AZ Memory Project). She did NOT marry a Birch.
 
 ### Later Life
 - 1921–1924: Western Pacific Railroad engineer in California
@@ -139,8 +140,9 @@ Extracted from Ancestry profile exports (Jan 2025).
 
 ### Death
 - **Date:** 6 July 1938
-- **Location:** San Francisco jail
+- **Location:** Lodger's cell, SF City Prison (not incarcerated — used as free overnight shelter)
 - **Cause:** Suicide by hanging
+- **Context:** Financial troubles; the "lodger's cell" was for people needing a place to stay, not criminals
 - **Newspaper:** "Veteran Pays Debts, Hangs Himself in Cell" / "Lodger Hangs Self in Jail"
 
 ---
@@ -165,8 +167,12 @@ Extracted from Ancestry profile exports (Jan 2025).
 ## Open Questions
 
 1. **Laurence's exact death date/place** — we know it was before Feb 17, 1930, but no record found
-2. **Why was James in an institution at age 13 (1905)?**
-3. **Who was James's first wife (c. 1914 Spokane)?**
-4. **Why did James die in jail?** What were the circumstances leading to "Veteran Pays Debts"?
-5. **How did Howard get the "Birch" surname?** Did Doris remarry after divorcing James?
-6. **The 1930/1941/1942 Laurence Higgins census entries** — same person or different?
+2. **Who was James's first wife (c. 1914 Spokane)?**
+3. **How did Howard get the "Birch" surname?** Doris did NOT marry a Birch. Possible NM orphanage connection? Was Howard legally adopted?
+4. **The 1930/1941/1942 Laurence Higgins census entries** — same person or different?
+
+## Resolved Questions
+
+- **Why was James in an institution at age 13?** → St Agatha's Home For Children, Nanuet, NY (orphanage). Sister Theresa was also there.
+- **Why did James die in jail?** → He was in the lodger's cell (free overnight shelter for those in need), not incarcerated. Financial troubles.
+- **Did Doris remarry a Birch?** → No. She was friends with Mary Birch but never married her.
