@@ -7,7 +7,7 @@ Building on initial research. Need help resolving specific confusions and going 
 **The confusion:**
 - Mary Knight (née) Higgins died **27 Mar 1930** in a New York almshouse
 - She was listed as **"widowed"** at admission (17 Feb 1930)
-- But Laurence Higgins supposedly died in **1940**
+- Some sources list Laurence Higgins as dying in **1940**, but other evidence suggests he died before Feb 1930
 
 **Possible explanations:**
 1. Laurence's death date (1940) is wrong — he died before 1930
@@ -25,15 +25,13 @@ Building on initial research. Need help resolving specific confusions and going 
 ## Priority 2: Howard R. Higgins Birch — The Dual Surname
 
 **The confusion:**
-- Howard R. Higgins Birch (1922–2019) was son of James E. Higgins + Doris Kuthe
+- Howard R. Higgins Birch (1927–2019) was son of James E. Higgins + Doris Kuthe
 - His children carry surname "Birch" not "Higgins"
-- Why both surnames? Adoption? Mother remarried?
 
 **What I need:**
-- Did Doris Kuthe remarry after James E. Higgins died (1938)?
-- Marriage record for Doris to someone named "Birch"?
+- Confirm foster/adoption by Robert Birch + Sarah Cope Birch (timing, location, legal status)
 - When did the Birch surname get attached to Howard?
-- Was Howard legally adopted by a Birch?
+- Any orphanage records (Silver City, NM) or court adoption records?
 
 **Timeline to check:**
 - James E. Higgins dies 1938 (Howard is ~16)
@@ -43,13 +41,13 @@ Building on initial research. Need help resolving specific confusions and going 
 ## Priority 3: James E. Higgins — Path to Arizona
 
 **Questions:**
-- Born 1892 — where? (New York? Based on parents' location)
+- Born 2 Feb 1892 in Manhattan, New York (confirm via primary record)
 - Census records 1900, 1910, 1920 — where was he living?
 - How/why did he end up in Phoenix, Arizona by 1926?
 - Did he follow the Kuthe family there? (George Kuthe moved to Phoenix after 1907)
 - What was his occupation?
-- Death 1938 — where, cause of death?
-- What does the "E" stand for? (Everett? Edward? Eugene?)
+- Death 6 Jul 1938 — where, cause of death? (confirm)
+- Confirm middle name "Everett" via primary record
 
 ## Priority 4: Irish Origins
 
@@ -76,8 +74,8 @@ Based on Mary's death in NYC and possible family base there:
 1. **Laurence Higgins death record** — critical to resolve the 1930/1940 conflict
 2. **Laurence + Mary marriage record** — where/when married
 3. **1900/1910/1920 census** for Higgins household
-4. **James E. Higgins death certificate** (1938) — Arizona?
-5. **Doris Kuthe remarriage record** — if she married someone named Birch
+4. **James E. Higgins death certificate** (1938) — California?
+5. **Howard R. Higgins adoption/foster record** — Birch family
 6. **Howard R. Higgins birth certificate** — does it show Higgins or Birch?
 
 ## Constraints

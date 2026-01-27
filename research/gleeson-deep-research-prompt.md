@@ -2,20 +2,20 @@
 
 I'm researching the Gleeson and Fitzgerald families who settled in Wisconsin. I need help filling in gaps and resolving some confusing overlaps. Web-accessible sources only — FamilySearch, Ancestry previews, newspapers, Find a Grave, WikiTree, Geni, etc.
 
-## What I know (confirmed)
+## What I know (working summary — verify where noted)
 
-- **James J. Gleeson** (21 Dec 1864 – 28 Jan 1946): Born Ireland. Parents: Patrick Gleeson + Margaret Moloney. Immigrated c. 1883 (arrived New York from Liverpool/Queenstown). Married Maria Ann Fitzgerald 23 Nov 1892 in Mondovi, Buffalo County, WI. Died Waite Park, Stearns County, Minnesota.
-- **Maria Ann Fitzgerald** (3 Jul 1865 – 1916): Born Ironton, Sauk County, Wisconsin. US-born to Irish immigrant parents (names unknown). Married James 1892.
-- **Anne B. Gleeson** (17 Aug 1903 – Jan 1986): Born Mondovi, WI. Married Raymond Mowrey 1930 in Arizona. Died Tucson.
+- **James J. Gleeson** (21 Dec 1863 or 1864 – 28 Jan 1946): Born in Ireland (some records suggest Croom, Limerick; needs confirmation). Parents listed as Patrick Gleeson + Margaret Moloney (verify). Immigrated c. 1883 (arrived New York from Liverpool/Queenstown). Married Maria Ann Fitzgerald 23 Nov 1892 in Mondovi, Buffalo County, WI. Died Waite Park, Stearns County, Minnesota.
+- **Maria Ann Fitzgerald** (3 Jul 1865 – 1916): Born Ironton, Sauk County, Wisconsin. Parentage is conflicting in trees and needs verification (James + Margaret Murtagh/Murlagh vs William/James + Mary Ann Feeney). Married James 1892. Died 1916 in Mondovi, WI (confirm).
+- **Anne B. Gleeson** (17 Aug 1903 – Jan 1986): Born Mondovi, WI. Married Raymond Mowrey (marriage date reported as 1 Jun 1921 in AZ records; some sources show ~1930). Died Tucson.
 
-## Priority 1: Maria's parents (the unknown Irish ancestors)
+## Priority 1: Maria's parents (conflicting parentage)
 
 Search for Maria Fitzgerald as a child in:
 - **1870 US Census, Sauk County, Wisconsin** — Maria would be ~5. Look for Fitzgerald household in/near Ironton.
 - **1880 US Census, Sauk County, Wisconsin** — Maria would be ~15.
 
 I need:
-- Parents' names
+- Parents' names (resolve conflicting parentage)
 - Parents' birthplaces (Ireland — which county?)
 - Any siblings
 - Father's occupation
@@ -55,7 +55,7 @@ From my existing notes I see references to: James Jr., Jennie, John, Joseph, Mar
 
 ## Priority 5: Patrick Gleeson disambiguation (IMPORTANT)
 
-**The problem:** James's father is listed as Patrick Gleeson. However, there's confusion in the research about Patrick's immigration path. One fellow researcher believes it was a straightforward Ireland → Minnesota/Wisconsin route. But there are overlapping records that suggest a possible Australia or England connection — possibly a different Patrick Gleeson with similar dates getting tangled up.
+**The problem:** James's father is listed as Patrick Gleeson. There is confusion about whether a related Gleeson/Moloney line went to Australia or England (some trees show a Margaritte Malony dying in Drouin, Victoria, Australia in 1886). We need to confirm whether that is related or a different family.
 
 **What I need:**
 - Any records for Patrick Gleeson (father of James J. Gleeson, husband of Margaret Moloney) that clarify his immigration path

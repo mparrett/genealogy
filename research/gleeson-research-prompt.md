@@ -2,43 +2,42 @@
 
 I'm researching the Gleeson and Fitzgerald families who ended up in Arizona. Their Ireland-to-US story is sparse and I'd like to fill it in. Please search what you can find using free/public web sources.
 
-## What I know
+## What I know (working summary)
 
-- **James J. Gleeson** (1863–1946): 2nd great-grandfather. Irish origin assumed.
-- **Maria Ann Fitzgerald** (1865–1916): 2nd great-grandmother. Irish origin assumed.
-- **Anne B. Gleeson** (1903–1986): Their daughter, my great-grandmother. Lived in Arizona. Married Raymond R. Mowrey (1899–1973).
+- **James J. Gleeson** (21 Dec 1863 or 1864–28 Jan 1946): 2nd great-grandfather. Born in Ireland (some records suggest Croom, Limerick); parents listed as Patrick Gleeson + Margaret Moloney (needs confirmation). Died in Waite Park, Stearns County, Minnesota.
+- **Maria Ann Fitzgerald** (3 Jul 1865–1916): 2nd great-grandmother. Born in Ironton, Sauk County, Wisconsin (US-born to Irish immigrant parents). Parentage is conflicting in trees and needs verification.
+- **Anne B. Gleeson** (17 Aug 1903–Jan 1986): Their daughter, my great-grandmother. Born Mondovi, Wisconsin; died Tucson, Arizona. Married Raymond R. Mowrey (marriage date reported as 1 Jun 1921 in AZ records, but some sources say ~1930).
 
-The family ended up in Arizona but I don't know:
-- Where in Ireland either family came from
-- When they immigrated (James/Maria themselves, or their parents?)
-- Where they first settled in the US
-- How/when they got to Arizona
+The family reached Arizona through Anne, but I still need:
+- Where in Ireland the Gleeson line came from (county/parish)
+- When James J. immigrated and where he first settled
+- Maria's parents and their Irish origins
+- When/why Anne moved to Arizona and which marriage date is correct
 
 ## What I'd like you to search
 
-### James J. Gleeson (b. 1863, d. 1946)
+### James J. Gleeson (b. 1863/1864, d. 1946)
 - US Census records (1870–1940) — where was he living? Birthplace listed?
-- Was he born in Ireland or in the US to Irish parents?
-- Immigration/passenger records if he came from Ireland
+- Confirm birthplace in Ireland (county/parish if possible)
+- Immigration/passenger records (arrival date/port)
 - Marriage record to Maria Ann Fitzgerald — where and when?
 - Death record / Find a Grave / obituary
 - Any naturalization records?
 
 ### Maria Ann Fitzgerald (b. 1865, d. 1916)
-- Same census searches — birthplace listed as Ireland or US?
-- Parents' names if available from any record
+- Confirm birthplace and parents' names from census/marriage/death records
 - Death record (1916 is early enough for state records in most places)
 - Find a Grave
-- Where did she die? (Arizona? Elsewhere?)
+- Where did she die? (Likely Wisconsin; confirm)
 
 ### Anne B. Gleeson (b. 1903, d. 1986)
 - Where was she born? (This tells us where James & Maria were living by 1903)
-- Marriage to Raymond Mowrey — where/when?
+- Marriage to Raymond Mowrey — confirm date (1921 vs ~1930) and location
 - 1910/1920 census with parents
 
 ### General
-- Are there Gleeson/Fitzgerald clusters in any particular US city/state that might indicate a first landing point?
-- Any Arizona territorial records for Gleeson?
+- Are there Gleeson/Fitzgerald clusters in WI/MN that indicate a first landing point?
+- Any Arizona records tied specifically to Anne (not James/Maria)?
 - Irish emigration patterns — are there known Gleeson/Fitzgerald origins in specific Irish counties?
 
 ## Format
