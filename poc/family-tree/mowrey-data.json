@@ -1,0 +1,303 @@
+[
+  {
+    "id": "patricia_mowrey",
+    "data": {
+      "first name": "Patricia A.",
+      "last name": "Mowrey",
+      "birthday": "1929",
+      "death": "2009",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["howard_birch"],
+      "parents": ["raymond_mowrey", "anne_gleeson"],
+      "children": ["michele_birch"]
+    }
+  },
+  {
+    "id": "howard_birch",
+    "data": {
+      "first name": "Howard R.",
+      "last name": "Higgins Birch",
+      "birthday": "1922",
+      "death": "2019",
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": ["patricia_mowrey"],
+      "parents": ["james_higgins", "doris_kuthe"],
+      "children": ["michele_birch"]
+    }
+  },
+  {
+    "id": "michele_birch",
+    "data": {
+      "first name": "Michele A.",
+      "last name": "Birch",
+      "birthday": "1951",
+      "gender": "F"
+    },
+    "rels": {
+      "parents": ["howard_birch", "patricia_mowrey"]
+    }
+  },
+  {
+    "id": "raymond_mowrey",
+    "data": {
+      "first name": "Raymond R.",
+      "last name": "Mowrey",
+      "birthday": "1899",
+      "death": "1973",
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": ["anne_gleeson"],
+      "parents": ["samuel_mowrey", "effie_coker"],
+      "children": ["patricia_mowrey"]
+    }
+  },
+  {
+    "id": "anne_gleeson",
+    "data": {
+      "first name": "Anne B.",
+      "last name": "Gleeson",
+      "birthday": "1903",
+      "death": "1986",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["raymond_mowrey"],
+      "parents": ["james_gleeson", "maria_fitzgerald"],
+      "children": ["patricia_mowrey"]
+    }
+  },
+  {
+    "id": "james_higgins",
+    "data": {
+      "first name": "James E.",
+      "last name": "Higgins",
+      "birthday": "1892",
+      "death": "1938",
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": ["doris_kuthe"],
+      "parents": ["laurence_higgins", "mary_knight"],
+      "children": ["howard_birch"]
+    }
+  },
+  {
+    "id": "doris_kuthe",
+    "data": {
+      "first name": "Doris P.",
+      "last name": "Kuthe",
+      "birthday": "1902",
+      "death": "1996",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["james_higgins"],
+      "parents": ["george_kuthe", "huldah_bridgefarmer"],
+      "children": ["howard_birch"]
+    }
+  },
+  {
+    "id": "samuel_mowrey",
+    "data": {
+      "first name": "Samuel S.",
+      "last name": "Mowrey",
+      "birthday": "1867",
+      "death": "1904",
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": ["effie_coker"],
+      "parents": ["moses_mowery", "margaret_witt"],
+      "children": ["raymond_mowrey"]
+    }
+  },
+  {
+    "id": "effie_coker",
+    "data": {
+      "first name": "Effie May",
+      "last name": "Coker",
+      "birthday": "1878",
+      "death": "1958",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["samuel_mowrey"],
+      "children": ["raymond_mowrey"]
+    }
+  },
+  {
+    "id": "james_gleeson",
+    "data": {
+      "first name": "James J.",
+      "last name": "Gleeson",
+      "birthday": "1863",
+      "death": "1946",
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": ["maria_fitzgerald"],
+      "children": ["anne_gleeson"]
+    }
+  },
+  {
+    "id": "maria_fitzgerald",
+    "data": {
+      "first name": "Maria Ann",
+      "last name": "Fitzgerald",
+      "birthday": "1865",
+      "death": "1916",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["james_gleeson"],
+      "children": ["anne_gleeson"]
+    }
+  },
+  {
+    "id": "laurence_higgins",
+    "data": {
+      "first name": "Laurence",
+      "last name": "Higgins",
+      "birthday": "1854",
+      "death": "1940",
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": ["mary_knight"],
+      "children": ["james_higgins"]
+    }
+  },
+  {
+    "id": "mary_knight",
+    "data": {
+      "first name": "Mary",
+      "last name": "Knight",
+      "birthday": "1866",
+      "death": "1930",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["laurence_higgins"],
+      "children": ["james_higgins"]
+    }
+  },
+  {
+    "id": "george_kuthe",
+    "data": {
+      "first name": "George W.",
+      "last name": "Kuthe",
+      "birthday": "1869",
+      "death": "1925",
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": ["huldah_bridgefarmer"],
+      "children": ["doris_kuthe"]
+    }
+  },
+  {
+    "id": "huldah_bridgefarmer",
+    "data": {
+      "first name": "Huldah I.",
+      "last name": "Bridgefarmer",
+      "birthday": "1873",
+      "death": "1907",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["george_kuthe"],
+      "children": ["doris_kuthe"]
+    }
+  },
+  {
+    "id": "moses_mowery",
+    "data": {
+      "first name": "Moses Mansfield",
+      "last name": "Mowery",
+      "birthday": "1822",
+      "death": "1904",
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": ["margaret_witt"],
+      "parents": ["lewis_mowery", "elizabeth_lisbee"],
+      "children": ["samuel_mowrey"]
+    }
+  },
+  {
+    "id": "margaret_witt",
+    "data": {
+      "first name": "Margaret Elizabeth",
+      "last name": "Witt",
+      "birthday": "c. 1828",
+      "death": "c. 1900",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["moses_mowery"],
+      "children": ["samuel_mowrey"]
+    }
+  },
+  {
+    "id": "lewis_mowery",
+    "data": {
+      "first name": "Lewis R.",
+      "last name": "Mowery",
+      "birthday": "c. 1801",
+      "death": "c. 1850",
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": ["elizabeth_lisbee"],
+      "parents": ["peter_mowrey", "sophia_clapp"],
+      "children": ["moses_mowery"]
+    }
+  },
+  {
+    "id": "elizabeth_lisbee",
+    "data": {
+      "first name": "Elizabeth",
+      "last name": "Lisbee",
+      "birthday": "c. 1806",
+      "death": "1859",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["lewis_mowery"],
+      "children": ["moses_mowery"]
+    }
+  },
+  {
+    "id": "peter_mowrey",
+    "data": {
+      "first name": "Peter W.",
+      "last name": "Mowrey",
+      "birthday": "1760",
+      "death": "1840",
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": ["sophia_clapp"],
+      "children": ["lewis_mowery"]
+    }
+  },
+  {
+    "id": "sophia_clapp",
+    "data": {
+      "first name": "Sophia",
+      "last name": "Clapp",
+      "birthday": "1768",
+      "death": "1829",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["peter_mowrey"],
+      "children": ["lewis_mowery"]
+    }
+  }
+]
