@@ -1,13 +1,13 @@
 # TODO - Project Development
 
 ## New Biography Research
-- [ ] **Research Lewis R. Mowery** (Moses's father) - German immigrant, early Tennessee settler
-  - Sources: Available census records, land records, immigration documentation
-  - Focus: Migration from Germany to Tennessee, family establishment
+- [ ] **Research Lewis R. Mowery** (Moses's father) - confirm origins (US-born vs immigrant) and death details
+  - Sources: Census records, land/probate records, family wills
+  - Focus: Parentage, Tennessee migration, and death location/date
   
-- [ ] **Research Elizabeth "Betsy" Lusby Mowery** (Moses's mother)
-  - Sources: Marriage records, family Bible records, descendant interviews
-  - Focus: Lusby family lineage, maternal ancestry connections
+- [ ] **Research Elizabeth "Betsy" Lisbee/Lusby Mowery** (Moses's mother)
+  - Sources: Marriage records, probate/land records, descendant notes
+  - Focus: Lisbee/Lusby lineage, maternal ancestry connections
 
 - [ ] **Research Pleasant A. Mowrey** (Moses's brother documented in Texas)
   - Sources: *Biographical Souvenir of the State of Texas*, census records

@@ -6,7 +6,7 @@ A genealogy research website hosted on GitHub Pages at https://mparrett.github.i
 
 ```
 index.html                      # Homepage, organized by family branch
-research/reports/*.md           # Source markdown biographies (6)
+research/reports/*.md           # Source markdown biographies (11)
 research/reports/html/          # Generated HTML output
 convert_md.py                   # Mistune-based MD→HTML converter with embedded CSS
 justfile                        # Build automation
@@ -17,7 +17,7 @@ research/templates/             # Template for new reports
 
 ## Content
 
-Six published biographies across two family lines:
+Published biographies across three family lines:
 
 ### Mowery Line (Tennessee → Texas → Arizona)
 
@@ -32,8 +32,17 @@ Six published biographies across two family lines:
 
 | Person | Dates | Relationship |
 |--------|-------|--------------|
+| Frederick Kuthe | c. 1822–1900 | 3rd great-grandfather |
 | George Washington Kuthe | 1869–1925 | 2nd great-grandfather |
 | Huldah Imogene (Bridgefarmer) Kuthe | 1873–1907 | 2nd great-grandmother |
+
+### Gleeson/Fitzgerald Line (Ireland → Wisconsin → Arizona)
+
+| Person | Dates | Relationship |
+|--------|-------|--------------|
+| James Fitzgerald | 1828–1899 | 3rd great-grandfather |
+| Maria Ann Fitzgerald | 1865–1916 | 2nd great-grandmother |
+| James J. Gleeson | 1863/1864–1946 | 2nd great-grandfather |
 
 ## Build
 
