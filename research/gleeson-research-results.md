@@ -41,6 +41,38 @@ RGS mentioned Wisconsin Gleesons visited Cork relatives. Worth investigating:
 
 ---
 
+## DISAMBIGUATION: Two Patrick Gleesons
+
+There are two different Patrick Gleesons from the same era, which caused earlier research confusion:
+
+| | **Our Patrick Gleeson** | **Australian Patrick Gleeson** |
+|---|---|---|
+| Born | ~1840, Limerick | ~1840, County Clare |
+| Parents | Possibly Michael Gleeson (b. 1810) | Matthew Gleeson + Bridget Rahilly |
+| Wife | Margaret **Moloney** | Margaret **Mahony** |
+| Married | Ireland (date unknown) | 1862 in Australia |
+| Occupation | Sailor | — |
+| Residence | "The Windmill", Limerick | Australia |
+| Emigrated to | **Wisconsin, USA** | **Australia** |
+| Son James? | ✓ Yes (b. 1863, Croom, Limerick) | ✗ No — 11 children, none named James |
+| DNA match? | — | **No match** with Matt Parrett |
+
+### Why the Confusion?
+1. Both named Patrick Gleeson, same era
+2. Both married a "Margaret M____"
+3. "Malony" could be misread as "Mahony"
+4. Both from Munster region (Limerick and Clare are adjacent counties)
+
+### Resolution
+Correspondence with Tony (Australia, March 2025) confirmed:
+- His Margaret Mahony emigrated to Australia 1856/7 with parents Patrick Mahony + Johanna O'Connell
+- "Margarita Malony is NOT Margaret Mahony"
+- No DNA match between Tony and Matt Parrett
+
+**Conclusion:** These are two separate, unrelated families. Our line is the Limerick sailor Patrick who married Margaret Moloney.
+
+---
+
 ## PRIMARY SOURCE: Marriage Record (Buffalo County, WI, 1892)
 
 **Source:** Wisconsin, U.S., County Marriage Records, 1838-1911 via Ancestry
