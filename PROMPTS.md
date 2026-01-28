@@ -164,3 +164,90 @@ CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
 
 Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
 ```
+
+---
+
+### Irish Immigrants to Wisconsin Farmland (1850s-1880s)
+*For: James Fitzgerald, Maria Ann Fitzgerald, Anne B. Gleeson*
+
+```
+Create a vintage-style illustration representing Irish immigrant farming families in Wisconsin during the 1850s-1880s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Rolling Wisconsin farmland with gentle hills and mixed forest
+- A modest wooden farmhouse or small dairy farm
+- Elements suggesting Irish Catholic heritage (perhaps a simple cross or church steeple in distance)
+- Dairy farming elements typical of Wisconsin (milk cans, small barn, grazing cattle)
+- Split-rail or stone fencing
+- Wildflowers and native Wisconsin vegetation
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1850s-1880s Wisconsin immigrant farming period but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+---
+
+### Irish Immigrants to Urban East Coast (1880s-1900s)
+*For: Laurence Higgins, Mary Knight*
+
+```
+Create a vintage-style illustration representing Irish immigrant life in urban northeastern America during the 1880s-1900s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Urban row houses or tenement buildings typical of Newark/New York City
+- Cobblestone streets with gas lamps
+- Perhaps a church steeple suggesting Irish Catholic neighborhood
+- Working-class elements: a porter's cart, market stalls, or factory smokestacks in distance
+- Horse-drawn streetcar or elevated train suggesting city life
+- Period clothing silhouettes (bowler hats, long skirts)
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1880s-1900s urban Irish-American immigrant experience but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+---
+
+### Early 20th Century American - Railroad & WWI Era (1910s-1930s)
+*For: James Everett Higgins*
+
+```
+Create a vintage-style illustration representing early 20th century American life, particularly railroad engineering and WWI military service. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Western railroad elements: steam locomotive, rail tracks through mountainous terrain
+- Engineering/surveying tools (transit, blueprints, drafting equipment)
+- Subtle WWI military elements (perhaps a doughboy helmet or military insignia)
+- Western American landscape (Sierra Nevada or Rocky Mountain foothills)
+- Early 20th century technology: telephone poles, Model T automobile silhouette
+- American flag or patriotic elements suggesting the WWI era
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1910s-1930s American West and WWI period but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
