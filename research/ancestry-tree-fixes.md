@@ -123,7 +123,7 @@ Based on ChatGPT web search using FamilySearch, WikiTree, Geni, and census recor
 
 | Person | Field | Currently shows | Should be | Source |
 |--------|-------|----------------|-----------|--------|
-| **James J. Gleeson** | Birth year | 1863 | 1864 (21 Dec 1864) | FamilySearch |
+| **James J. Gleeson** | Birth year | 1863 | 1863 (baptized 23 Dec 1863, Croom, Limerick; obituary rounded to 1864) | NLI Catholic Parish Registers (Croom, Limerick), Microfilm 02427/07; FamilySearch index (image unavailable); obituary |
 | **James J. Gleeson** | Birthplace | (blank?) | Ireland | FamilySearch, WikiTree |
 | **James J. Gleeson** | Parents | (none?) | Patrick Gleeson + Margaret Moloney | FamilySearch |
 | **James J. Gleeson** | Death location | Arizona? | Waite Park, Stearns County, Minnesota | WikiTree, MN death records |
@@ -196,7 +196,8 @@ The family path is **Ireland → Wisconsin → Arizona**, not "Ireland → Arizo
 
 ### Gleeson/Fitzgerald References
 
-- **FamilySearch** — James J. Gleeson profile: birth 21 Dec 1864 Ireland, parents Patrick Gleeson + Margaret Moloney, marriage 23 Nov 1892
+- **FamilySearch** — James J. Gleeson profile: birth 21 Dec 1864 Ireland (parish register shows baptism 23 Dec 1863, Croom, Limerick), parents Patrick Gleeson + Margaret Moloney, marriage 23 Nov 1892
+- **FamilySearch parish register index** — Jacobus Gleeson baptism, 23 Dec 1863, Croom, County Limerick; parents Patritii Gleeson + Margaritæ Moloney (image unavailable): `https://www.familysearch.org/ark:/61903/1:1:XM43-88KX?lang=en`
 - **WikiTree** — James death 28 Jan 1946 Waite Park, Stearns County, MN; Anne born 17 Aug 1903 Mondovi, WI; Margaret Gleeson Theisen (1901–1980)
 - **Geni** — Maria Ann Fitzgerald born 3 Jul 1865 Ironton, Sauk County, WI; James Fitzgerald from Dromin/Athlacca, Co. Limerick
 - **Passenger records** — James Gleeson, 19, Ireland, arrived New York 29 Sep 1883 from Liverpool/Queenstown

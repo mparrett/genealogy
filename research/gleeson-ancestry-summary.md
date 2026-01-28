@@ -10,8 +10,8 @@ Extracted from Ancestry profile exports (Jan 2026).
 
 **2nd great-grandfather**
 
-- **Birth:** 21 December 1863, Croom, Limerick, Ireland (some records show 1864)
-- **Baptism:** 23 December 1863, Limerick, Ireland
+- **Birth:** Dec 1863, Croom, Limerick, Ireland (baptized 23 Dec 1863; obituary rounded to 1864)
+- **Baptism:** 23 December 1863, Croom, Limerick, Ireland (NLI Catholic Parish Registers, Microfilm 02427/07; FamilySearch index lists Jacobus Gleeson with parents Patritii Gleeson + Margaritæ Moloney; image unavailable)
 - **Parents:** Patrick Gleason (1843–1925) + Margaritte Malony (1840–1886)
 - **Death:** 28 January 1946, Waite Park, Stearns, Minnesota, USA
 - **Burial:** Mondovi, Buffalo County, Wisconsin
@@ -257,7 +257,7 @@ Extracted from Ancestry profile exports (Jan 2026).
 
 | Item | Previously thought | Actually |
 |------|-------------------|----------|
-| James J. Gleeson birth | 1864 | 21 Dec 1863 |
+| James J. Gleeson birth | Uncertain | Baptized 23 Dec 1863, Croom, Limerick (FamilySearch index; image unavailable; obituary rounded to 1864) |
 | James J. birthplace | "Ireland" | Croom, Limerick, Ireland |
 | James J.'s parents | Unknown | Patrick Gleason + Margaritte Malony |
 | James J.'s mother's fate | Unknown | Died in Australia 1886 |
