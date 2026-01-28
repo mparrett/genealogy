@@ -37,18 +37,89 @@
 4. **James's occupation**: Mill hand in Eau Claire at time of marriage
 5. **Witness William Fitzgerald**: Likely Maria's brother or close relative
 
-### Research Note: Maria's Mother
+### Research Note: Maria's Mother — RESOLVED
 
-The record lists Maria's mother as "Maria Fitzgerald" (same surname as father James Fitzgerald). This conflicts with other sources:
-- Geni: Mary Ann Feeney
-- Other trees: Margaret Murtagh/Murlagh
+The marriage record lists Maria's mother as "Maria Fitzgerald" (same surname as father). This was a **clerical error**.
 
-Possible explanations:
-- Clerical error (clerk repeated "Fitzgerald" from father's line)
-- Same-clan marriage (both parents were Fitzgeralds — not uncommon in Irish communities)
-- Accurate as written
+**Resolution:** A baptism record confirms the mother's identity:
 
-**Next step:** Pull Maria's 1916 Wisconsin death certificate — should list parents' names and may resolve this conflict.
+| Field | Baptism Record (FHL 1316579) |
+|-------|------------------------------|
+| Child | Mary Fitzgerald |
+| Birth date | 3 Jul 1865 |
+| Baptism date | 4 Sep 1865 |
+| Baptism place | Notre Dame, Chippewa Falls, Chippewa, WI |
+| Father | James Fitzgerald |
+| Mother | **Mary Finey** (also transcribed "Mary Finny") |
+
+"Mary Finey/Finny" = **Mary Feeney** — matches Geni's "Mary Ann Feeney"
+
+The 1892 marriage record clerk likely repeated "Fitzgerald" by mistake when recording the mother's maiden name.
+
+### Research Note: Birth Location Discrepancy
+
+- **Baptism record**: Chippewa Falls, Chippewa County, WI
+- **Find a Grave / trees**: Ironton, Sauk County, WI
+
+These locations are ~150 miles apart. Possible explanations:
+- Fitzgerald family was in Chippewa Falls area in 1865, later moved to Sauk/Buffalo counties
+- Ironton birthplace is an error carried forward in family trees
+- Chippewa Falls (Notre Dame church) was the nearest Catholic parish for baptism
+
+**Still needed:** Maria's 1916 Wisconsin death certificate to definitively confirm parents' names and resolve location question.
+
+---
+
+## PRIMARY SOURCE: Find a Grave — James Joseph Gleeson
+
+**Source:** Find a Grave Memorial #39556693
+**Link:** https://www.findagrave.com/memorial/39556693/james-joseph-gleeson
+
+### Key Details
+
+| Field | Value |
+|-------|-------|
+| Birth | December 1863, Ireland |
+| Death | January 28, 1946, Mondovi, Buffalo County, WI |
+| Burial | Sacred Heart Cemetery, Mondovi, WI |
+| Grave marker | None found |
+
+### Marriages
+
+1. **Maria Ann Fitzgerald** (1865–1916) — married Nov 23, 1892
+2. **Sabina Elizabeth "Bina" Loughney** (1884–1937) — married 1928
+
+### Children (with Maria)
+
+| Name | Birth | Death | Notes |
+|------|-------|-------|-------|
+| James Joseph Gleeson Jr. | 1895 | 1959 | |
+| Jennie Gleeson | — | — | |
+| John Gleeson | — | — | |
+| Joseph Patrick Gleeson | 1900 | 1917 | Died young (age 17) |
+| Margaret M. Gleeson | 1901 | 1980 | Married Theisen |
+| Annie (Anne B.) Gleeson | 1903 | 1986 | Married Raymond Mowrey; moved to Arizona |
+
+### Death Location Note
+
+Find a Grave says James died in **Mondovi, Buffalo County, WI**. Some other records reference Waite Park, Stearns County, MN. May need obituary or death certificate to reconcile.
+
+---
+
+## PRIMARY SOURCE: Find a Grave — Maria Ann Gleeson
+
+**Source:** Find a Grave (via Ancestry index)
+
+| Field | Value |
+|-------|-------|
+| Name | Maria Ann Gleeson (née Fitzgerald) |
+| Birth | 3 Jul 1865, Ironton, Sauk County, WI (but see baptism note above) |
+| Death | 1916, Mondovi, Buffalo County, WI |
+| Burial | Sacred Heart Cemetery, Mondovi, WI |
+| Spouse | James Joseph Gleeson |
+| Children | James Joseph Jr., Joseph Patrick, Margaret M. Theisen |
+
+**Still needed:** Death certificate (1916) — would confirm exact death date, parents' names, and informant.
 
 ---
 
