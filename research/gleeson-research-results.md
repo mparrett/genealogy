@@ -56,17 +56,54 @@ The marriage record lists Maria's mother as "Maria Fitzgerald" (same surname as 
 
 The 1892 marriage record clerk likely repeated "Fitzgerald" by mistake when recording the mother's maiden name.
 
-### Research Note: Birth Location Discrepancy
+---
 
-- **Baptism record**: Chippewa Falls, Chippewa County, WI
+## PRIMARY SOURCE: 1870 Census — Fitzgerald Household
+
+**Source:** 1870 U.S. Census, Naples, Buffalo County, Wisconsin
+**Page:** 229, Line 14, Household 1583
+
+| Name | Sex | Age | Birth Year | Birthplace |
+|------|-----|-----|------------|------------|
+| James Fitzgerald | M | 46 | ~1824 | Ireland |
+| Mary Fitzgerald | F | 35 | ~1835 | Ireland |
+| Kate Fitzgerald | F | 15 | ~1855 | New York |
+| William Fitzgerald | M | 12 | ~1858 | Wisconsin |
+| John Fitzgerald | M | 10 | ~1860 | Wisconsin |
+| **Maria Fitzgerald** | F | 4 | ~1866 | Wisconsin |
+| Jane Fitzgerald | F | 3 | ~1867 | Wisconsin |
+
+### What This Confirms
+
+1. **Maria's parents**: James Fitzgerald + Mary (Feeney) Fitzgerald ✓
+2. **Maria's siblings**: Kate, William, John, Jane
+3. **Migration path**: Kate born in NY → Fitzgeralds came through New York before Wisconsin
+4. **Location in 1870**: Naples, Buffalo County (not Sauk County)
+
+### Birth Location Note
+
+- **Baptism record (1865)**: Chippewa Falls, Chippewa County, WI
+- **1870 Census**: Naples, Buffalo County, WI
 - **Find a Grave / trees**: Ironton, Sauk County, WI
 
-These locations are ~150 miles apart. Possible explanations:
-- Fitzgerald family was in Chippewa Falls area in 1865, later moved to Sauk/Buffalo counties
-- Ironton birthplace is an error carried forward in family trees
-- Chippewa Falls (Notre Dame church) was the nearest Catholic parish for baptism
+The family may have moved from Chippewa Falls area (1865) to Buffalo County by 1870. "Ironton, Sauk County" in some trees may be an error.
 
-**Still needed:** Maria's 1916 Wisconsin death certificate to definitively confirm parents' names and resolve location question.
+---
+
+## Mary Feeney (Maria's Mother, 3rd Great-Grandmother)
+
+**FamilySearch:** https://www.familysearch.org/en/tree/person/details/LZ46-4G7
+
+| Field | Value |
+|-------|-------|
+| Birth | Dec 1836, **Castlerea, County Roscommon, Ireland** |
+| Death | 4 Apr 1913, Mondovi, Buffalo County, Wisconsin |
+| Spouse | James Fitzgerald |
+| Children | Kate, William, John, Maria, Jane |
+
+**Irish Origin:** Castlerea is a market town in eastern County Roscommon — this is a specific, actionable origin for further Irish research.
+
+**Still needed:** Maria's 1916 Wisconsin death certificate to confirm parents' names on a primary document.
 
 ---
 
