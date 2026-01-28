@@ -1,4 +1,43 @@
-# ChatGPT response Gleeson
+# Gleeson Research Results
+
+---
+
+## RESOLVED: James J. Gleeson's Parents
+
+**Patrick Gleeson** (~1840, Limerick) + **Margaret Moloney** (~1843)
+
+| Source | Father | Mother |
+|--------|--------|--------|
+| Croom baptism 1863 (Latin) | Patritii Gleeson | Margaritæ **Moloney** |
+| 1892 WI Marriage record | Patrick Gleason | Margarette **Malony** |
+| John's 1864 Ireland birth record | Pat Gleeson | Mary **Malony** |
+
+**Verdict:** Mother's surname is **Moloney** (not Mahony). The Australian Patrick Gleeson who married Margaret Mahony is a different family — confirmed by correspondence with Tony (no DNA match).
+
+### Additional Details from John's Birth Record
+- **John Gleeson** born 17 May 1864, The Windmill, Limerick (James's younger brother)
+- Patrick's occupation: **Sailor**
+- Residence: **The Windmill**, St Michael's District, Limerick City
+- Source: [Ireland Civil Record 2332267](https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1864/03611/2332267.pdf)
+
+---
+
+## Gleeson Extended Family Leads
+
+### Correspondence with Robert Gleeson Sr. (RGS)
+
+Contact: rob.glsn@verizon.net (Feb 2025)
+
+Key information from RGS:
+- Confirmed James born **County Limerick**
+- Extended family also lived in **Tipperary** and **Cork**
+- "Dad mentioned relatives from Wisconsin traveling to Cork to visit Gleeson relatives there"
+- RGS initially thought James may have married in Ireland (incorrect — married WI 1892)
+
+### Cork Connection — Open Lead
+RGS mentioned Wisconsin Gleesons visited Cork relatives. Worth investigating:
+- Which Gleesons emigrated to Cork area vs Wisconsin?
+- Passenger lists for Cork arrivals?
 
 ---
 
