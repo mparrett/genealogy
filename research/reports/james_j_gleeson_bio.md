@@ -1,10 +1,10 @@
 
-### **James J. Gleeson (1864–1946)**
+### **James J. Gleeson (1863–1946)**
 **Relationship:** 2nd great-grandfather (Gleeson line)
 
 *Irish Immigrant, Wisconsin Settler*
 
-James Joseph Gleeson was born on December 21, 1864, in Ireland, to **Patrick Gleeson** and **Margaret Moloney**. Based on the prevalence of the Moloney surname in County Clare and the Gleeson surname in the Clare/Limerick border region, James likely hailed from that area of western Ireland, though the exact parish has not been confirmed.
+James Joseph Gleeson was born in 1863 in Croom, County Limerick, Ireland, and was baptized on December 23, 1863. The FamilySearch index for the parish register lists **Jacobus Gleeson**, with parents **Patritii Gleeson** and **Margaritæ Moloney** (image unavailable). His obituary later rounded the birth year to 1864. Based on the prevalence of the Moloney surname in County Clare and the Gleeson surname in the Clare/Limerick border region, James likely hailed from that area of western Ireland, though the exact townland has not been confirmed.
 
 James immigrated to the United States around 1883, arriving in New York from Liverpool/Queenstown at approximately age 19. His parents Patrick and Margaret appear to have remained in Ireland—no U.S. records have been found for them, and James likely emigrated alone as a young man seeking opportunity in America.
 
@@ -31,7 +31,8 @@ James J. Gleeson's life traced a path common to Irish-Americans of his era: emig
 
 **Notes:**
 
-- Birth date (21 Dec 1864) and parents (Patrick Gleeson, Margaret Moloney) from FamilySearch.
+- Birth/baptism: Croom, County Limerick parish register (Jacobus Gleeson baptized 23 Dec 1863; parents Patritii Gleeson + Margaritæ Moloney). National Library of Ireland Catholic Parish Registers, Microfilm 02427/07; indexed in FamilySearch (image unavailable; record link: `https://www.familysearch.org/ark:/61903/1:1:XM43-88KX?lang=en`).
+- Obituary rounded birth year to 1864 (newspaper).
 - Immigration c. 1883 from passenger records; arrived New York 29 Sep 1883 from Liverpool/Queenstown.
 - Irish origin likely County Clare or Clare/Limerick border (inferred from Moloney surname patterns); exact parish not confirmed.
 - Parents Patrick and Margaret likely remained in Ireland; no U.S. records found for them.
