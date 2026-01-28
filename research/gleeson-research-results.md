@@ -1,5 +1,57 @@
 # ChatGPT response Gleeson
 
+---
+
+## PRIMARY SOURCE: Marriage Record (Buffalo County, WI, 1892)
+
+**Source:** Wisconsin, U.S., County Marriage Records, 1838-1911 via Ancestry
+**Record:** Registration of Marriage No. 126 / 00799
+**Link:** https://www.ancestry.com/search/collections/61484/records/1691820
+
+### Transcription
+
+| Field | Value |
+|-------|-------|
+| Full name of husband | James Gleason |
+| Father of husband | Patrick Gleason |
+| Mother of husband (maiden) | **Margarette Malony** |
+| Occupation of husband | Mill hand |
+| Residence of husband | Eau Claire, WI |
+| Birthplace of husband | Ireland |
+| Full name of wife | Maria Fitzgerald |
+| Father of wife | James Fitzgerald |
+| Mother of wife (maiden) | **Maria Fitzgerald** |
+| Birthplace of wife | Wisconsin |
+| Marriage date | Nov. 23, 1892 |
+| Marriage place | Mondovi, Buffalo Co., WI |
+| Ceremony | Catholic |
+| Officiant | Joseph M. Baur, Catholic Priest (Durand, Pepin Co., WI) |
+| Witnesses | William Fitzgerald, Mary O. Guffin (or Griffin) |
+| Date of registration | Nov. 29, 1892 |
+
+### What This Confirms
+
+1. **James's parents**: Patrick Gleason + Margarette Malony (Margaret Moloney) — matches Croom baptism record
+2. **Maria's father**: James Fitzgerald — confirmed
+3. **Maria's mother**: Listed as "Maria Fitzgerald" — same surname as father (see note below)
+4. **James's occupation**: Mill hand in Eau Claire at time of marriage
+5. **Witness William Fitzgerald**: Likely Maria's brother or close relative
+
+### Research Note: Maria's Mother
+
+The record lists Maria's mother as "Maria Fitzgerald" (same surname as father James Fitzgerald). This conflicts with other sources:
+- Geni: Mary Ann Feeney
+- Other trees: Margaret Murtagh/Murlagh
+
+Possible explanations:
+- Clerical error (clerk repeated "Fitzgerald" from father's line)
+- Same-clan marriage (both parents were Fitzgeralds — not uncommon in Irish communities)
+- Accurate as written
+
+**Next step:** Pull Maria's 1916 Wisconsin death certificate — should list parents' names and may resolve this conflict.
+
+---
+
 ## James J. Gleeson (1863–1946)
 
 **Note:** FamilySearch index for the parish register lists Jacobus Gleeson baptized 23 Dec 1863 in Croom, County Limerick (parents Patritii Gleeson + Margaritæ Moloney; image unavailable, may need NLI parish register images). Obituary rounded birth year to 1864.
