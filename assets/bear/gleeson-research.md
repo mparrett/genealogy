@@ -10,7 +10,7 @@ I'm researching the Gleeson and Fitzgerald families who ended up in Arizona. The
 
 ## What I know
 
-- **James J. Gleeson** (1863–1946): 2nd great-grandfather. Irish origin assumed.
+- **James J. Gleeson** (1863–1946): 2nd great-grandfather. Baptized 23 Dec 1863 in Croom, County Limerick (FamilySearch index: Jacobus; parents Patritii Gleeson + Margaritæ Moloney; image unavailable—may need NLI parish register images). Obituary rounded birth year to 1864.
 - **Maria Ann Fitzgerald** (1865–1916): 2nd great-grandmother. Irish origin assumed.
 - **Anne B. Gleeson** (1903–1986): Their daughter, my great-grandmother. Lived in Arizona. Married Raymond R. Mowrey (1899–1973).
 

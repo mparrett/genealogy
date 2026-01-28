@@ -92,7 +92,7 @@ Deliverable:
 Deep research to resolve conflicts and identify Irish origins. Prefer primary records (civil/baptism/naturalization). Provide citations.
 
 Targets:
-- James J. Gleeson (born 1863 or 1864, Ireland; d. 1946 MN)
+- James J. Gleeson (baptized 23 Dec 1863, Croom, County Limerick; FamilySearch index lists Jacobus Gleeson with parents Patritii Gleeson + Margaritæ Moloney; image unavailable; obituary rounded birth year to 1864; d. 1946 MN)
 - Maria Ann Fitzgerald (b. 1865 WI; d. 1916 WI)
 - Patrick Gleeson + Margaret Moloney (parents of James J., per some sources)
 

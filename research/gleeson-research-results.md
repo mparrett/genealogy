@@ -1,16 +1,28 @@
 # ChatGPT response Gleeson
 
-## James J. Gleeson (1863/1864–1946)
+## James J. Gleeson (1863–1946)
+
+**Note:** FamilySearch index for the parish register lists Jacobus Gleeson baptized 23 Dec 1863 in Croom, County Limerick (parents Patritii Gleeson + Margaritæ Moloney; image unavailable, may need NLI parish register images). Obituary rounded birth year to 1864.
 
 ### What I found (with source)
 
 * FamilySearch (profile summary):
 
-  * Born: 21 Dec 1864, Ireland
+  * Born: 21 Dec 1864, Ireland (per FamilySearch; parish register shows baptism 23 Dec 1863, Croom, Limerick)
   * Parents: Patrick Gleeson + Margaret Moloney
   * Married: Maria Ann Fitzgerald on 23 Nov 1892
   * Associated place shown: Mondovi, Buffalo, Wisconsin, USA
   * Death reference shown: “James J Gluson, Minnesota Deaths, 1887–2001”
+* FamilySearch parish register index (image unavailable):
+
+  * Name: Jacobus Gleeson
+  * Father's name: Patritii Gleeson
+  * Mother's name: Margaritæ Moloney
+  * Event: Baptism
+  * Event date: 23 Dec 1863
+  * Event place: Croom, County Limerick, Ireland
+  * Record link: `https://www.familysearch.org/ark:/61903/1:1:XM43-88KX?lang=en`
+
 * WikiTree index / snippets (not fully accessible to open, but snippet shows key facts):
 
   * Birth in Ireland, death 28 Jan 1946, Waite Park, Stearns County, Minnesota

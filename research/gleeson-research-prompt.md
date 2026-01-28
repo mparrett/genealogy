@@ -4,7 +4,7 @@ I'm researching the Gleeson and Fitzgerald families who ended up in Arizona. The
 
 ## What I know (working summary)
 
-- **James J. Gleeson** (21 Dec 1863 or 1864–28 Jan 1946): 2nd great-grandfather. Born in Ireland (some records suggest Croom, Limerick); parents listed as Patrick Gleeson + Margaret Moloney (needs confirmation). Died in Waite Park, Stearns County, Minnesota.
+- **James J. Gleeson** (Dec 1863–28 Jan 1946): 2nd great-grandfather. Baptized 23 Dec 1863 in Croom, County Limerick (FamilySearch index lists Jacobus Gleeson; parents Patritii Gleeson + Margaritæ Moloney; image unavailable). Obituary rounded birth year to 1864. Died in Waite Park, Stearns County, Minnesota.
 - **Maria Ann Fitzgerald** (3 Jul 1865–1916): 2nd great-grandmother. Born in Ironton, Sauk County, Wisconsin (US-born to Irish immigrant parents). Parentage is conflicting in trees and needs verification.
 - **Anne B. Gleeson** (17 Aug 1903–Jan 1986): Their daughter, my great-grandmother. Born Mondovi, Wisconsin; died Tucson, Arizona. Married Raymond R. Mowrey (marriage date reported as 1 Jun 1921 in AZ records, but some sources say ~1930).
 
@@ -16,7 +16,7 @@ The family reached Arizona through Anne, but I still need:
 
 ## What I'd like you to search
 
-### James J. Gleeson (b. 1863/1864, d. 1946)
+### James J. Gleeson (b. 1863, d. 1946)
 - US Census records (1870–1940) — where was he living? Birthplace listed?
 - Confirm birthplace in Ireland (county/parish if possible)
 - Immigration/passenger records (arrival date/port)
