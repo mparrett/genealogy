@@ -14,3 +14,6 @@
 - **Kuthe**: Germany (Vöhl, Hesse) → Missouri → Oregon → Arizona
 - **Gleeson/Fitzgerald**: Ireland (Limerick) → Wisconsin → Arizona
 - **Higgins/Knight**: Ireland (Dublin/Sligo) → Newark → San Francisco
+
+## External Profiles
+- **WikiTree**: https://www.wikitree.com/wiki/Parrett-439 (Matt's profile)
