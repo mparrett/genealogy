@@ -27,8 +27,9 @@ Conventions:
   Source refs: research/deep-research-prompt.md, research/direct-ancestors.md, research/reports/Moses_Mansfield_Mowery_1822-1904_Biography.md
 
 - ID: MOW-003
-  Status: CONFLICT
+  Status: IN-PROGRESS
   Question: When did Margaret Elizabeth Witt die (c. 1900–1903 vs 1904)?
+  Notes: User is verifying manually (Ancestry child death records mention her).
   Next action: Confirm via census (1900), cemetery records, and any death certificate or local obit.
   Source refs: research/verify-mowrey-line.md, research/ancestry-tree-fixes.md, research/reports/Moses_Mansfield_Mowery_1822-1904_Biography.md
 
@@ -203,4 +204,3 @@ Conventions:
   Question: TODO list claims Lewis as German immigrant (conflicts with corrections).
   Next action: Update TODO to match current understanding.
   Source refs: TODO.md, research/ancestry-tree-fixes.md
-
