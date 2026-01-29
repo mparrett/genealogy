@@ -6,11 +6,11 @@ default:
 
 # Convert all markdown reports to HTML
 build-reports:
-    uvx --from mistune python convert_md.py --all
+    uvx --from mistune --with pyyaml python convert_md.py --all
 
 # Convert a specific markdown file to HTML
 build-report file:
-    uvx --from mistune python convert_md.py --file {{file}}
+    uvx --from mistune --with pyyaml python convert_md.py --file {{file}}
 
 # Clean generated HTML files
 clean:

@@ -1,0 +1,23 @@
+name: Elizabeth "Betsy" Lisbee Mowery
+birth:
+  year: 1806
+  label: Born
+  location: Tennessee
+death:
+  year: 1870
+  label: Died
+  location: Texas
+events:
+  - year: 1819
+    label: Married Lewis
+    type: marriage
+
+location_aside:
+  place: Knox County
+  region: Tennessee
+  year: c. 1820
+  image: locations/knox-county-tn-1820.png
+  description: >
+    Betsy was raised in the Tennessee frontier, where she married
+    Lewis Mowery in 1819. The Appalachian foothills shaped
+    the early years of their growing family.

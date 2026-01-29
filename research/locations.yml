@@ -1,0 +1,84 @@
+# Location Panels to Generate
+# Hand-watercolored engraving style, distinct from bio watercolors
+
+# STATUS: done | pending | skip
+
+locations:
+  # Gleeson/Fitzgerald Line (Ireland → Wisconsin)
+  - place: Croom
+    region: Co. Limerick, Ireland
+    year: 1864
+    filename: croom-limerick-1864
+    status: done
+    scene: >
+      River Maigue with stone bridge of multiple arches, Croom Castle ruins
+      on a rise, stone mill beside river, whitewashed cottages, church steeple,
+      rolling green hills of Maigue valley
+    lighting: overcast Irish sky, soft diffused light
+
+  - place: Mondovi
+    region: Buffalo County, Wisconsin
+    year: 1890
+    filename: mondovi-wisconsin-1890
+    status: done
+    scene: >
+      Small Wisconsin town on rolling farmland, modest Main Street with
+      wooden storefronts, church steeple, dairy farms in distance,
+      Buffalo River or Chippewa River nearby
+    lighting: warm midwestern summer light
+
+  # Higgins/Knight Line (Ireland → Newark → San Francisco)
+  - place: Rathmines
+    region: Dublin, Ireland
+    year: 1870
+    filename: rathmines-dublin-1870
+    status: done
+    scene: >
+      Georgian townhouses, tree-lined streets, Rathmines Church dome/tower,
+      urban Dublin suburb, horse-drawn carriages, gas lamps
+    lighting: soft overcast Dublin light
+
+  - place: Sligo Town
+    region: Co. Sligo, Ireland
+    year: 1880
+    filename: sligo-town-1880
+    status: done
+    scene: >
+      Sligo town with Garavogue River, stone bridges, Sligo Abbey ruins,
+      Ben Bulben mountain in distance, fishing boats, market square
+    lighting: dramatic west of Ireland light, clouds over Ben Bulben
+
+  - place: Newark
+    region: New Jersey
+    year: 1895
+    filename: newark-nj-1895
+    status: done
+    scene: >
+      Industrial Newark waterfront, brick warehouses, railroad yards,
+      factory smokestacks, Passaic River, working-class row houses,
+      horse-drawn freight wagons
+    lighting: hazy industrial light, morning
+
+  # Mowery Line (Tennessee → Texas)
+  - place: Knox County
+    region: Tennessee
+    year: 1820
+    filename: knox-county-tn-1820
+    status: done
+    scene: >
+      Appalachian foothills, log cabins, split-rail fencing,
+      Great Smoky Mountains in distance, cleared farmland,
+      French Broad or Holston River
+    lighting: warm southern morning light
+
+  # Kuthe Line (Germany → Missouri → Oregon)
+  - place: Vöhl
+    region: Hesse, Germany
+    year: 1850
+    filename: vohl-hesse-1850
+    status: done
+    scene: >
+      German village in Hesse highlands, half-timbered houses,
+      Eder River valley, forested hills, church with onion dome,
+      village square with fountain
+    lighting: soft central European light

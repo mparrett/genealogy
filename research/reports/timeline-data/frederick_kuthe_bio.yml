@@ -1,0 +1,26 @@
+name: Frederick Kuthe
+birth:
+  year: 1822
+  label: Born
+  location: Vöhl, Hesse
+death:
+  year: 1900
+  label: Died
+  location: Missouri
+events:
+  - year: 1845
+    label: Emigrated
+    type: migration
+  - year: 1868
+    label: Married Sarah Ann
+    type: marriage
+
+location_aside:
+  place: Vöhl, Hesse
+  region: Germany
+  year: c. 1850
+  image: locations/vohl-hesse-1850.png
+  description: >
+    Frederick's birthplace in the Waldeck region. The village of
+    half-timbered houses in the Eder valley was home before he
+    sailed from Bremen to New Orleans in 1845.

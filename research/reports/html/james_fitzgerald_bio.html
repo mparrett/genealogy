@@ -38,6 +38,11 @@
             max-width: 100%;
         }
 
+        /* Full-width images clear floats */
+        img:not(.float-right):not(.float-left) {
+            clear: both;
+        }
+
         /* Floating images for inline illustrations */
         img.float-right {
             float: right;
@@ -234,25 +239,231 @@
                 box-shadow: none;
                 border-radius: 0;
             }
-            
+
             a {
                 color: #000;
                 text-decoration: underline;
                 background: none;
             }
-            
+
             .footnotes {
                 background: #fff;
                 border: 1px solid #ccc;
+            }
+
+            .bio-timeline {
+                display: none;
+            }
+        }
+
+        /* Timeline Sidebar */
+        .bio-layout {
+            position: relative;
+        }
+
+        .bio-timeline {
+            position: fixed;
+            top: 2rem;
+            left: calc(50% + 420px);
+            width: 175px;
+            padding: 1.25rem 1.5rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 252, 250, 0.97) 0%,
+                rgba(252, 250, 245, 0.95) 50%,
+                rgba(250, 248, 242, 0.97) 100%
+            );
+            border: 1px solid var(--border-light);
+            border-radius: 6px;
+            font-size: 0.85rem;
+            box-shadow: 0 2px 12px rgba(122, 58, 15, 0.06);
+        }
+
+        .timeline-event {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .timeline-year {
+            font-family: Georgia, serif;
+            font-weight: 500;
+            color: var(--primary);
+            min-width: 2.5rem;
+        }
+
+        .timeline-marker {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--accent);
+            border: 2px solid var(--primary);
+            flex-shrink: 0;
+        }
+
+        .timeline-marker--major {
+            width: 10px;
+            height: 10px;
+            background: var(--primary);
+        }
+
+        .timeline-label {
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            line-height: 1.3;
+        }
+
+        .timeline-line {
+            width: 2px;
+            height: 1rem;
+            background: linear-gradient(180deg, var(--border-light) 0%, var(--accent) 50%, var(--border-light) 100%);
+            margin-left: calc(2.5rem + 0.5rem + 3px);
+            opacity: 0.6;
+        }
+
+        @media (max-width: 1100px) {
+            .bio-timeline {
+                display: none;
+            }
+        }
+
+        /* Family Links */
+        .family-links {
+            margin: 2rem 0;
+        }
+
+        .family-links-title {
+            font-family: Georgia, serif;
+            font-size: 1rem;
+            color: var(--text-muted);
+            font-weight: 400;
+            margin-bottom: 1rem;
+            letter-spacing: 0.5px;
+        }
+
+        .family-links-grid {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .family-link-card {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            text-align: center;
+            width: 140px;
+            padding: 0.875rem 1rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 252, 250, 0.97) 0%,
+                rgba(250, 248, 242, 0.95) 100%
+            );
+            border: 1px solid var(--border-light);
+            border-radius: 6px;
+            text-decoration: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            overflow: hidden;
+        }
+
+        .family-link-card:hover {
+            border-color: var(--accent);
+            box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1);
+            background-size: 100% 0;
+        }
+
+        .family-link-name {
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            color: var(--primary);
+            line-height: 1.25;
+            font-weight: 500;
+            position: relative;
+        }
+
+        .family-link-relation {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+            position: relative;
+        }
+
+        /* Location Aside */
+        .location-aside {
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 250, 245, 0.6) 0%,
+                rgba(250, 247, 240, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(212, 165, 116, 0.6);
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+
+        .location-aside img {
+            width: 100%;
+            border-radius: 2px;
+            margin-bottom: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }
+
+        .location-aside-title {
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.125rem;
+            line-height: 1.3;
+        }
+
+        .location-aside-date {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .location-aside-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        @media (max-width: 600px) {
+            .location-aside {
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+            }
+        }
+
+        @media print {
+            .location-aside {
+                float: right;
+                width: 40%;
+                border-left: 1px solid #ccc;
             }
         }
     </style>
 </head>
 <body>
-<h3><strong>James Fitzgerald (1828–1899)</strong></h3>
+<div class="bio-layout"><div class="bio-content"><h3><strong>James Fitzgerald (1828–1899)</strong></h3>
 <p><strong>Relationship:</strong> 3rd great-grandfather (Gleeson/Fitzgerald line)</p>
 <p><em>Irish Immigrant, Wisconsin Farmer</em></p>
 <p>James Fitzgerald was born in 1828 in Dromin/Athlacca, County Limerick, Ireland. He emigrated to the United States during or shortly after the Great Famine, likely in the early 1850s, joining the massive wave of Irish immigration that reshaped America in that era.</p>
+<aside class="location-aside">
+  <img src="../../../images/locations/croom-limerick-1864.png" alt="Croom, Co. Limerick, Ireland">
+  <div class="location-aside-title">Croom, Co. Limerick</div>
+  <div class="location-aside-date">Ireland, c. 1864</div>
+  <div class="location-aside-text">Market town on the River Maigue. The castle ruins and six-arch stone bridge would have been landmarks of James's youth.</div>
+</aside>
+
 <p><img src="../../../images/bio/james-fitzgerald-01-emigration.jpg" alt="The Fitzgerald family leaving County Limerick during the famine" /></p>
 <p>On February 28, 1854, James married <strong>Margaret (Murtagh?)</strong>, also Irish-born. The couple settled in Sauk County, Wisconsin, where they established a farm near the town of Ironton. Like many Irish immigrants in the Upper Midwest, they found opportunity in the rich farmland of Wisconsin, far from the poverty and famine they had left behind.</p>
 <img src="../../../images/bio/james-fitzgerald-02-wisconsin.jpg" alt="The Fitzgerald farmstead in Wisconsin" class="float-left">
@@ -261,6 +472,19 @@
 <p>Their daughter Maria Ann Fitzgerald married <strong>James Joseph Gleeson</strong> in 1892, connecting the Fitzgerald family to the Gleeson line. Through Maria's daughter Anne Barbara Gleeson, this Irish heritage would eventually reach Arizona.</p>
 <p>James Fitzgerald died on September 30, 1899, in Mondovi, Buffalo County, Wisconsin, at approximately 71 years of age. He is buried at Sacred Heart Cemetery in Mondovi.</p>
 <p>James Fitzgerald's journey—from County Limerick through the famine years, across the Atlantic, and into the farmlands of Wisconsin—exemplified the Irish-American immigrant experience of his generation. His descendants would spread across the Upper Midwest and eventually to Arizona, carrying forward the legacy of those who left Ireland seeking a better life.</p>
+<div class="family-links">
+  <h4 class="family-links-title">Family</h4>
+  <div class="family-links-grid">
+    <a href="james_j_gleeson_bio.html" class="family-link-card">
+      <span class="family-link-name">James J. Gleeson</span>
+      <span class="family-link-relation">Son-in-law</span>
+    </a>
+    <a href="anne_barbara_gleeson_bio.html" class="family-link-card">
+      <span class="family-link-name">Anne Barbara Gleeson</span>
+      <span class="family-link-relation">Granddaughter</span>
+    </a>
+  </div>
+</div>
 <hr />
 <p><strong>Notes:</strong></p>
 <ul>
@@ -271,6 +495,36 @@
 <li>Brother Richard Fitzgerald also settled in Buffalo County (noted in county biographies).</li>
 <li>Death (30 Sep 1899, Mondovi, WI) and burial (Sacred Heart Cemetery) from family records and Find a Grave data.</li>
 </ul>
-
+</div><aside class="bio-timeline">
+  <div class="timeline-event">
+    <span class="timeline-year">1828</span>
+    <span class="timeline-marker timeline-marker--major"></span>
+    <span class="timeline-label">Born</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1851</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Emigrated</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1854</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Married Margaret</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1865</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Maria Ann born</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1899</span>
+    <span class="timeline-marker timeline-marker--major"></span>
+    <span class="timeline-label">Died</span>
+  </div>
+</aside></div>
 </body>
 </html>

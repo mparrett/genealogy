@@ -1,0 +1,25 @@
+name: James J. Gleeson
+birth:
+  year: 1863
+  label: Born
+  location: Croom, Limerick
+death:
+  year: 1946
+  label: Died
+  location: Wisconsin
+events:
+  - year: 1883
+    label: Immigrated
+    type: migration
+  - year: 1892
+    label: Married Maria Ann
+    type: marriage
+
+location_aside:
+  place: Croom, Co. Limerick
+  region: Ireland
+  year: c. 1864
+  image: locations/croom-limerick-1864.png
+  description: >
+    James was baptized here in December 1863. This market town on the
+    River Maigue was his home before emigrating to America at age 19.

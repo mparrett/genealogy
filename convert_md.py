@@ -10,21 +10,156 @@ import os
 import sys
 from pathlib import Path
 
+try:
+    import yaml
+    HAS_YAML = True
+except ImportError:
+    HAS_YAML = False
+
+
+def load_timeline_data(md_file_path: Path) -> dict | None:
+    """Load timeline data from a companion YAML file if it exists."""
+    if not HAS_YAML:
+        return None
+    timeline_file = md_file_path.parent / "timeline-data" / f"{md_file_path.stem}.yml"
+    if not timeline_file.exists():
+        return None
+    with open(timeline_file, 'r', encoding='utf-8') as f:
+        return yaml.safe_load(f)
+
+
+def generate_timeline_html(data: dict) -> str:
+    """Generate the timeline sidebar HTML from YAML data."""
+    events = []
+
+    # Add birth
+    if 'birth' in data:
+        events.append((data['birth']['year'], data['birth']['label'], 'birth'))
+
+    # Add life events
+    for event in data.get('events', []):
+        events.append((event['year'], event['label'], event.get('type', 'event')))
+
+    # Add death
+    if 'death' in data:
+        events.append((data['death']['year'], data['death']['label'], 'death'))
+
+    # Sort by year
+    events.sort(key=lambda x: x[0])
+
+    # Generate HTML
+    lines = ['<aside class="bio-timeline">']
+    for i, (year, label, event_type) in enumerate(events):
+        marker_class = "timeline-marker"
+        if event_type in ('birth', 'death'):
+            marker_class += " timeline-marker--major"
+        lines.append(f'  <div class="timeline-event">')
+        lines.append(f'    <span class="timeline-year">{year}</span>')
+        lines.append(f'    <span class="{marker_class}"></span>')
+        lines.append(f'    <span class="timeline-label">{label}</span>')
+        lines.append(f'  </div>')
+        # Add connecting line between events (except after last)
+        if i < len(events) - 1:
+            lines.append('  <div class="timeline-line"></div>')
+    lines.append('</aside>')
+
+    return '\n'.join(lines)
+
+
+def generate_location_aside_html(data: dict) -> str:
+    """Generate location aside HTML from YAML data."""
+    loc = data.get('location_aside')
+    if not loc:
+        return ""
+
+    place = loc.get('place', '')
+    region = loc.get('region', '')
+    year = loc.get('year', '')
+    image = loc.get('image', '')
+    description = loc.get('description', '').strip()
+
+    # Image path is relative to images/ folder, need ../../../images/ from html/
+    img_src = f"../../../images/{image}" if image else ""
+
+    lines = ['<aside class="location-aside">']
+    if img_src:
+        lines.append(f'  <img src="{img_src}" alt="{place}, {region}">')
+    lines.append(f'  <div class="location-aside-title">{place}</div>')
+    lines.append(f'  <div class="location-aside-date">{region}, {year}</div>')
+    if description:
+        lines.append(f'  <div class="location-aside-text">{description}</div>')
+    lines.append('</aside>')
+
+    return '\n'.join(lines)
+
+
+def generate_family_links_html(data: dict) -> str:
+    """Generate family links section HTML from YAML data."""
+    links = data.get('family_links', [])
+    if not links:
+        return ""
+
+    lines = ['<div class="family-links">']
+    lines.append('  <h4 class="family-links-title">Family</h4>')
+    lines.append('  <div class="family-links-grid">')
+    for link in links:
+        name = link['name']
+        relation = link.get('relation', '')
+        href = link.get('link', '#')
+        # Get initials for the watermark
+        initials = ''.join(word[0] for word in name.split()[:2]).upper()
+        lines.append(f'    <a href="{href}" class="family-link-card">')
+        lines.append(f'      <span class="family-link-name">{name}</span>')
+        lines.append(f'      <span class="family-link-relation">{relation}</span>')
+        lines.append(f'    </a>')
+    lines.append('  </div>')
+    lines.append('</div>')
+
+    return '\n'.join(lines)
+
 
 def convert_file(md_file_path, html_file_path):
     """Convert a single markdown file to HTML."""
     try:
         with open(md_file_path, 'r', encoding='utf-8') as f:
             markdown_content = f.read()
-        
+
         # Create markdown processor with HTML renderer and footnotes plugin
         renderer = HTMLRenderer(escape=False)
         markdown = mistune.create_markdown(renderer=renderer, plugins=['footnotes'])
         body_content = markdown(markdown_content)
-        
+
         # Extract title from first heading or filename
         title_line = markdown_content.split('\n')[0] if markdown_content.startswith('#') else md_file_path.stem
         title = title_line.lstrip('#').strip() if title_line.startswith('#') else title_line
+
+        # Load timeline data if available
+        timeline_data = load_timeline_data(md_file_path)
+        timeline_html = generate_timeline_html(timeline_data) if timeline_data else ""
+        has_timeline = bool(timeline_data)
+
+        # Generate location aside if available - inject after 3rd paragraph
+        location_aside_html = generate_location_aside_html(timeline_data) if timeline_data else ""
+        if location_aside_html:
+            # Find the 3rd </p> tag and inject after it
+            p_count = 0
+            insert_pos = 0
+            search_str = '</p>'
+            pos = 0
+            while p_count < 3:
+                found = body_content.find(search_str, pos)
+                if found == -1:
+                    break
+                p_count += 1
+                insert_pos = found + len(search_str)
+                pos = found + 1
+            if p_count >= 3:
+                body_content = body_content[:insert_pos] + '\n' + location_aside_html + '\n' + body_content[insert_pos:]
+
+        # Generate family links if available
+        family_links_html = generate_family_links_html(timeline_data) if timeline_data else ""
+        if family_links_html and '<hr />' in body_content:
+            body_content = body_content.replace('<hr />', family_links_html + '\n<hr />', 1)
         
         # Create complete HTML document with inline CSS
         html_document = f"""<!DOCTYPE html>
@@ -65,6 +200,11 @@ def convert_file(md_file_path, html_file_path):
         img, picture, video, canvas, svg {{
             display: block;
             max-width: 100%;
+        }}
+
+        /* Full-width images clear floats */
+        img:not(.float-right):not(.float-left) {{
+            clear: both;
         }}
 
         /* Floating images for inline illustrations */
@@ -263,22 +403,221 @@ def convert_file(md_file_path, html_file_path):
                 box-shadow: none;
                 border-radius: 0;
             }}
-            
+
             a {{
                 color: #000;
                 text-decoration: underline;
                 background: none;
             }}
-            
+
             .footnotes {{
                 background: #fff;
                 border: 1px solid #ccc;
+            }}
+
+            .bio-timeline {{
+                display: none;
+            }}
+        }}
+
+        /* Timeline Sidebar */
+        .bio-layout {{
+            position: relative;
+        }}
+
+        .bio-timeline {{
+            position: fixed;
+            top: 2rem;
+            left: calc(50% + 420px);
+            width: 175px;
+            padding: 1.25rem 1.5rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 252, 250, 0.97) 0%,
+                rgba(252, 250, 245, 0.95) 50%,
+                rgba(250, 248, 242, 0.97) 100%
+            );
+            border: 1px solid var(--border-light);
+            border-radius: 6px;
+            font-size: 0.85rem;
+            box-shadow: 0 2px 12px rgba(122, 58, 15, 0.06);
+        }}
+
+        .timeline-event {{
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }}
+
+        .timeline-year {{
+            font-family: Georgia, serif;
+            font-weight: 500;
+            color: var(--primary);
+            min-width: 2.5rem;
+        }}
+
+        .timeline-marker {{
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--accent);
+            border: 2px solid var(--primary);
+            flex-shrink: 0;
+        }}
+
+        .timeline-marker--major {{
+            width: 10px;
+            height: 10px;
+            background: var(--primary);
+        }}
+
+        .timeline-label {{
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            line-height: 1.3;
+        }}
+
+        .timeline-line {{
+            width: 2px;
+            height: 1rem;
+            background: linear-gradient(180deg, var(--border-light) 0%, var(--accent) 50%, var(--border-light) 100%);
+            margin-left: calc(2.5rem + 0.5rem + 3px);
+            opacity: 0.6;
+        }}
+
+        @media (max-width: 1100px) {{
+            .bio-timeline {{
+                display: none;
+            }}
+        }}
+
+        /* Family Links */
+        .family-links {{
+            margin: 2rem 0;
+        }}
+
+        .family-links-title {{
+            font-family: Georgia, serif;
+            font-size: 1rem;
+            color: var(--text-muted);
+            font-weight: 400;
+            margin-bottom: 1rem;
+            letter-spacing: 0.5px;
+        }}
+
+        .family-links-grid {{
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }}
+
+        .family-link-card {{
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            text-align: center;
+            width: 140px;
+            padding: 0.875rem 1rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 252, 250, 0.97) 0%,
+                rgba(250, 248, 242, 0.95) 100%
+            );
+            border: 1px solid var(--border-light);
+            border-radius: 6px;
+            text-decoration: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            overflow: hidden;
+        }}
+
+        .family-link-card:hover {{
+            border-color: var(--accent);
+            box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1);
+            background-size: 100% 0;
+        }}
+
+        .family-link-name {{
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            color: var(--primary);
+            line-height: 1.25;
+            font-weight: 500;
+            position: relative;
+        }}
+
+        .family-link-relation {{
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+            position: relative;
+        }}
+
+        /* Location Aside */
+        .location-aside {{
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 250, 245, 0.6) 0%,
+                rgba(250, 247, 240, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(212, 165, 116, 0.6);
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }}
+
+        .location-aside img {{
+            width: 100%;
+            border-radius: 2px;
+            margin-bottom: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }}
+
+        .location-aside-title {{
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.125rem;
+            line-height: 1.3;
+        }}
+
+        .location-aside-date {{
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }}
+
+        .location-aside-text {{
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }}
+
+        @media (max-width: 600px) {{
+            .location-aside {{
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+            }}
+        }}
+
+        @media print {{
+            .location-aside {{
+                float: right;
+                width: 40%;
+                border-left: 1px solid #ccc;
             }}
         }}
     </style>
 </head>
 <body>
-{body_content}
+{f'<div class="bio-layout"><div class="bio-content">{body_content}</div>{timeline_html}</div>' if has_timeline else body_content}
 </body>
 </html>"""
         

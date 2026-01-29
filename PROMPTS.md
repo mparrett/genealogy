@@ -1,5 +1,37 @@
 # Image Generation Prompts
 
+## Location Panel Template (Hand-Watercolored Engraving)
+
+Use this for location/place images. Distinct from bio illustrations (watercolor scenes).
+
+**Reference**: https://mirka-h.blogspot.com/2015/02/imprinting-american-west-engravings.html
+
+```bash
+export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
+export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
+
+uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+  --prompt "Hand-watercolored engraving depicting [PLACE], [REGION/COUNTRY] circa [YEAR]" \
+  --size 1024x1024 \
+  --out images/locations/[filename].png \
+  --scene "[Key landmarks: river, bridge, castle, church, buildings, landscape features]" \
+  --subject "Location panel, no people" \
+  --style "19th century wood engraving with hand-applied watercolor washes; fine black linework using parallel lines, cross-hatching, stippling; subtle color washes over linework; aged paper texture" \
+  --composition "square format, title cartouche reading '[PLACE], [Region] — c. [YEAR]'" \
+  --lighting "[Appropriate lighting for region/climate]" \
+  --palette "muted greens, warm ochres and browns for stone, soft gray-blue sky; colors complement linework without overwhelming" \
+  --constraints "engraved linework must remain visible beneath color; no modern elements; cohesive with genealogy collection" \
+  --negative "photorealistic, modern elements, bright saturated colors, busy clutter, text other than cartouche"
+```
+
+### Completed Location Panels
+
+| Location | File | Year |
+|----------|------|------|
+| Croom, Co. Limerick, Ireland | `images/locations/croom-limerick-1864.png` | c. 1864 |
+
+---
+
 ## ChatGPT 4o Image Designer Prompts
 
 ### Base Template for Genealogy Graphics
