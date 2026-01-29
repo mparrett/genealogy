@@ -6,7 +6,11 @@
 
 James Fitzgerald was born in 1828 in Dromin/Athlacca, County Limerick, Ireland. He emigrated to the United States during or shortly after the Great Famine, likely in the early 1850s, joining the massive wave of Irish immigration that reshaped America in that era.
 
+![The Fitzgerald family leaving County Limerick during the famine](../../../images/bio/james-fitzgerald-01-emigration.jpg)
+
 On February 28, 1854, James married **Margaret (Murtagh?)**, also Irish-born. The couple settled in Sauk County, Wisconsin, where they established a farm near the town of Ironton. Like many Irish immigrants in the Upper Midwest, they found opportunity in the rich farmland of Wisconsin, far from the poverty and famine they had left behind.
+
+<img src="../../../images/bio/james-fitzgerald-02-wisconsin.jpg" alt="The Fitzgerald farmstead in Wisconsin" class="float-left">
 
 James and Margaret raised their family in Sauk County through the 1860s and 1870s. The 1870 census shows them in Ironton with children William, John, Jane, and **Maria Ann** (born 1865)—all born in Wisconsin. By 1880, the family had relocated to Buffalo County, Wisconsin, settling in the Town of Naples. James's brother **Richard Fitzgerald** had also settled in Buffalo County, near Mondovi, suggesting a chain migration pattern common among Irish families.
 
