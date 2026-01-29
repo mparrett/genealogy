@@ -29,6 +29,7 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 | Location | File | Year |
 |----------|------|------|
 | Croom, Co. Limerick, Ireland | `images/locations/croom-limerick-1864.png` | c. 1864 |
+| Rathmines, Dublin, Ireland | `images/locations/rathmines-dublin-1870.png` | c. 1870 |
 
 ---
 
