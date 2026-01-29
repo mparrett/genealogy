@@ -390,3 +390,45 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
   --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations" \
   --negative "modern elements, bright colors, busy clutter, photorealistic"
 ```
+
+### James E. Higgins - Orphanage Childhood (1905)
+*File: `images/bio/james-e-higgins-01-orphanage.jpg`*
+
+```bash
+export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
+export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
+
+uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+  --prompt "Vintage watercolor illustration of a Catholic children's home in early 1900s New York for genealogy report" \
+  --size 1024x1024 \
+  --out images/bio/james-e-higgins-01-orphanage.png \
+  --scene "1905 Catholic orphanage grounds in Rockland County NY, large institutional brick building with cross, children in period clothing, autumn trees" \
+  --subject "Children's home exterior with young residents at play or work, nuns supervising in distance (no specific portraits)" \
+  --style "vintage watercolor illustration, soft washes, warm tones, lightly textured paper, period-appropriate, gentle and dignified" \
+  --composition "wide view of institution grounds, hopeful rather than bleak atmosphere" \
+  --lighting "soft autumn afternoon light, golden hour warmth" \
+  --palette "warm browns, muted reds, autumn golds, soft blue sky, touches of green" \
+  --constraints "no text, no logos, no watermark; dignified portrayal of institutional childhood; cohesive with existing genealogy bio illustrations" \
+  --negative "modern elements, bright colors, busy clutter, photorealistic, grim or depressing tone"
+```
+
+### James E. Higgins - Railroad Engineer (1910s-1920s)
+*File: `images/bio/james-e-higgins-02-railroad.jpg`*
+
+```bash
+export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
+export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
+
+uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+  --prompt "Vintage watercolor illustration of Western Pacific Railroad engineering crew in California mountains 1910s-1920s for genealogy report" \
+  --size 1024x1024 \
+  --out images/bio/james-e-higgins-02-railroad.png \
+  --scene "1910s-1920s Western Pacific Railroad construction or survey site, Sierra Nevada or Feather River Canyon, rail tracks, steam locomotive in distance" \
+  --subject "Civil engineering crew at work with surveying equipment, transit on tripod, blueprints, workers in period clothing (no specific portraits)" \
+  --style "vintage watercolor illustration, soft washes, warm tones, lightly textured paper, period-appropriate" \
+  --composition "engineering work in dramatic mountain landscape, human figures at work against western scenery" \
+  --lighting "clear mountain daylight, strong shadows, expansive western sky" \
+  --palette "warm earth tones, granite grays, pine greens, golden California light, soft blue sky" \
+  --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations" \
+  --negative "modern elements, bright colors, busy clutter, photorealistic"
+```
