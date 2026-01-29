@@ -37,6 +37,28 @@
             display: block;
             max-width: 100%;
         }
+
+        /* Floating images for inline illustrations */
+        img.float-right {
+            float: right;
+            width: 50%;
+            margin: 0 0 1rem 1.5rem;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        img.float-left {
+            float: left;
+            width: 50%;
+            margin: 0 1.5rem 1rem 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        /* Clear floats after sections */
+        h2, h3, hr {
+            clear: both;
+        }
         
         input, button, textarea, select {
             font: inherit;
@@ -234,7 +256,8 @@
 <p><img src="../../../images/bio/moses-mowery-01-migration.jpg" alt="The Mowery family's westward migration to Texas" /></p>
 <p>By 1853, they had passed briefly through Alabama and arrived in <strong>Red River County, Texas</strong>, settling on newly acquired farmland<sup class="footnote-ref" id="fnref-4"><a href="#fn-4">4</a></sup>.</p>
 <p>Moses is listed among the <strong>original landowners of Red River County</strong><sup class="footnote-ref" id="fnref-5"><a href="#fn-5">5</a></sup>, establishing himself as a farmer. The 1860 census shows him in Red River County with real estate and a growing family<sup class="footnote-ref" id="fnref-6"><a href="#fn-6">6</a></sup>. Around 1870, Moses moved a few miles north to <strong>Lamar County</strong>, near the town of Milton, where he spent the rest of his life<sup class="footnote-ref" id="fnref-7"><a href="#fn-7">7</a></sup>. He served as <strong>postmaster of Milton</strong> in the 1870s, a position later held by his son L. D. (Lewis Daily) Mowrey in the 1880s.</p>
-<p><img src="../../../images/bio/moses-mowery-02-homestead.jpg" alt="The Mowery homestead in the Texas Red River valley" /></p>
+<img src="../../../images/bio/moses-mowery-02-homestead.jpg" alt="The Mowery homestead in the Texas Red River valley" class="float-right">
+
 <p>Moses and Margaret had <strong>ten children</strong>, many of whom carried family names<sup class="footnote-ref" id="fnref-8"><a href="#fn-8">8</a></sup>:</p>
 <ul>
 <li>William R. Mowery</li>
