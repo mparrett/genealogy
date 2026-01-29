@@ -10,7 +10,7 @@ James Everett Higgins was born on February 2, 1892, in Manhattan, New York, the 
 
 By 1905, when James was thirteen, he and his younger sister Theresa were living at St. Agatha's Home for Children in Nanuet, New York—a Catholic orphanage in Rockland County. The circumstances that led to this placement remain unclear; both parents were still alive, suggesting the family faced a crisis severe enough that they could not care for their children. Whatever hardship drove him there, James would emerge from these difficult years with a determination to make his own way.
 
-By 1910, at just eighteen, James had made his way across the country and was boarding in San Francisco. Over the following decade, he built a career as a civil engineer with the Western Pacific Railroad, part of the great network of lines connecting the American West. A 1921 newspaper noted that "James E. Higgins is an earnest, hard-working young civil engineer, whose friends believe he will go far."
+By 1910, at just eighteen, James had made his way across the country and was boarding in San Francisco. Over the following decade, he built a career as a civil engineer with the Western Pacific Railroad, working the line through Feather River Canyon—the last major railroad route carved through the Sierra Nevada, an engineering marvel of tunnels and trestles hugging granite cliffs above the river. A 1921 newspaper noted that "James E. Higgins is an earnest, hard-working young civil engineer, whose friends believe he will go far."
 
 <img src="../../../images/bio/james-e-higgins-02-railroad.png" alt="Western Pacific Railroad engineering crew in California" class="float-left-sm">
 

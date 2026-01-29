@@ -45,6 +45,89 @@ The build uses `uvx --from mistune python convert_md.py` to run the converter wi
 
 Reports use Markdown footnotes for citations. The HTML converter applies custom vintage-style CSS with sepia tones appropriate for genealogy content.
 
+## Bio Layout Components
+
+Bios support several layout components configured via YAML files in `research/reports/timeline-data/<bio_name>.yml`.
+
+### Inline Images (in Markdown)
+
+Use CSS classes directly on `<img>` tags:
+
+| Class | Width | Position |
+|-------|-------|----------|
+| `float-right` | 50% | Right |
+| `float-left` | 50% | Left |
+| `float-right-sm` | 33% | Right |
+| `float-left-sm` | 33% | Left |
+
+```html
+<img src="../../../images/bio/example.png" alt="Description" class="float-right-sm">
+```
+
+### YAML-Configured Components
+
+Create `research/reports/timeline-data/<bio_name>.yml` to enable these features:
+
+#### Timeline Sidebar
+
+Fixed sidebar showing life events (visible on wide screens):
+
+```yaml
+name: Person Name
+birth:
+  year: 1892
+  label: Born
+  location: Place
+death:
+  year: 1938
+  label: Died
+  location: Place
+events:
+  - year: 1918
+    label: Event description
+    type: event  # or 'marriage'
+```
+
+#### Location Aside
+
+Floating panel with location image and description:
+
+```yaml
+location_aside:
+  place: Feather River Canyon
+  region: California
+  year: c. 1915
+  image: locations/feather-river-canyon-1915.png  # relative to images/
+  layout: vertical  # or 'horizontal'
+  after_paragraph: 3  # insert after Nth paragraph
+  description: >
+    Optional descriptive text about the location's
+    significance to the person.
+```
+
+- **vertical** (default): 33% width, image above text
+- **horizontal**: 50% width, image left of text
+
+#### Family Links
+
+Cards linking to related bios (appears before Notes section):
+
+```yaml
+family_links:
+  - name: Person Name
+    relation: Father
+    link: person_bio.html
+```
+
+### Image Types
+
+| Type | Location | Style | Use |
+|------|----------|-------|-----|
+| Bio illustrations | `images/bio/` | Watercolor | Inline narrative scenes |
+| Location panels | `images/locations/` | Engraving + watercolor wash | Location asides, context |
+
+See `PROMPTS.md` for image generation prompts.
+
 ## Project Memory
 
 Memory files live in `docs/project_notes/`.

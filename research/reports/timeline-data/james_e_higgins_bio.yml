@@ -1,0 +1,54 @@
+name: James Everett Higgins
+birth:
+  year: 1892
+  label: Born
+  location: Manhattan, NY
+death:
+  year: 1938
+  label: Died
+  location: San Francisco, CA
+events:
+  - year: 1905
+    label: St. Agatha's orphanage
+    type: event
+  - year: 1910
+    label: San Francisco
+    type: event
+  - year: 1918
+    label: WWI enlistment
+    type: event
+  - year: 1919
+    label: Discharged
+    type: event
+  - year: 1926
+    label: Married Doris Kuthe
+    type: marriage
+  - year: 1927
+    label: Son Howard born
+    type: event
+  - year: 1928
+    label: Divorce filed
+    type: event
+
+# location_aside:  # Feather River Canyon panel available for future use
+#   place: Feather River Canyon
+#   region: California
+#   year: c. 1915
+#   image: locations/feather-river-canyon-1915.png
+#   layout: horizontal
+#   after_paragraph: 12
+#   description: >
+#     The Western Pacific Railroad's route through this Sierra Nevada canyon
+#     was an engineering marvel—and likely where James honed his skills as
+#     a civil engineer during the 1910s.
+
+family_links:
+  - name: Laurence Higgins
+    relation: Father
+    link: laurence_higgins_bio.html
+  - name: Doris Pauline Kuthe
+    relation: Wife
+    link: doris_kuthe_bio.html
+  - name: Howard R. Higgins
+    relation: Son
+    link: howard_higgins_bio.html
