@@ -32,3 +32,26 @@
 - Consistent vintage styling (border-left accent, warm gradients) unifies varied layouts
 
 **Consequences**: Each bio requires manual tuning of image positions and aside placement. This is acceptable—bios are authored infrequently and benefit from individual attention to layout.
+
+## ADR-002: Narrative vs Structured Bio Format (2026-01-29)
+
+**Context**: Early bios (Lewis Mowery, Elizabeth Lusby Mowery) used a structured format with H3 section headers (`### Family Origins`, `### Marriage and Settlement`, etc.), bullet lists, and explicit research notes. Later bios (James Fitzgerald, James E. Higgins) evolved toward a flowing narrative style without section headers.
+
+**Decision**: Adopt narrative format as the default for new bios. Preserve structured bios in git history but consider converting them over time.
+
+**Rationale**:
+1. **Layout compatibility**: CSS rule `h3 { clear: both; }` breaks float wrapping around images/asides. Narrative bios without H3 headers allow images to float naturally with text wrapping.
+2. **Reading experience**: Narrative prose is more engaging for genealogy storytelling. Section headers create a choppy, reference-manual feel.
+3. **Print book potential**: Narrative format translates better to a future print book compilation.
+
+**Alternatives considered**:
+- Modify CSS to not clear floats on H3 → Would affect all H3s, including intentional section breaks
+- Use a different heading level → Inconsistent with site hierarchy
+- Keep both formats → Creates maintenance burden and inconsistent experience
+
+**Consequences**:
+- Existing structured bios (Lewis Mowery, Elizabeth Lusby Mowery) will need rewriting if we want consistent layout
+- Research notes and source citations move to a `**Notes:**` section at the end (still preserved, just integrated differently)
+- Structured format remains available for future use cases (e.g., research-focused reports vs narrative bios)
+
+**Migration**: No immediate action required. Structured bios remain functional; they just don't benefit from float-based layout features. Convert opportunistically when revisiting older bios.
