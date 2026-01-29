@@ -614,9 +614,34 @@ def convert_file(md_file_path, html_file_path):
                 border-left: 1px solid #ccc;
             }}
         }}
+
+        /* Back Navigation */
+        .bio-nav {{
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 1px solid var(--border-light);
+        }}
+
+        .bio-nav a {{
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            text-decoration: none;
+            background: none;
+        }}
+
+        .bio-nav a:hover {{
+            color: var(--secondary);
+        }}
+
+        @media print {{
+            .bio-nav {{
+                display: none;
+            }}
+        }}
     </style>
 </head>
 <body>
+<nav class="bio-nav"><a href="../../../index.html">← Family Index</a></nav>
 {f'<div class="bio-layout"><div class="bio-content">{body_content}</div>{timeline_html}</div>' if has_timeline else body_content}
 </body>
 </html>"""
