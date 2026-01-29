@@ -1,0 +1,32 @@
+name: Laurence Higgins
+birth:
+  year: 1854
+  label: Born
+  location: Rathmines, Dublin
+death:
+  year: 1930
+  label: Died
+  location: Newark, NJ (approx)
+events:
+  - year: 1873
+    label: Married Mary Verner
+    type: marriage
+  - year: 1881
+    label: Mary Verner died
+    type: event
+  - year: 1883
+    label: Married Mary Knight
+    type: marriage
+  - year: 1887
+    label: Immigrated to U.S.
+    type: event
+
+location_aside:
+  place: Rathmines, Dublin
+  region: Ireland
+  year: c. 1870
+  image: locations/rathmines-dublin-1870.png
+  description: >
+    Laurence was born and raised in this prosperous Dublin suburb,
+    marrying both his wives at the Chapel of St. Mary's before
+    emigrating to America in the 1880s.
