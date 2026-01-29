@@ -6,11 +6,15 @@
 
 Frederick Kuthe (also recorded as George Frederick Kuthe) was born around 1822 in or near Vöhl, in the Waldeck region of Hesse, Germany. Family tradition names his father as Andreas Kuthe (born c. 1798 in Hesse), though this remains unverified.[^1]
 
+![The Kuthe family's 1845 voyage from Bremen to New Orleans](../../../images/bio/frederick-kuthe-01-voyage.jpg)
+
 In June 1845, Frederick emigrated from Germany as part of a larger Kuthe family group. A passenger manifest for the ship *Olbers*, sailing from Bremen to New Orleans, lists a Küthe family from Vöhl that included an 18-year-old "Friederich" along with siblings—most notably a sister Maria (age 20), who later appeared in American records as Mary C. Kuthe.[^2] A biography of Louis Schleicher, a baker in Lancaster, Ohio, confirms that he married "Miss Mary C. Kuthe, who was born in Germany in 1824, and came to America in 1845"—strong evidence that Frederick and Mary were siblings who immigrated together.[^3]
 
 After arriving in America, Frederick initially settled in Palmyra, Marion County, Missouri. By the 1850s he had moved south to Dent County, which had been organized in 1851. The surname Kuthe proved difficult for English-speaking clerks, appearing in records variously as Kuethe, Küthe, Kuth, Kuthy, Koothe, and even "Kite."
 
 On January 19, 1868, Frederick married **Sarah Ann Patterson** (née Steagall) in Dent County.[^4] Sarah (born c. 1837) was a widow—her first husband had been a man named Patterson, and Steagall was her maiden name. The Dent County marriage register (Book A, 1851–1870) records the union of "KUTHE, GEORGE F." to "Sarah A. Patterson."[^5] The couple settled near Salem, the county seat.
+
+![The Kuthe homestead in the Missouri Ozarks](../../../images/bio/frederick-kuthe-02-homestead.jpg)
 
 Frederick and Sarah had six children who survived to adulthood: **William**, **Mary** (who married Louis Schmit), **George Washington Kuthe** (1869–1925), **Catherine**, **Susan**, and **Adam**.[^6] Their son George was born October 14, 1869, in Salem and would later migrate to Oregon and then Arizona.
 
