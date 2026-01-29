@@ -60,6 +60,22 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
 
+        img.float-right-sm {
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        img.float-left-sm {
+            float: left;
+            width: 33%;
+            margin: 0 1.5rem 1rem 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
         /* Clear floats after sections */
         h2, h3, hr {
             clear: both;
@@ -451,6 +467,82 @@
             }
         }
 
+        /* Location Aside - Horizontal variant (image left, text right) */
+        .location-aside-horizontal {
+            float: right;
+            width: 50%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 250, 245, 0.6) 0%,
+                rgba(250, 247, 240, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(212, 165, 116, 0.6);
+            border-radius: 4px;
+            font-size: 0.85rem;
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .location-aside-horizontal img {
+            flex: 1;
+            min-width: 0;
+            border-radius: 2px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+            align-self: flex-start;
+        }
+
+        .location-aside-horizontal .location-aside-content {
+            flex: 1.6;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .location-aside-horizontal .location-aside-title {
+            font-family: Georgia, serif;
+            font-size: 0.95rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.125rem;
+            line-height: 1.3;
+        }
+
+        .location-aside-horizontal .location-aside-date {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .location-aside-horizontal .location-aside-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        @media (max-width: 600px) {
+            .location-aside-horizontal {
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+                flex-direction: column;
+            }
+
+            .location-aside-horizontal img {
+                width: 100%;
+            }
+        }
+
+        @media print {
+            .location-aside-horizontal {
+                float: right;
+                width: 45%;
+                border-left: 1px solid #ccc;
+            }
+        }
+
         /* Back Navigation */
         .bio-nav {
             margin-bottom: 1.5rem;
@@ -480,18 +572,21 @@
 <nav class="bio-nav"><a href="../../../index.html">← Family Index</a></nav>
 <div class="bio-layout"><div class="bio-content"><h3><strong>James Fitzgerald (1828–1899)</strong></h3>
 <p><strong>Relationship:</strong> 3rd great-grandfather (Gleeson/Fitzgerald line)</p>
-<p><em>Irish Immigrant, Wisconsin Farmer</em></p>
-<p>James Fitzgerald was born in 1828 in Dromin/Athlacca, County Limerick, Ireland. He emigrated to the United States during or shortly after the Great Famine, likely in the early 1850s, joining the massive wave of Irish immigration that reshaped America in that era.</p>
-<aside class="location-aside">
+<aside class="location-aside-horizontal">
   <img src="../../../images/locations/croom-limerick-1864.png" alt="Croom, Co. Limerick, Ireland">
-  <div class="location-aside-title">Croom, Co. Limerick</div>
-  <div class="location-aside-date">Ireland, c. 1864</div>
-  <div class="location-aside-text">Market town on the River Maigue. The castle ruins and six-arch stone bridge would have been landmarks of James's youth.</div>
+  <div class="location-aside-content">
+    <div class="location-aside-title">Croom, Co. Limerick</div>
+    <div class="location-aside-date">Ireland, c. 1864</div>
+    <div class="location-aside-text">Market town on the River Maigue. The castle ruins and six-arch stone bridge would have been landmarks of James's youth.</div>
+  </div>
 </aside>
 
-<p><img src="../../../images/bio/james-fitzgerald-01-emigration.jpg" alt="The Fitzgerald family leaving County Limerick during the famine" /></p>
+<p><em>Irish Immigrant, Wisconsin Farmer</em></p>
+<p>James Fitzgerald was born in 1828 in Dromin/Athlacca, County Limerick, Ireland. He emigrated to the United States during or shortly after the Great Famine, likely in the early 1850s, joining the massive wave of Irish immigration that reshaped America in that era.</p>
 <p>On February 28, 1854, James married <strong>Margaret (Murtagh?)</strong>, also Irish-born. The couple settled in Sauk County, Wisconsin, where they established a farm near the town of Ironton. Like many Irish immigrants in the Upper Midwest, they found opportunity in the rich farmland of Wisconsin, far from the poverty and famine they had left behind.</p>
-<img src="../../../images/bio/james-fitzgerald-02-wisconsin.jpg" alt="The Fitzgerald farmstead in Wisconsin" class="float-left">
+<img src="../../../images/bio/james-fitzgerald-01-emigration.jpg" alt="The Fitzgerald family leaving County Limerick during the famine" class="float-left">
+
+<img src="../../../images/bio/james-fitzgerald-02-wisconsin.jpg" alt="The Fitzgerald farmstead in Wisconsin" class="float-right-sm">
 
 <p>James and Margaret raised their family in Sauk County through the 1860s and 1870s. The 1870 census shows them in Ironton with children William, John, Jane, and <strong>Maria Ann</strong> (born 1865)—all born in Wisconsin. By 1880, the family had relocated to Buffalo County, Wisconsin, settling in the Town of Naples. James's brother <strong>Richard Fitzgerald</strong> had also settled in Buffalo County, near Mondovi, suggesting a chain migration pattern common among Irish families.</p>
 <p>Their daughter Maria Ann Fitzgerald married <strong>James Joseph Gleeson</strong> in 1892, connecting the Fitzgerald family to the Gleeson line. Through Maria's daughter Anne Barbara Gleeson, this Irish heritage would eventually reach Arizona.</p>
