@@ -82,3 +82,14 @@ locations:
       Eder River valley, forested hills, church with onion dome,
       village square with fountain
     lighting: soft central European light
+
+  - place: Albany
+    region: Willamette Valley, Oregon
+    year: 1875
+    filename: albany-oregon-1875
+    status: done
+    scene: >
+      Pioneer town in Willamette Valley, wooden storefronts,
+      Willamette River, covered wagons, Cascade foothills,
+      fertile farmland
+    lighting: soft Pacific Northwest light
