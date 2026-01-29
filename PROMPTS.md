@@ -196,8 +196,8 @@ Format: Square aspect ratio, suitable for web use. The design should work both a
 
 ---
 
-### Irish Immigrants to Urban East Coast (1880s-1900s)
-*For: Laurence Higgins, Mary Knight*
+### Irish Immigrants to Urban East Coast (1880s-1900s) — Generic
+*Alternative for: Laurence Higgins, Mary Knight (see individual prompts below)*
 
 ```
 Create a vintage-style illustration representing Irish immigrant life in urban northeastern America during the 1880s-1900s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
@@ -212,6 +212,64 @@ Create a vintage-style illustration representing Irish immigrant life in urban n
 - Soft, aged appearance with slight sepia tones
 
 Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1880s-1900s urban Irish-American immigrant experience but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+---
+
+### Laurence Higgins - Dublin to Newark (1870s-1900s)
+*For: Laurence Higgins*
+
+```
+Create a vintage-style illustration representing Irish immigrant working-class life, specifically a Dublin-born porter in Newark, New Jersey during the 1870s-1900s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Newark industrial waterfront or rail yard setting
+- Working-class labor elements: cargo, crates, hand trucks, warehouse doorways
+- Georgian-style Dublin architecture as a faded background memory element
+- Factory smokestacks and brick warehouses typical of Newark
+- Horse-drawn freight wagons
+- Period working men's clothing (cap, vest, rolled sleeves)
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1870s-1900s Newark industrial working-class experience but remain legible and not too busy when used behind text.
+
+CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
+- Maintain the same vintage illustration style with sepia/aged tones
+- Use consistent warm, earthy color palette across all images
+- Keep the same level of detail and artistic approach
+- All graphics should complement each other as part of a cohesive genealogy research collection
+- Ensure typography and decorative elements (if any) match this historical aesthetic
+
+Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
+```
+
+---
+
+### Mary Knight - Sligo to New York (1880s-1900s)
+*For: Mary Knight*
+
+```
+Create a vintage-style illustration representing an Irish immigrant woman's journey from rural County Sligo to New York City in the 1880s-1900s. The design should be suitable for use as either a background element or icon in genealogy research reports. Include elements like:
+
+- Split composition: rural Irish west (thatched cottage, stone walls, green hills) fading into NYC tenement streetscape
+- Atlantic ocean or ship silhouette suggesting emigration journey
+- New York row houses or tenement buildings
+- Laundry lines, market baskets, domestic life elements
+- Church steeple suggesting Irish Catholic community
+- Perhaps Ellis Island or Statue of Liberty as distant silhouette
+- Warm, earthy color palette (browns, golds, muted greens)
+- Soft, aged appearance with slight sepia tones
+
+Style: Historical illustration with a clean, not overly detailed approach that works well as a background element. The design should feel authentic to the 1880s-1900s Irish immigrant woman's experience but remain legible and not too busy when used behind text.
 
 CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
 - Maintain the same vintage illustration style with sepia/aged tones
