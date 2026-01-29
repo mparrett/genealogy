@@ -9,8 +9,8 @@ location_aside:
   region: Ireland
   year: c. 1864
   image: locations/croom-limerick-1864.png
-  after_paragraph: 1
-  layout: horizontal
+  after_paragraph: 5
+  layout: vertical
   description: >
     Market town on the River Maigue. The castle ruins and
     six-arch stone bridge would have been landmarks of James's youth.
