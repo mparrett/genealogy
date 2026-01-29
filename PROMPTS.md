@@ -341,3 +341,51 @@ CONSISTENCY REQUIREMENTS (use for all genealogy graphics):
 
 Format: Square aspect ratio, suitable for web use. The design should work both as a subtle background and as a standalone decorative element.
 ```
+
+---
+
+## Inline Bio Illustrations
+
+These are watercolor-style illustrations embedded within biography reports.
+
+### Laurence Higgins - Dublin Emigration (1880s)
+*File: `images/bio/laurence-higgins-01-dublin-emigration.jpg`*
+
+```bash
+export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
+export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
+
+uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+  --prompt "Vintage watercolor illustration of Irish emigration from Dublin in the 1880s for genealogy report" \
+  --size 1024x1024 \
+  --out images/bio/laurence-higgins-01-dublin-emigration.png \
+  --scene "1880s Dublin quayside or Rathmines street, young Irish family departing for America, Georgian architecture, horse-drawn cart with belongings" \
+  --subject "Emigration scene, working-class Irish family leaving Dublin (no specific portraits)" \
+  --style "vintage watercolor illustration, soft washes, warm tones, lightly textured paper, period-appropriate" \
+  --composition "wide view showing departure scene, emotional but not overcrowded" \
+  --lighting "overcast Dublin daylight, soft diffused light" \
+  --palette "muted greens, warm browns, soft grays, touches of ochre" \
+  --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations" \
+  --negative "modern elements, bright colors, busy clutter, photorealistic"
+```
+
+### Laurence Higgins - Newark Porter (1890s-1900s)
+*File: `images/bio/laurence-higgins-02-newark-porter.jpg`*
+
+```bash
+export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
+export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
+
+uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+  --prompt "Vintage watercolor illustration of Irish immigrant porter working in Newark NJ in the 1890s-1900s for genealogy report" \
+  --size 1024x1024 \
+  --out images/bio/laurence-higgins-02-newark-porter.png \
+  --scene "1890s Newark industrial waterfront or warehouse district, Irish working-class neighborhood, brick buildings, cobblestone streets" \
+  --subject "Porter at work with hand truck and cargo, warehouse doorway, working-class labor scene (no specific portrait)" \
+  --style "vintage watercolor illustration, soft washes, warm tones, lightly textured paper, period-appropriate" \
+  --composition "focus on labor and urban industrial setting, human figure at work" \
+  --lighting "soft morning or afternoon light, industrial atmosphere" \
+  --palette "warm browns, brick reds, muted ochres, soft gray-blue shadows" \
+  --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations" \
+  --negative "modern elements, bright colors, busy clutter, photorealistic"
+```
