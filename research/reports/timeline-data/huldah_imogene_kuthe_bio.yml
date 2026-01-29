@@ -1,0 +1,23 @@
+name: Huldah Imogene (Bridgefarmer) Kuthe
+birth:
+  year: 1873
+  label: Born
+  location: Albany, OR
+death:
+  year: 1907
+  label: Died
+  location: Oregon
+events:
+  - year: 1892
+    label: Married George
+    type: marriage
+
+location_aside:
+  place: Albany, Willamette Valley
+  region: Oregon
+  year: c. 1875
+  image: locations/albany-oregon-1875.png
+  description: >
+    Imogene was born here just a generation after her grandparents
+    crossed the Oregon Trail. The fertile Willamette Valley shaped
+    her pioneer family's destiny.
