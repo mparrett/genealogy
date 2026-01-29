@@ -26,7 +26,16 @@ location_aside:
   region: Ireland
   year: c. 1870
   image: locations/rathmines-dublin-1870.png
+  after_paragraph: 1
   description: >
     Laurence was born and raised in this prosperous Dublin suburb,
     marrying both his wives at the Chapel of St. Mary's before
     emigrating to America in the 1880s.
+
+family_links:
+  - name: Mary Knight
+    relation: Wife
+    link: mary_knight_bio.html
+  - name: James Everett Higgins
+    relation: Son
+    link: james_everett_higgins_bio.html
