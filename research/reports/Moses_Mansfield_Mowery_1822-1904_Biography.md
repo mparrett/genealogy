@@ -3,9 +3,15 @@
 
 **Moses Mansfield Mowery** was born on **1 November 1822** in **Knox County, Tennessee**, likely the third of at least ten children born to **Lewis R. Mowery** and **Elizabeth "Betsy" Lisbee**[^1]. His middle name, *Mansfield*, was later passed down to one of his sons, suggesting family or ancestral significance.
 
-The Mowery family moved to **Bradley County, Tennessee** around 1837[^2], and Moses came of age there. In about **1845**, he married **Margaret Elizabeth Witt**, a Tennessee native[^3]. Together they began a large family and soon joined the westward migration to Texas. By 1853, they had passed briefly through Alabama and arrived in **Red River County, Texas**, settling on newly acquired farmland[^4].
+The Mowery family moved to **Bradley County, Tennessee** around 1837[^2], and Moses came of age there. In about **1845**, he married **Margaret Elizabeth Witt**, a Tennessee native[^3]. Together they began a large family and soon joined the westward migration to Texas.
+
+![The Mowery family's westward migration to Texas](../../../images/bio/moses-mowery-01-migration.jpg)
+
+By 1853, they had passed briefly through Alabama and arrived in **Red River County, Texas**, settling on newly acquired farmland[^4].
 
 Moses is listed among the **original landowners of Red River County**[^5], establishing himself as a farmer. The 1860 census shows him in Red River County with real estate and a growing family[^6]. Around 1870, Moses moved a few miles north to **Lamar County**, near the town of Milton, where he spent the rest of his life[^7]. He served as **postmaster of Milton** in the 1870s, a position later held by his son L. D. (Lewis Daily) Mowrey in the 1880s.
+
+![The Mowery homestead in the Texas Red River valley](../../../images/bio/moses-mowery-02-homestead.jpg)
 
 Moses and Margaret had **ten children**, many of whom carried family names[^8]:
 
