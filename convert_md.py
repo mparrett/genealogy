@@ -138,22 +138,22 @@ def convert_file(md_file_path, html_file_path):
         timeline_html = generate_timeline_html(timeline_data) if timeline_data else ""
         has_timeline = bool(timeline_data)
 
-        # Generate location aside if available - inject after 3rd paragraph
+        # Generate location aside if available - inject after Nth paragraph (default: 3)
         location_aside_html = generate_location_aside_html(timeline_data) if timeline_data else ""
         if location_aside_html:
-            # Find the 3rd </p> tag and inject after it
+            after_para = timeline_data.get('location_aside', {}).get('after_paragraph', 3)
             p_count = 0
             insert_pos = 0
             search_str = '</p>'
             pos = 0
-            while p_count < 3:
+            while p_count < after_para:
                 found = body_content.find(search_str, pos)
                 if found == -1:
                     break
                 p_count += 1
                 insert_pos = found + len(search_str)
                 pos = found + 1
-            if p_count >= 3:
+            if p_count >= after_para:
                 body_content = body_content[:insert_pos] + '\n' + location_aside_html + '\n' + body_content[insert_pos:]
 
         # Generate family links if available
@@ -219,6 +219,22 @@ def convert_file(md_file_path, html_file_path):
         img.float-left {{
             float: left;
             width: 50%;
+            margin: 0 1.5rem 1rem 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }}
+
+        img.float-right-sm {{
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }}
+
+        img.float-left-sm {{
+            float: left;
+            width: 33%;
             margin: 0 1.5rem 1rem 0;
             border-radius: 4px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
