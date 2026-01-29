@@ -14,7 +14,7 @@ After arriving in America, Frederick initially settled in Palmyra, Marion County
 
 On January 19, 1868, Frederick married **Sarah Ann Patterson** (née Steagall) in Dent County.[^4] Sarah (born c. 1837) was a widow—her first husband had been a man named Patterson, and Steagall was her maiden name. The Dent County marriage register (Book A, 1851–1870) records the union of "KUTHE, GEORGE F." to "Sarah A. Patterson."[^5] The couple settled near Salem, the county seat.
 
-![The Kuthe homestead in the Missouri Ozarks](../../../images/bio/frederick-kuthe-02-homestead.jpg)
+<img src="../../../images/bio/frederick-kuthe-02-homestead.jpg" alt="The Kuthe homestead in the Missouri Ozarks" class="float-right">
 
 Frederick and Sarah had six children who survived to adulthood: **William**, **Mary** (who married Louis Schmit), **George Washington Kuthe** (1869–1925), **Catherine**, **Susan**, and **Adam**.[^6] Their son George was born October 14, 1869, in Salem and would later migrate to Oregon and then Arizona.
 

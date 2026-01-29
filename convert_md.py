@@ -66,6 +66,28 @@ def convert_file(md_file_path, html_file_path):
             display: block;
             max-width: 100%;
         }}
+
+        /* Floating images for inline illustrations */
+        img.float-right {{
+            float: right;
+            width: 50%;
+            margin: 0 0 1rem 1.5rem;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }}
+
+        img.float-left {{
+            float: left;
+            width: 50%;
+            margin: 0 1.5rem 1rem 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }}
+
+        /* Clear floats after sections */
+        h2, h3, hr {{
+            clear: both;
+        }}
         
         input, button, textarea, select {{
             font: inherit;
