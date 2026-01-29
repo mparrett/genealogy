@@ -77,18 +77,31 @@ def generate_location_aside_html(data: dict) -> str:
     year = loc.get('year', '')
     image = loc.get('image', '')
     description = loc.get('description', '').strip()
+    layout = loc.get('layout', 'vertical')  # vertical (float) or horizontal (banner)
 
     # Image path is relative to images/ folder, need ../../../images/ from html/
     img_src = f"../../../images/{image}" if image else ""
 
-    lines = ['<aside class="location-aside">']
-    if img_src:
-        lines.append(f'  <img src="{img_src}" alt="{place}, {region}">')
-    lines.append(f'  <div class="location-aside-title">{place}</div>')
-    lines.append(f'  <div class="location-aside-date">{region}, {year}</div>')
-    if description:
-        lines.append(f'  <div class="location-aside-text">{description}</div>')
-    lines.append('</aside>')
+    if layout == 'horizontal':
+        lines = ['<aside class="location-aside-horizontal">']
+        if img_src:
+            lines.append(f'  <img src="{img_src}" alt="{place}, {region}">')
+        lines.append('  <div class="location-aside-content">')
+        lines.append(f'    <div class="location-aside-title">{place}</div>')
+        lines.append(f'    <div class="location-aside-date">{region}, {year}</div>')
+        if description:
+            lines.append(f'    <div class="location-aside-text">{description}</div>')
+        lines.append('  </div>')
+        lines.append('</aside>')
+    else:
+        lines = ['<aside class="location-aside">']
+        if img_src:
+            lines.append(f'  <img src="{img_src}" alt="{place}, {region}">')
+        lines.append(f'  <div class="location-aside-title">{place}</div>')
+        lines.append(f'  <div class="location-aside-date">{region}, {year}</div>')
+        if description:
+            lines.append(f'  <div class="location-aside-text">{description}</div>')
+        lines.append('</aside>')
 
     return '\n'.join(lines)
 
@@ -627,6 +640,82 @@ def convert_file(md_file_path, html_file_path):
             .location-aside {{
                 float: right;
                 width: 40%;
+                border-left: 1px solid #ccc;
+            }}
+        }}
+
+        /* Location Aside - Horizontal variant (image left, text right) */
+        .location-aside-horizontal {{
+            float: right;
+            width: 50%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 250, 245, 0.6) 0%,
+                rgba(250, 247, 240, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(212, 165, 116, 0.6);
+            border-radius: 4px;
+            font-size: 0.85rem;
+            display: flex;
+            gap: 0.75rem;
+        }}
+
+        .location-aside-horizontal img {{
+            flex: 1;
+            min-width: 0;
+            border-radius: 2px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+            align-self: flex-start;
+        }}
+
+        .location-aside-horizontal .location-aside-content {{
+            flex: 1.6;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }}
+
+        .location-aside-horizontal .location-aside-title {{
+            font-family: Georgia, serif;
+            font-size: 0.95rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.125rem;
+            line-height: 1.3;
+        }}
+
+        .location-aside-horizontal .location-aside-date {{
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }}
+
+        .location-aside-horizontal .location-aside-text {{
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }}
+
+        @media (max-width: 600px) {{
+            .location-aside-horizontal {{
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+                flex-direction: column;
+            }}
+
+            .location-aside-horizontal img {{
+                width: 100%;
+            }}
+        }}
+
+        @media print {{
+            .location-aside-horizontal {{
+                float: right;
+                width: 45%;
                 border-left: 1px solid #ccc;
             }}
         }}
