@@ -118,10 +118,11 @@ Extracted from Ancestry profile exports (Jan 2025).
 - Residence during service: Langhan Hotel, Spokane, WA
 - Discharged: 9 June 1919
 
-### First Marriage (?)
+### First Marriage (?) — LIKELY DIFFERENT PERSON
 - c. 1914 in Spokane, Washington
 - Wife: "? Higgins" (1895–) — name unknown
 - 1916: "Muellers of Butte host Mrs. James E. Higgins"
+- **Note:** Another James E. Higgins was active in Montana at this time. The 1916 society column reference is likely a different person. No family knowledge of a first marriage. Excluded from biography.
 
 ### Second Marriage
 - **Wife:** Doris Pauline Kuthe (1902–1996)
@@ -158,7 +159,7 @@ Extracted from Ancestry profile exports (Jan 2025).
 | James E. birth date | 1892 | 2 Feb 1892 |
 | James E. middle name | "E" unknown | Everett |
 | James E. death | 1938 | 6 Jul 1938, suicide in SF jail |
-| James E. previous marriage | Unknown | c. 1914 Spokane |
+| James E. previous marriage | Unknown | c. 1914 Spokane (likely different person) |
 | James & Doris | Married | Married 1926, divorced 1928-30 |
 | Howard's birth | Unknown | 15 Sep 1927, Tucson |
 
