@@ -413,7 +413,7 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 ```
 
 ### James E. Higgins - Railroad Engineer (1910s-1920s)
-*File: `images/bio/james-e-higgins-02-railroad.jpg`*
+*File: `images/bio/james-e-higgins-02-railroad.png`*
 
 ```bash
 export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
@@ -431,4 +431,25 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
   --palette "warm earth tones, granite grays, pine greens, golden California light, soft blue sky" \
   --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations" \
   --negative "modern elements, bright colors, busy clutter, photorealistic"
+```
+
+### James E. Higgins - Treasure Island / WPA Legacy (1936-37)
+*File: `images/bio/james-e-higgins-03-treasure-island.png`*
+
+```bash
+export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
+export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
+
+uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+  --prompt "Vintage watercolor illustration of Treasure Island construction in San Francisco Bay, 1930s WPA engineering project, for genealogy report" \
+  --size 1024x1024 \
+  --out images/bio/james-e-higgins-03-treasure-island.png \
+  --scene "1936-37 Treasure Island construction site in San Francisco Bay, Golden Gate Bridge visible in distance, cranes and dredging equipment, engineers surveying the man-made island" \
+  --subject "WPA engineering project at dusk or dawn, workers and engineers silhouetted against the bay, sense of monumental achievement and bittersweet legacy (no specific portraits)" \
+  --style "vintage watercolor illustration, soft washes, warm tones mixed with cool bay blues, lightly textured paper, period-appropriate, contemplative mood" \
+  --composition "wide view of construction with San Francisco Bay and bridge in background, human figures small against grand engineering scale, hopeful yet melancholic atmosphere" \
+  --lighting "golden hour light, sun setting or rising over the bay, long shadows, reflections on water" \
+  --palette "warm golds and oranges, soft blues of bay and sky, steel grays of construction, touches of green" \
+  --constraints "no text, no logos, no watermark; poignant/contemplative tone; cohesive with existing genealogy bio illustrations" \
+  --negative "modern elements, bright colors, busy clutter, photorealistic, cheerful or festive tone"
 ```

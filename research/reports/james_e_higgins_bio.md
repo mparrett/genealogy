@@ -22,11 +22,15 @@ James married **Doris Pauline Kuthe** on November 6, 1926, in Phoenix, Arizona. 
 
 Their son **Howard Robert Higgins** was born on September 15, 1927, in Tucson. But the marriage was short-lived. Doris, an ambitious young teacher building a career in Arizona's early education system, filed for divorce in December 1928. The divorce was finalized by 1930, with Doris living in Buckeye and working as a teacher. She remained close with the Birch family, friends who would later play an important role in young Howard's life.
 
-James returned to California, continuing his railroad work and trying to make ends meet through the lean years of the Depression. By 1932, legal judgments had been filed against him—signs of the financial troubles that plagued many during that era. He lived at various San Francisco addresses, including 516 O'Farrell Street.
+James returned to California, continuing his railroad work and trying to make ends meet through the lean years of the Depression. By 1932, legal judgments had been filed against him—signs of the financial troubles that plagued many during that era. He lived at various San Francisco addresses, including 516 O'Farrell Street. In his final years, James found work with the WPA on one of the era's most ambitious engineering projects: the construction of Treasure Island in San Francisco Bay, a man-made island built for the 1939 Golden Gate International Exposition.
+
+<img src="../../../images/bio/james-e-higgins-03-treasure-island.png" alt="Treasure Island construction in San Francisco Bay, 1930s" class="float-right">
 
 On July 6, 1938, James Everett Higgins died in San Francisco at age forty-six. He was found in a "lodger's cell" at the city jail—not incarcerated, but using the free overnight shelter the jail provided for men who had nowhere else to go. Newspapers reported he had recently paid off his debts before taking his own life. As a veteran, he was buried two days later with military honors.
 
 James Higgins's life traced an arc familiar to many of his generation: from immigrant roots and childhood hardship, through self-made success in the booming industries of the American West, to the crushing weight of the Great Depression. Though he did not live to see his son grow up, Howard would carry forward the connection to Arizona that James's brief marriage to Doris had established—though raised by the Birch family, with the Higgins name a quiet part of his heritage discovered only by later generations. Howard married Patricia Anne Mowrey, a descendant of the Gleeson and Mowery lines, weaving together family threads that continue today.
+
+James's legacy as an engineer echoed through the generations. Howard became an electrical engineer; his son Mike combined talents in music and computing; and later descendants would carry the technical tradition forward into software engineering—a through-line from the railroad surveys of the 1910s to the digital age.
 
 ---
 
@@ -41,6 +45,7 @@ James Higgins's life traced an arc familiar to many of his generation: from immi
 - Marriage to Doris Pauline Kuthe: 6 Nov 1926, Phoenix, Arizona.
 - Son Howard Robert Higgins born 15 Sep 1927, Tucson.
 - Divorce filed Dec 1928; finalized by April 1930.
+- WPA work on Treasure Island construction (1936-37) per family knowledge.
 - Death: 6 July 1938, San Francisco; buried 8 July 1938. Newspaper accounts: "Veteran Pays Debts, Hangs Himself in Cell" / "Lodger Hangs Self in Jail."
 - The jail "lodger's cell" was a free overnight shelter for indigent men, not a place of incarceration.
 - Burial location and veteran headstone details need verification.
