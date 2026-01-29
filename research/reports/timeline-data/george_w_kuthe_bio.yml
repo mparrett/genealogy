@@ -1,0 +1,26 @@
+name: George Washington Kuthe
+birth:
+  year: 1869
+  label: Born
+  location: Salem, MO
+death:
+  year: 1925
+  label: Died
+  location: Arizona
+events:
+  - year: 1891
+    label: Married Huldah
+    type: marriage
+  - year: 1907
+    label: Moved to Arizona
+    type: migration
+
+location_aside:
+  place: Vöhl, Hesse
+  region: Germany
+  year: c. 1850
+  image: locations/vohl-hesse-1850.png
+  description: >
+    George's father Frederick emigrated from this German village
+    in 1845. The Kuthe family roots in the Eder valley shaped
+    their identity even generations later.

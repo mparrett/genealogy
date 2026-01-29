@@ -1,0 +1,36 @@
+name: James Fitzgerald
+birth:
+  year: 1828
+  label: Born
+  location: Limerick, Ireland
+
+location_aside:
+  place: Croom, Co. Limerick
+  region: Ireland
+  year: c. 1864
+  image: locations/croom-limerick-1864.png
+  description: >
+    Market town on the River Maigue. The castle ruins and
+    six-arch stone bridge would have been landmarks of James's youth.
+death:
+  year: 1899
+  label: Died
+  location: Mondovi, WI
+events:
+  - year: 1851
+    label: Emigrated
+    type: migration
+  - year: 1854
+    label: Married Margaret
+    type: marriage
+  - year: 1865
+    label: Maria Ann born
+    type: child
+
+family_links:
+  - name: James J. Gleeson
+    relation: Son-in-law
+    link: james_j_gleeson_bio.html
+  - name: Anne Barbara Gleeson
+    relation: Granddaughter
+    link: anne_barbara_gleeson_bio.html

@@ -1,0 +1,23 @@
+name: Pleasant A. Mowrey
+birth:
+  year: 1825
+  label: Born
+  location: Tennessee
+death:
+  year: 1890
+  label: Died
+  location: Texas
+events:
+  - year: 1850
+    label: Moved to Texas
+    type: migration
+
+location_aside:
+  place: Knox County
+  region: Tennessee
+  year: c. 1820
+  image: locations/knox-county-tn-1820.png
+  description: >
+    Pleasant grew up in the Tennessee frontier alongside his
+    siblings, before following the family migration to Texas
+    in search of new opportunities.

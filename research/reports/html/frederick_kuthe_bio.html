@@ -38,6 +38,11 @@
             max-width: 100%;
         }
 
+        /* Full-width images clear floats */
+        img:not(.float-right):not(.float-left) {
+            clear: both;
+        }
+
         /* Floating images for inline illustrations */
         img.float-right {
             float: right;
@@ -234,25 +239,231 @@
                 box-shadow: none;
                 border-radius: 0;
             }
-            
+
             a {
                 color: #000;
                 text-decoration: underline;
                 background: none;
             }
-            
+
             .footnotes {
                 background: #fff;
                 border: 1px solid #ccc;
+            }
+
+            .bio-timeline {
+                display: none;
+            }
+        }
+
+        /* Timeline Sidebar */
+        .bio-layout {
+            position: relative;
+        }
+
+        .bio-timeline {
+            position: fixed;
+            top: 2rem;
+            left: calc(50% + 420px);
+            width: 175px;
+            padding: 1.25rem 1.5rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 252, 250, 0.97) 0%,
+                rgba(252, 250, 245, 0.95) 50%,
+                rgba(250, 248, 242, 0.97) 100%
+            );
+            border: 1px solid var(--border-light);
+            border-radius: 6px;
+            font-size: 0.85rem;
+            box-shadow: 0 2px 12px rgba(122, 58, 15, 0.06);
+        }
+
+        .timeline-event {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .timeline-year {
+            font-family: Georgia, serif;
+            font-weight: 500;
+            color: var(--primary);
+            min-width: 2.5rem;
+        }
+
+        .timeline-marker {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--accent);
+            border: 2px solid var(--primary);
+            flex-shrink: 0;
+        }
+
+        .timeline-marker--major {
+            width: 10px;
+            height: 10px;
+            background: var(--primary);
+        }
+
+        .timeline-label {
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            line-height: 1.3;
+        }
+
+        .timeline-line {
+            width: 2px;
+            height: 1rem;
+            background: linear-gradient(180deg, var(--border-light) 0%, var(--accent) 50%, var(--border-light) 100%);
+            margin-left: calc(2.5rem + 0.5rem + 3px);
+            opacity: 0.6;
+        }
+
+        @media (max-width: 1100px) {
+            .bio-timeline {
+                display: none;
+            }
+        }
+
+        /* Family Links */
+        .family-links {
+            margin: 2rem 0;
+        }
+
+        .family-links-title {
+            font-family: Georgia, serif;
+            font-size: 1rem;
+            color: var(--text-muted);
+            font-weight: 400;
+            margin-bottom: 1rem;
+            letter-spacing: 0.5px;
+        }
+
+        .family-links-grid {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .family-link-card {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            text-align: center;
+            width: 140px;
+            padding: 0.875rem 1rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 252, 250, 0.97) 0%,
+                rgba(250, 248, 242, 0.95) 100%
+            );
+            border: 1px solid var(--border-light);
+            border-radius: 6px;
+            text-decoration: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            overflow: hidden;
+        }
+
+        .family-link-card:hover {
+            border-color: var(--accent);
+            box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1);
+            background-size: 100% 0;
+        }
+
+        .family-link-name {
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            color: var(--primary);
+            line-height: 1.25;
+            font-weight: 500;
+            position: relative;
+        }
+
+        .family-link-relation {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+            position: relative;
+        }
+
+        /* Location Aside */
+        .location-aside {
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 250, 245, 0.6) 0%,
+                rgba(250, 247, 240, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(212, 165, 116, 0.6);
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+
+        .location-aside img {
+            width: 100%;
+            border-radius: 2px;
+            margin-bottom: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }
+
+        .location-aside-title {
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.125rem;
+            line-height: 1.3;
+        }
+
+        .location-aside-date {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .location-aside-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        @media (max-width: 600px) {
+            .location-aside {
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+            }
+        }
+
+        @media print {
+            .location-aside {
+                float: right;
+                width: 40%;
+                border-left: 1px solid #ccc;
             }
         }
     </style>
 </head>
 <body>
-<h3><strong>Frederick Kuthe (c. 1822–1900)</strong></h3>
+<div class="bio-layout"><div class="bio-content"><h3><strong>Frederick Kuthe (c. 1822–1900)</strong></h3>
 <p><strong>Relationship:</strong> 3rd great-grandfather (Kuthe line)</p>
 <p><em>German Immigrant, Missouri Farmer</em></p>
 <p>Frederick Kuthe (also recorded as George Frederick Kuthe) was born around 1822 in or near Vöhl, in the Waldeck region of Hesse, Germany. Family tradition names his father as Andreas Kuthe (born c. 1798 in Hesse), though this remains unverified.<sup class="footnote-ref" id="fnref-1"><a href="#fn-1">1</a></sup></p>
+<aside class="location-aside">
+  <img src="../../../images/locations/vohl-hesse-1850.png" alt="Vöhl, Hesse, Germany">
+  <div class="location-aside-title">Vöhl, Hesse</div>
+  <div class="location-aside-date">Germany, c. 1850</div>
+  <div class="location-aside-text">Frederick's birthplace in the Waldeck region. The village of half-timbered houses in the Eder valley was home before he sailed from Bremen to New Orleans in 1845.</div>
+</aside>
+
 <p><img src="../../../images/bio/frederick-kuthe-01-voyage.jpg" alt="The Kuthe family's 1845 voyage from Bremen to New Orleans" /></p>
 <p>In June 1845, Frederick emigrated from Germany as part of a larger Kuthe family group. A passenger manifest for the ship <em>Olbers</em>, sailing from Bremen to New Orleans, lists a Küthe family from Vöhl that included an 18-year-old &quot;Friederich&quot; along with siblings—most notably a sister Maria (age 20), who later appeared in American records as Mary C. Kuthe.<sup class="footnote-ref" id="fnref-2"><a href="#fn-2">2</a></sup> A biography of Louis Schleicher, a baker in Lancaster, Ohio, confirms that he married &quot;Miss Mary C. Kuthe, who was born in Germany in 1824, and came to America in 1845&quot;—strong evidence that Frederick and Mary were siblings who immigrated together.<sup class="footnote-ref" id="fnref-3"><a href="#fn-3">3</a></sup></p>
 <p>After arriving in America, Frederick initially settled in Palmyra, Marion County, Missouri. By the 1850s he had moved south to Dent County, which had been organized in 1851. The surname Kuthe proved difficult for English-speaking clerks, appearing in records variously as Kuethe, Küthe, Kuth, Kuthy, Koothe, and even &quot;Kite.&quot;</p>
@@ -277,6 +488,30 @@
 <li id="fn-8"><p>Local records and family sources; Frederick is absent from the 1900 census, consistent with a February 1900 death.<a href="#fnref-8" class="footnote">&#8617;</a></p></li>
 </ol>
 </section>
-
+</div><aside class="bio-timeline">
+  <div class="timeline-event">
+    <span class="timeline-year">1822</span>
+    <span class="timeline-marker timeline-marker--major"></span>
+    <span class="timeline-label">Born</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1845</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Emigrated</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1868</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Married Sarah Ann</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1900</span>
+    <span class="timeline-marker timeline-marker--major"></span>
+    <span class="timeline-label">Died</span>
+  </div>
+</aside></div>
 </body>
 </html>

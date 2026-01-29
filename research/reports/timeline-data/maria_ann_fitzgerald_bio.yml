@@ -1,0 +1,22 @@
+name: Maria Ann Fitzgerald
+birth:
+  year: 1865
+  label: Born
+  location: Ironton, WI
+death:
+  year: 1916
+  label: Died
+  location: Wisconsin
+events:
+  - year: 1892
+    label: Married James Gleeson
+    type: marriage
+
+location_aside:
+  place: Mondovi, Buffalo County
+  region: Wisconsin
+  year: c. 1890
+  image: locations/mondovi-wisconsin-1890.png
+  description: >
+    Maria settled here after marrying James Gleeson in 1892.
+    This small dairy farming town was home to many Irish immigrant families.

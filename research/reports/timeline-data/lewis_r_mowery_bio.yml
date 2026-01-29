@@ -1,0 +1,26 @@
+name: Lewis R. Mowery
+birth:
+  year: 1801
+  label: Born
+  location: Knox County, TN
+death:
+  year: 1870
+  label: Died
+  location: Texas
+events:
+  - year: 1819
+    label: Married Elizabeth
+    type: marriage
+  - year: 1850
+    label: Moved to Texas
+    type: migration
+
+location_aside:
+  place: Knox County
+  region: Tennessee
+  year: c. 1820
+  image: locations/knox-county-tn-1820.png
+  description: >
+    Lewis was born here to Pennsylvania German parents who had
+    settled in the Appalachian foothills. The Smoky Mountains
+    rose in the distance beyond the family homestead.
