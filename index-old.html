@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genealogy Resources</title>
+    <style>
+        /* CSS Custom Properties */
+        :root {
+            --primary: #7a3a0f;        /* Rich brown - evokes old documents */
+            --secondary: #2c5530;      /* Deep forest green */
+            --accent: #d4a574;         /* Warm gold */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #fefefe;
+            --paper: #fcfcfc;          /* Slight warmth */
+            --border-light: #e8e5e0;
+            --footnote-red: #c53030;   /* Warmer red */
+        }
+
+        /* Modern CSS Reset */
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+
+        * {
+            margin: 0;
+        }
+
+        body {
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        img, picture, video, canvas, svg {
+            display: block;
+            max-width: 100%;
+        }
+
+        input, button, textarea, select {
+            font: inherit;
+        }
+
+        /* Base Typography */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background-color: var(--background);
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            line-height: 1.5;
+            color: var(--primary);
+        }
+
+        strong {
+            font-weight: 600;
+            color: var(--primary);
+        }
+
+        em {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+
+        /* Base Link Styling */
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+            background-image: linear-gradient(120deg, transparent 0%, var(--accent) 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0px;
+            background-position: 0 88%;
+            transition: background-size 0.25s ease-in;
+        }
+
+        a:hover {
+            background-size: 100% 3px;
+        }
+
+        /* Page-specific styles */
+        body {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
+            min-height: 100vh;
+        }
+        
+        .header {
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .header h1 {
+            margin-bottom: 0.5rem;
+        }
+        
+        .header p {
+            color: var(--text-secondary);
+            margin: 0;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        
+        .section h2 {
+            margin-bottom: 1rem;
+        }
+
+        /* Branch accordion */
+        .branch-section {
+            margin-bottom: 20px;
+            border: 1px solid var(--border-light);
+            border-radius: 10px;
+            background: var(--paper);
+            box-shadow: 0 2px 8px rgba(122, 58, 15, 0.06);
+            overflow: hidden;
+        }
+
+        .branch-section summary {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 14px 16px;
+            cursor: pointer;
+            font-weight: 600;
+            color: var(--primary);
+            background: linear-gradient(120deg, rgba(122, 58, 15, 0.08) 0%, rgba(212, 165, 116, 0.12) 100%);
+            list-style: none;
+            position: relative;
+        }
+
+        .branch-section summary::-webkit-details-marker {
+            display: none;
+        }
+
+        .branch-indicator {
+            font-size: 16px;
+            transition: transform 0.2s ease;
+            color: var(--secondary);
+        }
+
+        .branch-section[open] .branch-indicator {
+            transform: rotate(90deg);
+        }
+
+        .branch-summary-text {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .branch-title {
+            font-size: 1.05rem;
+        }
+
+        .branch-content {
+            padding: 12px 16px 16px;
+        }
+        
+        .report-item {
+            border: 1px solid var(--border-light);
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            background-color: var(--paper);
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
+            box-shadow: 0 2px 8px rgba(122, 58, 15, 0.06);
+            transition: box-shadow 0.2s ease;
+        }
+        
+        .report-item:hover {
+            box-shadow: 0 4px 16px rgba(122, 58, 15, 0.1);
+        }
+        
+        .report-image {
+            flex-shrink: 0;
+            width: 128px;
+            height: 128px;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            border-radius: 8px;
+            position: relative;
+            opacity: 0.8;
+        }
+        
+        .report-image.moses {
+            background-image: url('images/thumbs/texas-farming-1820-1830.jpg');
+        }
+        
+        .report-image.george {
+            background-image: url('images/thumbs/george-kuthe-migration.jpg');
+        }
+        
+        .report-image.huldah {
+            background-image: url('images/thumbs/huldah-oregon-pioneer.jpg');
+        }
+
+        .report-image.jgleeson {
+            background-image: url('images/thumbs/james-gleeson-mondovi.jpg');
+        }
+        
+        .report-image.lewis {
+            background-image: url('images/thumbs/tennessee-pioneer.jpg');
+        }
+
+        .report-image.elizabeth {
+            background-image: url('images/thumbs/tennessee-pioneer.jpg');
+        }
+
+        .report-image.pleasant {
+            background-image: url('images/thumbs/texas-farming-1820-1830.jpg');
+        }
+
+        .report-image.raymond {
+            background-image: url('images/thumbs/williams-arizona-route66.jpg');
+        }
+
+        .report-image.samuel {
+            background-image: url('images/thumbs/texas-farming-1820-1830.jpg');
+        }
+
+        .report-image.fkuthe {
+            background-image: url('images/thumbs/george-kuthe-migration.jpg');
+        }
+
+        .report-image.mfitzgerald {
+            background-image: url('images/thumbs/wisconsin-irish-farming.jpg');
+        }
+
+        .report-image.jfitzgerald {
+            background-image: url('images/thumbs/wisconsin-irish-farming.jpg');
+        }
+
+        .report-image.agleeson {
+            background-image: url('images/thumbs/wisconsin-irish-farming.jpg');
+        }
+
+        .report-image.lhiggins {
+            background-image: url('images/thumbs/laurence-higgins-newark.jpg');
+        }
+
+        .report-image.mknight {
+            background-image: url('images/thumbs/mary-knight-sligo-nyc.jpg');
+        }
+
+        .report-image.jehiggins {
+            background-image: url('images/thumbs/railroad-wwi-era.jpg');
+        }
+        
+        .report-image::after {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 32px;
+            font-weight: 500;
+            color: rgba(255, 255, 255, 0.9);
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        
+        .report-image.moses::after {
+            content: 'MM';
+        }
+        
+        .report-image.george::after {
+            content: 'GK';
+        }
+
+        .report-image.fkuthe::after {
+            content: 'FK';
+        }
+        
+        .report-image.huldah::after {
+            content: 'HB';
+        }
+        
+        .report-image.lewis::after {
+            content: 'LM';
+        }
+        
+        .report-image.elizabeth::after {
+            content: 'EL';
+        }
+        
+        .report-image.pleasant::after {
+            content: 'PM';
+        }
+
+        .report-image.raymond::after {
+            content: 'RM';
+        }
+
+        .report-image.samuel::after {
+            content: 'SM';
+        }
+
+        .report-image.jgleeson::after {
+            content: 'JG';
+        }
+
+        .report-image.mfitzgerald::after {
+            content: 'MF';
+        }
+
+        .report-image.jfitzgerald::after {
+            content: 'JF';
+        }
+
+        .report-image.agleeson::after {
+            content: 'AG';
+        }
+
+        .report-image.lhiggins::after {
+            content: 'LH';
+        }
+
+        .report-image.mknight::after {
+            content: 'MK';
+        }
+
+        .report-image.jehiggins::after {
+            content: 'JH';
+        }
+        
+        .report-content {
+            flex: 1;
+        }
+        
+        .report-image-link {
+            text-decoration: none;
+            display: block;
+            transition: opacity 0.2s ease;
+            background: none;
+        }
+        
+        .report-image-link:hover {
+            opacity: 0.9;
+            background: none;
+        }
+        
+        .report-title {
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+        
+        .report-date {
+            color: var(--text-muted);
+            font-size: 0.9em;
+            margin-bottom: 0.75rem;
+        }
+        
+        .report-content p {
+            margin-bottom: 0.75rem;
+        }
+        
+        .report-content a {
+            font-weight: 500;
+        }
+
+        .relationship-badge {
+            display: inline-block;
+            background-color: var(--accent);
+            color: var(--primary);
+            font-size: 0.75em;
+            font-weight: 600;
+            padding: 2px 8px;
+            border-radius: 12px;
+            margin-bottom: 0.5rem;
+        }
+
+        .relationship-badge.collateral {
+            background-color: var(--border-light);
+            color: var(--text-secondary);
+        }
+
+        .branch-subtitle {
+            color: var(--text-muted);
+            font-size: 0.9em;
+            font-weight: normal;
+            margin-left: 0.5rem;
+        }
+
+        /* Family Tree Resources styling */
+        .section p {
+            margin-bottom: 1rem;
+        }
+        
+        /* Mobile responsive */
+        @media (max-width: 600px) {
+            body {
+                padding: 1rem;
+            }
+            
+            .report-item {
+                flex-direction: column;
+                gap: 15px;
+            }
+            
+            .report-image {
+                width: 100px;
+                height: 100px;
+                align-self: center;
+            }
+            
+            .report-image::after {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Genealogy Resources</h1>
+        <p>Research and reports documenting family history and lineage</p>
+    </div>
+
+    <details class="section branch-section" id="mowery-line">
+        <summary>
+            <span class="branch-indicator">▸</span>
+            <span class="branch-summary-text">
+                <span class="branch-title">Mowery Line</span>
+                <span class="branch-subtitle">Tennessee → Texas → Arizona</span>
+            </span>
+        </summary>
+        <div class="branch-content">
+            <div class="report-item">
+                <a href="research/reports/html/lewis_r_mowery_bio.html" class="report-image-link">
+                    <div class="report-image lewis"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge">4th Great-Grandfather</span>
+                    <div class="report-title">Lewis R. Mowery (c. 1801–c. 1850)</div>
+                    <p>Tennessee Pioneer, Farmer, Family Patriarch</p>
+                    <a href="research/reports/html/lewis_r_mowery_bio.html">Biography</a>
+                </div>
+            </div>
+            <div class="report-item">
+                <a href="research/reports/html/elizabeth_lusby_mowery_bio.html" class="report-image-link">
+                    <div class="report-image elizabeth"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge">4th Great-Grandmother</span>
+                    <div class="report-title">Elizabeth "Betsy" Lisbee Mowery (c. 1806–1859)</div>
+                    <p>Tennessee Native, Pioneer Wife, Maternal Matriarch</p>
+                    <a href="research/reports/html/elizabeth_lusby_mowery_bio.html">Biography</a>
+                </div>
+            </div>
+            <div class="report-item">
+                <a href="research/reports/html/Moses_Mansfield_Mowery_1822-1904_Biography.html" class="report-image-link">
+                    <div class="report-image moses"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge">3rd Great-Grandfather</span>
+                    <div class="report-title">Moses Mansfield Mowery (1822–1904)</div>
+                    <p>Tennessee Farmer, Texas Pioneer, Red River County Founder</p>
+                    <a href="pdf/Moses_Mansfield_Mowery_1822-1904_Lineage_Confirmation.pdf" target="_blank">View Report (PDF)</a> |
+                    <a href="research/reports/html/Moses_Mansfield_Mowery_1822-1904_Biography.html">Biography</a>
+                </div>
+            </div>
+            <div class="report-item">
+                <a href="research/reports/html/samuel_s_mowrey_bio.html" class="report-image-link">
+                    <div class="report-image samuel"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge">2nd Great-Grandfather</span>
+                    <div class="report-title">Samuel S. Mowrey (1867–1904)</div>
+                    <p>Texas Farmer, Father of Four, Gone Too Soon</p>
+                    <a href="research/reports/html/samuel_s_mowrey_bio.html">Biography</a>
+                </div>
+            </div>
+            <div class="report-item">
+                <a href="research/reports/html/raymond_robert_mowrey_bio.html" class="report-image-link">
+                    <div class="report-image raymond"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge">Great-Grandfather</span>
+                    <div class="report-title">Raymond Robert Mowrey (1899–1973)</div>
+                    <p>Texas-Born, Arizona-Made, A Pillar of Williams</p>
+                    <a href="research/reports/html/raymond_robert_mowrey_bio.html">Biography</a>
+                </div>
+            </div>
+            <div class="report-item">
+                <a href="research/reports/html/pleasant_a_mowrey_bio.html" class="report-image-link">
+                    <div class="report-image pleasant"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge collateral">3rd Great-Granduncle</span>
+                    <div class="report-title">Pleasant A. Mowrey (c. 1820s–1830s)</div>
+                    <p>Tennessee Native, Texas Pioneer — brother of Moses Mansfield Mowery</p>
+                    <a href="research/reports/html/pleasant_a_mowrey_bio.html">Biography</a>
+                </div>
+            </div>
+        </div>
+    </details>
+
+    <details class="section branch-section" id="kuthe-line">
+        <summary>
+            <span class="branch-indicator">▸</span>
+            <span class="branch-summary-text">
+                <span class="branch-title">Kuthe Line</span>
+                <span class="branch-subtitle">Missouri → Oregon → Arizona</span>
+            </span>
+        </summary>
+        <div class="branch-content">
+            <div class="report-item">
+                <a href="research/reports/html/george_w_kuthe_bio.html" class="report-image-link">
+                    <div class="report-image george"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge">2nd Great-Grandfather</span>
+                    <div class="report-title">George Washington Kuthe (1869–1925)</div>
+                    <p>Farmer, Pioneer Descendant, German-American Migrant</p>
+                    <a href="pdf/Genealogical_and_Historical_Records_of_the_Bond_Hayes_Bridgefarmer_and_Kuthe_Families.pdf" target="_blank">View Report (PDF)</a> |
+                    <a href="research/reports/html/george_w_kuthe_bio.html">Biography</a>
+                </div>
+            </div>
+            <div class="report-item">
+                <a href="research/reports/html/huldah_imogene_kuthe_bio.html" class="report-image-link">
+                    <div class="report-image huldah"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge">2nd Great-Grandmother</span>
+                    <div class="report-title">Huldah Imogene (Bridgefarmer) Kuthe (1873–1907)</div>
+                    <p>Oregon Native, Pioneer Descendant, Early 20th Century Farm Wife</p>
+                    <a href="pdf/Genealogical_and_Historical_Records_of_the_Bond_Hayes_Bridgefarmer_and_Kuthe_Families.pdf" target="_blank">View Report (PDF)</a> |
+                    <a href="research/reports/html/huldah_imogene_kuthe_bio.html">Biography</a>
+                </div>
+            </div>
+            <div class="report-item">
+                <a href="research/reports/html/frederick_kuthe_bio.html" class="report-image-link">
+                    <div class="report-image fkuthe"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge">3rd Great-Grandfather</span>
+                    <div class="report-title">Frederick Kuthe (c. 1822–1900)</div>
+                    <p>German Immigrant, Missouri Farmer</p>
+                    <a href="research/reports/html/frederick_kuthe_bio.html">Biography</a>
+                </div>
+            </div>
+        </div>
+    </details>
+
+    <details class="section branch-section" id="gleeson-line">
+        <summary>
+            <span class="branch-indicator">▸</span>
+            <span class="branch-summary-text">
+                <span class="branch-title">Gleeson/Fitzgerald Line</span>
+                <span class="branch-subtitle">Ireland → Wisconsin → Arizona</span>
+            </span>
+        </summary>
+        <div class="branch-content">
+            <div class="report-item">
+                <a href="research/reports/html/james_j_gleeson_bio.html" class="report-image-link">
+                    <div class="report-image jgleeson"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge">2nd Great-Grandfather</span>
+                    <div class="report-title">James J. Gleeson (1863–1946)</div>
+                    <p>Born Croom, Co. Limerick; Farmer, Mondovi, WI</p>
+                    <a href="research/reports/html/james_j_gleeson_bio.html">Biography</a>
+                </div>
+            </div>
+            <div class="report-item">
+                <a href="research/reports/html/maria_ann_fitzgerald_bio.html" class="report-image-link">
+                    <div class="report-image mfitzgerald"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge">2nd Great-Grandmother</span>
+                    <div class="report-title">Maria Ann Fitzgerald (1865–1916)</div>
+                    <p>Wisconsin Native, Daughter of Irish Immigrants</p>
+                    <a href="research/reports/html/maria_ann_fitzgerald_bio.html">Biography</a>
+                </div>
+            </div>
+            <div class="report-item">
+                <div class="report-image agleeson"></div>
+                <div class="report-content">
+                    <span class="relationship-badge">Great-Grandmother</span>
+                    <div class="report-title">Anne B. Gleeson (1903–1986)</div>
+                    <p>Born Mondovi, Wisconsin; married 1921, moved to Arizona</p>
+                </div>
+            </div>
+            <div class="report-item">
+                <a href="research/reports/html/james_fitzgerald_bio.html" class="report-image-link">
+                    <div class="report-image jfitzgerald"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge">3rd Great-Grandfather</span>
+                    <div class="report-title">William (James) Fitzgerald (1828–1899)</div>
+                    <p>Born Dromin-Athlacca, Co. Limerick; Wisconsin Farmer</p>
+                    <a href="research/reports/html/james_fitzgerald_bio.html">Biography</a>
+                </div>
+            </div>
+        </div>
+    </details>
+
+    <details class="section branch-section" id="higgins-line">
+        <summary>
+            <span class="branch-indicator">▸</span>
+            <span class="branch-summary-text">
+                <span class="branch-title">Higgins/Knight Line</span>
+                <span class="branch-subtitle">Dublin → Newark → San Francisco</span>
+            </span>
+        </summary>
+        <div class="branch-content">
+            <div class="report-item">
+                <a href="research/reports/html/laurence_higgins_bio.html" class="report-image-link">
+                    <div class="report-image lhiggins"></div>
+                </a>
+                <div class="report-content">
+                    <span class="relationship-badge">2nd Great-Grandfather</span>
+                    <div class="report-title">Laurence Higgins (1854–bef. 1930)</div>
+                    <p>Born Rathmines, Dublin; Porter in Newark, NJ</p>
+                    <a href="research/reports/html/laurence_higgins_bio.html">Biography</a>
+                </div>
+            </div>
+            <div class="report-item">
+                <div class="report-image mknight"></div>
+                <div class="report-content">
+                    <span class="relationship-badge">2nd Great-Grandmother</span>
+                    <div class="report-title">Mary Knight (1866–1930)</div>
+                    <p>Born Co. Sligo, Ireland; died NYC</p>
+                </div>
+            </div>
+            <div class="report-item">
+                <div class="report-image jehiggins"></div>
+                <div class="report-content">
+                    <span class="relationship-badge">Great-Grandfather</span>
+                    <div class="report-title">James Everett Higgins (1892–1938)</div>
+                    <p>Civil Engineer, Western Pacific Railroad; WWI Veteran</p>
+                </div>
+            </div>
+        </div>
+    </details>
+
+    <div class="section">
+        <h2>Family Tree Resources</h2>
+        <p>Family tree profiles and genetic genealogy data are maintained across multiple platforms including Ancestry, WikiTree, FamilySearch, and 23andMe. Links to these profiles are available upon request.</p>
+    </div>
+
+    <div class="section">
+        <h2>About This Project</h2>
+        <p>This site serves as a repository for genealogy research, reports, and resources. It provides a centralized location for sharing family history documentation and research findings.</p>
+    </div>
+</body>
+</html>
