@@ -1,0 +1,66 @@
+name: Mowery Line
+accent_color: "#8b4513"  # warm sienna
+migration: Tennessee → Texas → Arizona
+intro: |
+  The Mowery line traces from early 19th-century Tennessee through the Texas frontier
+  to 20th-century Arizona. Beginning with Lewis R. Mowery in Bradley County, Tennessee,
+  the family moved west with the great migrations, eventually settling in Williams, Arizona
+  along Route 66.
+
+ancestors:
+  direct:
+    - name: Lewis R. Mowery
+      years: c. 1801–c. 1850
+      tagline: Tennessee Pioneer, Farmer, Family Patriarch
+      relation: 4th Great-Grandfather
+      bio: lewis_r_mowery_bio.html
+      image_class: lewis
+      image_thumb: tennessee-pioneer.jpg
+      initials: LM
+
+    - name: Elizabeth "Betsy" Lisbee Mowery
+      years: c. 1806–1859
+      tagline: Tennessee Native, Pioneer Wife, Maternal Matriarch
+      relation: 4th Great-Grandmother
+      bio: elizabeth_lusby_mowery_bio.html
+      image_class: elizabeth
+      image_thumb: tennessee-pioneer.jpg
+      initials: EL
+
+    - name: Moses Mansfield Mowery
+      years: 1822–1904
+      tagline: Tennessee Farmer, Texas Pioneer, Red River County Founder
+      relation: 3rd Great-Grandfather
+      bio: Moses_Mansfield_Mowery_1822-1904_Biography.html
+      pdf: Moses_Mansfield_Mowery_1822-1904_Lineage_Confirmation.pdf
+      image_class: moses
+      image_thumb: texas-farming-1820-1830.jpg
+      initials: MM
+
+    - name: Samuel S. Mowrey
+      years: 1867–1904
+      tagline: Texas Farmer, Father of Four, Gone Too Soon
+      relation: 2nd Great-Grandfather
+      bio: samuel_s_mowrey_bio.html
+      image_class: samuel
+      image_thumb: texas-farming-1820-1830.jpg
+      initials: SM
+
+    - name: Raymond Robert Mowrey
+      years: 1899–1973
+      tagline: Texas-Born, Arizona-Made, A Pillar of Williams
+      relation: Great-Grandfather
+      bio: raymond_robert_mowrey_bio.html
+      image_class: raymond
+      image_thumb: williams-arizona-route66.jpg
+      initials: RM
+
+  collateral:
+    - name: Pleasant A. Mowrey
+      years: c. 1820s–1830s
+      tagline: Tennessee Native, Texas Pioneer — brother of Moses
+      relation: 3rd Great-Granduncle
+      bio: pleasant_a_mowrey_bio.html
+      image_class: pleasant
+      image_thumb: texas-farming-1820-1830.jpg
+      initials: PM

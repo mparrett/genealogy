@@ -1,0 +1,36 @@
+name: Gleeson / Fitzgerald Line
+accent_color: "#2e7d4a"  # emerald
+migration: Ireland → Wisconsin → Arizona
+intro: |
+  The Gleeson and Fitzgerald families emigrated from Ireland to Wisconsin in the mid-19th century.
+  James Gleeson settled in Mondovi, Buffalo County, while the Fitzgerald line established
+  themselves nearby. Their descendants eventually made their way to Arizona.
+
+ancestors:
+  direct:
+    - name: James Fitzgerald
+      years: c. 1820–aft. 1880
+      tagline: Irish Immigrant, Wisconsin Pioneer
+      relation: 3rd Great-Grandfather
+      bio: james_fitzgerald_bio.html
+      image_class: jfitzgerald
+      image_thumb: james-gleeson-mondovi.jpg
+      initials: JF
+
+    - name: Maria Ann Fitzgerald
+      years: 1855–1931
+      tagline: Wisconsin Native, Wife of James Gleeson
+      relation: 2nd Great-Grandmother
+      bio: maria_ann_fitzgerald_bio.html
+      image_class: mfitzgerald
+      image_thumb: james-gleeson-mondovi.jpg
+      initials: MF
+
+    - name: James Joseph Gleeson
+      years: 1850–1936
+      tagline: Irish Immigrant, Mondovi Farmer and Merchant
+      relation: 2nd Great-Grandfather
+      bio: james_j_gleeson_bio.html
+      image_class: jgleeson
+      image_thumb: james-gleeson-mondovi.jpg
+      initials: JG

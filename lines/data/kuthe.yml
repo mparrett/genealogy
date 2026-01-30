@@ -1,0 +1,36 @@
+name: Kuthe Line
+accent_color: "#3d6b47"  # forest green
+migration: Germany → Missouri → Oregon → Arizona
+intro: |
+  The Kuthe line begins in Saxony, Germany, emigrating to Missouri in the mid-19th century.
+  Frederick Kuthe established the family in America, and subsequent generations moved
+  westward through Oregon before settling in Arizona.
+
+ancestors:
+  direct:
+    - name: Frederick Kuthe
+      years: 1830–1913
+      tagline: German Immigrant, Missouri Farmer
+      relation: 3rd Great-Grandfather
+      bio: frederick_kuthe_bio.html
+      image_class: frederick
+      image_thumb: george-kuthe-migration.jpg
+      initials: FK
+
+    - name: George W. Kuthe
+      years: 1870–1935
+      tagline: Missouri Native, Oregon Pioneer
+      relation: 2nd Great-Grandfather
+      bio: george_w_kuthe_bio.html
+      image_class: george
+      image_thumb: george-kuthe-migration.jpg
+      initials: GK
+
+    - name: Huldah Imogene Kuthe
+      years: 1898–1979
+      tagline: Oregon-Born, Williams Arizona Matriarch
+      relation: Great-Grandmother
+      bio: huldah_imogene_kuthe_bio.html
+      image_class: huldah
+      image_thumb: george-kuthe-migration.jpg
+      initials: HK
