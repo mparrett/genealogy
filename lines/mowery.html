@@ -50,11 +50,21 @@
             text-decoration: underline;
         }
 
+        /* Page wrapper for card effect */
+        .page-wrapper {
+            max-width: 850px;
+            margin: 0 auto;
+            background: linear-gradient(135deg, #fefefe 0%, #f8f9fa 100%);
+            box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
+            border-radius: 8px;
+            min-height: 100vh;
+        }
+
         /* Layout */
         .container {
             max-width: 800px;
             margin: 0 auto;
-            padding: 0 1.5rem 2rem;
+            padding: 0 2rem 2rem;
         }
 
         /* Breadcrumb */
@@ -76,8 +86,7 @@
 
         /* Line Header */
         .line-header {
-            background: linear-gradient(135deg, var(--paper) 0%, #f5f0e8 100%);
-            padding: 2rem 1.5rem 1.5rem;
+            padding: 2rem 2rem 1.5rem;
             margin-bottom: 1.5rem;
             position: relative;
         }
@@ -88,7 +97,7 @@
             bottom: 0;
             left: 50%;
             transform: translateX(-50%);
-            width: min(400px, 80%);
+            width: 95%;
             height: 2px;
             background: linear-gradient(90deg, transparent, var(--accent-line), transparent);
         }
@@ -119,41 +128,15 @@
 
         /* Section Headers */
         .section-header {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.75rem;
-            margin: 2.5rem 0 1.25rem;
-            color: var(--text-muted);
-        }
-
-        .section-header::before,
-        .section-header::after {
-            content: '';
-            flex: 1;
-            max-width: 80px;
-            height: 1px;
-            background: linear-gradient(90deg, transparent, var(--accent));
-        }
-
-        .section-header::after {
-            background: linear-gradient(90deg, var(--accent), transparent);
+            margin: 2.5rem 0 1rem;
         }
 
         .section-header h2 {
-            font-size: 0.8rem;
+            font-size: 0.95rem;
             text-transform: uppercase;
-            letter-spacing: 0.1em;
+            letter-spacing: 0.08em;
             color: var(--text-muted);
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-
-        .section-header h2::before {
-            content: '◆';
-            color: var(--accent);
-            font-size: 0.6rem;
+            font-weight: 500;
         }
 
         /* Ancestor Cards */
@@ -169,7 +152,7 @@
             padding: 1rem;
             background: var(--paper);
             border-radius: 5px;
-            border-left: 3px solid transparent;
+            border-left: 3px solid rgba(139, 69, 19, 0.25);
             box-shadow: 0 1px 3px rgba(122, 58, 15, 0.05);
             transition: box-shadow 0.2s ease, border-color 0.2s ease;
         }
@@ -209,22 +192,22 @@
         .ancestor-badge {
             display: inline-block;
             font-size: 0.7rem;
-            font-weight: 600;
+            font-weight: 500;
             text-transform: uppercase;
             letter-spacing: 0.03em;
             padding: 2px 8px;
             border-radius: 3px;
-            margin-bottom: 0.4rem;
+            margin-top: 0.5rem;
         }
 
         .ancestor-badge.direct {
-            background: var(--accent);
-            color: var(--primary);
+            background: rgba(212, 165, 116, 0.25);
+            color: var(--text-secondary);
         }
 
         .ancestor-badge.collateral {
-            background: var(--border-light);
-            color: var(--text-secondary);
+            background: rgba(0, 0, 0, 0.05);
+            color: var(--text-muted);
         }
 
         .ancestor-name {
@@ -309,6 +292,7 @@
     </style>
 </head>
 <body>
+<div class="page-wrapper">
     <nav class="breadcrumb">
         <a href="../index.html">← All Family Lines</a>
     </nav>
@@ -337,9 +321,9 @@
                     <div class="ancestor-image lewis"></div>
                 </a>
                 <div class="ancestor-content">
-                    <span class="ancestor-badge direct">4th Great-Grandfather</span>
                     <div class="ancestor-name">Lewis R. Mowery (c. 1801–c. 1850)</div>
                     <div class="ancestor-tagline">Tennessee Pioneer, Farmer, Family Patriarch</div>
+                    <span class="ancestor-badge direct">4th Great-Grandfather</span>
                     <div class="ancestor-links">
                         <a href="../research/reports/html/lewis_r_mowery_bio.html">Biography</a>
                     </div>
@@ -351,9 +335,9 @@
                     <div class="ancestor-image elizabeth"></div>
                 </a>
                 <div class="ancestor-content">
-                    <span class="ancestor-badge direct">4th Great-Grandmother</span>
                     <div class="ancestor-name">Elizabeth "Betsy" Lisbee Mowery (c. 1806–1859)</div>
                     <div class="ancestor-tagline">Tennessee Native, Pioneer Wife, Maternal Matriarch</div>
+                    <span class="ancestor-badge direct">4th Great-Grandmother</span>
                     <div class="ancestor-links">
                         <a href="../research/reports/html/elizabeth_lusby_mowery_bio.html">Biography</a>
                     </div>
@@ -365,9 +349,9 @@
                     <div class="ancestor-image moses"></div>
                 </a>
                 <div class="ancestor-content">
-                    <span class="ancestor-badge direct">3rd Great-Grandfather</span>
                     <div class="ancestor-name">Moses Mansfield Mowery (1822–1904)</div>
                     <div class="ancestor-tagline">Tennessee Farmer, Texas Pioneer, Red River County Founder</div>
+                    <span class="ancestor-badge direct">3rd Great-Grandfather</span>
                     <div class="ancestor-links">
                         <a href="../research/reports/html/Moses_Mansfield_Mowery_1822-1904_Biography.html">Biography</a>
                         <a href="../pdf/Moses_Mansfield_Mowery_1822-1904_Lineage_Confirmation.pdf" target="_blank">Report (PDF)</a>
@@ -380,9 +364,9 @@
                     <div class="ancestor-image samuel"></div>
                 </a>
                 <div class="ancestor-content">
-                    <span class="ancestor-badge direct">2nd Great-Grandfather</span>
                     <div class="ancestor-name">Samuel S. Mowrey (1867–1904)</div>
                     <div class="ancestor-tagline">Texas Farmer, Father of Four, Gone Too Soon</div>
+                    <span class="ancestor-badge direct">2nd Great-Grandfather</span>
                     <div class="ancestor-links">
                         <a href="../research/reports/html/samuel_s_mowrey_bio.html">Biography</a>
                     </div>
@@ -394,9 +378,9 @@
                     <div class="ancestor-image raymond"></div>
                 </a>
                 <div class="ancestor-content">
-                    <span class="ancestor-badge direct">Great-Grandfather</span>
                     <div class="ancestor-name">Raymond Robert Mowrey (1899–1973)</div>
                     <div class="ancestor-tagline">Texas-Born, Arizona-Made, A Pillar of Williams</div>
+                    <span class="ancestor-badge direct">Great-Grandfather</span>
                     <div class="ancestor-links">
                         <a href="../research/reports/html/raymond_robert_mowrey_bio.html">Biography</a>
                     </div>
@@ -414,9 +398,9 @@
                     <div class="ancestor-image pleasant"></div>
                 </a>
                 <div class="ancestor-content">
-                    <span class="ancestor-badge collateral">3rd Great-Granduncle</span>
                     <div class="ancestor-name">Pleasant A. Mowrey (c. 1820s–1830s)</div>
                     <div class="ancestor-tagline">Tennessee Native, Texas Pioneer — brother of Moses</div>
+                    <span class="ancestor-badge collateral">3rd Great-Granduncle</span>
                     <div class="ancestor-links">
                         <a href="../research/reports/html/pleasant_a_mowrey_bio.html">Biography</a>
                     </div>
@@ -428,5 +412,6 @@
     <footer class="footer">
         <a href="../index.html">← Back to All Family Lines</a>
     </footer>
+</div>
 </body>
 </html>

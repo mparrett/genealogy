@@ -55,3 +55,15 @@
 - Structured format remains available for future use cases (e.g., research-focused reports vs narrative bios)
 
 **Migration**: No immediate action required. Structured bios remain functional; they just don't benefit from float-based layout features. Convert opportunistically when revisiting older bios.
+
+## ADR-003: Bio Header "Relationship" Line (2026-01-30)
+
+**Context**: Bios currently include a "Relationship: Great-grandfather (Mowrey line)" line below the name. This provides context but may be redundant once readers navigate from line-specific index pages.
+
+**Status**: Under consideration. Keep for now, may remove or replace with something else in the future.
+
+**Options**:
+- Remove entirely (relationship clear from navigation context)
+- Replace with birth/death dates in a styled format
+- Replace with a brief tagline or role description
+- Keep as-is
