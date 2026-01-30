@@ -94,7 +94,7 @@
             background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
             max-width: 800px;
             margin: 0 auto;
-            padding: 2rem;
+            padding: 1.875rem;
             box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
             border-radius: 8px;
             min-height: 100vh;
@@ -157,12 +157,13 @@
             background-size: 100% 3px;
         }
         
-        /* Horizontal Rule */
+        /* Horizontal Rule - simple gradient for markdown hr */
         hr {
             border: none;
-            height: 1px;
-            background: linear-gradient(to right, transparent, var(--border-light), transparent);
-            margin: 2rem 0;
+            height: 2px;
+            background: linear-gradient(to right, transparent, var(--accent), transparent);
+            margin: 2.5rem auto;
+            max-width: 95%;
         }
         
         /* Genealogy-specific classes */
@@ -378,6 +379,7 @@
                 rgba(250, 248, 242, 0.95) 100%
             );
             border: 1px solid var(--border-light);
+            border-left: 3px solid rgba(212, 165, 116, 0.35);
             border-radius: 6px;
             text-decoration: none;
             transition: border-color 0.2s, box-shadow 0.2s;
@@ -385,7 +387,7 @@
         }
 
         .family-link-card:hover {
-            border-color: var(--accent);
+            border-left-color: var(--accent);
             box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1);
             background-size: 100% 0;
         }
@@ -543,15 +545,14 @@
             }
         }
 
-        /* Back Navigation */
+        /* Back Navigation - matches line page breadcrumb */
         .bio-nav {
-            margin-bottom: 1.5rem;
-            padding-bottom: 0.75rem;
-            border-bottom: 1px solid var(--border-light);
+            padding: 0.5rem 0;
+            margin-bottom: 1rem;
+            font-size: 0.85rem;
         }
 
         .bio-nav a {
-            font-size: 0.9rem;
             color: var(--text-muted);
             text-decoration: none;
             background: none;
@@ -559,7 +560,9 @@
 
         .bio-nav a:hover {
             color: var(--secondary);
+            text-decoration: underline;
         }
+
 
         @media print {
             .bio-nav {
@@ -570,7 +573,7 @@
 </head>
 <body>
 <nav class="bio-nav"><a href="../../../index.html">← Family Index</a></nav>
-<h2>Biography of Moses Mansfield Mowery</h2>
+<div class="bio-layout"><div class="bio-content"><h2>Biography of Moses Mansfield Mowery</h2>
 <p><strong>Relationship:</strong> 3rd great-grandfather (Mowery line)</p>
 <p><strong>Moses Mansfield Mowery</strong> was born on <strong>1 November 1822</strong> in <strong>Knox County, Tennessee</strong>, likely the third of at least ten children born to <strong>Lewis R. Mowery</strong> and <strong>Elizabeth &quot;Betsy&quot; Lisbee</strong><sup class="footnote-ref" id="fnref-1"><a href="#fn-1">1</a></sup>. His middle name, <em>Mansfield</em>, was later passed down to one of his sons, suggesting family or ancestral significance.</p>
 <p>The Mowery family moved to <strong>Bradley County, Tennessee</strong> around 1837<sup class="footnote-ref" id="fnref-2"><a href="#fn-2">2</a></sup>, and Moses came of age there. In about <strong>1845</strong>, he married <strong>Margaret Elizabeth Witt</strong>, a Tennessee native<sup class="footnote-ref" id="fnref-3"><a href="#fn-3">3</a></sup>. Together they began a large family and soon joined the westward migration to Texas.</p>
@@ -593,10 +596,27 @@
 <li>J. H. Mowery</li>
 </ul>
 <p>These children and their descendants helped build the Mowery name into the fabric of Lamar County.</p>
-<p>Moses was described in an 1889 Texas biography as &quot;a substantial citizen of the county&quot;<sup class="footnote-ref" id="fnref-9"><a href="#fn-9">9</a></sup>. Margaret was still living with Moses in the 1900 census but died shortly thereafter (likely 1900–1903)<sup class="footnote-ref" id="fnref-10"><a href="#fn-10">10</a></sup>. By 1904, widowed, Moses was living with his daughter Sarah and son-in-law John Sain in <strong>Deport, Texas</strong>. He passed away on <strong>29 August 1904</strong> — the same day as his son <strong>Samuel S. Mowrey</strong>, who also died in Lamar County at age 37<sup class="footnote-ref" id="fnref-11"><a href="#fn-11">11</a></sup>. The cause of their simultaneous deaths is unknown; no newspaper account or death certificate has been found. Both are believed to be buried in <strong>Milton Cemetery</strong> (graves unmarked)<sup class="footnote-ref" id="fnref-12"><a href="#fn-12">12</a></sup>.</p>
+<p>Moses was described in an 1889 Texas biography as &quot;a substantial citizen of the county&quot;<sup class="footnote-ref" id="fnref-9"><a href="#fn-9">9</a></sup>. Margaret died sometime before 1900—the 1900 census lists Moses as a widower<sup class="footnote-ref" id="fnref-10"><a href="#fn-10">10</a></sup>. By 1904, Moses was living with his daughter Sarah and son-in-law John Sain in <strong>Deport, Texas</strong>. He passed away on <strong>29 August 1904</strong> — the same day as his son <strong>Samuel S. Mowrey</strong>, who also died in Lamar County at age 37<sup class="footnote-ref" id="fnref-11"><a href="#fn-11">11</a></sup>. Multiple independent sources confirm this shared death date; it is not a data-entry error. The cause of their simultaneous deaths is unknown; no newspaper obituary, accident report, or death certificate has been found despite extensive searches. Both are believed to be buried in <strong>Milton Cemetery</strong> (graves unmarked)<sup class="footnote-ref" id="fnref-12"><a href="#fn-12">12</a></sup>.</p>
 <p>While earlier researchers were uncertain of his parentage, multiple sources now confirm Moses was indeed the son of <strong>Lewis R. Mowery and Elizabeth (Lisbee) Mowery</strong><sup class="footnote-ref" id="fnref-13"><a href="#fn-13">13</a></sup>. His brother, <strong>Pleasant A. Mowrey</strong>, is documented in Texas history as a son of Lewis and Elizabeth<sup class="footnote-ref" id="fnref-14"><a href="#fn-14">14</a></sup>, and Moses's children carried the Lisbee family name (rendered as &quot;Lusby&quot; in later records) and &quot;Lewis&quot; as middle names.</p>
 <p><em>Note for researchers: The surname appears as both &quot;Mowery&quot; and &quot;Mowrey&quot; in various historical records, representing common spelling variations of the same family name.</em></p>
 <p>The family's journey from East Tennessee to the Red River valley reflects a common pioneer path — and Moses helped lay the foundations of the community that followed.</p>
+<div class="family-links">
+  <h4 class="family-links-title">Family</h4>
+  <div class="family-links-grid">
+    <a href="lewis_r_mowery_bio.html" class="family-link-card">
+      <span class="family-link-name">Lewis R. Mowery</span>
+      <span class="family-link-relation">Father</span>
+    </a>
+    <a href="pleasant_a_mowrey_bio.html" class="family-link-card">
+      <span class="family-link-name">Pleasant A. Mowrey</span>
+      <span class="family-link-relation">Brother</span>
+    </a>
+    <a href="samuel_s_mowrey_bio.html" class="family-link-card">
+      <span class="family-link-name">Samuel S. Mowrey</span>
+      <span class="family-link-relation">Son</span>
+    </a>
+  </div>
+</div>
 <hr />
 <h3>Additional Research</h3>
 <p>For detailed lineage documentation and ancestry confirmation, see: <a href="../../../pdf/Moses_Mansfield_Mowery_1822-1904_Lineage_Confirmation.pdf">Moses Mansfield Mowery (1822–1904) – Lineage and Ancestry Confirmation (PDF)</a></p>
@@ -612,13 +632,49 @@
 <li id="fn-7"><p>1870 U.S. Census, Lamar Co., TX; and later presence in Milton community until death.<a href="#fnref-7" class="footnote">&#8617;</a></p></li>
 <li id="fn-8"><p>Names listed in <em>Biographical Souvenir of the State of Texas</em>, 1889, p. 622.<a href="#fnref-8" class="footnote">&#8617;</a></p></li>
 <li id="fn-9"><p>Ibid.; described Moses as a “substantial citizen” of Lamar County.<a href="#fnref-9" class="footnote">&#8617;</a></p></li>
-<li id="fn-10"><p>1900 U.S. Census, Lamar Co., TX; Margaret residing with Moses in Justice Precinct 1. Death &quot;about 1900&quot; per family researchers; &quot;bef. 1904&quot; per compiled family history.<a href="#fnref-10" class="footnote">&#8617;</a></p></li>
-<li id="fn-11"><p>Multiple sources (WikiTree, Geni) confirm 29 Aug 1904 for both Moses and Samuel. No death certificate or obituary located. Texas began statewide death registration in 1903 but early compliance was spotty.<a href="#fnref-11" class="footnote">&#8617;</a></p></li>
+<li id="fn-10"><p>1900 U.S. Census, Lamar Co., TX; Moses listed as widower. Margaret died c. 1898–1899. The death year &quot;1904&quot; appearing in some family trees is a propagation error (likely confused with Moses's death year).<a href="#fnref-10" class="footnote">&#8617;</a></p></li>
+<li id="fn-11"><p>Multiple independent sources (WikiTree, Geni, Lamar County death/burial index, compiled genealogies) confirm 29 Aug 1904 for both Moses and Samuel. This is not a data-entry error—the shared date is verified. No death certificate, obituary, or contemporary newspaper account has been located despite extensive searches. Texas began statewide death registration in 1903 but early compliance was spotty.<a href="#fnref-11" class="footnote">&#8617;</a></p></li>
 <li id="fn-12"><p>Lamar County cemetery surveys and family tradition place Moses, Margaret, and Samuel in Milton Cemetery, though graves are unmarked.<a href="#fnref-12" class="footnote">&#8617;</a></p></li>
 <li id="fn-13"><p>Based on triangulated evidence from children's naming patterns, proximity to known siblings, and historical records.<a href="#fnref-13" class="footnote">&#8617;</a></p></li>
 <li id="fn-14"><p><em>Biographical Souvenir of the State of Texas</em>, p. 622; confirms Pleasant A. Mowrey as son of Lewis and Elizabeth (Lisby) Mowrey.<a href="#fnref-14" class="footnote">&#8617;</a></p></li>
 </ol>
 </section>
-
+</div><aside class="bio-timeline">
+  <div class="timeline-event">
+    <span class="timeline-year">1822</span>
+    <span class="timeline-marker timeline-marker--major"></span>
+    <span class="timeline-label">Born</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1837</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Family moved to Bradley County</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1845</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Married Margaret Witt</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1853</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Arrived in Texas</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1870</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Moved to Lamar County</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1904</span>
+    <span class="timeline-marker timeline-marker--major"></span>
+    <span class="timeline-label">Died</span>
+  </div>
+</aside></div>
 </body>
 </html>

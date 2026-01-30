@@ -272,7 +272,7 @@ def convert_file(md_file_path, html_file_path):
             background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
             max-width: 800px;
             margin: 0 auto;
-            padding: 2rem;
+            padding: 1.875rem;
             box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
             border-radius: 8px;
             min-height: 100vh;
@@ -725,7 +725,7 @@ def convert_file(md_file_path, html_file_path):
 
         /* Back Navigation - matches line page breadcrumb */
         .bio-nav {{
-            padding: 0.75rem 0;
+            padding: 0.5rem 0;
             margin-bottom: 1rem;
             font-size: 0.85rem;
         }}

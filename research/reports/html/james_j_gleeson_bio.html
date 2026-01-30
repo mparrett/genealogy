@@ -94,7 +94,7 @@
             background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
             max-width: 800px;
             margin: 0 auto;
-            padding: 2rem;
+            padding: 1.875rem;
             box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
             border-radius: 8px;
             min-height: 100vh;
@@ -157,12 +157,13 @@
             background-size: 100% 3px;
         }
         
-        /* Horizontal Rule */
+        /* Horizontal Rule - simple gradient for markdown hr */
         hr {
             border: none;
-            height: 1px;
-            background: linear-gradient(to right, transparent, var(--border-light), transparent);
-            margin: 2rem 0;
+            height: 2px;
+            background: linear-gradient(to right, transparent, var(--accent), transparent);
+            margin: 2.5rem auto;
+            max-width: 95%;
         }
         
         /* Genealogy-specific classes */
@@ -378,6 +379,7 @@
                 rgba(250, 248, 242, 0.95) 100%
             );
             border: 1px solid var(--border-light);
+            border-left: 3px solid rgba(212, 165, 116, 0.35);
             border-radius: 6px;
             text-decoration: none;
             transition: border-color 0.2s, box-shadow 0.2s;
@@ -385,7 +387,7 @@
         }
 
         .family-link-card:hover {
-            border-color: var(--accent);
+            border-left-color: var(--accent);
             box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1);
             background-size: 100% 0;
         }
@@ -543,15 +545,14 @@
             }
         }
 
-        /* Back Navigation */
+        /* Back Navigation - matches line page breadcrumb */
         .bio-nav {
-            margin-bottom: 1.5rem;
-            padding-bottom: 0.75rem;
-            border-bottom: 1px solid var(--border-light);
+            padding: 0.5rem 0;
+            margin-bottom: 1rem;
+            font-size: 0.85rem;
         }
 
         .bio-nav a {
-            font-size: 0.9rem;
             color: var(--text-muted);
             text-decoration: none;
             background: none;
@@ -559,7 +560,9 @@
 
         .bio-nav a:hover {
             color: var(--secondary);
+            text-decoration: underline;
         }
+
 
         @media print {
             .bio-nav {
