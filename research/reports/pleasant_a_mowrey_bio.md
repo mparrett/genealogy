@@ -1,47 +1,26 @@
-## Biography of Pleasant A. Mowrey
-**Relationship:** 3rd great-granduncle (Mowery line) — brother of Moses Mansfield Mowery
 
-*Tennessee Native, Texas Pioneer, Documented Family Member*
+### **Pleasant A. Mowrey (c. 1830s–?)**
+**Relationship:** 3rd great-granduncle (Mowery line)
 
-**Pleasant A. Mowrey** was born in Tennessee, likely in the 1820s or 1830s, and became one of the documented members of the Mowery family who made the westward journey to Texas[^1]. His story parallels that of his brother **Moses Mansfield Mowery**, representing the broader pattern of Tennessee families seeking new opportunities in the expanding Texas frontier.
+*The Youngest Who Traveled with His Mother*
 
-### Family Background and Early Life
+Pleasant A. Mowrey was born in Tennessee in the 1830s or early 1840s, one of the younger children of **Lewis R. Mowery** (c. 1801–1850) and **Elizabeth "Betsy" Lisbee** (c. 1806–1859). He grew up in the Appalachian foothills alongside his older siblings, including **Moses Mansfield Mowery**, in Knox and Bradley Counties during the years before the family scattered westward.
 
-Pleasant was born to **Lewis R. Mowery** and **Elizabeth "Betsy" Lisbee Mowery**, a Tennessee native[^2]. He was one of at least ten children in the family, growing up in the Tennessee counties of Knox and Bradley during the 1830s and 1840s. Like his siblings, Pleasant would have experienced the challenges and opportunities of frontier life in early Tennessee.
+When Lewis died around 1850, Elizabeth was left a widow with several children still at home. Her older sons had already begun looking toward Texas—Moses settled in Red River County in 1853—but Pleasant remained with his mother in Tennessee through the decade.
 
-The family's move from Knox County to Bradley County around 1837 likely influenced Pleasant's later decision to continue westward to Texas, following the migration patterns common among Tennessee families of the era[^3].
+In 1859, Pleasant finally made the journey west. The *Biographical Souvenir of the State of Texas* records that he "reached Texas the year of his mother's death," a detail that suggests they traveled together, Elizabeth joining her children in Lamar County only to die soon after arriving. Whether Pleasant escorted his aging mother on that final journey, or whether her death prompted his own departure, remains unclear. What we know is that 1859 marked both an ending and a beginning—the death of the family matriarch and Pleasant's arrival in Texas.
 
-### Migration to Texas
+Pleasant established himself in Texas, his presence documented well enough to earn a biographical entry in the 1889 *Biographical Souvenir of the State of Texas* alongside his brother Lewis Daily Mowrey. The spelling of his surname as "Mowrey" (rather than the "Mowery" his brother Moses used) reflects the fluid nature of family names on the frontier, where spelling often depended on who was holding the pen.
 
-Pleasant A. Mowrey made his way to Texas, joining the tide of settlers who were drawn by land opportunities and the promise of new beginnings. His presence in Texas is documented in the *Biographical Souvenir of the State of Texas* (1889), which confirms him as a son of Lewis and Elizabeth (Lisby) Mowrey[^4].
-
-### Texas Life and Legacy
-
-While specific details of Pleasant's Texas life remain to be researched, his documentation in Texas historical records suggests he established himself as a permanent resident and contributed to the development of his adopted state. His story represents the experiences of countless Tennessee families who helped build the foundations of Texas communities.
-
-The spelling of his surname as "Mowrey" (rather than "Mowery" used by his brother Moses) reflects the common variations in family name documentation during this period, particularly as families moved between states and regions[^5].
-
-### Connection to Brother Moses
-
-Pleasant's relationship with his brother **Moses Mansfield Mowery** provides important confirmation of the family's Tennessee origins and Texas connections. Both brothers carried forward the family traditions established by their parents, Lewis and Elizabeth, while adapting to life on the Texas frontier.
+Much of Pleasant's Texas life remains to be uncovered—his marriage, children, occupation, and death are not yet documented in our research. But his story represents the broader pattern of the Mowery family: Tennessee roots, westward migration, and new beginnings on the Texas frontier.
 
 ---
 
-### Research Notes
+**Notes:**
 
-*This biography is under active development. Additional research is needed on:*
-- *Specific birth date and location within Tennessee*
-- *Marriage and family details*
-- *Exact Texas location and settlement details*
-- *Occupation and community involvement in Texas*
-- *Death date and burial location*
-- *Connections to other Tennessee families in Texas*
-- *Property ownership and business activities*
-
-### Sources and Further Research
-
-[^1]: Texas residence documented in *Biographical Souvenir of the State of Texas*, 1889, p. 622.
-[^2]: Family parentage confirmed through Moses Mansfield Mowery documentation and *Biographical Souvenir* reference.
-[^3]: Tennessee family migration patterns inferred from Moses Mansfield Mowery's documented journey and family records.
-[^4]: *Biographical Souvenir of the State of Texas*, 1889, p. 622; confirms Pleasant A. Mowrey as son of Lewis and Elizabeth (Lisby) Mowrey.
-[^5]: Surname spelling variations common in 19th-century records, particularly during interstate migration periods.
+- Birth year uncertain; likely 1830s–1840s based on arriving with mother in 1859.
+- Parents: Lewis R. Mowery (c. 1801–1850) + Elizabeth Lisbee (c. 1806–1859).
+- Brother of Moses Mansfield Mowery (1822–1904).
+- "Reached Texas the year of his mother's death" (1859) per *Biographical Souvenir of the State of Texas* (1889), p. 622.
+- Has biographical entry in *Biographical Souvenir* alongside L. D. (Lewis Daily) Mowrey.
+- Death date and location unknown; further research needed.

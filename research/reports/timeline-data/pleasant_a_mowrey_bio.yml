@@ -1,22 +1,35 @@
 name: Pleasant A. Mowrey
 birth:
-  year: 1825
+  year: 1835
   label: Born
   location: Tennessee
 death:
   year: 1890
-  label: Died
+  label: Died (est.)
   location: Texas
 events:
   - year: 1850
-    label: Moved to Texas
+    label: Father Lewis died
+    type: event
+  - year: 1859
+    label: Arrived Texas with mother
     type: migration
+
+family_links:
+  - name: Lewis R. Mowery
+    relation: Father
+    link: lewis_r_mowery_bio.html
+  - name: Moses Mansfield Mowery
+    relation: Brother
+    link: Moses_Mansfield_Mowery_1822-1904_Biography.html
 
 location_aside:
   place: Knox County
   region: Tennessee
-  year: c. 1820
+  year: c. 1835
   image: locations/knox-county-tn-1820.png
+  layout: horizontal
+  after_paragraph: 2
   description: >
     Pleasant grew up in the Tennessee frontier alongside his
     siblings, before following the family migration to Texas
