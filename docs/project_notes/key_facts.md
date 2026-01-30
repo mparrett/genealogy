@@ -14,14 +14,17 @@
 ```
 Lewis R. Mowery (c.1801–1850) + Elizabeth Lisbee
     └── Moses Mansfield Mowery (1822–1904) + Margaret Witt
-            └── Samuel S. Mowrey (1867–1904) + Effie Mae (Coker) (1878–?)
-                    └── Raymond Robert Mowrey (1899–?) ← great-grandfather (mom's mom's dad)
-                            └── [grandmother]
-                                    └── [mother]
+            └── Samuel S. Mowrey (1867–1904) + Effie Mae Coker (1878–1958)
+                    └── Raymond Robert Mowrey (1899–1973) + Anne Barbara Gleeson (1903–1986)
+                            └── Patricia Anne Mowrey (1929–2009) ← grandmother
+                                    └── Michele Birch/Parrett ← mother
                                             └── Matt
 ```
 
-**Note:** Spelling shift from "Mowery" to "Mowrey" appears around Samuel's generation. Research on Samuel S. → Raymond connection needs verification.
+**Notes:**
+- Spelling shift from "Mowery" to "Mowrey" appears around Samuel's generation
+- Raymond + Anne Barbara Gleeson marriage connects Mowrey and Gleeson lines
+- Research on Samuel S. → Raymond connection needs verification
 
 ## Family Lines
 - **Mowery/Mowrey**: Tennessee → Texas → Arizona
