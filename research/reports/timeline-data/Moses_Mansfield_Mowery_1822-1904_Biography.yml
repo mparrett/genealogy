@@ -1,0 +1,33 @@
+name: Moses Mansfield Mowery
+birth:
+  year: 1822
+  label: Born
+  location: Knox County, TN
+death:
+  year: 1904
+  label: Died
+  location: Lamar County, TX
+events:
+  - year: 1837
+    label: Family moved to Bradley County
+    type: event
+  - year: 1845
+    label: Married Margaret Witt
+    type: marriage
+  - year: 1853
+    label: Arrived in Texas
+    type: migration
+  - year: 1870
+    label: Moved to Lamar County
+    type: event
+
+family_links:
+  - name: Lewis R. Mowery
+    relation: Father
+    link: lewis_r_mowery_bio.html
+  - name: Pleasant A. Mowrey
+    relation: Brother
+    link: pleasant_a_mowrey_bio.html
+  - name: Samuel S. Mowrey
+    relation: Son
+    link: samuel_s_mowrey_bio.html
