@@ -1,0 +1,24 @@
+name: Samuel S. Mowrey
+birth:
+  year: 1867
+  label: Born
+  location: Red River County, TX
+death:
+  year: 1904
+  label: Died
+  location: Lamar County, TX
+events:
+  - year: 1897
+    label: Married Effie May Coker
+    type: marriage
+  - year: 1899
+    label: Son Raymond born
+    type: event
+
+family_links:
+  - name: Moses Mansfield Mowery
+    relation: Father
+    link: Moses_Mansfield_Mowery_1822-1904_Biography.html
+  - name: Raymond Robert Mowrey
+    relation: Son
+    link: raymond_robert_mowrey_bio.html

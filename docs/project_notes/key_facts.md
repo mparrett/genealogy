@@ -9,8 +9,22 @@
 - Ancestry PDFs: `assets/ancestry/`
 - Research notes: `research/`
 
+## Matt's Direct Lineage (Mowrey Line)
+
+```
+Lewis R. Mowery (c.1801–1850) + Elizabeth Lisbee
+    └── Moses Mansfield Mowery (1822–1904) + Margaret Witt
+            └── Samuel S. Mowrey (1867–1904) + Effie Mae (Coker) (1878–?)
+                    └── Raymond Robert Mowrey (1899–?) ← great-grandfather (mom's mom's dad)
+                            └── [grandmother]
+                                    └── [mother]
+                                            └── Matt
+```
+
+**Note:** Spelling shift from "Mowery" to "Mowrey" appears around Samuel's generation. Research on Samuel S. → Raymond connection needs verification.
+
 ## Family Lines
-- **Mowery**: Tennessee → Texas → Arizona
+- **Mowery/Mowrey**: Tennessee → Texas → Arizona
 - **Kuthe**: Germany (Vöhl, Hesse) → Missouri → Oregon → Arizona
 - **Gleeson/Fitzgerald**: Ireland (Limerick) → Wisconsin → Arizona
 - **Higgins/Knight**: Ireland (Dublin/Sligo) → Newark → San Francisco

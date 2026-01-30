@@ -1,0 +1,36 @@
+name: Raymond Robert Mowrey
+birth:
+  year: 1899
+  label: Born
+  location: Paris, TX
+death:
+  year: 1973
+  label: Died
+  location: Phoenix, AZ
+events:
+  - year: 1904
+    label: Father Samuel died
+    type: event
+  - year: 1921
+    label: Married May Smith
+    type: marriage
+  - year: 1930
+    label: Married Anne Barbara Gleeson
+    type: marriage
+  - year: 1930
+    label: Settled in Williams, AZ
+    type: migration
+  - year: 1937
+    label: Rotary Club President
+    type: event
+
+family_links:
+  - name: Samuel S. Mowrey
+    relation: Father
+    link: samuel_s_mowrey_bio.html
+  - name: Anne Barbara Gleeson
+    relation: Wife
+    link: anne_barbara_gleeson_bio.html
+  - name: Patricia Anne Mowrey
+    relation: Daughter
+    link: patricia_anne_mowrey_bio.html
