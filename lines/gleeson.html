@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gleeson/Fitzgerald Line · Parrett Family History</title>
+    <style>
+        :root {
+            --primary: #7a3a0f;
+            --secondary: #2c5530;
+            --accent: #d4a574;
+            --accent-line: #2e7d4a; /* Gleeson: emerald green */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #faf9f7;
+            --paper: #fcfbf9;
+            --border-light: #e8e5e0;
+        }
+
+        *, *::before, *::after { box-sizing: border-box; }
+        * { margin: 0; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background-color: var(--background);
+            min-height: 100vh;
+        }
+
+        h1, h2, h3 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            color: var(--primary);
+        }
+
+        a { color: var(--secondary); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        .container { max-width: 800px; margin: 0 auto; padding: 0 1.5rem 2rem; }
+
+        .breadcrumb {
+            padding: 0.75rem 1.5rem;
+            max-width: 800px;
+            margin: 0 auto;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+        .breadcrumb a { color: var(--text-muted); }
+        .breadcrumb a:hover { color: var(--secondary); }
+
+        .line-header {
+            background: linear-gradient(135deg, var(--paper) 0%, #f5f0e8 100%);
+            padding: 2rem 1.5rem 1.5rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 3px solid var(--accent-line);
+        }
+        .line-header-inner { max-width: 800px; margin: 0 auto; }
+        .line-header h1 { font-size: 2rem; margin-bottom: 0.35rem; color: var(--accent-line); }
+        .line-header .migration { font-size: 1rem; color: var(--text-secondary); margin-bottom: 0.75rem; }
+        .line-header .intro { color: var(--text-secondary); max-width: 650px; line-height: 1.65; font-size: 0.95rem; }
+
+        .section-header { display: flex; align-items: center; gap: 1rem; margin: 2rem 0 1rem; }
+        .section-header h2 { font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); }
+        .section-header::after { content: ''; flex: 1; height: 1px; background: var(--border-light); }
+
+        .ancestors { display: flex; flex-direction: column; gap: 0.75rem; }
+        .ancestor-card {
+            display: flex;
+            gap: 1rem;
+            padding: 1rem;
+            background: var(--paper);
+            border-radius: 5px;
+            box-shadow: 0 1px 3px rgba(122, 58, 15, 0.05);
+            transition: box-shadow 0.2s ease;
+        }
+        .ancestor-card:hover { box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1); }
+
+        .ancestor-image {
+            flex-shrink: 0;
+            width: 80px;
+            height: 80px;
+            background-size: cover;
+            background-position: center;
+            border-radius: 4px;
+            position: relative;
+        }
+        .ancestor-image::after {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: rgba(255, 255, 255, 0.9);
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+        }
+
+        .ancestor-content { flex: 1; min-width: 0; }
+        .ancestor-badge {
+            display: inline-block;
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            padding: 2px 8px;
+            border-radius: 3px;
+            margin-bottom: 0.4rem;
+        }
+        .ancestor-badge.direct { background: var(--accent); color: var(--primary); }
+        .ancestor-name { font-family: Georgia, 'Times New Roman', serif; font-size: 1.15rem; font-weight: 500; color: var(--primary); margin-bottom: 0.25rem; }
+        .ancestor-tagline { color: var(--text-secondary); font-size: 0.95rem; margin-bottom: 0.5rem; }
+        .ancestor-links { font-size: 0.9rem; }
+        .ancestor-links a { margin-right: 1rem; }
+
+        .ancestor-image.jfitzgerald { background-image: url('../images/thumbs/wisconsin-irish-farming.jpg'); }
+        .ancestor-image.jfitzgerald::after { content: 'JF'; }
+        .ancestor-image.mfitzgerald { background-image: url('../images/thumbs/wisconsin-irish-farming.jpg'); }
+        .ancestor-image.mfitzgerald::after { content: 'MF'; }
+        .ancestor-image.jgleeson { background-image: url('../images/thumbs/james-gleeson-mondovi.jpg'); }
+        .ancestor-image.jgleeson::after { content: 'JG'; }
+        .ancestor-image.agleeson { background-image: url('../images/thumbs/wisconsin-irish-farming.jpg'); }
+        .ancestor-image.agleeson::after { content: 'AG'; }
+
+        .footer {
+            text-align: center;
+            padding: 2rem 1rem;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            border-top: 1px solid var(--border-light);
+            margin-top: 3rem;
+        }
+
+        @media (max-width: 600px) {
+            .ancestor-card { flex-direction: column; align-items: flex-start; }
+            .line-header h1 { font-size: 1.75rem; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="breadcrumb">
+        <a href="../index.html">← All Family Lines</a>
+    </nav>
+
+    <header class="line-header">
+        <div class="line-header-inner">
+            <h1>Gleeson / Fitzgerald Line</h1>
+            <div class="migration">Ireland → Wisconsin → Arizona</div>
+            <p class="intro">
+                The Gleeson and Fitzgerald families emigrated from County Limerick, Ireland during
+                the Famine era. They settled in Buffalo County, Wisconsin, where Irish Catholic
+                farming communities flourished. Their descendants eventually moved west to Arizona.
+            </p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="section-header">
+            <h2>Direct Ancestors</h2>
+        </div>
+
+        <div class="ancestors">
+            <div class="ancestor-card">
+                <a href="../research/reports/html/james_fitzgerald_bio.html">
+                    <div class="ancestor-image jfitzgerald"></div>
+                </a>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge direct">3rd Great-Grandfather</span>
+                    <div class="ancestor-name">William (James) Fitzgerald (1828–1899)</div>
+                    <div class="ancestor-tagline">Born Dromin-Athlacca, Co. Limerick; Wisconsin Farmer</div>
+                    <div class="ancestor-links">
+                        <a href="../research/reports/html/james_fitzgerald_bio.html">Biography</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ancestor-card">
+                <a href="../research/reports/html/maria_ann_fitzgerald_bio.html">
+                    <div class="ancestor-image mfitzgerald"></div>
+                </a>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge direct">2nd Great-Grandmother</span>
+                    <div class="ancestor-name">Maria Ann Fitzgerald (1865–1916)</div>
+                    <div class="ancestor-tagline">Wisconsin Native, Daughter of Irish Immigrants</div>
+                    <div class="ancestor-links">
+                        <a href="../research/reports/html/maria_ann_fitzgerald_bio.html">Biography</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ancestor-card">
+                <a href="../research/reports/html/james_j_gleeson_bio.html">
+                    <div class="ancestor-image jgleeson"></div>
+                </a>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge direct">2nd Great-Grandfather</span>
+                    <div class="ancestor-name">James J. Gleeson (1863–1946)</div>
+                    <div class="ancestor-tagline">Born Croom, Co. Limerick; Farmer, Mondovi, WI</div>
+                    <div class="ancestor-links">
+                        <a href="../research/reports/html/james_j_gleeson_bio.html">Biography</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ancestor-card">
+                <div class="ancestor-image agleeson"></div>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge direct">Great-Grandmother</span>
+                    <div class="ancestor-name">Anne B. Gleeson (1903–1986)</div>
+                    <div class="ancestor-tagline">Born Mondovi, Wisconsin; married 1921, moved to Arizona</div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <a href="../index.html">← Back to All Family Lines</a>
+    </footer>
+</body>
+</html>

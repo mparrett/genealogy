@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuthe Line · Parrett Family History</title>
+    <style>
+        :root {
+            --primary: #7a3a0f;
+            --secondary: #2c5530;
+            --accent: #d4a574;
+            --accent-line: #3d6b47; /* Kuthe: forest green */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #faf9f7;
+            --paper: #fcfbf9;
+            --border-light: #e8e5e0;
+        }
+
+        *, *::before, *::after { box-sizing: border-box; }
+        * { margin: 0; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background-color: var(--background);
+            min-height: 100vh;
+        }
+
+        h1, h2, h3 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            color: var(--primary);
+        }
+
+        a { color: var(--secondary); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        .container { max-width: 800px; margin: 0 auto; padding: 0 1.5rem 2rem; }
+
+        .breadcrumb {
+            padding: 0.75rem 1.5rem;
+            max-width: 800px;
+            margin: 0 auto;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+        .breadcrumb a { color: var(--text-muted); }
+        .breadcrumb a:hover { color: var(--secondary); }
+
+        .line-header {
+            background: linear-gradient(135deg, var(--paper) 0%, #f5f0e8 100%);
+            padding: 2rem 1.5rem 1.5rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 3px solid var(--accent-line);
+        }
+        .line-header-inner { max-width: 800px; margin: 0 auto; }
+        .line-header h1 { font-size: 2rem; margin-bottom: 0.35rem; color: var(--accent-line); }
+        .line-header .migration { font-size: 1rem; color: var(--text-secondary); margin-bottom: 0.75rem; }
+        .line-header .intro { color: var(--text-secondary); max-width: 650px; line-height: 1.65; font-size: 0.95rem; }
+
+        .section-header { display: flex; align-items: center; gap: 1rem; margin: 2rem 0 1rem; }
+        .section-header h2 { font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); }
+        .section-header::after { content: ''; flex: 1; height: 1px; background: var(--border-light); }
+
+        .ancestors { display: flex; flex-direction: column; gap: 0.75rem; }
+        .ancestor-card {
+            display: flex;
+            gap: 1rem;
+            padding: 1rem;
+            background: var(--paper);
+            border-radius: 5px;
+            box-shadow: 0 1px 3px rgba(122, 58, 15, 0.05);
+            transition: box-shadow 0.2s ease;
+        }
+        .ancestor-card:hover { box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1); }
+
+        .ancestor-image {
+            flex-shrink: 0;
+            width: 80px;
+            height: 80px;
+            background-size: cover;
+            background-position: center;
+            border-radius: 4px;
+            position: relative;
+        }
+        .ancestor-image::after {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: rgba(255, 255, 255, 0.9);
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+        }
+
+        .ancestor-content { flex: 1; min-width: 0; }
+        .ancestor-badge {
+            display: inline-block;
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            padding: 2px 8px;
+            border-radius: 3px;
+            margin-bottom: 0.4rem;
+        }
+        .ancestor-badge.direct { background: var(--accent); color: var(--primary); }
+        .ancestor-name { font-family: Georgia, 'Times New Roman', serif; font-size: 1.15rem; font-weight: 500; color: var(--primary); margin-bottom: 0.25rem; }
+        .ancestor-tagline { color: var(--text-secondary); font-size: 0.95rem; margin-bottom: 0.5rem; }
+        .ancestor-links { font-size: 0.9rem; }
+        .ancestor-links a { margin-right: 1rem; }
+
+        .ancestor-image.george { background-image: url('../images/thumbs/george-kuthe-migration.jpg'); }
+        .ancestor-image.george::after { content: 'GK'; }
+        .ancestor-image.huldah { background-image: url('../images/thumbs/huldah-oregon-pioneer.jpg'); }
+        .ancestor-image.huldah::after { content: 'HB'; }
+        .ancestor-image.frederick { background-image: url('../images/thumbs/george-kuthe-migration.jpg'); }
+        .ancestor-image.frederick::after { content: 'FK'; }
+
+        .footer {
+            text-align: center;
+            padding: 2rem 1rem;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            border-top: 1px solid var(--border-light);
+            margin-top: 3rem;
+        }
+
+        @media (max-width: 600px) {
+            .ancestor-card { flex-direction: column; align-items: flex-start; }
+            .line-header h1 { font-size: 1.75rem; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="breadcrumb">
+        <a href="../index.html">← All Family Lines</a>
+    </nav>
+
+    <header class="line-header">
+        <div class="line-header-inner">
+            <h1>Kuthe Line</h1>
+            <div class="migration">Germany → Missouri → Oregon → Arizona</div>
+            <p class="intro">
+                The Kuthe line begins with Frederick Kuthe's emigration from Vöhl, Hesse, Germany
+                to Missouri in the mid-19th century. His descendants moved west through Oregon's
+                Willamette Valley before eventually settling in Arizona.
+            </p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="section-header">
+            <h2>Direct Ancestors</h2>
+        </div>
+
+        <div class="ancestors">
+            <div class="ancestor-card">
+                <a href="../research/reports/html/frederick_kuthe_bio.html">
+                    <div class="ancestor-image frederick"></div>
+                </a>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge direct">3rd Great-Grandfather</span>
+                    <div class="ancestor-name">Frederick Kuthe (c. 1822–1900)</div>
+                    <div class="ancestor-tagline">German Immigrant, Missouri Farmer</div>
+                    <div class="ancestor-links">
+                        <a href="../research/reports/html/frederick_kuthe_bio.html">Biography</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ancestor-card">
+                <a href="../research/reports/html/george_w_kuthe_bio.html">
+                    <div class="ancestor-image george"></div>
+                </a>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge direct">2nd Great-Grandfather</span>
+                    <div class="ancestor-name">George Washington Kuthe (1869–1925)</div>
+                    <div class="ancestor-tagline">Farmer, Pioneer Descendant, German-American Migrant</div>
+                    <div class="ancestor-links">
+                        <a href="../research/reports/html/george_w_kuthe_bio.html">Biography</a>
+                        <a href="../pdf/Genealogical_and_Historical_Records_of_the_Bond_Hayes_Bridgefarmer_and_Kuthe_Families.pdf" target="_blank">Report (PDF)</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ancestor-card">
+                <a href="../research/reports/html/huldah_imogene_kuthe_bio.html">
+                    <div class="ancestor-image huldah"></div>
+                </a>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge direct">2nd Great-Grandmother</span>
+                    <div class="ancestor-name">Huldah Imogene (Bridgefarmer) Kuthe (1873–1907)</div>
+                    <div class="ancestor-tagline">Oregon Native, Pioneer Descendant, Early 20th Century Farm Wife</div>
+                    <div class="ancestor-links">
+                        <a href="../research/reports/html/huldah_imogene_kuthe_bio.html">Biography</a>
+                        <a href="../pdf/Genealogical_and_Historical_Records_of_the_Bond_Hayes_Bridgefarmer_and_Kuthe_Families.pdf" target="_blank">Report (PDF)</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <a href="../index.html">← Back to All Family Lines</a>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mowery Line · Parrett Family History</title>
+    <style>
+        :root {
+            --primary: #7a3a0f;
+            --secondary: #2c5530;
+            --accent: #d4a574;
+            --accent-line: #8b4513; /* Mowery: warm sienna */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #faf9f7;
+            --paper: #fcfbf9;
+            --border-light: #e8e5e0;
+        }
+
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+
+        * {
+            margin: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background-color: var(--background);
+            min-height: 100vh;
+        }
+
+        h1, h2, h3 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            color: var(--primary);
+        }
+
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Layout */
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 1.5rem 2rem;
+        }
+
+        /* Breadcrumb */
+        .breadcrumb {
+            padding: 0.75rem 1.5rem;
+            max-width: 800px;
+            margin: 0 auto;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        .breadcrumb a {
+            color: var(--text-muted);
+        }
+
+        .breadcrumb a:hover {
+            color: var(--secondary);
+        }
+
+        /* Line Header */
+        .line-header {
+            background: linear-gradient(135deg, var(--paper) 0%, #f5f0e8 100%);
+            padding: 2rem 1.5rem 1.5rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 3px solid var(--accent-line);
+        }
+
+        .line-header-inner {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .line-header h1 {
+            font-size: 2rem;
+            margin-bottom: 0.35rem;
+            color: var(--accent-line);
+        }
+
+        .line-header .migration {
+            font-size: 1rem;
+            color: var(--text-secondary);
+            margin-bottom: 0.75rem;
+        }
+
+        .line-header .intro {
+            color: var(--text-secondary);
+            max-width: 650px;
+            line-height: 1.65;
+            font-size: 0.95rem;
+        }
+
+        /* Section Headers */
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin: 2rem 0 1rem;
+        }
+
+        .section-header h2 {
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-muted);
+        }
+
+        .section-header::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--border-light);
+        }
+
+        /* Ancestor Cards */
+        .ancestors {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .ancestor-card {
+            display: flex;
+            gap: 1rem;
+            padding: 1rem;
+            background: var(--paper);
+            border-radius: 5px;
+            box-shadow: 0 1px 3px rgba(122, 58, 15, 0.05);
+            transition: box-shadow 0.2s ease;
+        }
+
+        .ancestor-card:hover {
+            box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1);
+        }
+
+        .ancestor-image {
+            flex-shrink: 0;
+            width: 80px;
+            height: 80px;
+            background-size: cover;
+            background-position: center;
+            border-radius: 4px;
+            position: relative;
+        }
+
+        .ancestor-image::after {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: rgba(255, 255, 255, 0.9);
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+        }
+
+        .ancestor-content {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .ancestor-badge {
+            display: inline-block;
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            padding: 2px 8px;
+            border-radius: 3px;
+            margin-bottom: 0.4rem;
+        }
+
+        .ancestor-badge.direct {
+            background: var(--accent);
+            color: var(--primary);
+        }
+
+        .ancestor-badge.collateral {
+            background: var(--border-light);
+            color: var(--text-secondary);
+        }
+
+        .ancestor-name {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 1.15rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.25rem;
+        }
+
+        .ancestor-tagline {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .ancestor-links {
+            font-size: 0.9rem;
+        }
+
+        .ancestor-links a {
+            margin-right: 1rem;
+        }
+
+        /* Image backgrounds */
+        .ancestor-image.lewis {
+            background-image: url('../images/thumbs/tennessee-pioneer.jpg');
+        }
+        .ancestor-image.lewis::after { content: 'LM'; }
+
+        .ancestor-image.elizabeth {
+            background-image: url('../images/thumbs/tennessee-pioneer.jpg');
+        }
+        .ancestor-image.elizabeth::after { content: 'EL'; }
+
+        .ancestor-image.moses {
+            background-image: url('../images/thumbs/texas-farming-1820-1830.jpg');
+        }
+        .ancestor-image.moses::after { content: 'MM'; }
+
+        .ancestor-image.samuel {
+            background-image: url('../images/thumbs/texas-farming-1820-1830.jpg');
+        }
+        .ancestor-image.samuel::after { content: 'SM'; }
+
+        .ancestor-image.raymond {
+            background-image: url('../images/thumbs/williams-arizona-route66.jpg');
+        }
+        .ancestor-image.raymond::after { content: 'RM'; }
+
+        .ancestor-image.pleasant {
+            background-image: url('../images/thumbs/texas-farming-1820-1830.jpg');
+        }
+        .ancestor-image.pleasant::after { content: 'PM'; }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 2rem 1rem;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            border-top: 1px solid var(--border-light);
+            margin-top: 3rem;
+        }
+
+        /* Mobile */
+        @media (max-width: 600px) {
+            .ancestor-card {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .ancestor-image {
+                width: 80px;
+                height: 80px;
+            }
+
+            .line-header h1 {
+                font-size: 1.75rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="breadcrumb">
+        <a href="../index.html">← All Family Lines</a>
+    </nav>
+
+    <header class="line-header">
+        <div class="line-header-inner">
+            <h1>Mowery Line</h1>
+            <div class="migration">Tennessee → Texas → Arizona</div>
+            <p class="intro">
+                The Mowery line traces from early 19th-century Tennessee through the Texas frontier
+                to 20th-century Arizona. Beginning with Lewis R. Mowery in Bradley County, Tennessee,
+                the family moved west with the great migrations, eventually settling in Williams, Arizona
+                along Route 66.
+            </p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="section-header">
+            <h2>Direct Ancestors</h2>
+        </div>
+
+        <div class="ancestors">
+            <div class="ancestor-card">
+                <a href="../research/reports/html/lewis_r_mowery_bio.html">
+                    <div class="ancestor-image lewis"></div>
+                </a>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge direct">4th Great-Grandfather</span>
+                    <div class="ancestor-name">Lewis R. Mowery (c. 1801–c. 1850)</div>
+                    <div class="ancestor-tagline">Tennessee Pioneer, Farmer, Family Patriarch</div>
+                    <div class="ancestor-links">
+                        <a href="../research/reports/html/lewis_r_mowery_bio.html">Biography</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ancestor-card">
+                <a href="../research/reports/html/elizabeth_lusby_mowery_bio.html">
+                    <div class="ancestor-image elizabeth"></div>
+                </a>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge direct">4th Great-Grandmother</span>
+                    <div class="ancestor-name">Elizabeth "Betsy" Lisbee Mowery (c. 1806–1859)</div>
+                    <div class="ancestor-tagline">Tennessee Native, Pioneer Wife, Maternal Matriarch</div>
+                    <div class="ancestor-links">
+                        <a href="../research/reports/html/elizabeth_lusby_mowery_bio.html">Biography</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ancestor-card">
+                <a href="../research/reports/html/Moses_Mansfield_Mowery_1822-1904_Biography.html">
+                    <div class="ancestor-image moses"></div>
+                </a>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge direct">3rd Great-Grandfather</span>
+                    <div class="ancestor-name">Moses Mansfield Mowery (1822–1904)</div>
+                    <div class="ancestor-tagline">Tennessee Farmer, Texas Pioneer, Red River County Founder</div>
+                    <div class="ancestor-links">
+                        <a href="../research/reports/html/Moses_Mansfield_Mowery_1822-1904_Biography.html">Biography</a>
+                        <a href="../pdf/Moses_Mansfield_Mowery_1822-1904_Lineage_Confirmation.pdf" target="_blank">Report (PDF)</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ancestor-card">
+                <a href="../research/reports/html/samuel_s_mowrey_bio.html">
+                    <div class="ancestor-image samuel"></div>
+                </a>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge direct">2nd Great-Grandfather</span>
+                    <div class="ancestor-name">Samuel S. Mowrey (1867–1904)</div>
+                    <div class="ancestor-tagline">Texas Farmer, Father of Four, Gone Too Soon</div>
+                    <div class="ancestor-links">
+                        <a href="../research/reports/html/samuel_s_mowrey_bio.html">Biography</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ancestor-card">
+                <a href="../research/reports/html/raymond_robert_mowrey_bio.html">
+                    <div class="ancestor-image raymond"></div>
+                </a>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge direct">Great-Grandfather</span>
+                    <div class="ancestor-name">Raymond Robert Mowrey (1899–1973)</div>
+                    <div class="ancestor-tagline">Texas-Born, Arizona-Made, A Pillar of Williams</div>
+                    <div class="ancestor-links">
+                        <a href="../research/reports/html/raymond_robert_mowrey_bio.html">Biography</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-header">
+            <h2>Collateral Relatives</h2>
+        </div>
+
+        <div class="ancestors">
+            <div class="ancestor-card">
+                <a href="../research/reports/html/pleasant_a_mowrey_bio.html">
+                    <div class="ancestor-image pleasant"></div>
+                </a>
+                <div class="ancestor-content">
+                    <span class="ancestor-badge collateral">3rd Great-Granduncle</span>
+                    <div class="ancestor-name">Pleasant A. Mowrey (c. 1820s–1830s)</div>
+                    <div class="ancestor-tagline">Tennessee Native, Texas Pioneer — brother of Moses</div>
+                    <div class="ancestor-links">
+                        <a href="../research/reports/html/pleasant_a_mowrey_bio.html">Biography</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <a href="../index.html">← Back to All Family Lines</a>
+    </footer>
+</body>
+</html>
