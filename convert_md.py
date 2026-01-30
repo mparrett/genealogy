@@ -173,6 +173,7 @@ def convert_file(md_file_path, html_file_path):
         family_links_html = generate_family_links_html(timeline_data) if timeline_data else ""
         if family_links_html and '<hr />' in body_content:
             body_content = body_content.replace('<hr />', family_links_html + '\n<hr />', 1)
+
         
         # Create complete HTML document with inline CSS
         html_document = f"""<!DOCTYPE html>
@@ -334,12 +335,13 @@ def convert_file(md_file_path, html_file_path):
             background-size: 100% 3px;
         }}
         
-        /* Horizontal Rule */
+        /* Horizontal Rule - simple gradient for markdown hr */
         hr {{
             border: none;
-            height: 1px;
-            background: linear-gradient(to right, transparent, var(--border-light), transparent);
-            margin: 2rem 0;
+            height: 2px;
+            background: linear-gradient(to right, transparent, var(--accent), transparent);
+            margin: 2.5rem auto;
+            max-width: 95%;
         }}
         
         /* Genealogy-specific classes */
@@ -555,6 +557,7 @@ def convert_file(md_file_path, html_file_path):
                 rgba(250, 248, 242, 0.95) 100%
             );
             border: 1px solid var(--border-light);
+            border-left: 3px solid rgba(212, 165, 116, 0.35);
             border-radius: 6px;
             text-decoration: none;
             transition: border-color 0.2s, box-shadow 0.2s;
@@ -562,7 +565,7 @@ def convert_file(md_file_path, html_file_path):
         }}
 
         .family-link-card:hover {{
-            border-color: var(--accent);
+            border-left-color: var(--accent);
             box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1);
             background-size: 100% 0;
         }}
@@ -720,15 +723,14 @@ def convert_file(md_file_path, html_file_path):
             }}
         }}
 
-        /* Back Navigation */
+        /* Back Navigation - matches line page breadcrumb */
         .bio-nav {{
-            margin-bottom: 1.5rem;
-            padding-bottom: 0.75rem;
-            border-bottom: 1px solid var(--border-light);
+            padding: 0.75rem 0;
+            margin-bottom: 1rem;
+            font-size: 0.85rem;
         }}
 
         .bio-nav a {{
-            font-size: 0.9rem;
             color: var(--text-muted);
             text-decoration: none;
             background: none;
@@ -736,7 +738,9 @@ def convert_file(md_file_path, html_file_path):
 
         .bio-nav a:hover {{
             color: var(--secondary);
+            text-decoration: underline;
         }}
+
 
         @media print {{
             .bio-nav {{
