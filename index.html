@@ -63,30 +63,61 @@
             font-size: 0.95rem;
         }
 
+        /* Ornamental Divider */
+        .divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.75rem;
+            color: var(--accent);
+            font-size: 0.75rem;
+            margin: 1.5rem 0;
+        }
+
+        .divider::before,
+        .divider::after {
+            content: '';
+            width: 100px;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--accent));
+        }
+
+        .divider::after {
+            background: linear-gradient(90deg, var(--accent), transparent);
+        }
+
+        .divider-sm {
+            margin: 1rem 0;
+        }
+
+        .divider-sm::before,
+        .divider-sm::after {
+            width: 70px;
+        }
+
         /* Line List */
         .lines {
             display: flex;
             flex-direction: column;
-            gap: 0;
+            gap: 0.75rem;
         }
 
         .line-row {
             display: flex;
             align-items: center;
             gap: 1rem;
-            padding: 1rem 0;
-            border-bottom: 1px solid var(--border-light);
+            padding: 1rem;
+            background: var(--paper);
+            border-radius: 6px;
+            box-shadow: 0 1px 3px rgba(122, 58, 15, 0.06);
             text-decoration: none;
             color: inherit;
-            transition: background 0.15s ease;
-        }
-
-        .line-row:first-child {
-            border-top: 1px solid var(--border-light);
+            transition: box-shadow 0.2s ease, transform 0.15s ease;
         }
 
         .line-row:hover {
-            background: rgba(212, 165, 116, 0.08);
+            box-shadow: 0 3px 10px rgba(122, 58, 15, 0.1);
+            transform: translateY(-1px);
             text-decoration: none;
         }
 
@@ -173,6 +204,7 @@
     <header class="header">
         <h1>Parrett Family History</h1>
         <p class="tagline">Four lines, generations of stories</p>
+        <div class="divider">◆</div>
     </header>
 
     <main class="container">
@@ -213,6 +245,8 @@
                 <span class="line-arrow">→</span>
             </a>
         </div>
+
+        <div class="divider divider-sm">◆</div>
 
         <section class="about">
             <h2>About This Project</h2>
