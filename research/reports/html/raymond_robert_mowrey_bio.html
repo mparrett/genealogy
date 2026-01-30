@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>raymond_robert_mowrey_bio</title>
+    <style>
+        /* CSS Custom Properties */
+        :root {
+            --primary: #7a3a0f;      /* Rich brown - evokes old documents */
+            --secondary: #2c5530;    /* Deep forest green */
+            --accent: #d4a574;       /* Warm gold */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #fefefe;
+            --paper: #fcfcfc;        /* Slight warmth */
+            --border-light: #e8e5e0;
+            --footnote-red: #c53030; /* Warmer red */
+        }
+        
+        /* Modern CSS Reset */
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+        
+        * {
+            margin: 0;
+        }
+        
+        body {
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        img, picture, video, canvas, svg {
+            display: block;
+            max-width: 100%;
+        }
+
+        /* Full-width images clear floats */
+        img:not(.float-right):not(.float-left) {
+            clear: both;
+        }
+
+        /* Floating images for inline illustrations */
+        img.float-right {
+            float: right;
+            width: 50%;
+            margin: 0 0 1rem 1.5rem;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        img.float-left {
+            float: left;
+            width: 50%;
+            margin: 0 1.5rem 1rem 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        img.float-right-sm {
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        img.float-left-sm {
+            float: left;
+            width: 33%;
+            margin: 0 1.5rem 1rem 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        /* Clear floats after sections */
+        h2, h3, hr {
+            clear: both;
+        }
+        
+        input, button, textarea, select {
+            font: inherit;
+        }
+        
+        /* Typography */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
+            border-radius: 8px;
+            min-height: 100vh;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 1rem;
+            color: var(--primary);
+        }
+        
+        h1 { font-size: 2.25rem; margin-bottom: 1.5rem; }
+        h2 { font-size: 1.875rem; margin-top: 2rem; }
+        h3 { font-size: 1.5rem; margin-top: 1.5rem; }
+        
+        /* Add breathing room at the top */
+        h1:first-child, h2:first-child, h3:first-child {
+            margin-top: 1rem;
+        }
+        
+        p {
+            margin-bottom: 1.25rem;
+        }
+        
+        strong {
+            font-weight: 600;
+            color: var(--primary);
+        }
+        
+        em {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+        
+        /* Lists */
+        ul, ol {
+            margin-bottom: 1.25rem;
+            padding-left: 1.5rem;
+        }
+        
+        li {
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+        
+        /* Links */
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+            background-image: linear-gradient(120deg, transparent 0%, var(--accent) 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0px;
+            background-position: 0 88%;
+            transition: background-size 0.25s ease-in;
+        }
+        
+        a:hover {
+            background-size: 100% 3px;
+        }
+        
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--border-light), transparent);
+            margin: 2rem 0;
+        }
+        
+        /* Genealogy-specific classes */
+        .date, .location {
+            font-variant: small-caps;
+            letter-spacing: 0.5px;
+            color: var(--text-secondary);
+        }
+        
+        /* Footnotes */
+        .footnote-ref {
+            font-size: 0.85em;
+            font-weight: 500;
+        }
+        
+        .footnote-ref a {
+            color: var(--footnote-red);
+            text-decoration: none;
+            background: none;
+        }
+        
+        .footnote-ref a:hover {
+            color: #9c1f1f;
+        }
+        
+        .footnotes {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-light);
+            background-color: var(--paper);
+            border-radius: 6px;
+            padding: 2rem;
+            margin-left: -2rem;
+            margin-right: -2rem;
+        }
+        
+        .footnotes h3 {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        
+        .footnotes ol {
+            padding-left: 1.25rem;
+        }
+        
+        .footnotes li {
+            font-size: 0.9rem;
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+            color: var(--text-secondary);
+        }
+        
+        .footnotes .footnote {
+            color: var(--text-muted);
+            text-decoration: none;
+            margin-left: 0.5rem;
+        }
+        
+        .footnotes .footnote:hover {
+            color: var(--text-secondary);
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            body { 
+                padding: 1rem; 
+                box-shadow: none;
+                border-radius: 0;
+            }
+            h1 { font-size: 1.875rem; }
+            h2 { font-size: 1.5rem; }
+            h3 { font-size: 1.25rem; }
+            
+            .footnotes {
+                margin-left: -1rem;
+                margin-right: -1rem;
+            }
+        }
+        
+        /* Print styles */
+        @media print {
+            body {
+                font-size: 12pt;
+                line-height: 1.5;
+                color: #000;
+                background: #fff;
+                margin: 0;
+                padding: 1in;
+                box-shadow: none;
+                border-radius: 0;
+            }
+
+            a {
+                color: #000;
+                text-decoration: underline;
+                background: none;
+            }
+
+            .footnotes {
+                background: #fff;
+                border: 1px solid #ccc;
+            }
+
+            .bio-timeline {
+                display: none;
+            }
+        }
+
+        /* Timeline Sidebar */
+        .bio-layout {
+            position: relative;
+        }
+
+        .bio-timeline {
+            position: fixed;
+            top: 2rem;
+            left: calc(50% + 420px);
+            width: 175px;
+            padding: 1.25rem 1.5rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 252, 250, 0.97) 0%,
+                rgba(252, 250, 245, 0.95) 50%,
+                rgba(250, 248, 242, 0.97) 100%
+            );
+            border: 1px solid var(--border-light);
+            border-radius: 6px;
+            font-size: 0.85rem;
+            box-shadow: 0 2px 12px rgba(122, 58, 15, 0.06);
+        }
+
+        .timeline-event {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .timeline-year {
+            font-family: Georgia, serif;
+            font-weight: 500;
+            color: var(--primary);
+            min-width: 2.5rem;
+        }
+
+        .timeline-marker {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--accent);
+            border: 2px solid var(--primary);
+            flex-shrink: 0;
+        }
+
+        .timeline-marker--major {
+            width: 10px;
+            height: 10px;
+            background: var(--primary);
+        }
+
+        .timeline-label {
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            line-height: 1.3;
+        }
+
+        .timeline-line {
+            width: 2px;
+            height: 1rem;
+            background: linear-gradient(180deg, var(--border-light) 0%, var(--accent) 50%, var(--border-light) 100%);
+            margin-left: calc(2.5rem + 0.5rem + 3px);
+            opacity: 0.6;
+        }
+
+        @media (max-width: 1100px) {
+            .bio-timeline {
+                display: none;
+            }
+        }
+
+        /* Family Links */
+        .family-links {
+            margin: 2rem 0;
+        }
+
+        .family-links-title {
+            font-family: Georgia, serif;
+            font-size: 1rem;
+            color: var(--text-muted);
+            font-weight: 400;
+            margin-bottom: 1rem;
+            letter-spacing: 0.5px;
+        }
+
+        .family-links-grid {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .family-link-card {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            text-align: center;
+            width: 140px;
+            padding: 0.875rem 1rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 252, 250, 0.97) 0%,
+                rgba(250, 248, 242, 0.95) 100%
+            );
+            border: 1px solid var(--border-light);
+            border-radius: 6px;
+            text-decoration: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            overflow: hidden;
+        }
+
+        .family-link-card:hover {
+            border-color: var(--accent);
+            box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1);
+            background-size: 100% 0;
+        }
+
+        .family-link-name {
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            color: var(--primary);
+            line-height: 1.25;
+            font-weight: 500;
+            position: relative;
+        }
+
+        .family-link-relation {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+            position: relative;
+        }
+
+        /* Location Aside */
+        .location-aside {
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 250, 245, 0.6) 0%,
+                rgba(250, 247, 240, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(212, 165, 116, 0.6);
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+
+        .location-aside img {
+            width: 100%;
+            border-radius: 2px;
+            margin-bottom: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }
+
+        .location-aside-title {
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.125rem;
+            line-height: 1.3;
+        }
+
+        .location-aside-date {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .location-aside-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        @media (max-width: 600px) {
+            .location-aside {
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+            }
+        }
+
+        @media print {
+            .location-aside {
+                float: right;
+                width: 40%;
+                border-left: 1px solid #ccc;
+            }
+        }
+
+        /* Location Aside - Horizontal variant (image left, text right) */
+        .location-aside-horizontal {
+            float: right;
+            width: 50%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 250, 245, 0.6) 0%,
+                rgba(250, 247, 240, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(212, 165, 116, 0.6);
+            border-radius: 4px;
+            font-size: 0.85rem;
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .location-aside-horizontal img {
+            flex: 1;
+            min-width: 0;
+            border-radius: 2px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+            align-self: flex-start;
+        }
+
+        .location-aside-horizontal .location-aside-content {
+            flex: 1.6;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .location-aside-horizontal .location-aside-title {
+            font-family: Georgia, serif;
+            font-size: 0.95rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.125rem;
+            line-height: 1.3;
+        }
+
+        .location-aside-horizontal .location-aside-date {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .location-aside-horizontal .location-aside-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        @media (max-width: 600px) {
+            .location-aside-horizontal {
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+                flex-direction: column;
+            }
+
+            .location-aside-horizontal img {
+                width: 100%;
+            }
+        }
+
+        @media print {
+            .location-aside-horizontal {
+                float: right;
+                width: 45%;
+                border-left: 1px solid #ccc;
+            }
+        }
+
+        /* Back Navigation */
+        .bio-nav {
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 1px solid var(--border-light);
+        }
+
+        .bio-nav a {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            text-decoration: none;
+            background: none;
+        }
+
+        .bio-nav a:hover {
+            color: var(--secondary);
+        }
+
+        @media print {
+            .bio-nav {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+<nav class="bio-nav"><a href="../../../index.html">← Family Index</a></nav>
+<div class="bio-layout"><div class="bio-content"><h3><strong>Raymond Robert Mowrey (1899–1973)</strong></h3>
+<p><strong>Relationship:</strong> Great-grandfather (Mowrey line)</p>
+<p><em>Texas-Born, Arizona-Made, A Pillar of Williams</em></p>
+<p>Raymond Robert Mowrey was born on December 20, 1899, in Paris, Texas, the third child of <strong>Samuel S. Mowrey</strong> (1867–1904) and <strong>Effie May Coker</strong> (1878–1958). He had an older brother Frank Preston and an older half-sister Cecilia Mae, with a younger sister Ruby arriving in 1902.</p>
+<p>Raymond's childhood was marked by tragedy. On August 29, 1904, when he was just four years old, his father Samuel died—on the same day as his grandfather Moses Mansfield Mowery. The cause of this double death remains a family mystery. His mother Effie, widowed at twenty-six with four young children, eventually remarried a Mr. Dawson.</p>
+<p>Despite the early loss, Raymond grew into a man of ambition and community spirit. He registered for the draft during World War I while still living in Lamar County, Texas. In May 1921, at twenty-one, he married <strong>May Smith</strong> in Lamar County—though this marriage did not last.</p>
+<img src="../../../images/bio/raymond-mowrey-01-williams-az.png" alt="Williams, Arizona in the 1930s - Route 66 town" class="float-right">
+
+<p>By 1930, Raymond had made his way to <strong>Williams, Arizona</strong>, a railroad town along Route 66 in the pine forests below the San Francisco Peaks. There he married <strong>Anne Barbara Gleeson</strong> (1903–1986), connecting the Mowrey line with the Gleeson family—descendants of Irish immigrants who had settled in Wisconsin before moving west. Their daughter <strong>Patricia Anne Mowrey</strong> was born in Williams on February 5, 1929.</p>
+<img src="../../../images/bio/raymond-mowrey-02-sultana-bar.png" alt="Sultana Bar and Buffet interior, Williams, AZ" class="float-left">
+
+<p>Raymond became a prominent figure in Williams. In 1937, he was elected president of the Williams Rotary Club—the local newspaper announced &quot;Governor Mowrey Is New Rotary Pilot.&quot; He served as commander of the American Legion post. In January 1938, he leased the <strong>Sultana Bar and Buffet</strong>, a landmark establishment on Route 66 that he would operate for years, refurbishing its interior in 1941.</p>
+<p>The newspaper clippings paint a picture of a man deeply woven into small-town Arizona life: attending Rotarian Christmas programs, traveling to Phoenix on business, hosting visitors from out of town. In 1946, he announced his candidacy for local office—though the outcome is not recorded in available sources.</p>
+<p>Raymond and Anne Barbara raised Patricia in Williams through the Depression and war years. By the late 1940s, the family had connections to Phoenix, where Raymond would eventually settle. His mother Effie died there in January 1958.</p>
+<p>Raymond Robert Mowrey died in Phoenix in June 1973, at seventy-three years old. His obituary in the <em>Arizona Republic</em> noted his past roles as American Legion commander and Rotary Club president in Williams. He is buried in Phoenix.</p>
+<p>From a fatherless childhood in Texas to a respected life in Arizona, Raymond's journey connected the Mowrey line's Texas roots to its Arizona future—and through his marriage to Anne Barbara Gleeson, wove together two family threads that continue today.</p>
+<div class="family-links">
+  <h4 class="family-links-title">Family</h4>
+  <div class="family-links-grid">
+    <a href="samuel_s_mowrey_bio.html" class="family-link-card">
+      <span class="family-link-name">Samuel S. Mowrey</span>
+      <span class="family-link-relation">Father</span>
+    </a>
+    <a href="anne_barbara_gleeson_bio.html" class="family-link-card">
+      <span class="family-link-name">Anne Barbara Gleeson</span>
+      <span class="family-link-relation">Wife</span>
+    </a>
+    <a href="patricia_anne_mowrey_bio.html" class="family-link-card">
+      <span class="family-link-name">Patricia Anne Mowrey</span>
+      <span class="family-link-relation">Daughter</span>
+    </a>
+  </div>
+</div>
+<hr />
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Birth: 20 Dec 1899, Paris, Texas per Ancestry records.</li>
+<li>Parents: Samuel S. Mowrey (1867–1904) + Effie May Coker (1878–1958).</li>
+<li>Father died 29 Aug 1904, when Raymond was 4.</li>
+<li>WWI draft registration: 1917-1918, Lamar County, TX.</li>
+<li>WWII draft registration also recorded.</li>
+<li>First marriage: May Smith, 21 May 1921, Lamar County, TX.</li>
+<li>Second marriage: Anne Barbara Gleeson (1903–1986), c. 1930, Williams, AZ.</li>
+<li>Daughter: Patricia Anne Mowrey (1929–2009), born Williams, AZ.</li>
+<li>Williams, AZ prominence: Rotary President (1937), American Legion Commander, Sultana Bar operator.</li>
+<li>Death: June 1973, Phoenix, AZ. Obituary in <em>Arizona Republic</em>, 19 Jun 1973.</li>
+<li>Find a Grave: https://www.findagrave.com/memorial/251099032/raymond-r.-mowrey</li>
+<li>Ancestry printout: <code>research/raymond_robert_mowrey-ancestry-2026-01-29.md</code></li>
+</ul>
+</div><aside class="bio-timeline">
+  <div class="timeline-event">
+    <span class="timeline-year">1899</span>
+    <span class="timeline-marker timeline-marker--major"></span>
+    <span class="timeline-label">Born</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1904</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Father Samuel died</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1921</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Married May Smith</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1930</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Married Anne Barbara Gleeson</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1930</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Settled in Williams, AZ</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1937</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Rotary Club President</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1973</span>
+    <span class="timeline-marker timeline-marker--major"></span>
+    <span class="timeline-label">Died</span>
+  </div>
+</aside></div>
+</body>
+</html>

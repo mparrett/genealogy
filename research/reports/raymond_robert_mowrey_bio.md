@@ -10,7 +10,11 @@ Raymond's childhood was marked by tragedy. On August 29, 1904, when he was just 
 
 Despite the early loss, Raymond grew into a man of ambition and community spirit. He registered for the draft during World War I while still living in Lamar County, Texas. In May 1921, at twenty-one, he married **May Smith** in Lamar County—though this marriage did not last.
 
+<img src="../../../images/bio/raymond-mowrey-01-williams-az.png" alt="Williams, Arizona in the 1930s - Route 66 town" class="float-right">
+
 By 1930, Raymond had made his way to **Williams, Arizona**, a railroad town along Route 66 in the pine forests below the San Francisco Peaks. There he married **Anne Barbara Gleeson** (1903–1986), connecting the Mowrey line with the Gleeson family—descendants of Irish immigrants who had settled in Wisconsin before moving west. Their daughter **Patricia Anne Mowrey** was born in Williams on February 5, 1929.
+
+<img src="../../../images/bio/raymond-mowrey-02-sultana-bar.png" alt="Sultana Bar and Buffet interior, Williams, AZ" class="float-left">
 
 Raymond became a prominent figure in Williams. In 1937, he was elected president of the Williams Rotary Club—the local newspaper announced "Governor Mowrey Is New Rotary Pilot." He served as commander of the American Legion post. In January 1938, he leased the **Sultana Bar and Buffet**, a landmark establishment on Route 66 that he would operate for years, refurbishing its interior in 1941.
 
