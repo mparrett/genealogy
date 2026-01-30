@@ -1,0 +1,35 @@
+name: Higgins / Knight Line
+accent_color: "#4a6584"  # slate blue
+migration: Dublin → Newark → San Francisco
+intro: |
+  The Higgins line traces from Rathmines, Dublin to industrial Newark, New Jersey,
+  and eventually to California. Laurence Higgins worked as a porter in Newark, while
+  his son James became a civil engineer on the Western Pacific Railroad.
+
+ancestors:
+  direct:
+    - name: Laurence Higgins
+      years: 1854–bef. 1930
+      tagline: Born Rathmines, Dublin; Porter in Newark, NJ
+      relation: 2nd Great-Grandfather
+      bio: laurence_higgins_bio.html
+      image_class: lhiggins
+      image_thumb: laurence-higgins-newark.jpg
+      initials: LH
+
+    - name: Mary Knight
+      years: 1866–1930
+      tagline: Born Co. Sligo, Ireland; died NYC
+      relation: 2nd Great-Grandmother
+      image_class: mknight
+      image_thumb: mary-knight-sligo-nyc.jpg
+      initials: MK
+
+    - name: James Everett Higgins
+      years: 1892–1938
+      tagline: Civil Engineer, Western Pacific Railroad; WWI Veteran
+      relation: Great-Grandfather
+      bio: james_e_higgins_bio.html
+      image_class: jehiggins
+      image_thumb: railroad-wwi-era.jpg
+      initials: JH

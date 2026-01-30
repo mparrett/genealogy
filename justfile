@@ -12,6 +12,17 @@ build-reports:
 build-report file:
     uvx --from mistune --with pyyaml python convert_md.py --file {{file}}
 
+# Generate all line pages from YAML data
+build-lines:
+    uvx --with pyyaml python convert_lines.py
+
+# Generate a specific line page
+build-line name:
+    uvx --with pyyaml python convert_lines.py {{name}}
+
+# Build everything (reports + lines)
+build-all: build-reports build-lines
+
 # Clean generated HTML files
 clean:
     rm -rf research/reports/html/

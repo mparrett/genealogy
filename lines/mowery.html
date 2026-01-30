@@ -9,7 +9,7 @@
             --primary: #7a3a0f;
             --secondary: #2c5530;
             --accent: #d4a574;
-            --accent-line: #8b4513; /* Mowery: warm sienna */
+            --accent-line: #8b4513;
             --text-primary: #2d3748;
             --text-secondary: #4a5568;
             --text-muted: #718096;
@@ -50,7 +50,6 @@
             text-decoration: underline;
         }
 
-        /* Page wrapper for card effect */
         .page-wrapper {
             max-width: 850px;
             margin: 0 auto;
@@ -60,14 +59,12 @@
             min-height: 100vh;
         }
 
-        /* Layout */
         .container {
             max-width: 800px;
             margin: 0 auto;
             padding: 0 2rem 2rem;
         }
 
-        /* Breadcrumb */
         .breadcrumb {
             padding: 0.75rem 1.5rem;
             max-width: 800px;
@@ -84,7 +81,6 @@
             color: var(--secondary);
         }
 
-        /* Line Header */
         .line-header {
             padding: 2rem 2rem 1.5rem;
             margin-bottom: 1.5rem;
@@ -126,7 +122,6 @@
             font-size: 0.95rem;
         }
 
-        /* Section Headers */
         .section-header {
             margin: 2.5rem 0 1rem;
         }
@@ -139,7 +134,6 @@
             font-weight: 500;
         }
 
-        /* Ancestor Cards */
         .ancestors {
             display: flex;
             flex-direction: column;
@@ -232,38 +226,31 @@
             margin-right: 1rem;
         }
 
-        /* Image backgrounds */
         .ancestor-image.lewis {
             background-image: url('../images/thumbs/tennessee-pioneer.jpg');
         }
         .ancestor-image.lewis::after { content: 'LM'; }
-
         .ancestor-image.elizabeth {
             background-image: url('../images/thumbs/tennessee-pioneer.jpg');
         }
         .ancestor-image.elizabeth::after { content: 'EL'; }
-
         .ancestor-image.moses {
             background-image: url('../images/thumbs/texas-farming-1820-1830.jpg');
         }
         .ancestor-image.moses::after { content: 'MM'; }
-
         .ancestor-image.samuel {
             background-image: url('../images/thumbs/texas-farming-1820-1830.jpg');
         }
         .ancestor-image.samuel::after { content: 'SM'; }
-
         .ancestor-image.raymond {
             background-image: url('../images/thumbs/williams-arizona-route66.jpg');
         }
         .ancestor-image.raymond::after { content: 'RM'; }
-
         .ancestor-image.pleasant {
             background-image: url('../images/thumbs/texas-farming-1820-1830.jpg');
         }
         .ancestor-image.pleasant::after { content: 'PM'; }
 
-        /* Footer */
         .footer {
             text-align: center;
             padding: 2rem 1rem;
@@ -273,7 +260,6 @@
             margin-top: 3rem;
         }
 
-        /* Mobile */
         @media (max-width: 600px) {
             .ancestor-card {
                 flex-direction: column;
@@ -303,9 +289,9 @@
             <div class="migration">Tennessee → Texas → Arizona</div>
             <p class="intro">
                 The Mowery line traces from early 19th-century Tennessee through the Texas frontier
-                to 20th-century Arizona. Beginning with Lewis R. Mowery in Bradley County, Tennessee,
-                the family moved west with the great migrations, eventually settling in Williams, Arizona
-                along Route 66.
+to 20th-century Arizona. Beginning with Lewis R. Mowery in Bradley County, Tennessee,
+the family moved west with the great migrations, eventually settling in Williams, Arizona
+along Route 66.
             </p>
         </div>
     </header>

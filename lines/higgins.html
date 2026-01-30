@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Higgins/Knight Line · Parrett Family History</title>
+    <title>Higgins / Knight Line · Parrett Family History</title>
     <style>
         :root {
             --primary: #7a3a0f;
             --secondary: #2c5530;
             --accent: #d4a574;
-            --accent-line: #4a6584; /* Higgins: slate blue */
+            --accent-line: #4a6584;
             --text-primary: #2d3748;
             --text-secondary: #4a5568;
             --text-muted: #718096;
@@ -18,8 +18,13 @@
             --border-light: #e8e5e0;
         }
 
-        *, *::before, *::after { box-sizing: border-box; }
-        * { margin: 0; }
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+
+        * {
+            margin: 0;
+        }
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -36,10 +41,29 @@
             color: var(--primary);
         }
 
-        a { color: var(--secondary); text-decoration: none; }
-        a:hover { text-decoration: underline; }
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+        }
 
-        .container { max-width: 800px; margin: 0 auto; padding: 0 1.5rem 2rem; }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .page-wrapper {
+            max-width: 850px;
+            margin: 0 auto;
+            background: linear-gradient(135deg, #fefefe 0%, #f8f9fa 100%);
+            box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
+            border-radius: 8px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 2rem 2rem;
+        }
 
         .breadcrumb {
             padding: 0.75rem 1.5rem;
@@ -48,75 +72,85 @@
             font-size: 0.85rem;
             color: var(--text-muted);
         }
-        .breadcrumb a { color: var(--text-muted); }
-        .breadcrumb a:hover { color: var(--secondary); }
+
+        .breadcrumb a {
+            color: var(--text-muted);
+        }
+
+        .breadcrumb a:hover {
+            color: var(--secondary);
+        }
 
         .line-header {
-            background: linear-gradient(135deg, var(--paper) 0%, #f5f0e8 100%);
-            padding: 2rem 1.5rem 1.5rem;
+            padding: 2rem 2rem 1.5rem;
             margin-bottom: 1.5rem;
             position: relative;
         }
+
         .line-header::after {
             content: '';
             position: absolute;
             bottom: 0;
             left: 50%;
             transform: translateX(-50%);
-            width: min(400px, 80%);
+            width: 95%;
             height: 2px;
             background: linear-gradient(90deg, transparent, var(--accent-line), transparent);
         }
-        .line-header-inner { max-width: 800px; margin: 0 auto; }
-        .line-header h1 { font-size: 2rem; margin-bottom: 0.35rem; color: var(--accent-line); }
-        .line-header .migration { font-size: 1rem; color: var(--text-secondary); margin-bottom: 0.75rem; }
-        .line-header .intro { color: var(--text-secondary); max-width: 650px; line-height: 1.65; font-size: 0.95rem; }
+
+        .line-header-inner {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .line-header h1 {
+            font-size: 2rem;
+            margin-bottom: 0.35rem;
+            color: var(--accent-line);
+        }
+
+        .line-header .migration {
+            font-size: 1rem;
+            color: var(--text-secondary);
+            margin-bottom: 0.75rem;
+        }
+
+        .line-header .intro {
+            color: var(--text-secondary);
+            max-width: 650px;
+            line-height: 1.65;
+            font-size: 0.95rem;
+        }
 
         .section-header {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.75rem;
-            margin: 2.5rem 0 1.25rem;
-            color: var(--text-muted);
-        }
-        .section-header::before,
-        .section-header::after {
-            content: '';
-            flex: 1;
-            max-width: 80px;
-            height: 1px;
-            background: linear-gradient(90deg, transparent, var(--accent));
-        }
-        .section-header::after {
-            background: linear-gradient(90deg, var(--accent), transparent);
-        }
-        .section-header h2 {
-            font-size: 0.8rem;
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-            color: var(--text-muted);
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-        .section-header h2::before {
-            content: '◆';
-            color: var(--accent);
-            font-size: 0.6rem;
+            margin: 2.5rem 0 1rem;
         }
 
-        .ancestors { display: flex; flex-direction: column; gap: 0.75rem; }
+        .section-header h2 {
+            font-size: 0.95rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--text-muted);
+            font-weight: 500;
+        }
+
+        .ancestors {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
         .ancestor-card {
             display: flex;
             gap: 1rem;
             padding: 1rem;
             background: var(--paper);
             border-radius: 5px;
-            border-left: 3px solid transparent;
+            border-left: 3px solid rgba(74, 101, 132, 0.25);
             box-shadow: 0 1px 3px rgba(122, 58, 15, 0.05);
             transition: box-shadow 0.2s ease, border-color 0.2s ease;
         }
+
         .ancestor-card:hover {
             box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1);
             border-left-color: var(--accent-line);
@@ -131,6 +165,7 @@
             border-radius: 4px;
             position: relative;
         }
+
         .ancestor-image::after {
             position: absolute;
             top: 50%;
@@ -143,28 +178,65 @@
             text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
         }
 
-        .ancestor-content { flex: 1; min-width: 0; }
+        .ancestor-content {
+            flex: 1;
+            min-width: 0;
+        }
+
         .ancestor-badge {
             display: inline-block;
             font-size: 0.7rem;
-            font-weight: 600;
+            font-weight: 500;
             text-transform: uppercase;
             letter-spacing: 0.03em;
             padding: 2px 8px;
             border-radius: 3px;
-            margin-bottom: 0.4rem;
+            margin-top: 0.5rem;
         }
-        .ancestor-badge.direct { background: var(--accent); color: var(--primary); }
-        .ancestor-name { font-family: Georgia, 'Times New Roman', serif; font-size: 1.15rem; font-weight: 500; color: var(--primary); margin-bottom: 0.25rem; }
-        .ancestor-tagline { color: var(--text-secondary); font-size: 0.95rem; margin-bottom: 0.5rem; }
-        .ancestor-links { font-size: 0.9rem; }
-        .ancestor-links a { margin-right: 1rem; }
 
-        .ancestor-image.lhiggins { background-image: url('../images/thumbs/laurence-higgins-newark.jpg'); }
+        .ancestor-badge.direct {
+            background: rgba(212, 165, 116, 0.25);
+            color: var(--text-secondary);
+        }
+
+        .ancestor-badge.collateral {
+            background: rgba(0, 0, 0, 0.05);
+            color: var(--text-muted);
+        }
+
+        .ancestor-name {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 1.15rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.25rem;
+        }
+
+        .ancestor-tagline {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .ancestor-links {
+            font-size: 0.9rem;
+        }
+
+        .ancestor-links a {
+            margin-right: 1rem;
+        }
+
+        .ancestor-image.lhiggins {
+            background-image: url('../images/thumbs/laurence-higgins-newark.jpg');
+        }
         .ancestor-image.lhiggins::after { content: 'LH'; }
-        .ancestor-image.mknight { background-image: url('../images/thumbs/mary-knight-sligo-nyc.jpg'); }
+        .ancestor-image.mknight {
+            background-image: url('../images/thumbs/mary-knight-sligo-nyc.jpg');
+        }
         .ancestor-image.mknight::after { content: 'MK'; }
-        .ancestor-image.jehiggins { background-image: url('../images/thumbs/railroad-wwi-era.jpg'); }
+        .ancestor-image.jehiggins {
+            background-image: url('../images/thumbs/railroad-wwi-era.jpg');
+        }
         .ancestor-image.jehiggins::after { content: 'JH'; }
 
         .footer {
@@ -177,12 +249,24 @@
         }
 
         @media (max-width: 600px) {
-            .ancestor-card { flex-direction: column; align-items: flex-start; }
-            .line-header h1 { font-size: 1.75rem; }
+            .ancestor-card {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .ancestor-image {
+                width: 80px;
+                height: 80px;
+            }
+
+            .line-header h1 {
+                font-size: 1.75rem;
+            }
         }
     </style>
 </head>
 <body>
+<div class="page-wrapper">
     <nav class="breadcrumb">
         <a href="../index.html">← All Family Lines</a>
     </nav>
@@ -193,8 +277,8 @@
             <div class="migration">Dublin → Newark → San Francisco</div>
             <p class="intro">
                 The Higgins line traces from Rathmines, Dublin to industrial Newark, New Jersey,
-                and eventually to California. Laurence Higgins worked as a porter in Newark, while
-                his son James became a civil engineer on the Western Pacific Railroad.
+and eventually to California. Laurence Higgins worked as a porter in Newark, while
+his son James became a civil engineer on the Western Pacific Railroad.
             </p>
         </div>
     </header>
@@ -210,9 +294,9 @@
                     <div class="ancestor-image lhiggins"></div>
                 </a>
                 <div class="ancestor-content">
-                    <span class="ancestor-badge direct">2nd Great-Grandfather</span>
                     <div class="ancestor-name">Laurence Higgins (1854–bef. 1930)</div>
                     <div class="ancestor-tagline">Born Rathmines, Dublin; Porter in Newark, NJ</div>
+                    <span class="ancestor-badge direct">2nd Great-Grandfather</span>
                     <div class="ancestor-links">
                         <a href="../research/reports/html/laurence_higgins_bio.html">Biography</a>
                     </div>
@@ -222,9 +306,9 @@
             <div class="ancestor-card">
                 <div class="ancestor-image mknight"></div>
                 <div class="ancestor-content">
-                    <span class="ancestor-badge direct">2nd Great-Grandmother</span>
                     <div class="ancestor-name">Mary Knight (1866–1930)</div>
                     <div class="ancestor-tagline">Born Co. Sligo, Ireland; died NYC</div>
+                    <span class="ancestor-badge direct">2nd Great-Grandmother</span>
                 </div>
             </div>
 
@@ -233,19 +317,21 @@
                     <div class="ancestor-image jehiggins"></div>
                 </a>
                 <div class="ancestor-content">
-                    <span class="ancestor-badge direct">Great-Grandfather</span>
                     <div class="ancestor-name">James Everett Higgins (1892–1938)</div>
                     <div class="ancestor-tagline">Civil Engineer, Western Pacific Railroad; WWI Veteran</div>
+                    <span class="ancestor-badge direct">Great-Grandfather</span>
                     <div class="ancestor-links">
                         <a href="../research/reports/html/james_e_higgins_bio.html">Biography</a>
                     </div>
                 </div>
             </div>
         </div>
+
     </main>
 
     <footer class="footer">
         <a href="../index.html">← Back to All Family Lines</a>
     </footer>
+</div>
 </body>
 </html>
