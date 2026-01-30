@@ -15,6 +15,15 @@ just build-reports
 # Convert a specific report (without .md extension)
 just build-report <filename>
 
+# Generate all line pages from YAML
+just build-lines
+
+# Generate a specific line page
+just build-line mowery
+
+# Build everything (reports + lines)
+just build-all
+
 # Preview site locally
 just serve
 
@@ -22,15 +31,18 @@ just serve
 just clean
 ```
 
-The build uses `uvx --from mistune python convert_md.py` to run the converter with the mistune dependency.
+The build uses `uvx` to run converters with dependencies (mistune for reports, pyyaml for lines).
 
 ## Project Structure
 
 - `research/reports/*.md` - Source markdown reports (biographies, research findings)
 - `research/reports/html/` - Generated HTML (do not edit directly)
 - `research/templates/report-template.md` - Template for new reports
+- `lines/data/*.yml` - YAML data for family line pages
+- `lines/*.html` - Generated line pages (do not edit directly)
 - `pdf/` - PDF research reports
 - `convert_md.py` - Markdown to HTML converter with custom CSS styling
+- `convert_lines.py` - Line page generator from YAML data
 - `index.html` - Main site homepage (manually maintained)
 - `PROMPTS.md` - ChatGPT image generation prompts for vintage-style illustrations
 
@@ -127,6 +139,39 @@ family_links:
 | Location panels | `images/locations/` | Engraving + watercolor wash | Location asides, context |
 
 See `PROMPTS.md` for image generation prompts.
+
+## Line Pages
+
+Line pages are generated from YAML files in `lines/data/`. Each line has a unique accent color.
+
+### Adding an Ancestor
+
+Edit the YAML file for the line (e.g., `lines/data/mowery.yml`):
+
+```yaml
+ancestors:
+  direct:
+    - name: Person Name
+      years: 1850–1920
+      tagline: Brief description
+      relation: 2nd Great-Grandfather
+      bio: person_bio.html  # optional, links to bio
+      pdf: report.pdf       # optional, links to PDF
+      image_class: person   # CSS class for thumbnail
+      image_thumb: thumb.jpg  # in images/thumbs/
+      initials: PN          # overlay on thumbnail
+```
+
+Then run `just build-lines` to regenerate.
+
+### Line Colors
+
+| Line | Color | Hex |
+|------|-------|-----|
+| Mowery | Warm sienna | `#8b4513` |
+| Kuthe | Forest green | `#3d6b47` |
+| Gleeson | Emerald | `#2e7d4a` |
+| Higgins | Slate blue | `#4a6584` |
 
 ## Project Memory
 
