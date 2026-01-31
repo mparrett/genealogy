@@ -28,6 +28,6 @@ Lewis R. Mowery was the patriarch who built the family but didn't live to see wh
 - Marriage: 3 March 1819, Knox County, TN — "Mowry, Lewis to Betsy Lisbee" per *Tennessee Historical Magazine*.
 - Elizabeth Lisbee identified as daughter of Moses Lisbee and Lucy per J. Six genealogy.
 - 1840 census: Bradley County, TN — "Mowery, Lewis" listed as head of household.
-- Death: c. 1850, likely Tennessee. *Biographical Souvenir of the State of Texas* (1889), p. 622: "Louis Mowrey…died in 1850."
+- Death: c. 1850, likely Tennessee. *Biographical Souvenir of the State of Texas* (1889), p. 622: "Louis Mowrey…died in 1850." Some family trees incorrectly show both Lewis and Elizabeth dying on Aug 20, 1859 in different states—this is a data-entry error; only Elizabeth died in 1859.
 - Elizabeth (Lisbee) Mowery died 1859, Lamar County, TX per multiple sources.
 - Children include Moses Mansfield (1822–1904), Pleasant A., Ephraim Lusby, Lewis Daily, and others.

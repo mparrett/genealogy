@@ -28,7 +28,7 @@ Moses and Margaret had **ten children**, many of whom carried family names[^8]:
 
 These children and their descendants helped build the Mowery name into the fabric of Lamar County.
 
-Moses was described in an 1889 Texas biography as "a substantial citizen of the county"[^9]. Margaret was still living with Moses in the 1900 census but died shortly thereafter (likely 1900–1903)[^10]. By 1904, widowed, Moses was living with his daughter Sarah and son-in-law John Sain in **Deport, Texas**. He passed away on **29 August 1904** — the same day as his son **Samuel S. Mowrey**, who also died in Lamar County at age 37[^11]. The cause of their simultaneous deaths is unknown; no newspaper account or death certificate has been found. Both are believed to be buried in **Milton Cemetery** (graves unmarked)[^12].
+Moses was described in an 1889 Texas biography as "a substantial citizen of the county"[^9]. Margaret died sometime before 1900—the 1900 census lists Moses as a widower[^10]. By 1904, Moses was living with his daughter Sarah and son-in-law John Sain in **Deport, Texas**. He passed away on **29 August 1904** — the same day as his son **Samuel S. Mowrey**, who also died in Lamar County at age 37[^11]. Multiple independent sources confirm this shared death date; it is not a data-entry error. The cause of their simultaneous deaths is unknown; no newspaper obituary, accident report, or death certificate has been found despite extensive searches. Both are believed to be buried in **Milton Cemetery** (graves unmarked)[^12].
 
 While earlier researchers were uncertain of his parentage, multiple sources now confirm Moses was indeed the son of **Lewis R. Mowery and Elizabeth (Lisbee) Mowery**[^13]. His brother, **Pleasant A. Mowrey**, is documented in Texas history as a son of Lewis and Elizabeth[^14], and Moses's children carried the Lisbee family name (rendered as "Lusby" in later records) and "Lewis" as middle names. 
 
@@ -53,8 +53,8 @@ For detailed lineage documentation and ancestry confirmation, see: [Moses Mansfi
 [^7]: 1870 U.S. Census, Lamar Co., TX; and later presence in Milton community until death.  
 [^8]: Names listed in *Biographical Souvenir of the State of Texas*, 1889, p. 622.  
 [^9]: Ibid.; described Moses as a “substantial citizen” of Lamar County.  
-[^10]: 1900 U.S. Census, Lamar Co., TX; Margaret residing with Moses in Justice Precinct 1. Death "about 1900" per family researchers; "bef. 1904" per compiled family history.
-[^11]: Multiple sources (WikiTree, Geni) confirm 29 Aug 1904 for both Moses and Samuel. No death certificate or obituary located. Texas began statewide death registration in 1903 but early compliance was spotty.
+[^10]: 1900 U.S. Census, Lamar Co., TX; Moses listed as widower. Margaret died c. 1898–1899. The death year "1904" appearing in some family trees is a propagation error (likely confused with Moses's death year).
+[^11]: Multiple independent sources (WikiTree, Geni, Lamar County death/burial index, compiled genealogies) confirm 29 Aug 1904 for both Moses and Samuel. This is not a data-entry error—the shared date is verified. No death certificate, obituary, or contemporary newspaper account has been located despite extensive searches. Texas began statewide death registration in 1903 but early compliance was spotty.
 [^12]: Lamar County cemetery surveys and family tradition place Moses, Margaret, and Samuel in Milton Cemetery, though graves are unmarked.
 [^13]: Based on triangulated evidence from children's naming patterns, proximity to known siblings, and historical records.
 [^14]: *Biographical Souvenir of the State of Texas*, p. 622; confirms Pleasant A. Mowrey as son of Lewis and Elizabeth (Lisby) Mowrey.

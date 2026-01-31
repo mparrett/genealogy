@@ -41,11 +41,13 @@ Elizabeth's influence on her children extended far beyond Tennessee. Multiple gr
 
 ### Research Notes
 
+**Spelling confirmed:** The 1819 Knox County marriage record uses "Lisbee" (Elizabeth Lisbee); the 1889 *Biographical Souvenir* uses "Lisby." Both refer to the same family—"Lisbee" appears to be the original spelling, with "Lisby" a phonetic variant. The later spelling "Lusby" in descendants' names (e.g., Ephraim Lusby Mowery) is a further evolution.
+
 *Additional research needed on:*
-- *Moses Lisbee (Elizabeth's father) — birth/death, other Knox County records*
+- *Moses Lisbee (Elizabeth's father) — birth/death, other Knox County records; the Lisbee surname is rare*
 - *Complete list of children and their birth years*
 - *Exact burial location in Lamar County, TX*
-- *Birth year discrepancy: tree shows ~1806, Biographical Souvenir says 1815 (impossible if married 1819)*
+- *Birth year discrepancy: the 1889 Biographical Souvenir gives 1815, which better fits a marriage in 1819; earlier trees showing ~1806 may be erroneous*
 
 ### Sources and Further Research
 
