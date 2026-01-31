@@ -71,9 +71,9 @@
             bottom: 0;
             left: 50%;
             transform: translateX(-50%);
-            width: 95%;
-            height: 2px;
-            background: linear-gradient(90deg, transparent, var(--accent), transparent);
+            width: 60%;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(212, 165, 116, 0.4), transparent);
         }
 
         .header h1 {
@@ -156,13 +156,26 @@
             color: var(--secondary);
         }
 
+        /* Line-specific accent colors */
+        .line-row.mowery { border-left-color: rgba(139, 69, 19, 0.25); }
+        .line-row.mowery:hover { border-left-color: #8b4513; }
+
+        .line-row.kuthe { border-left-color: rgba(61, 107, 71, 0.25); }
+        .line-row.kuthe:hover { border-left-color: #3d6b47; }
+
+        .line-row.gleeson { border-left-color: rgba(46, 125, 74, 0.25); }
+        .line-row.gleeson:hover { border-left-color: #2e7d4a; }
+
+        .line-row.higgins { border-left-color: rgba(74, 101, 132, 0.25); }
+        .line-row.higgins:hover { border-left-color: #4a6584; }
+
         /* Section divider */
         .section-divider {
-            height: 2px;
-            max-width: 95%;
+            height: 1px;
+            max-width: 60%;
             margin: 2rem auto;
             border: none;
-            background: linear-gradient(to right, transparent, var(--accent), transparent);
+            background: linear-gradient(to right, transparent, rgba(212, 165, 116, 0.4), transparent);
         }
 
         /* About */
@@ -211,7 +224,7 @@
 
     <main class="container">
         <div class="lines">
-            <a href="lines/mowery.html" class="line-row">
+            <a href="lines/mowery.html" class="line-row mowery">
                 <div class="line-thumb mowery"></div>
                 <div class="line-info">
                     <div class="line-name">Mowery Line</div>
@@ -220,7 +233,7 @@
                 <span class="line-arrow">→</span>
             </a>
 
-            <a href="lines/kuthe.html" class="line-row">
+            <a href="lines/kuthe.html" class="line-row kuthe">
                 <div class="line-thumb kuthe"></div>
                 <div class="line-info">
                     <div class="line-name">Kuthe Line</div>
@@ -229,7 +242,7 @@
                 <span class="line-arrow">→</span>
             </a>
 
-            <a href="lines/gleeson.html" class="line-row">
+            <a href="lines/gleeson.html" class="line-row gleeson">
                 <div class="line-thumb gleeson"></div>
                 <div class="line-info">
                     <div class="line-name">Gleeson / Fitzgerald Line</div>
@@ -238,7 +251,7 @@
                 <span class="line-arrow">→</span>
             </a>
 
-            <a href="lines/higgins.html" class="line-row">
+            <a href="lines/higgins.html" class="line-row higgins">
                 <div class="line-thumb higgins"></div>
                 <div class="line-info">
                     <div class="line-name">Higgins / Knight Line</div>
