@@ -24,6 +24,9 @@ just build-line mowery
 # Build everything (reports + lines)
 just build-all
 
+# Build for production (skips drafts)
+just build-production
+
 # Preview site locally
 just serve
 
@@ -139,6 +142,18 @@ family_links:
 | Location panels | `images/locations/` | Engraving + watercolor wash | Location asides, context |
 
 See `PROMPTS.md` for image generation prompts.
+
+### Draft Mode
+
+Mark a bio as draft by adding `draft: true` to its YAML file in `research/reports/timeline-data/`:
+
+```yaml
+draft: true
+name: Person Name
+# ... rest of timeline data
+```
+
+Drafts are built normally with `just build-reports` but skipped with `just build-production`.
 
 ## Line Pages
 

@@ -23,6 +23,11 @@ build-line name:
 # Build everything (reports + lines)
 build-all: build-reports build-lines
 
+# Build for production (skips drafts)
+build-production:
+    uvx --from mistune --with pyyaml python convert_md.py --all --production
+    uvx --with pyyaml python convert_lines.py
+
 # Clean generated HTML files
 clean:
     rm -rf research/reports/html/

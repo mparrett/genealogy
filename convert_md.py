@@ -766,54 +766,78 @@ def convert_file(md_file_path, html_file_path):
         return False
 
 
-def convert_all_reports():
+def is_draft(md_file_path: Path) -> bool:
+    """Check if a bio is marked as draft in its YAML data."""
+    data = load_timeline_data(md_file_path)
+    if data and data.get('draft', False):
+        return True
+    return False
+
+
+def convert_all_reports(production: bool = False):
     """Convert all markdown files in research/reports/ to HTML."""
     reports_dir = Path("research/reports")
     html_dir = Path("research/reports/html")
-    
+
     # Create HTML directory if it doesn't exist
     html_dir.mkdir(exist_ok=True)
-    
+
     md_files = list(reports_dir.glob("*.md"))
     if not md_files:
         print("No markdown files found in research/reports/")
         return True
-    
+
     success_count = 0
+    skipped_count = 0
     for md_file in md_files:
+        # Skip drafts in production mode
+        if production and is_draft(md_file):
+            print(f"⏭️  Skipped draft: {md_file.name}")
+            skipped_count += 1
+            continue
+
         html_file = html_dir / f"{md_file.stem}.html"
         if convert_file(md_file, html_file):
             success_count += 1
-    
-    print(f"✅ Converted {success_count}/{len(md_files)} markdown files to HTML")
-    return success_count == len(md_files)
+
+    total = len(md_files) - skipped_count
+    print(f"✅ Converted {success_count}/{total} markdown files to HTML")
+    if skipped_count:
+        print(f"⏭️  Skipped {skipped_count} drafts (production mode)")
+    return success_count == total
 
 
 def main():
     parser = argparse.ArgumentParser(description="Convert markdown genealogy reports to HTML")
     parser.add_argument("--file", "-f", help="Convert specific file (without .md extension)")
     parser.add_argument("--all", "-a", action="store_true", help="Convert all markdown files")
-    
+    parser.add_argument("--production", "-p", action="store_true", help="Production mode: skip drafts")
+
     args = parser.parse_args()
-    
+
     if args.file:
         md_file = Path(f"research/reports/{args.file}.md")
         html_file = Path(f"research/reports/html/{args.file}.html")
-        
+
         if not md_file.exists():
             print(f"❌ File {md_file} not found")
             sys.exit(1)
-        
+
+        # Check if draft in production mode
+        if args.production and is_draft(md_file):
+            print(f"⏭️  Skipped draft: {md_file.name}")
+            sys.exit(0)
+
         # Create HTML directory if it doesn't exist
         html_file.parent.mkdir(exist_ok=True)
-        
+
         success = convert_file(md_file, html_file)
         sys.exit(0 if success else 1)
-    
+
     elif args.all:
-        success = convert_all_reports()
+        success = convert_all_reports(production=args.production)
         sys.exit(0 if success else 1)
-    
+
     else:
         parser.print_help()
         sys.exit(1)
