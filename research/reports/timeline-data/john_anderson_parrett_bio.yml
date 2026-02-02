@@ -1,0 +1,23 @@
+draft: true
+name: John Anderson Parrett
+birth:
+  year: 1859
+  label: Born
+  location: Wabash County, Indiana
+death:
+  year: 1938
+  label: Died
+  location: Wabash County, Indiana
+events:
+  - year: 1863
+    label: Father Amos died (Civil War)
+    type: event
+  - year: 1884
+    label: Married Mary Ellen Fisher
+    type: marriage
+  - year: 1885
+    label: Son Adam born (our ancestor)
+    type: event
+  - year: 1926
+    label: Married Medora Alice Kuldau
+    type: marriage
