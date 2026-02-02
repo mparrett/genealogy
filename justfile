@@ -26,7 +26,11 @@ build-all: build-reports build-lines
 # Build for production (skips drafts)
 build-production:
     uvx --from mistune --with pyyaml python convert_md.py --all --production
-    uvx --with pyyaml python convert_lines.py
+    uvx --with pyyaml python convert_lines.py --production
+
+# Check for missing bios and PDFs referenced by YAML data
+check-links:
+    uvx --with pyyaml python check_links.py
 
 # Clean generated HTML files
 clean:

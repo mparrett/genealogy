@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Generate line pages from YAML data files."""
 
+import argparse
 import sys
 from pathlib import Path
 
@@ -8,9 +9,35 @@ import yaml
 
 LINES_DIR = Path(__file__).parent / "lines"
 DATA_DIR = LINES_DIR / "data"
+REPORTS_DIR = Path(__file__).parent / "research" / "reports"
+TIMELINE_DIR = REPORTS_DIR / "timeline-data"
+_DRAFT_CACHE: dict[str, bool] = {}
 
 
-def generate_ancestor_card(ancestor: dict, is_direct: bool, accent_color: str) -> str:
+def is_draft_bio(bio_filename: str) -> bool:
+    """Return True if the bio is marked draft in its timeline data."""
+    if not bio_filename or not bio_filename.endswith(".html"):
+        return False
+    if bio_filename in _DRAFT_CACHE:
+        return _DRAFT_CACHE[bio_filename]
+
+    stem = Path(bio_filename).stem
+    md_path = REPORTS_DIR / f"{stem}.md"
+    timeline_path = TIMELINE_DIR / f"{stem}.yml"
+    if not md_path.exists() or not timeline_path.exists():
+        _DRAFT_CACHE[bio_filename] = False
+        return False
+
+    with open(timeline_path, "r", encoding="utf-8") as handle:
+        data = yaml.safe_load(handle) or {}
+    is_draft = bool(data.get("draft", False))
+    _DRAFT_CACHE[bio_filename] = is_draft
+    return is_draft
+
+
+def generate_ancestor_card(
+    ancestor: dict, is_direct: bool, accent_color: str, production: bool
+) -> str:
     """Generate HTML for a single ancestor card."""
     badge_class = "direct" if is_direct else "collateral"
 
@@ -19,16 +46,18 @@ def generate_ancestor_card(ancestor: dict, is_direct: bool, accent_color: str) -
 
     # Build links
     links = []
-    if bio := ancestor.get("bio"):
+    bio = ancestor.get("bio")
+    bio_is_draft = bool(production and bio and is_draft_bio(bio))
+    if bio and not bio_is_draft:
         links.append(f'<a href="../research/reports/html/{bio}">Biography</a>')
     if pdf := ancestor.get("pdf"):
-        links.append(f'<a href="../pdf/{pdf}" target="_blank">Report (PDF)</a>')
+        links.append(f'<a href="../pdf/{pdf}" target="_blank" rel="noopener noreferrer">Report (PDF)</a>')
     links_html = "\n                        ".join(links) if links else ""
 
     # Image wrapper (linked if bio exists)
     image_html = f'<div class="ancestor-image {img_class}"></div>'
-    if ancestor.get("bio"):
-        image_html = f'<a href="../research/reports/html/{ancestor["bio"]}">\n                    {image_html}\n                </a>'
+    if bio and not bio_is_draft:
+        image_html = f'<a href="../research/reports/html/{bio}">\n                    {image_html}\n                </a>'
 
     # Links section
     links_section = f'''
@@ -68,7 +97,7 @@ def hex_to_rgba(hex_color: str, alpha: float) -> str:
     return f"rgba({r}, {g}, {b}, {alpha})"
 
 
-def generate_line_page(data: dict) -> str:
+def generate_line_page(data: dict, production: bool) -> str:
     """Generate full HTML page from line data."""
     name = data["name"]
     accent = data["accent_color"]
@@ -81,14 +110,14 @@ def generate_line_page(data: dict) -> str:
 
     # Generate ancestor cards
     direct_cards = "\n\n".join(
-        generate_ancestor_card(a, True, accent)
+        generate_ancestor_card(a, True, accent, production)
         for a in data["ancestors"].get("direct", [])
     )
 
     collateral_section = ""
     if collateral := data["ancestors"].get("collateral", []):
         collateral_cards = "\n\n".join(
-            generate_ancestor_card(a, False, accent)
+            generate_ancestor_card(a, False, accent, production)
             for a in collateral
         )
         collateral_section = f'''
@@ -396,12 +425,12 @@ def generate_line_page(data: dict) -> str:
 '''
 
 
-def convert_line(yaml_path: Path) -> None:
+def convert_line(yaml_path: Path, production: bool) -> None:
     """Convert a single YAML file to HTML."""
     with open(yaml_path) as f:
         data = yaml.safe_load(f)
 
-    html = generate_line_page(data)
+    html = generate_line_page(data, production)
     output_path = LINES_DIR / f"{yaml_path.stem}.html"
 
     with open(output_path, "w") as f:
@@ -411,17 +440,25 @@ def convert_line(yaml_path: Path) -> None:
 
 
 def main():
-    if len(sys.argv) > 1:
-        # Convert specific file
-        yaml_path = DATA_DIR / f"{sys.argv[1]}.yml"
+    parser = argparse.ArgumentParser(description="Generate line pages from YAML data.")
+    parser.add_argument("name", nargs="?", help="Convert a specific line (without .yml)")
+    parser.add_argument(
+        "--production",
+        "-p",
+        action="store_true",
+        help="Production mode: hide links to draft bios",
+    )
+    args = parser.parse_args()
+
+    if args.name:
+        yaml_path = DATA_DIR / f"{args.name}.yml"
         if not yaml_path.exists():
             print(f"Error: {yaml_path} not found")
             sys.exit(1)
-        convert_line(yaml_path)
+        convert_line(yaml_path, args.production)
     else:
-        # Convert all
         for yaml_path in sorted(DATA_DIR.glob("*.yml")):
-            convert_line(yaml_path)
+            convert_line(yaml_path, args.production)
 
 
 if __name__ == "__main__":

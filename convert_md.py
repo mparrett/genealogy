@@ -7,6 +7,7 @@ import argparse
 import mistune
 from mistune.renderers.html import HTMLRenderer
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -44,8 +45,25 @@ def generate_timeline_html(data: dict) -> str:
     if 'death' in data:
         events.append((data['death']['year'], data['death']['label'], 'death'))
 
-    # Sort by year
-    events.sort(key=lambda x: x[0])
+    def year_sort_key(value) -> tuple:
+        if isinstance(value, int):
+            return (0, value)
+        if isinstance(value, float):
+            return (0, int(value))
+        if isinstance(value, str):
+            match = re.search(r"\d{3,4}", value)
+            if match:
+                return (1, int(match.group()))
+            return (2, value)
+        if value is None:
+            return (3, 0)
+        return (4, str(value))
+
+    if not events:
+        return ""
+
+    # Sort by year (supports values like "c. 1870")
+    events.sort(key=lambda x: year_sort_key(x[0]))
 
     # Generate HTML
     lines = ['<aside class="bio-timeline">']
@@ -106,11 +124,29 @@ def generate_location_aside_html(data: dict) -> str:
     return '\n'.join(lines)
 
 
-def generate_family_links_html(data: dict) -> str:
+def is_draft_link(href: str) -> bool:
+    """Return True if the linked bio is marked draft in its timeline data."""
+    if not HAS_YAML:
+        return False
+    if not href or not href.endswith(".html"):
+        return False
+    stem = Path(href).stem
+    md_path = Path("research/reports") / f"{stem}.md"
+    if not md_path.exists():
+        return False
+    data = load_timeline_data(md_path)
+    return bool(data and data.get("draft", False))
+
+
+def generate_family_links_html(data: dict, production: bool = False) -> str:
     """Generate family links section HTML from YAML data."""
     links = data.get('family_links', [])
     if not links:
         return ""
+    if production:
+        links = [link for link in links if not is_draft_link(link.get('link', ''))]
+        if not links:
+            return ""
 
     lines = ['<div class="family-links">']
     lines.append('  <h4 class="family-links-title">Family</h4>')
@@ -131,7 +167,7 @@ def generate_family_links_html(data: dict) -> str:
     return '\n'.join(lines)
 
 
-def convert_file(md_file_path, html_file_path):
+def convert_file(md_file_path, html_file_path, production: bool = False):
     """Convert a single markdown file to HTML."""
     try:
         with open(md_file_path, 'r', encoding='utf-8') as f:
@@ -149,7 +185,7 @@ def convert_file(md_file_path, html_file_path):
         # Load timeline data if available
         timeline_data = load_timeline_data(md_file_path)
         timeline_html = generate_timeline_html(timeline_data) if timeline_data else ""
-        has_timeline = bool(timeline_data)
+        has_timeline = bool(timeline_html)
 
         # Generate location aside if available - inject after Nth paragraph (default: 3)
         location_aside_html = generate_location_aside_html(timeline_data) if timeline_data else ""
@@ -170,9 +206,12 @@ def convert_file(md_file_path, html_file_path):
                 body_content = body_content[:insert_pos] + '\n' + location_aside_html + '\n' + body_content[insert_pos:]
 
         # Generate family links if available
-        family_links_html = generate_family_links_html(timeline_data) if timeline_data else ""
-        if family_links_html and '<hr />' in body_content:
-            body_content = body_content.replace('<hr />', family_links_html + '\n<hr />', 1)
+        family_links_html = generate_family_links_html(timeline_data, production) if timeline_data else ""
+        if family_links_html:
+            if '<hr />' in body_content:
+                body_content = body_content.replace('<hr />', family_links_html + '\n<hr />', 1)
+            else:
+                body_content = body_content + '\n' + family_links_html
 
         
         # Create complete HTML document with inline CSS
@@ -797,7 +836,7 @@ def convert_all_reports(production: bool = False):
             continue
 
         html_file = html_dir / f"{md_file.stem}.html"
-        if convert_file(md_file, html_file):
+        if convert_file(md_file, html_file, production):
             success_count += 1
 
     total = len(md_files) - skipped_count
@@ -831,7 +870,7 @@ def main():
         # Create HTML directory if it doesn't exist
         html_file.parent.mkdir(exist_ok=True)
 
-        success = convert_file(md_file, html_file)
+        success = convert_file(md_file, html_file, args.production)
         sys.exit(0 if success else 1)
 
     elif args.all:
