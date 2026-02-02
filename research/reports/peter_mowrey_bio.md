@@ -7,7 +7,7 @@ Peter Mowrey—born Johann Peter Maurer—was born on **September 15, 1760** in 
 
 Peter lived only a few years in Pennsylvania before his family moved to **Augusta County, Virginia**, where many Pennsylvania Germans settled in the Shenandoah Valley.
 
-<img src="../../../images/bio/peter-mowrey-02-shenandoah.png" alt="Pennsylvania German farmstead in the Shenandoah Valley" class="float-right">
+<img src="../../../images/bio/peter-mowrey-02-shenandoah.jpg" alt="Pennsylvania German farmstead in the Shenandoah Valley" class="float-right">
 
 ## Revolutionary War Service
 
@@ -15,7 +15,7 @@ In the fall of 1780, at age twenty, Peter was drafted into the **Augusta County 
 
 A short time before the Battle of Guilford, Peter joined the Continental Army under **General Nathanael Greene** and fought in the **Battle of Guilford Court House** on **March 15, 1781**—one of the pivotal engagements of the Southern Campaign.
 
-<img src="../../../images/bio/peter-mowrey-01-guilford.png" alt="Virginia militia at the Battle of Guilford Court House, 1781" class="float-left">
+<img src="../../../images/bio/peter-mowrey-01-guilford.jpg" alt="Virginia militia at the Battle of Guilford Court House, 1781" class="float-left">
 
 Peter later filed for an invalid's pension from Knox County, Tennessee in 1833. He was pensioned at the rate of **$20 per annum**, commencing March 4, 1831. His pension application is recorded as **S1568**.
 
@@ -50,7 +50,7 @@ Peter's will, dated June 16, 1838, names the following children from his earlier
 
 ## Death and Will
 
-<img src="../../../images/bio/peter-mowrey-03-knox-county.png" alt="Peter Mowrey's homestead on Roseberry Creek, Knox County, Tennessee" class="float-right">
+<img src="../../../images/bio/peter-mowrey-03-knox-county.jpg" alt="Peter Mowrey's homestead on Roseberry Creek, Knox County, Tennessee" class="float-right">
 
 Peter died before **February 3, 1840**, when his will was presented for probate in Knox County, Tennessee. The will, dated **June 16, 1838**, is recorded in **Knox Estate Book 7, page 17**.
 
