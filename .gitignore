@@ -19,3 +19,14 @@ _site/
 
 # Workspace
 workspace/
+
+# Private PDFs
+pdf/internal/
+
+# High-res original images (keep locally, don't publish)
+images/originals/
+
+# Only JPGs in web image directories (PNGs stay in originals/)
+images/bio/*.png
+images/locations/*.png
+images/thumbs/*.png
