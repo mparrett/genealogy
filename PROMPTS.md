@@ -1,5 +1,27 @@
 # Image Generation Prompts
 
+## Post-Generation Optimization
+
+After generating images, always convert to JPEG for better file sizes (watercolor-style images compress poorly as PNG):
+
+```bash
+# Convert PNG to JPEG (85% quality, good balance of size/quality)
+for f in images/bio/*.png; do
+  base="${f%.png}"
+  uv run --with pillow python -c "from PIL import Image; img = Image.open('$f'); img = img.convert('RGB'); img.save('${base}.jpg', 'JPEG', quality=85)"
+done
+
+# Remove original PNGs
+rm images/bio/*.png
+
+# Update markdown references from .png to .jpg
+# Then rebuild: just build-reports
+```
+
+Typical results: ~2MB PNG → ~300KB JPEG (85% reduction)
+
+---
+
 ## Location Panel Template (Hand-Watercolored Engraving)
 
 Use this for location/place images. Distinct from bio illustrations (watercolor scenes).
