@@ -1,0 +1,22 @@
+name: Johann Peter Maurer
+birth:
+  year: 1709
+  label: Born
+  location: Baumholder, Rheinland, Prussia
+death:
+  year: 1781
+  label: Died
+  location: Lancaster, Pennsylvania
+events:
+  - year: 1738
+    label: Married Anna Sophia Germann
+    type: marriage
+  - year: 1751
+    label: Immigrated on ship Edinburgh
+    type: event
+  - year: 1753
+    label: Son John Heinrich christened
+    type: event
+  - year: 1760
+    label: Son Peter born (our ancestor)
+    type: event
