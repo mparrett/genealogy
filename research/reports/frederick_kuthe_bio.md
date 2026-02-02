@@ -8,7 +8,7 @@ Frederick Kuthe (also recorded as George Frederick Kuthe) was born around 1822 i
 
 In June 1845, Frederick emigrated from Germany as part of a larger Kuthe family group. A passenger manifest for the ship *Olbers*, sailing from Bremen to New Orleans, lists a Küthe family from Vöhl that included an 18-year-old "Friederich" along with siblings—most notably a sister Maria (age 20), who later appeared in American records as Mary C. Kuthe.[^2] A biography of Louis Schleicher, a baker in Lancaster, Ohio, confirms that he married "Miss Mary C. Kuthe, who was born in Germany in 1824, and came to America in 1845"—strong evidence that Frederick and Mary were siblings who immigrated together.[^3]
 
-<img src="../../../images/bio/frederick-kuthe-01-voyage.jpg" alt="The Kuthe family's 1845 voyage from Bremen to New Orleans" class="float-right">
+<img src="../../../images/bio/frederick-kuthe-01-voyage.jpg" alt="The Kuthe family's 1845 voyage from Bremen to New Orleans" class="float-left">
 
 After arriving in America, Frederick initially settled in Palmyra, Marion County, Missouri. By the 1850s he had moved south to Dent County, which had been organized in 1851. The surname Kuthe proved difficult for English-speaking clerks, appearing in records variously as Kuethe, Küthe, Kuth, Kuthy, Koothe, and even "Kite."
 

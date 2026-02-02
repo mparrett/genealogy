@@ -20,6 +20,7 @@ location_aside:
   region: Germany
   year: c. 1850
   image: locations/vohl-hesse-1850.png
+  after_paragraph: 1
   description: >
     Frederick's birthplace in the Waldeck region. The village of
     half-timbered houses in the Eder valley was home before he
