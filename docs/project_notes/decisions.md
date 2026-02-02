@@ -67,3 +67,37 @@
 - Replace with birth/death dates in a styled format
 - Replace with a brief tagline or role description
 - Keep as-is
+
+## ADR-004: Draft Mode for Bios (2026-01-30)
+
+**Context**: Some bios are incomplete or need review before public visibility.
+
+**Decision**: Add `draft: true` to timeline-data YAML files. The `--production` flag skips drafts during build.
+
+**Usage**:
+- `just build-reports` — builds all including drafts
+- `just build-production` — skips drafts
+- Draft links are hidden from family_links sections in production
+
+## ADR-005: Image Optimization Pipeline (2026-02-01)
+
+**Context**: AI-generated images (DALL-E) are 1024x1024 PNGs, often 2MB+. Watercolor-style images compress poorly as PNG.
+
+**Decision**: Convert bio images to JPEG (quality 85) after generation. Thumbnails resize to 400x400.
+
+**Process**:
+```bash
+# Convert to JPEG
+uv run --with pillow python -c "from PIL import Image; img = Image.open('file.png'); img.convert('RGB').save('file.jpg', 'JPEG', quality=85)"
+# Update markdown refs from .png to .jpg
+```
+
+**Results**: ~2MB PNG → ~300KB JPEG (85% reduction)
+
+## ADR-006: Markdown Table Support (2026-02-01)
+
+**Context**: Migration timeline tables rendered as raw markdown (pipe characters) instead of HTML tables.
+
+**Decision**: Add `'table'` plugin to mistune in convert_md.py.
+
+**Fix**: `plugins=['footnotes', 'table']`
