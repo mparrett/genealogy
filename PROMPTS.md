@@ -454,3 +454,66 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
   --constraints "no text, no logos, no watermark; poignant/contemplative tone; cohesive with existing genealogy bio illustrations" \
   --negative "modern elements, bright colors, busy clutter, photorealistic, cheerful or festive tone"
 ```
+
+### Peter W. Mowrey - Battle of Guilford Court House (1781)
+*File: `images/bio/peter-mowrey-01-guilford.png`*
+
+```bash
+export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
+export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
+
+uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+  --prompt "Vintage watercolor illustration of Virginia militia at the Battle of Guilford Court House, 1781, for genealogy report" \
+  --size 1024x1024 \
+  --out images/bio/peter-mowrey-01-guilford.png \
+  --scene "1781 Piedmont North Carolina, rolling wooded hills, bare early spring trees, distant smoke from battle, Continental Army militia position" \
+  --subject "Virginia militia soldiers in hunting shirts and tricorn hats, muskets ready, ragged but determined, General Greene's Southern Campaign (no specific portraits)" \
+  --style "vintage watercolor illustration, soft washes, warm tones, lightly textured paper, period-appropriate" \
+  --composition "small unit of militia in wooded terrain, sense of tension before or during engagement" \
+  --lighting "overcast March daylight, diffused light through bare branches, smoke haze" \
+  --palette "muted browns, grays, bare tree tans, touches of Continental blue, powder smoke white" \
+  --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations" \
+  --negative "modern elements, bright colors, busy clutter, photorealistic, glorified or romantic war scene"
+```
+
+### Peter W. Mowrey - Shenandoah Valley Settlement (1770s-1790s)
+*File: `images/bio/peter-mowrey-02-shenandoah.png`*
+
+```bash
+export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
+export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
+
+uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+  --prompt "Vintage watercolor illustration of Pennsylvania German farmstead in Shenandoah Valley Virginia, late 1700s, for genealogy report" \
+  --size 1024x1024 \
+  --out images/bio/peter-mowrey-02-shenandoah.png \
+  --scene "1770s-1790s Shenandoah Valley, Blue Ridge Mountains in distance, fertile valley farmland, split-rail fencing, grain fields" \
+  --subject "Pennsylvania German-style log farmhouse with stone chimney, agricultural prosperity, Conestoga wagon or farm cart (no specific portraits)" \
+  --style "vintage watercolor illustration, soft washes, warm tones, lightly textured paper, period-appropriate" \
+  --composition "pastoral valley scene with farmstead in middle ground, mountains in background, sense of established settlement" \
+  --lighting "golden late afternoon light, long shadows across valley, warm summer atmosphere" \
+  --palette "rich greens of valley, blue-gray mountains, warm browns of log construction, golden wheat, soft blue sky" \
+  --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations" \
+  --negative "modern elements, bright colors, busy clutter, photorealistic"
+```
+
+### Peter W. Mowrey - Knox County Tennessee Homestead (1794-1840)
+*File: `images/bio/peter-mowrey-03-knox-county.png`*
+
+```bash
+export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
+export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
+
+uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+  --prompt "Vintage watercolor illustration of early 19th century homestead in Knox County Tennessee, for genealogy report" \
+  --size 1024x1024 \
+  --out images/bio/peter-mowrey-03-knox-county.png \
+  --scene "1800-1840 East Tennessee foothills, Great Smoky Mountains in distance, established homestead on Roseberry Creek, mature farm with outbuildings" \
+  --subject "Pioneer homestead showing decades of settlement, log house with additions, kitchen garden, fruit trees, livestock, large family atmosphere (no specific portraits)" \
+  --style "vintage watercolor illustration, soft washes, warm tones, lightly textured paper, period-appropriate" \
+  --composition "prosperous farmstead in middle ground, mountains in misty distance, sense of a life well-lived" \
+  --lighting "soft morning light, gentle mist in valley, peaceful domestic atmosphere" \
+  --palette "warm earth tones, Appalachian greens, misty blue mountains, autumn golds and oranges" \
+  --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations" \
+  --negative "modern elements, bright colors, busy clutter, photorealistic, raw frontier aesthetic"
+```
