@@ -1,14 +1,32 @@
 name: Mowery / Dawson Line
 accent_color: "#8b4513"  # warm sienna
-migration: Tennessee → Texas → Arizona
+migration: Germany → Pennsylvania → Virginia → Tennessee → Texas → Arizona
 intro: |
-  The Mowery line traces from early 19th-century Tennessee through the Texas frontier
-  to 20th-century Arizona. Beginning with Lewis R. Mowery in Bradley County, Tennessee,
-  the family moved west with the great migrations, eventually settling in Williams, Arizona
-  along Route 66.
+  The Mowery line traces from 18th-century Germany through Pennsylvania, the Shenandoah Valley,
+  Tennessee, and the Texas frontier to 20th-century Arizona. Johann Peter Maurer immigrated in 1751;
+  his son Peter fought in the Revolutionary War. The surname evolved from Maurer to Mowrey as the
+  family moved south and west, eventually settling in Williams, Arizona along Route 66.
 
 ancestors:
   direct:
+    - name: Johann Peter Maurer
+      years: 1709–1781
+      tagline: German Immigrant, Pennsylvania Pioneer, Progenitor of the Mowrey Line
+      relation: 6th Great-Grandfather
+      bio: johann_peter_maurer_bio.html
+      image_class: johann
+      image_thumb: german-immigrant.jpg
+      initials: JPM
+
+    - name: Peter W. Mowrey
+      years: 1760–1840
+      tagline: Revolutionary War Veteran, Pennsylvania German, Appalachian Pioneer
+      relation: 5th Great-Grandfather
+      bio: peter_mowrey_bio.html
+      image_class: peter
+      image_thumb: revolutionary-war.jpg
+      initials: PM
+
     - name: Lewis R. Mowery
       years: c. 1801–c. 1850
       tagline: Tennessee Pioneer, Farmer, Family Patriarch
