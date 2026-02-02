@@ -1,51 +1,93 @@
-### **Peter W. Mowrey (c. 1760–1840)**
+### **Peter W. Mowrey (1760–1840)**
 **Relationship:** 5th great-grandfather (Mowrey line)
 
-*Pennsylvania German, Appalachian Pioneer, Knox County Patriarch*
+*Revolutionary War Veteran, Pennsylvania German, Appalachian Pioneer*
 
-Peter W. Mowrey—also recorded as Johann Peter Maurer—was born around 1760, likely in Pennsylvania, to a family of German immigrants who had settled in the Philadelphia area during the mid-18th century. The surname Maurer (German for "mason") was gradually Anglicized to Mowrey/Mowery as the family moved through English-speaking frontier communities.
+Peter Mowrey—born Johann Peter Maurer—was born on **September 15, 1760** in **Philadelphia County, Pennsylvania**, to **John Peter Maurer (Johann Peter Maurer)** and **Anna Sophia Germann**. The Maurer family had immigrated from Germany, and the surname would gradually Anglicize to Mowrey/Mowery as the family moved through English-speaking frontier communities.
 
-Peter married **Sophia Clapp** (1768–1829), and together they raised a family while participating in the great southward migration of Pennsylvania Germans into the Appalachian frontier. The family moved from Pennsylvania to Virginia, and eventually to Knox County, Tennessee, where they established themselves among the farming families of East Tennessee.
+Peter lived only a few years in Pennsylvania before his family moved to **Augusta County, Virginia**, where many Pennsylvania Germans settled in the Shenandoah Valley.
 
-Peter and Sophia had several children, including sons **Samuel**, **Lewis**, and **Moses**. Their son Lewis R. Mowery (c. 1801–1850) would continue the family's westward trajectory, eventually sending descendants to Texas and Arizona.
+## Revolutionary War Service
 
-Peter died in Knox County, Tennessee in 1840. His will, proved that year in Knox County, names his sons Samuel, Lewis, and Moses among the heirs—a crucial document that anchors the Mowrey family firmly in Tennessee and establishes the lineage connecting Pennsylvania German roots to Texas pioneers.
+In the fall of 1780, at age twenty, Peter was drafted into the **Augusta County Militia** in Virginia. He served in Captain Hays' company, commanded by Captain Thomas Smith, attached to a regiment under Colonel Campbell.
 
-Sophia preceded him in death, passing in 1829.
+A short time before the Battle of Guilford, Peter joined the Continental Army under **General Nathanael Greene** and fought in the **Battle of Guilford Court House** on **March 15, 1781**—one of the pivotal engagements of the Southern Campaign.
+
+Peter later filed for an invalid's pension from Knox County, Tennessee in 1833. He was pensioned at the rate of **$20 per annum**, commencing March 4, 1831. His pension application is recorded as **S1568**.
+
+## Migration and Settlement
+
+After the war, Peter remained in Augusta County, Virginia for ten or twelve years (roughly 1781–1793). He then moved to **Sullivan County, Tennessee**, where he lived about one year, before settling permanently in **Knox County, Tennessee**, where he would remain until his death.
+
+## Marriage and Family
+
+Peter married at least twice. His first wife's name is recorded in some sources as **Gibson** (married c. 1782 in Augusta County, VA), though this requires further verification.
+
+On **May 4, 1829**, Peter married **Sophia Clapp** in Knox County, Tennessee. There is no evidence of children born to Peter and Sophia; she was likely his companion in his later years.
+
+Peter's will, dated June 16, 1838, names the following children from his earlier marriage(s):
+
+**Sons:**
+- **Samuel Mowrey**
+- **Lewis R. Mowrey** (c. 1801–1850) — *our direct ancestor*
+- **Moses Mowrey**
+- **John Mowrey** (deceased before 1838; widow Patsy Mowery named in will)
+
+**Daughters:**
+- **Sophia (Mowrey) Gilbreath**
+- **Anna (Mowrey) White**
+- **Agnes (Mowrey) White**
+- **Elizabeth (Mowrey) Foust**
+- **Jane (Mowrey) Low**
+
+**Grandsons named in will:**
+- **Jackson Mowery**
+- **Hazard Mowery**
+
+## Death and Will
+
+Peter died before **February 3, 1840**, when his will was presented for probate in Knox County, Tennessee. The will, dated **June 16, 1838**, is recorded in **Knox Estate Book 7, page 17**.
+
+In his will, Peter bequeathed to his wife Sophia the dwelling house, outbuildings, and surrounding land on Roseberry Creek, along with household property, kitchen furniture, a horse, plough, and gearing, plus $300 and one cow and calf. The land was to revert to his other heirs after Sophia's widowhood.
+
+The remainder of his land was divided equally among his three surviving sons: Samuel, Lewis, and Moses. Each child and grandchild named received $50 or $25 respectively, with provisions for proportional reduction if funds were insufficient.
+
+Peter appointed **Martin B. Carter** as sole executor. Witnesses to the will were Joseph Stewart and Winston Carter.
+
+An estate sale and inventory were recorded on February 1, 1840 (Estate Book 7, pages 30-31), with purchasers including widow Sophia Mowrey and Nicholas Clapp (likely Sophia's relative).
 
 ---
 
 **Notes:**
 
-- Birth: c. 1760, likely Pennsylvania (Philadelphia County area)
-- Also known as: Johann Peter Maurer
-- **Possible father:** Peter Maurer, immigrated on ship *Edinburgh*, arrived Philadelphia Sept 16, 1751 (Pennsylvania Archives, 2nd series, "Names of Foreigners"). If our Peter was born c. 1760, the timeline fits for him to be a son of this immigrant.
-- Marriage: to Sophia Clapp (1768–1829)
-- Children: Samuel, Lewis R., Moses, and possibly others
-- Death: 1840, Knox County, Tennessee
-- Will: Proved 1840, Knox County, TN — names sons Samuel, Lewis, and Moses
-- **Will location:** Knox County Estate Book v. 7-8 (1840-1844), FamilySearch Film 464121, DGS 4776046
-- The Maurer/Mowrey surname transformation reflects the Anglicization common among Pennsylvania German families
+- Birth: September 15, 1760, Philadelphia County, Pennsylvania
+- Parents: **John Peter Maurer** and **Anna Sophia Germann**
+- Death: Before February 3, 1840, Knox County, Tennessee
+- Will: Dated June 16, 1838; probated February 1840
+- **Will location:** Knox Estate Book 7, p. 17 — [FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3QSQ-2LMR-B9?i=36&cc=1909088&cat=255305)
+- **Estate inventory:** Knox Estate Book 7, p. 30-31 — [FamilySearch](https://www.familysearch.org/ark:/61903/3:1:S7WF-SXKF-S9?i=57&cc=1909088&cat=255305)
+- Revolutionary War pension: **S1568**, $20/year from March 4, 1831
+- DAR Ancestor #: A131224
 
-### Research Gaps
+### Migration Timeline
 
-- **Verify 1751 immigrant connection:** Is the Peter Maurer on the *Edinburgh* (1751) our Peter's father? Need PA church/tax/land records to confirm.
-- **Extract the 1840 will:** Get verbatim text from Knox Estate Book v. 7-8 for names, witnesses, executor
-- Parents' names and German origin (Rhineland?)
-- Marriage date and location
-- Complete list of children
-- Migration timeline: PA → VA → TN
-- Burial location in Knox County
+| Years | Location |
+|-------|----------|
+| 1760–c. 1765 | Philadelphia County, PA (birth) |
+| c. 1765–c. 1793 | Augusta County, VA |
+| c. 1793–c. 1794 | Sullivan County, TN |
+| c. 1794–1840 | Knox County, TN |
 
-### Sources Consulted
+### Sources
 
-- Knox County, TN probate records (1840 will)
-- Genealogy forum post by J. Six (2002) on Mowry family
-- Compiled genealogies tracing Maurer/Mowrey lineage
-- 1889 Biographical Souvenir of the State of Texas (indirect)
-- Pennsylvania Archives, 2nd series, "Names of Foreigners" — ship *Edinburgh* manifest, Sept 16, 1751
-- FamilySearch catalog for Knox County Estate Books
+- Will of Peter Mowery, Knox Estate Book 7, p. 17 (dated June 16, 1838, probated Feb 1840)
+- Estate Sale & Inventory, Knox Estate Book 7, p. 30-31 (Feb 1, 1840)
+- Revolutionary War Pension Application S1568 — [Transcription](https://revwarapps.org/s1568.pdf)
+- DAR Record, Ancestor # A131224
+- Christening of John Heinrich Maurer, Sept 20, 1753, Trapp Lutheran Church, Philadelphia County, PA
+- Will of John Heinrich (Henry) Maurer, probated July 1833, Augusta County, VA
+- WikiTree profile: [Maurer-560](https://www.wikitree.com/wiki/Maurer-560)
+- Jim Schneider, Mowry Family Genealogy Forum post, October 31, 2012
 
 ---
-*Research completed: Partial*
 *Last updated: 2026-02-01*

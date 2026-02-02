@@ -1,10 +1,26 @@
 draft: true
 name: Peter W. Mowrey
 birth:
-  year: c. 1760
+  year: 1760
   label: Born
-  location: Pennsylvania
+  location: Philadelphia County, PA
 death:
   year: 1840
   label: Died
   location: Knox County, TN
+events:
+  - year: 1780
+    label: Drafted into Augusta Co. militia
+    type: event
+  - year: 1781
+    label: Battle of Guilford Court House
+    type: event
+  - year: 1829
+    label: Married Sophia Clapp
+    type: marriage
+  - year: 1831
+    label: Rev War pension granted
+    type: event
+  - year: 1838
+    label: Will written
+    type: event
