@@ -175,7 +175,7 @@ def convert_file(md_file_path, html_file_path, production: bool = False):
 
         # Create markdown processor with HTML renderer and footnotes plugin
         renderer = HTMLRenderer(escape=False)
-        markdown = mistune.create_markdown(renderer=renderer, plugins=['footnotes'])
+        markdown = mistune.create_markdown(renderer=renderer, plugins=['footnotes', 'table'])
         body_content = markdown(markdown_content)
 
         # Extract title from first heading or filename
