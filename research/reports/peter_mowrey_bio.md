@@ -19,17 +19,19 @@ Sophia preceded him in death, passing in 1829.
 
 - Birth: c. 1760, likely Pennsylvania (Philadelphia County area)
 - Also known as: Johann Peter Maurer
-- Parents: German immigrants to Pennsylvania (names unconfirmed)
+- **Possible father:** Peter Maurer, immigrated on ship *Edinburgh*, arrived Philadelphia Sept 16, 1751 (Pennsylvania Archives, 2nd series, "Names of Foreigners"). If our Peter was born c. 1760, the timeline fits for him to be a son of this immigrant.
 - Marriage: to Sophia Clapp (1768–1829)
 - Children: Samuel, Lewis R., Moses, and possibly others
 - Death: 1840, Knox County, Tennessee
 - Will: Proved 1840, Knox County, TN — names sons Samuel, Lewis, and Moses
+- **Will location:** Knox County Estate Book v. 7-8 (1840-1844), FamilySearch Film 464121, DGS 4776046
 - The Maurer/Mowrey surname transformation reflects the Anglicization common among Pennsylvania German families
 
 ### Research Gaps
 
+- **Verify 1751 immigrant connection:** Is the Peter Maurer on the *Edinburgh* (1751) our Peter's father? Need PA church/tax/land records to confirm.
+- **Extract the 1840 will:** Get verbatim text from Knox Estate Book v. 7-8 for names, witnesses, executor
 - Parents' names and German origin (Rhineland?)
-- Exact birthplace in Pennsylvania
 - Marriage date and location
 - Complete list of children
 - Migration timeline: PA → VA → TN
@@ -41,6 +43,8 @@ Sophia preceded him in death, passing in 1829.
 - Genealogy forum post by J. Six (2002) on Mowry family
 - Compiled genealogies tracing Maurer/Mowrey lineage
 - 1889 Biographical Souvenir of the State of Texas (indirect)
+- Pennsylvania Archives, 2nd series, "Names of Foreigners" — ship *Edinburgh* manifest, Sept 16, 1751
+- FamilySearch catalog for Knox County Estate Books
 
 ---
 *Research completed: Partial*
