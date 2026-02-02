@@ -1,0 +1,29 @@
+draft: true
+name: Adam Amos Parrett
+birth:
+  year: 1885
+  label: Born
+  location: Wabash County, Indiana
+death:
+  year: 1959
+  label: Died
+  location: Wabash, Indiana
+events:
+  - year: 1906
+    label: Married Mary Ann Beeks
+    type: marriage
+  - year: 1908
+    label: Son Charles Edward born (our ancestor)
+    type: event
+  - year: 1917
+    label: WWI draft registration
+    type: event
+  - year: 1921
+    label: Married Nettie Thompson O'Connor
+    type: marriage
+  - year: 1926
+    label: Married Lillie Thompson Graham
+    type: marriage
+  - year: 1951
+    label: Sons James and Ferry drowned
+    type: event

@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>**Adam Amos Parrett (1885–1959)**</title>
+    <style>
+        /* CSS Custom Properties */
+        :root {
+            --primary: #7a3a0f;      /* Rich brown - evokes old documents */
+            --secondary: #2c5530;    /* Deep forest green */
+            --accent: #d4a574;       /* Warm gold */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #fefefe;
+            --paper: #fcfcfc;        /* Slight warmth */
+            --border-light: #e8e5e0;
+            --footnote-red: #c53030; /* Warmer red */
+        }
+        
+        /* Modern CSS Reset */
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+        
+        * {
+            margin: 0;
+        }
+        
+        body {
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        img, picture, video, canvas, svg {
+            display: block;
+            max-width: 100%;
+        }
+
+        /* Full-width images clear floats */
+        img:not(.float-right):not(.float-left) {
+            clear: both;
+        }
+
+        /* Floating images for inline illustrations */
+        img.float-right {
+            float: right;
+            width: 50%;
+            margin: 0 0 1rem 1.5rem;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        img.float-left {
+            float: left;
+            width: 50%;
+            margin: 0 1.5rem 1rem 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        img.float-right-sm {
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        img.float-left-sm {
+            float: left;
+            width: 33%;
+            margin: 0 1.5rem 1rem 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        /* Clear floats after sections */
+        h2, h3, hr {
+            clear: both;
+        }
+        
+        input, button, textarea, select {
+            font: inherit;
+        }
+        
+        /* Typography */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 1.875rem;
+            box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
+            border-radius: 8px;
+            min-height: 100vh;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 1rem;
+            color: var(--primary);
+        }
+        
+        h1 { font-size: 2.25rem; margin-bottom: 1.5rem; }
+        h2 { font-size: 1.875rem; margin-top: 2rem; }
+        h3 { font-size: 1.5rem; margin-top: 1.5rem; }
+        
+        /* Add breathing room at the top */
+        h1:first-child, h2:first-child, h3:first-child {
+            margin-top: 1rem;
+        }
+        
+        p {
+            margin-bottom: 1.25rem;
+        }
+        
+        strong {
+            font-weight: 600;
+            color: var(--primary);
+        }
+        
+        em {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+        
+        /* Lists */
+        ul, ol {
+            margin-bottom: 1.25rem;
+            padding-left: 1.5rem;
+        }
+        
+        li {
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+        
+        /* Links */
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+            background-image: linear-gradient(120deg, transparent 0%, var(--accent) 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0px;
+            background-position: 0 88%;
+            transition: background-size 0.25s ease-in;
+        }
+        
+        a:hover {
+            background-size: 100% 3px;
+        }
+        
+        /* Horizontal Rule - simple gradient for markdown hr */
+        hr {
+            border: none;
+            height: 2px;
+            background: linear-gradient(to right, transparent, var(--accent), transparent);
+            margin: 2.5rem auto;
+            max-width: 95%;
+        }
+        
+        /* Genealogy-specific classes */
+        .date, .location {
+            font-variant: small-caps;
+            letter-spacing: 0.5px;
+            color: var(--text-secondary);
+        }
+        
+        /* Footnotes */
+        .footnote-ref {
+            font-size: 0.85em;
+            font-weight: 500;
+        }
+        
+        .footnote-ref a {
+            color: var(--footnote-red);
+            text-decoration: none;
+            background: none;
+        }
+        
+        .footnote-ref a:hover {
+            color: #9c1f1f;
+        }
+        
+        .footnotes {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-light);
+            background-color: var(--paper);
+            border-radius: 6px;
+            padding: 2rem;
+            margin-left: -2rem;
+            margin-right: -2rem;
+        }
+        
+        .footnotes h3 {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        
+        .footnotes ol {
+            padding-left: 1.25rem;
+        }
+        
+        .footnotes li {
+            font-size: 0.9rem;
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+            color: var(--text-secondary);
+        }
+        
+        .footnotes .footnote {
+            color: var(--text-muted);
+            text-decoration: none;
+            margin-left: 0.5rem;
+        }
+        
+        .footnotes .footnote:hover {
+            color: var(--text-secondary);
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            body { 
+                padding: 1rem; 
+                box-shadow: none;
+                border-radius: 0;
+            }
+            h1 { font-size: 1.875rem; }
+            h2 { font-size: 1.5rem; }
+            h3 { font-size: 1.25rem; }
+            
+            .footnotes {
+                margin-left: -1rem;
+                margin-right: -1rem;
+            }
+        }
+        
+        /* Print styles */
+        @media print {
+            body {
+                font-size: 12pt;
+                line-height: 1.5;
+                color: #000;
+                background: #fff;
+                margin: 0;
+                padding: 1in;
+                box-shadow: none;
+                border-radius: 0;
+            }
+
+            a {
+                color: #000;
+                text-decoration: underline;
+                background: none;
+            }
+
+            .footnotes {
+                background: #fff;
+                border: 1px solid #ccc;
+            }
+
+            .bio-timeline {
+                display: none;
+            }
+        }
+
+        /* Timeline Sidebar */
+        .bio-layout {
+            position: relative;
+        }
+
+        .bio-timeline {
+            position: fixed;
+            top: 2rem;
+            left: calc(50% + 420px);
+            width: 175px;
+            padding: 1.25rem 1.5rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 252, 250, 0.97) 0%,
+                rgba(252, 250, 245, 0.95) 50%,
+                rgba(250, 248, 242, 0.97) 100%
+            );
+            border: 1px solid var(--border-light);
+            border-radius: 6px;
+            font-size: 0.85rem;
+            box-shadow: 0 2px 12px rgba(122, 58, 15, 0.06);
+        }
+
+        .timeline-event {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .timeline-year {
+            font-family: Georgia, serif;
+            font-weight: 500;
+            color: var(--primary);
+            min-width: 2.5rem;
+        }
+
+        .timeline-marker {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--accent);
+            border: 2px solid var(--primary);
+            flex-shrink: 0;
+        }
+
+        .timeline-marker--major {
+            width: 10px;
+            height: 10px;
+            background: var(--primary);
+        }
+
+        .timeline-label {
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            line-height: 1.3;
+        }
+
+        .timeline-line {
+            width: 2px;
+            height: 1rem;
+            background: linear-gradient(180deg, var(--border-light) 0%, var(--accent) 50%, var(--border-light) 100%);
+            margin-left: calc(2.5rem + 0.5rem + 3px);
+            opacity: 0.6;
+        }
+
+        @media (max-width: 1100px) {
+            .bio-timeline {
+                display: none;
+            }
+        }
+
+        /* Family Links */
+        .family-links {
+            margin: 2rem 0;
+        }
+
+        .family-links-title {
+            font-family: Georgia, serif;
+            font-size: 1rem;
+            color: var(--text-muted);
+            font-weight: 400;
+            margin-bottom: 1rem;
+            letter-spacing: 0.5px;
+        }
+
+        .family-links-grid {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .family-link-card {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            text-align: center;
+            width: 140px;
+            padding: 0.875rem 1rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 252, 250, 0.97) 0%,
+                rgba(250, 248, 242, 0.95) 100%
+            );
+            border: 1px solid var(--border-light);
+            border-left: 3px solid rgba(212, 165, 116, 0.35);
+            border-radius: 6px;
+            text-decoration: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            overflow: hidden;
+        }
+
+        .family-link-card:hover {
+            border-left-color: var(--accent);
+            box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1);
+            background-size: 100% 0;
+        }
+
+        .family-link-name {
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            color: var(--primary);
+            line-height: 1.25;
+            font-weight: 500;
+            position: relative;
+        }
+
+        .family-link-relation {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+            position: relative;
+        }
+
+        /* Location Aside */
+        .location-aside {
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 250, 245, 0.6) 0%,
+                rgba(250, 247, 240, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(212, 165, 116, 0.6);
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+
+        .location-aside img {
+            width: 100%;
+            border-radius: 2px;
+            margin-bottom: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }
+
+        .location-aside-title {
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.125rem;
+            line-height: 1.3;
+        }
+
+        .location-aside-date {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .location-aside-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        @media (max-width: 600px) {
+            .location-aside {
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+            }
+        }
+
+        @media print {
+            .location-aside {
+                float: right;
+                width: 40%;
+                border-left: 1px solid #ccc;
+            }
+        }
+
+        /* Location Aside - Horizontal variant (image left, text right) */
+        .location-aside-horizontal {
+            float: right;
+            width: 50%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 250, 245, 0.6) 0%,
+                rgba(250, 247, 240, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(212, 165, 116, 0.6);
+            border-radius: 4px;
+            font-size: 0.85rem;
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .location-aside-horizontal img {
+            flex: 1;
+            min-width: 0;
+            border-radius: 2px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+            align-self: flex-start;
+        }
+
+        .location-aside-horizontal .location-aside-content {
+            flex: 1.6;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .location-aside-horizontal .location-aside-title {
+            font-family: Georgia, serif;
+            font-size: 0.95rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.125rem;
+            line-height: 1.3;
+        }
+
+        .location-aside-horizontal .location-aside-date {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .location-aside-horizontal .location-aside-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        @media (max-width: 600px) {
+            .location-aside-horizontal {
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+                flex-direction: column;
+            }
+
+            .location-aside-horizontal img {
+                width: 100%;
+            }
+        }
+
+        @media print {
+            .location-aside-horizontal {
+                float: right;
+                width: 45%;
+                border-left: 1px solid #ccc;
+            }
+        }
+
+        /* Back Navigation - matches line page breadcrumb */
+        .bio-nav {
+            padding: 0.5rem 0;
+            margin-bottom: 1rem;
+            font-size: 0.85rem;
+        }
+
+        .bio-nav a {
+            color: var(--text-muted);
+            text-decoration: none;
+            background: none;
+        }
+
+        .bio-nav a:hover {
+            color: var(--secondary);
+            text-decoration: underline;
+        }
+
+
+        @media print {
+            .bio-nav {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+<nav class="bio-nav"><a href="../../../index.html">← Family Index</a></nav>
+<div class="bio-layout"><div class="bio-content"><h3><strong>Adam Amos Parrett (1885–1959)</strong></h3>
+<p><strong>Relationship:</strong> 2nd great-grandfather (Parrett line)</p>
+<p><em>Indiana Farm Boy, WWI Registrant, Cleveland Tradesman</em></p>
+<p>Adam Amos Parrett was born on <strong>April 21, 1885</strong> in <strong>Wabash County, Indiana</strong>, the eldest child of <strong>John Anderson Parrett</strong> (1859–1938) and <strong>Mary Ellen Fisher</strong> (1867–1953). He was named for his paternal grandfather Amos Parret, who had died in the Civil War over two decades earlier.</p>
+<h2>Early Life in Lagro</h2>
+<p>Adam grew up on his father's farm near Lagro in Wabash County. The 1900 census shows him at age 15, still living with his parents and younger siblings. By 1908, he was working as a laborer in Marion, Indiana.</p>
+<h2>Marriages and Family</h2>
+<p>Adam married three times:</p>
+<p><strong>First Marriage:</strong> On <strong>August 19, 1906</strong>, at age 21, Adam married <strong>Mary Ann Beeks</strong> in <strong>St. Joseph, Berrien County, Michigan</strong>. Together they had seven children:</p>
+<ul>
+<li><strong>Charles Edward Parrett</strong> (1908–1983) — <em>our direct ancestor</em>, born in Gas City, Indiana</li>
+<li>Gertrude P. Coy (1909–2010)</li>
+<li>Glenn Leroy Parrett (1911–2001)</li>
+<li>James Franklin &quot;Jim&quot; Parrett (1913–1951)</li>
+<li>Ferry Ellsworth Parrett (1916–1951)</li>
+<li>Hazel Irene Parrett (1919–2012)</li>
+</ul>
+<p><strong>Second Marriage:</strong> On <strong>April 23, 1921</strong>, Adam married <strong>Nettie Thompson O'Connor</strong> (1881–1926) in <strong>Cuyahoga County, Ohio</strong>. Nettie died on July 17, 1926.</p>
+<p><strong>Third Marriage:</strong> Just a month after Nettie's death, on <strong>August 14, 1926</strong>, Adam married <strong>Lillie Thompson Graham</strong> (1878–1958) in Cuyahoga County. Lillie was apparently related to Nettie (both Thompsons). Lillie died in Whiting, Kansas in 1958.</p>
+<h2>World War I</h2>
+<p>Adam registered for the WWI draft in 1917–1918 while living in Whitley County, Indiana. At age 32–33, he was likely not called to serve, but his registration reflects the wartime mobilization that touched every American family.</p>
+<h2>Career and Migration</h2>
+<p>Adam's occupational trajectory shows a man who worked with his hands throughout his life:</p>
+<p>| Year | Location | Occupation |
+|------|----------|------------|
+| 1908 | Marion, Indiana | Laborer |
+| 1910 | Lagro, Indiana | Laborer |
+| 1917–18 | Whitley County, Indiana | (Draft registration) |
+| 1920 | Cleveland Township, Whitley Co. | Carpenter |
+| 1923 | Cleveland, Ohio | Carpenter |
+| 1926 | Cleveland, Ohio | Repairman |
+| 1930 | Cleveland, Ohio | Tool and Die Maker |
+| 1940 | Cleveland, Ohio | Machine Repairman |
+| 1950 | Cleveland, Ohio | (Head of household) |</p>
+<p>The family's move from rural Indiana to industrial Cleveland reflected the broader migration of Americans seeking factory work in the early 20th century. Adam's progression from general laborer to skilled machinist shows his advancement in the trades.</p>
+<h2>Family Tragedy</h2>
+<p>On <strong>May 13, 1951</strong>, Adam suffered a devastating loss when two of his sons—<strong>James Franklin Parrett</strong> (age 37) and <strong>Ferry Ellsworth Parrett</strong> (age 34)—drowned together in <strong>Mud Lake</strong> near Columbia City, Whitley County, Indiana. The brothers died the same day in what was likely a boating accident.</p>
+<h2>Later Years and Death</h2>
+<p>After his wife Lillie died in 1958, Adam returned to Indiana. He died on <strong>October 21, 1959</strong> in <strong>Wabash, Indiana</strong>, at age 74. He was buried in Wabash, Wabash County.</p>
+<hr />
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Birth: April 21, 1885, Wabash County, Indiana</li>
+<li>Father: <strong>John Anderson Parrett</strong> (1859–1938)</li>
+<li>Mother: <strong>Mary Ellen Fisher</strong> (1867–1953)</li>
+<li>First Marriage: August 19, 1906, to Mary Ann Beeks (St. Joseph, Michigan)</li>
+<li>Second Marriage: April 23, 1921, to Nettie Thompson O'Connor (Cuyahoga Co., Ohio)</li>
+<li>Third Marriage: August 14, 1926, to Lillie Thompson Graham (Cuyahoga Co., Ohio)</li>
+<li>Death: October 21, 1959, Wabash, Indiana</li>
+<li>WWI Draft Registration: 1917–1918, Whitley County, Indiana</li>
+</ul>
+<h3>Sources</h3>
+<ul>
+<li>1900 U.S. Federal Census — Lagro, Wabash, Indiana</li>
+<li>1910 U.S. Federal Census — Lagro, Wabash, Indiana</li>
+<li>1920 U.S. Federal Census — Cleveland, Whitley, Indiana</li>
+<li>1930 U.S. Federal Census — Cleveland, Cuyahoga, Ohio</li>
+<li>1940 U.S. Federal Census — Cleveland, Cuyahoga, Ohio</li>
+<li>1950 U.S. Federal Census — Cleveland, Cuyahoga, Ohio</li>
+<li>U.S. WWI Draft Registration Cards, 1917–1918</li>
+<li>U.S. WWII Draft Registration Cards, 1942</li>
+<li>Indiana Death Certificates, 1899–2011</li>
+<li>Michigan County Marriage Records, 1822–1940</li>
+<li>Ohio County Marriage Records, 1774–1993</li>
+<li>U.S. Social Security Applications and Claims Index, 1936–2007</li>
+<li>Find A Grave Index</li>
+</ul>
+<hr />
+<p><em>Last updated: 2026-02-01</em></p>
+</div><aside class="bio-timeline">
+  <div class="timeline-event">
+    <span class="timeline-year">1885</span>
+    <span class="timeline-marker timeline-marker--major"></span>
+    <span class="timeline-label">Born</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1906</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Married Mary Ann Beeks</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1908</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Son Charles Edward born (our ancestor)</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1917</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">WWI draft registration</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1921</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Married Nettie Thompson O'Connor</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1926</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Married Lillie Thompson Graham</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1951</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Sons James and Ferry drowned</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1959</span>
+    <span class="timeline-marker timeline-marker--major"></span>
+    <span class="timeline-label">Died</span>
+  </div>
+</aside></div>
+</body>
+</html>
