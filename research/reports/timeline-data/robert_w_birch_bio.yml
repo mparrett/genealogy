@@ -1,0 +1,43 @@
+name: Robert W. Birch
+birth:
+  year: 1869
+  label: Born
+  location: Ottawa, Ontario
+death:
+  year: 1950
+  label: Died
+  location: Phoenix, AZ
+events:
+  - year: 1894
+    label: Married Sarah Cope
+    type: marriage
+  - year: 1902
+    label: Settled in Prescott
+    type: event
+  - year: 1910
+    label: Agua Caliente resort
+    type: event
+  - year: 1928
+    label: Took in Howard
+    type: event
+  - year: 1931
+    label: Gov. Hunt visit
+    type: event
+
+location_aside:
+  place: Ottawa
+  region: Ontario, Canada
+  year: c. 1875
+  image: locations/ottawa-ontario-1875.jpg
+  layout: vertical
+  after_paragraph: 1
+  description: >
+    Robert Birch was born in Ottawa in 1869, when the young Canadian capital
+    was a lumber town being transformed by the construction of Parliament Hill.
+    The Birch family left Canada in the late 19th century, beginning a journey
+    that would take them to North Dakota and eventually Arizona.
+
+family_links:
+  - name: Howard R. Birch
+    relation: Foster Son
+    link: howard_higgins_bio.html

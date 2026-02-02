@@ -12,11 +12,15 @@ By 1902, Robert and his brother William T. "Slim" Birch had established themselv
 
 Robert and Sarah had at least one child, a daughter **Mary Birch**, born in the late 1890s. Mary grew up between Prescott and the desert, eventually marrying Harold Carpenter at a memorable ceremony held at her father's resort on April 6, 1930.
 
+<img src="../../../images/bio/robert-birch-01-agua-caliente.jpg" alt="Agua Caliente Hot Springs resort, Arizona 1920s" class="float-right">
+
 Robert's most significant venture was the **Agua Caliente Hot Springs resort**, a 22-room hotel built around natural hot springs in the Gila River desert of Maricopa County, about fourteen miles from Sentinel. The therapeutic mineral baths drew visitors from across Arizona and beyond. The 1938 Arizona State Hotel Directory listed "Agua Caliente Hotel (Hot Springs) – Robert Birch" among the state's destinations.
 
 The resort attracted notable guests. On March 15, 1931, **Governor George W. P. Hunt**—Arizona's first governor—visited Agua Caliente. A photograph preserved in the Arizona State Archives shows Hunt at the resort with Robert Birch, documenting the connection between the pioneer hotelier and Arizona's political establishment.
 
 Around 1928, Robert and Sarah's lives took an unexpected turn. **Doris Kuthe**, a young woman from Oregon, had married a Mr. Higgins in Tucson in late 1926 and given birth to a son, **Howard Robert Higgins**, on September 15, 1927. By 1928, circumstances unknown led Doris to give up her infant son. The Birches—then in their late fifties with their daughter grown—took in the toddler and raised him as their own.
+
+<img src="../../../images/bio/robert-birch-02-bathhouse.jpg" alt="Mineral bathhouse at Agua Caliente" class="float-left-sm">
 
 Though no formal adoption papers have surfaced, all evidence confirms that Howard became a Birch in every meaningful sense. He grew up at Agua Caliente with Robert and Sarah, attended school under the Birch name, and carried it into adulthood. When Howard married **Patricia Anne Mowrey** in Maricopa County on June 17, 1949, he did so as Howard R. Birch. The surname he received from Robert would pass to Howard's children and grandchildren—including the family member researching this history today.
 

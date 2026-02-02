@@ -13,11 +13,28 @@ For three decades, the man who welcomed them was **Robert W. Birch**.
 
 ## The Place
 
+<img src="../../../images/bio/robert-birch-01-agua-caliente.jpg" alt="Agua Caliente Hot Springs resort, Arizona 1920s" class="float-right">
+
 The springs emerge at the edge of the Gila River basin, where the Sonoran Desert stretches flat and hot toward the Painted Rock Mountains. Summer temperatures exceed 110°F. Winter nights drop near freezing. It is not a hospitable landscape—which made the hot springs all the more remarkable. Here, in the middle of nothing, was something: warm water, shade trees planted by human hands, and rooms with beds.
 
 The **Agua Caliente Hotel** was not grand by eastern standards. Twenty-two rooms. A main building with a lobby and dining area. Bathhouses where guests could take private soaks in the mineral water. A few outbuildings, a water tower, perhaps a small store. The nearest rail stop was Sentinel; guests arrived by car or wagon along dusty desert roads.
 
 But in territorial and early-statehood Arizona, this was enough. The hot springs drew ranchers from the Gila Valley, merchants from Phoenix, politicians from the capital. They came for the waters, for the quiet, for a few days away from the telegraph and the telephone.
+
+<details class="feature-accordion">
+<summary>The Railroad Connection: Hyder</summary>
+
+<img src="../../../images/bio/hyder-railroad-depot.jpg" alt="Desert railroad depot, Arizona 1920s">
+
+Most guests arrived via **Hyder**, a railroad town fourteen miles to the south. During its heyday, several eastbound and westbound passenger trains stopped there daily—weary travelers stepping off onto the platform, looking for respite from the desert journey.
+
+Built in 1897, the 22-room adobe hotel at Agua Caliente catered specifically to these railroad passengers. A wagon or early automobile would carry them from the Hyder depot to the springs. For a few days, they soaked in the mineral waters before continuing their journey across Arizona.
+
+Hyder is a ghost town now. The trains stopped running. The depot crumbled. But in the 1910s and 1920s, this railroad connection made Agua Caliente viable—and may explain how certain lives intersected here. A railroad civil engineer. A young woman from Oregon. A hotelier who would later take in their child.
+
+*The threads of family history sometimes run along railroad tracks.*
+
+</details>
 
 ---
 
@@ -57,6 +74,8 @@ What did they talk about? Prohibition, perhaps—Hunt had signed the state's dry
 ---
 
 ## The Waters
+
+<img src="../../../images/bio/robert-birch-02-bathhouse.jpg" alt="Mineral bathhouse interior at Agua Caliente" class="float-left">
 
 What did it feel like to soak at Agua Caliente in 1935?
 
