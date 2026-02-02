@@ -60,7 +60,9 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 
 **See [PROMPTS-THUMBNAILS.md](PROMPTS-THUMBNAILS.md) for thumbnail icon prompts.**
 
-These are the small images that appear behind monogram initials on the family lines pages. They use a sepia pencil sketch style (NOT watercolor) and should not include people.
+These are the small images that appear behind monogram initials on the family lines pages. Use the codex `image_gen.py` script (primary) or ChatGPT 4o (fallback when API constrained).
+
+**Style:** Sepia pencil sketch (NOT watercolor), no people.
 
 ---
 
