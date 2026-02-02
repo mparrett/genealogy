@@ -76,6 +76,95 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
 
+        /* Feature accordion (expandable sections) */
+        details.feature-accordion {
+            margin: 2rem 0;
+            padding: 0;
+            border: 1px solid rgba(139, 69, 19, 0.2);
+            border-radius: 8px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.6) 0%, rgba(248,244,240,0.8) 100%);
+            overflow: hidden;
+        }
+
+        details.feature-accordion summary {
+            padding: 1rem 1.5rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 1.05rem;
+            font-weight: 500;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.625rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        details.feature-accordion[open] summary {
+            border-bottom: 1px solid rgba(139, 69, 19, 0.15);
+            border-radius: 8px 8px 0 0;
+            margin-bottom: 0.5rem;
+        }
+
+        details.feature-accordion summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.feature-accordion summary::before {
+            content: '▸';
+            font-size: 0.875rem;
+            color: rgba(139, 69, 19, 0.6);
+            transition: transform 0.2s ease, color 0.2s ease;
+        }
+
+        details.feature-accordion[open] summary::before {
+            transform: rotate(90deg);
+            color: var(--primary);
+        }
+
+        details.feature-accordion summary:hover {
+            background: rgba(139, 69, 19, 0.08);
+        }
+
+        details.feature-accordion > *:not(summary) {
+            padding: 0 1.5rem;
+        }
+
+        details.feature-accordion > p:first-of-type {
+            padding-top: 0.5rem;
+        }
+
+        details.feature-accordion > p:last-child {
+            padding-bottom: 1.5rem;
+            margin-bottom: 0;
+        }
+
+        /* Ensure content clears floated images */
+        details.feature-accordion[open]::after {
+            content: '';
+            display: block;
+            clear: both;
+            padding-bottom: 0.5rem;
+        }
+
+        details.feature-accordion em:last-child {
+            display: block;
+            margin-top: 1rem;
+            padding-bottom: 0.25rem;
+            font-size: 0.9rem;
+            font-style: italic;
+            color: rgba(122, 58, 15, 0.7);
+            clear: both;
+        }
+
+        /* Small images within accordions */
+        details.feature-accordion img {
+            width: 25%;
+            float: right;
+            margin: 0.25rem 0 1rem 1.25rem;
+        }
+
         /* Clear floats after sections */
         h2, h3, hr {
             clear: both;
@@ -581,9 +670,22 @@
 <p>For three decades, the man who welcomed them was <strong>Robert W. Birch</strong>.</p>
 <hr />
 <h2>The Place</h2>
+<img src="../../../images/bio/robert-birch-01-agua-caliente.jpg" alt="Agua Caliente Hot Springs resort, Arizona 1920s" class="float-right">
+
 <p>The springs emerge at the edge of the Gila River basin, where the Sonoran Desert stretches flat and hot toward the Painted Rock Mountains. Summer temperatures exceed 110°F. Winter nights drop near freezing. It is not a hospitable landscape—which made the hot springs all the more remarkable. Here, in the middle of nothing, was something: warm water, shade trees planted by human hands, and rooms with beds.</p>
 <p>The <strong>Agua Caliente Hotel</strong> was not grand by eastern standards. Twenty-two rooms. A main building with a lobby and dining area. Bathhouses where guests could take private soaks in the mineral water. A few outbuildings, a water tower, perhaps a small store. The nearest rail stop was Sentinel; guests arrived by car or wagon along dusty desert roads.</p>
 <p>But in territorial and early-statehood Arizona, this was enough. The hot springs drew ranchers from the Gila Valley, merchants from Phoenix, politicians from the capital. They came for the waters, for the quiet, for a few days away from the telegraph and the telephone.</p>
+<details class="feature-accordion">
+<summary>The Railroad Connection: Hyder</summary>
+
+<img src="../../../images/bio/hyder-railroad-depot.jpg" alt="Desert railroad depot, Arizona 1920s">
+
+<p>Most guests arrived via <strong>Hyder</strong>, a railroad town fourteen miles to the south. During its heyday, several eastbound and westbound passenger trains stopped there daily—weary travelers stepping off onto the platform, looking for respite from the desert journey.</p>
+<p>Built in 1897, the 22-room adobe hotel at Agua Caliente catered specifically to these railroad passengers. A wagon or early automobile would carry them from the Hyder depot to the springs. For a few days, they soaked in the mineral waters before continuing their journey across Arizona.</p>
+<p>Hyder is a ghost town now. The trains stopped running. The depot crumbled. But in the 1910s and 1920s, this railroad connection made Agua Caliente viable—and may explain how certain lives intersected here. A railroad civil engineer. A young woman from Oregon. A hotelier who would later take in their child.</p>
+<p><em>The threads of family history sometimes run along railroad tracks.</em></p>
+</details>
+
 <hr />
 <h2>The Proprietor</h2>
 <p>Robert Birch came to Arizona from Canada by way of North Dakota. By 1902, he and his brother William &quot;Slim&quot; Birch had established themselves in Prescott as merchants. But sometime in the 1910s, Robert took on the hot springs—whether by purchase, lease, or gradual assumption of management, the records don't specify.</p>
@@ -606,6 +708,8 @@ Agua Caliente, Maricopa County</p>
 <p>What did they talk about? Prohibition, perhaps—Hunt had signed the state's dry law in 1915, and the Birch brothers had once run a saloon in Prescott. Politics, certainly. The weather, almost inevitably. The visit was likely brief, a night or two at most, but it left behind a photograph that endures.</p>
 <hr />
 <h2>The Waters</h2>
+<img src="../../../images/bio/robert-birch-02-bathhouse.jpg" alt="Mineral bathhouse interior at Agua Caliente" class="float-left">
+
 <p>What did it feel like to soak at Agua Caliente in 1935?</p>
 <p>The bathhouses were simple structures, wooden or adobe, with tubs fed by pipes from the springs. The water emerged at perhaps 104°F, naturally heated by geothermal activity deep below the desert. Guests undressed in small private rooms, lowered themselves into the mineral-rich water, and sat.</p>
 <p>The claims made for hot springs were extravagant in that era. Rheumatism cured. Arthritis relieved. Digestive troubles settled. Nerves calmed. The science was dubious, but the experience was real: heat penetrating sore muscles, the mineral smell of the water, the silence of the desert outside.</p>

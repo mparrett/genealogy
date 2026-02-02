@@ -3,6 +3,7 @@
 ## Site
 - GitHub Pages: https://mparrett.github.io/genealogy
 - Build: `just build-reports` (converts markdown to HTML via mistune)
+- Local preview: tmux session `serve-genea` runs server on port 8000
 
 ## Structure
 - Reports: `research/reports/*.md` → `research/reports/html/`
