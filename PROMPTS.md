@@ -553,3 +553,45 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
   --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations" \
   --negative "modern elements, bright colors, busy clutter, photorealistic, raw frontier aesthetic"
 ```
+
+### Howard R. Higgins - Agua Caliente Childhood (1932-1935)
+*File: `images/bio/howard-higgins-01-agua-caliente.jpg`*
+
+```bash
+export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
+export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
+
+uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+  --prompt "Vintage watercolor illustration of a young boy at a remote Arizona desert hot springs resort in the early 1930s, for genealogy report" \
+  --size 1024x1024 \
+  --out images/bio/howard-higgins-01-agua-caliente.png \
+  --scene "1930s Agua Caliente Hot Springs resort, Gila River desert, adobe hotel buildings, mineral spring steam rising, Sonoran desert landscape with saguaro cacti, distant purple mountains, vintage automobiles parked nearby" \
+  --subject "Young boy (age 6-8) exploring the desert resort grounds, perhaps near the bathhouse or watching steam rise from mineral pools, sense of wonder and solitude, raised by foster family at this remote oasis (no specific portrait)" \
+  --style "vintage watercolor illustration, soft washes, warm desert tones, lightly textured paper, period-appropriate, nostalgic and gentle" \
+  --composition "boy in middle ground with adobe resort buildings, desert landscape stretching behind, sense of isolation and beauty, intimate childhood moment" \
+  --lighting "warm Arizona morning or late afternoon light, long shadows, golden desert glow" \
+  --palette "warm desert ochres and tans, adobe terracotta, saguaro greens, soft purple mountains, turquoise sky, steam whites" \
+  --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations; evokes 'desert son' theme" \
+  --negative "modern elements, bright saturated colors, busy clutter, photorealistic, cold or harsh atmosphere"
+```
+
+### Howard R. Higgins - Military Service / Coming of Age (1945-1947)
+*File: `images/bio/howard-higgins-02-military.jpg`*
+
+```bash
+export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
+export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
+
+uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+  --prompt "Vintage watercolor illustration of a young WWII-era serviceman at an Air Force base or train station in the mid-1940s, for genealogy report" \
+  --size 1024x1024 \
+  --out images/bio/howard-higgins-02-military.png \
+  --scene "1945-1947 American military base or train depot, WWII-era aircraft in background or period train, young servicemen in uniform, American flags, sense of transition and coming-of-age" \
+  --subject "Young man (age 17-19) in WWII-era military uniform (Air Force/Army Air Corps style), duffle bag, moment of departure or return, sense of transformation from boy to man, leaving childhood identity behind (no specific portrait)" \
+  --style "vintage watercolor illustration, soft washes, warm tones with patriotic touches, lightly textured paper, period-appropriate, contemplative mood" \
+  --composition "young serviceman as focal point, military setting in background, sense of threshold moment between identities, hopeful but introspective" \
+  --lighting "soft afternoon light, gentle shadows, sense of new beginnings" \
+  --palette "khaki and olive military tones, warm browns, soft blue sky, touches of American red-white-blue, warm skin tones" \
+  --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations; captures identity transition theme (Higgins to Birch)" \
+  --negative "modern elements, bright saturated colors, busy clutter, photorealistic, combat or violent imagery, grim wartime atmosphere"
+```
