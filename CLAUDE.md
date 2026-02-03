@@ -145,6 +145,8 @@ location_aside:
 - **vertical** (default): 33% width, image above text
 - **horizontal**: 50% width, image left of text
 
+**Layout principle:** Content (including H3 headings) should **flow around** location asides, not clear below them. Avoid large whitespace gaps beside floated panels. Only H2 headings and horizontal rules clear floats to start new major sections.
+
 #### Family Links
 
 Cards linking to related bios (appears before Notes section):
