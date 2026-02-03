@@ -12,6 +12,41 @@
 **Action Needed:** Dedicated effort to obtain clean copy and transcribe
 **Context:** March 1930 is significant - this is exactly when Mary Birch married Harold Carpenter at Agua Caliente (April 6, 1930). Doris may have been mentioned in connection with that event.
 
+### NEW: James E. Higgins Death Certificate - July 6, 1938
+**Status:** Date/location confirmed from Ancestry, need full death certificate
+**Location:** San Francisco, San Francisco County, California
+**Significance:** Howard's biological father died when Howard was 10 years old, living at Agua Caliente
+**Action Needed:** Obtain full California death certificate
+**Questions to answer:**
+- Cause of death?
+- Occupation at time of death?
+- Address in San Francisco?
+- Next of kin listed? (Was Doris notified? The Birches?)
+- Any mention of son Howard?
+
+### NEW: 1940 Census - Robert & Sarah Birch
+**Status:** NOT YET FOUND - critical missing piece
+**Question:** Where were Robert (age 71) and Sarah (age 62) Birch in 1940?
+**Context:** Howard was living with Woodard family in Phoenix as "lodger" - not with the Birches
+**Need to search:**
+- Phoenix, Maricopa County
+- Agua Caliente, Maricopa County
+- Prescott, Yavapai County
+- With daughter Mary Birch Carpenter in Phoenix?
+
+### NEW: Woodard/Parkman Family Research
+**Status:** Just discovered, need full investigation
+**Names:**
+- R. Waldo Woodard (b. 1896 CA) - Manager, college educated
+- Maisy Woodard (b. 1904 AZ) - Wife, high school educated
+- Elsie Parkman (b. 1905 AZ) - Sister-in-law, art teacher (government), college educated
+**Questions:**
+- How did they know the Birch family?
+- Why did they take in Howard as a lodger?
+- Connection to Mary Birch Carpenter?
+- Phoenix city directories 1935-1945?
+- School records (Elsie Parkman as teacher)?
+
 ---
 
 ## Priority 1: Photographs & Visual Evidence
@@ -215,6 +250,63 @@
 - Arizona Historical Society (Woolsey papers)
 - Sharlot Hall Museum (Prescott)
 - Arizona State Archives
+
+---
+
+## Priority 8: Military & Education Records (NEW)
+
+### Howard's Military Service Records
+**Enlistment:** January 18, 1945 (age 17)
+**Sources show both:**
+- U.S. World War II Navy Muster Rolls, 1938-1949
+- U.S., World War II Army Enlistment Records, 1938-1946
+
+**Questions:**
+- Which branch did he actually serve in?
+- Training location?
+- Service duration (1945-1949?)
+- Rank at discharge?
+- Did he see combat or remain stateside?
+- GI Bill benefits used for college?
+
+**Where to search:**
+- National Archives (NARA) - military service records
+- National Personnel Records Center (St. Louis)
+- Navy or Army discharge papers (DD-214)
+
+### Howard's High School Records
+**School:** North High School, Phoenix, Arizona
+**Years:** 1940-1945 (approximately)
+**Graduation:** Circa 1945 or 1946
+
+**Records to find:**
+- [ ] Complete yearbook series (1941-1945/46)
+- [ ] Graduation records - did he graduate as "Higgins" or "Birch"?
+- [ ] Transcript showing when surname changed
+- [ ] Activities, clubs, achievements
+
+**Where to look:**
+- North High School alumni office
+- Phoenix Union High School District archives
+- Arizona Historical Society
+
+### University of Arizona Records
+**Attended:** Circa 1949-1953 (with military service gap)
+**Graduated:** May 27, 1953
+**Degree:** Electrical Engineering
+**Source:** The Arizona Republic, May 27, 1953, Page 15
+
+**Records to find:**
+- [ ] Transcript (enrollment dates, courses)
+- [ ] Did he enroll as "Howard Higgins" or "Howard Birch"?
+- [ ] U of A yearbooks (1950-1953)
+- [ ] Engineering department records
+- [ ] GI Bill enrollment records
+
+**Where to look:**
+- University of Arizona Registrar
+- U of A Special Collections
+- U of A Engineering College archives
 
 ---
 
