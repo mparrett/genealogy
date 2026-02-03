@@ -18,8 +18,6 @@ By August 1926, Doris had made her way to **Agua Caliente Hot Springs**, a remot
 
 How she came to be there remains unclear. She may have worked at the resort, been a guest, or found refuge with the Birches through mutual connections. What matters is that she was already **integrated into the Agua Caliente community** when, on November 6, 1926, she married **James Everett Higgins**, a railroad civil engineer working in Arizona.
 
-<img src="../../../images/bio/doris-kuthe-01-agua-caliente.jpg" alt="Agua Caliente Hot Springs in the 1920s" class="float-right-sm">
-
 The marriage was brief. By March 20, 1927—less than four months after the wedding—Doris was three months pregnant and standing with Governor George W. P. Hunt at the King Woolsey ruins near Agua Caliente, photographed alongside Mary Birch and other members of the resort's social circle. James was not in the photograph. He was already in California.
 
 On September 15, 1927, Doris gave birth to **Howard Robert Higgins** in Tucson, Arizona. The birth certificate lists her residence as Tucson, her occupation as "Housewife - Teacher," and James's residence as **San Francisco, California**. The couple was geographically separated before their son was even born. The marriage had lasted less than ten months.
@@ -49,8 +47,6 @@ These visits—and likely others that went unrecorded—prove that Doris maintai
 While Howard grew up at Agua Caliente with the Birches, Doris built a career. She taught in Buckeye in 1930, in the Vekol Valley area in the early 1930s, and in Nogales by 1940. She obtained her Three Year Diploma from Flagstaff in March 1932, continuing her education even while navigating the Great Depression and personal upheaval.
 
 Her marriages came and went. After divorcing James Higgins in 1930, she married Claude M. Allen in May 1930—a union that ended in divorce within a few years. Her third marriage, to **Henry H. Bynon** on September 20, 1933, lasted fourteen years until Henry's death in Phoenix on November 29, 1947. She signed Howard's amended birth certificate as "Doris K. Bynon," changing his original name from "James Everett Higgins" to "Howard Robert Higgins"—a symbolic severing of the connection to the father who had moved to San Francisco before his birth.
-
-<img src="../../../images/bio/doris-kuthe-02-teaching.jpg" alt="Arizona schoolhouse in the 1930s" class="float-left-sm">
 
 Through it all, Doris kept teaching. By 1950, at age forty-eight, she had risen to **Supervisor of Elementary Schools** in Nogales, Arizona—a position of leadership and respect. She had built a professional life despite losing her mother at four, her father at twenty-three, enduring four marriages (one ending in her husband's death), and raising a son in an arrangement that required extraordinary trust and sacrifice.
 
