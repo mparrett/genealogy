@@ -36,6 +36,26 @@ just clean
 
 The build uses `uvx` to run converters with dependencies (mistune for reports, pyyaml for lines).
 
+### Local Server
+
+Run the local server in a **tmux session** so it persists across Claude sessions:
+
+```bash
+# Start server in tmux (recommended)
+tmux new-session -d -s genealogy-server 'just serve'
+
+# Check if running
+tmux list-sessions | grep genealogy
+
+# Attach to see output
+tmux attach -t genealogy-server
+
+# Kill when done
+tmux kill-session -t genealogy-server
+```
+
+Site available at **http://localhost:8000**
+
 ## Project Structure
 
 - `research/reports/*.md` - Source markdown reports (biographies, research findings)
