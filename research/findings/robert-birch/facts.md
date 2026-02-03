@@ -204,7 +204,109 @@
 
 ---
 
+## Census Records
+
+### 1930 U.S. Census - Agua Caliente, Maricopa, Arizona
+
+**Household Head:** Robert Birch
+**Age:** 61 (born abt 1869)
+**Birthplace:** Canada
+**Immigration Year:** 1880
+**Naturalization:** Naturalized
+**Marital Status:** Married, first marriage age 24
+**Occupation:** Proprietor
+**Industry:** Hat Springs (Hot Springs)
+**Veteran:** Yes, WWI
+**Home:** Rented, valued $800
+**Radio:** Yes
+
+**Household Members:**
+- **Robert Birch** (61) - Head
+- **Sara Birch** (50) - Wife
+- **Mary Birch** (21) - Daughter
+- **Joseph Birch** (9) - **MYSTERY CHILD** (born ~1921)
+- Marth Cake (21), Elizabeth Cake (21) - possibly employees/guests
+- John Newey (30) - lodger
+- Won Yive (59), Wing Ging Yive (16), Hing Yive (39) - lodgers
+- Bryon Garrison (20), Herman Anderson (53), Francisco Cruz (22) - lodgers
+- Mary Middleton (69) - lodger
+- James Rohan (43), Ida Rohan (36), James Rohan (12), Ida Rohan (10), George Rohan (8), Agatha Rohan (4) - Rohan family lodgers
+- Oscar Rengo (46), George Krone (60) - lodgers
+- Fred Douglas (55), Violet Douglas (47) - lodgers
+- James Mcwilliams (50) - lodger
+
+**Total Household:** 25+ people (large resort operation)
+
+**CRITICAL MYSTERY:** Who is **Joseph Birch, age 9**?
+- Born ~1921 (6 years BEFORE Howard was born in 1927)
+- Listed as "Birch" not "Higgins"
+- Could be: another foster child, relative's child, census error?
+- If same person as "William K Birch" in 1940, would be age 19
+
+**Source:** U.S. Census 1930, Maricopa County, Arizona
+
+### 1940 U.S. Census - Maricopa, Arizona (Agua Caliente)
+
+**Household Head:** Robert Bired (misspelling of Birch)
+**Age:** 71 (born abt 1869)
+**Birthplace:** Canada
+**Citizenship:** Naturalized
+**Marital Status:** Married
+**Occupation:** Proprietor
+**Education:** Elementary school, 4th grade
+**Hours Worked (week prior):** 84 hours (at age 71!)
+**Class of Worker:** Working on own account
+**Weeks Worked 1939:** 52 (full year)
+**Income:** $0 listed, but "Income Other Sources: Yes"
+**Residence in 1935:** Maricopa, Arizona (same location)
+
+**Household Members:**
+- **Robert Bired** (71) - Head
+- **Sarah Bired** (62) - Wife
+- **William K Bired** (19) - **MYSTERY PERSON**
+- H C Anderson (63), Wing Gingher (26) - lodgers
+- Sadys Larenz (46), Maggie Bausser (69), Marie Bausser (34) - lodgers
+- Gertrude Kousnitz (45), Elizabeth Zimmerman (45), Martha Caospe (32) - lodgers
+- James W Bullard (23), Sam YeePoy (30) - lodgers
+- Edythe Artegui (54), George O Camphell (34), Mary Alice Camphell (21) - lodgers
+- Shua Hinge (51), Cicilia Foley (26), Henry L Slether (68) - lodgers
+
+**Total Household:** 19+ people (still operating resort)
+
+**CRITICAL MYSTERY:** Who is **William K Bired/Birch, age 19**?
+- Born ~1921 (same birth year as Joseph Birch from 1930 census!)
+- Is "William K Birch" the same person as "Joseph Birch"? Middle name William? Error?
+- Or different foster child?
+- Age matches: Joseph would be 19 in 1940 if born 1921
+
+**NOTABLE ABSENCE:** Howard Higgins NOT in household
+- Confirms Howard was living with Woodard family in Phoenix in 1940
+- See: `research/findings/howard-higgins/1940-census.md`
+
+**Source:** U.S. Census 1940, Maricopa County, Arizona
+
+---
+
 ## Open Questions
+
+### Mystery Foster Children
+
+1. **Who is Joseph Birch (age 9 in 1930 census)?**
+   - Born ~1921, six years before Howard
+   - Another foster child taken in by Robert & Sarah?
+   - Relative's child?
+   - Census error (wrong surname)?
+
+2. **Who is William K Birch (age 19 in 1940 census)?**
+   - Same person as Joseph from 1930? (ages match perfectly)
+   - If so, middle name William? Or first name switched?
+   - Different person entirely?
+   - Need birth records for clarification
+
+3. **Were there other foster children besides Howard?**
+   - Joseph/William suggests yes
+   - Did Robert & Sarah have a pattern of taking in children?
+   - Any other documentation of this practice?
 
 ### Business Operations
 1. **When exactly did Robert acquire/begin operating Agua Caliente?**
@@ -224,11 +326,12 @@
    - Related to WWII? Springs drying up? Economics?
 
 ### Howard's Upbringing
-1. **Where were Robert & Sarah in 1940?**
-   - Howard was living with Woodard family in Phoenix as "lodger"
-   - Were Robert & Sarah still at Agua Caliente?
-   - In Phoenix but not able to house Howard?
-   - Why the boarding arrangement?
+1. **Why was Howard boarding with Woodards in 1940?**
+   - Robert & Sarah were STILL at Agua Caliente (confirmed by 1940 census)
+   - Still operating resort with 19+ lodgers
+   - Robert working 84 hours/week at age 71
+   - Why wasn't 12-year-old Howard living with them at resort?
+   - Educational opportunity in Phoenix? Health reasons? Family decision?
 
 2. **How did they know the Woodard family?**
    - Through daughter Mary in Phoenix?
@@ -257,9 +360,11 @@
 ## Key Archival Targets
 
 **High Priority:**
-- [ ] 1940 U.S. Census - Robert & Sarah Birch (WHERE WERE THEY?)
-- [ ] 1930 U.S. Census - Robert Birch household, Agua Caliente
+- [x] 1940 U.S. Census - Robert & Sarah Birch - **FOUND** at Agua Caliente, age 71, still proprietor
+- [x] 1930 U.S. Census - Robert Birch household, Agua Caliente - **FOUND** - reveals Joseph Birch age 9
 - [ ] 1920 U.S. Census - Robert Birch household (where? when did they get resort?)
+- [ ] **Joseph Birch / William K Birch identity** - birth records, family connection
+- [ ] **Other foster children documentation** - court records, family papers
 - [ ] Maricopa County land records - Agua Caliente property acquisition
 - [ ] Arizona State Hotel Directories (1920s editions, not just 1938)
 - [ ] Phoenix city directories, 1940s-1950 (Robert & Sarah's residence)
