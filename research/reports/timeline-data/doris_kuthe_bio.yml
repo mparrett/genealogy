@@ -1,2 +1,58 @@
-draft: true
 name: Doris Pauline Kuthe
+birth:
+  year: 1902
+  label: Born
+  location: Jefferson, Oregon
+death:
+  year: 1996
+  label: Died
+  location: Nogales, Arizona
+events:
+  - year: 1907
+    label: Mother Huldah dies (age 4)
+    type: event
+  - year: 1912
+    label: Family moves to Phoenix
+    type: event
+  - year: 1925
+    label: Father George dies
+    type: event
+  - year: 1926
+    label: Living at Agua Caliente
+    type: event
+  - year: 1926
+    label: Married James E. Higgins
+    type: marriage
+  - year: 1927
+    label: Son Howard born
+    type: event
+  - year: 1928
+    label: Howard placed with Birches
+    type: event
+  - year: 1930
+    label: Divorced from James
+    type: event
+  - year: 1930
+    label: Married Claude M. Allen
+    type: marriage
+  - year: 1932
+    label: Teaching diploma, Flagstaff
+    type: event
+  - year: 1933
+    label: Married Henry H. Bynon
+    type: marriage
+  - year: 1947
+    label: Husband Henry dies
+    type: event
+  - year: 1950
+    label: Supervisor of Elementary Schools
+    type: event
+  - year: 1953
+    label: Witnessed Sarah Birch's lease
+    type: event
+  - year: 1962
+    label: Married John A. McGuire
+    type: marriage
+  - year: 1984
+    label: Husband John dies
+    type: event
