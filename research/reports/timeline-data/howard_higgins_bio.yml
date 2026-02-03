@@ -1,2 +1,34 @@
-draft: true
-name: Howard R. Higgins
+name: Howard R. Higgins / Birch
+birth:
+  year: 1927
+  label: Born
+  location: Tucson, Arizona
+death:
+  year: 2019
+  label: Died
+  location: Tucson, Arizona
+events:
+  - year: 1928
+    label: Placed with Birch family
+    type: event
+  - year: 1929
+    label: Mother Doris visits
+    type: event
+  - year: 1933
+    label: Mother visits again
+    type: event
+  - year: 1940
+    label: Living with Woodards, Phoenix
+    type: event
+  - year: 1944
+    label: North High School
+    type: event
+  - year: 1945
+    label: Military enlistment
+    type: event
+  - year: 1949
+    label: Married Patricia Mowrey
+    type: marriage
+  - year: 1953
+    label: U of A Engineering degree
+    type: event
