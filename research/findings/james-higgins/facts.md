@@ -7,15 +7,26 @@
 ## Birth & Early Life
 
 **Full Name:** James Everett Higgins
-**Birth Year:** 1892 (exact date unknown)
-**Birth Place:** Unknown
-**Age at Death:** 46 years (died 1938)
+**Birth Year:** ~1893 (marriage record shows age 33 in Nov 1926; some records say 1892)
+**Birth Place:** Unknown (James's bio says Manhattan, New York, Feb 2, 1892 - needs verification)
+**Age at Death:** Approximately 45-46 years (died 1938)
 
 **Parents:** Unknown
 **Siblings:** Unknown
 **Early Life:** Unknown
 
 **Source:** Ancestry.com death records; family records
+
+**Note:** James's published bio (`research/reports/james_e_higgins_bio.md`) contains extensive additional information:
+- Birth: Feb 2, 1892, Manhattan, New York
+- Parents: Laurence Higgins (1854-1930) & Mary Knight (1866-1930), Irish immigrants
+- St. Agatha's Home for Children placement (1905, age 13)
+- WWI service (enlisted July 1918, wagoner, discharged June 9, 1919)
+- Death by suicide, July 6, 1938, in jail lodger's cell (free shelter for indigent)
+- Buried with military honors, July 8, 1938
+- Newspaper: "Veteran Pays Debts, Hangs Himself in Cell"
+
+This biographical information needs to be cross-verified with primary sources and integrated here.
 
 ---
 
@@ -39,12 +50,13 @@
 
 **Spouse:** Doris E. Kuthe (1902-1996)
 **Marriage Date:** November 6, 1926
-**Marriage Location:** Tucson, Pima County, Arizona
-**James's Age at Marriage:** Approximately 34 years old
+**Marriage Location:** Maricopa County, Arizona (Phoenix area)
+**James's Age at Marriage:** 33 years old
+**James's Birth Year:** Approximately 1893 (marriage record shows age 33)
 **Doris's Age at Marriage:** Approximately 24 years old
-**Age Difference:** Approximately 10 years (James older)
+**Age Difference:** Approximately 9 years (James older)
 
-**Source:** Arizona County Marriage Records, 1865-1972
+**Source:** Arizona County Marriage Records, 1865-1972; Marriage Affidavits & Licenses, Maricopa County 1926-1927
 
 ---
 
@@ -113,9 +125,9 @@
 
 ## Verified Timeline
 
-- **1892:** Birth
+- **~1893:** Birth (marriage record shows age 33 in Nov 1926)
 - **Mid-1920s:** Working in Arizona (possibly on railroad projects)
-- **November 6, 1926:** Married Doris Kuthe in Tucson, Arizona (age ~34)
+- **November 6, 1926:** Married Doris Kuthe in Maricopa County, Arizona (age 33)
 - **1927:** Work in Sonora, Mexico and California mentioned (unverified)
 - **September 9, 1927:** Son Howard born in Tucson
 - **~1928:** Separated from Doris; Howard placed with Birch family

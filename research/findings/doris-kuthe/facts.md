@@ -43,11 +43,11 @@
 ### First Marriage
 **Spouse:** James Everett Higgins (1892-1938)
 **Marriage Date:** November 6, 1926
-**Marriage Location:** Tucson, Pima County, Arizona
+**Marriage Location:** Maricopa County, Arizona (Phoenix area)
 **Doris's Age:** Approximately 24 years old
-**James's Age:** Approximately 34 years old
+**James's Age:** 33 years old (born abt 1893)
 **James's Occupation:** Railroad civil engineer (Western Pacific Railroad)
-**Source:** Arizona County Marriage Records, 1865-1972
+**Source:** Arizona County Marriage Records, 1865-1972; Marriage Affidavits & Licenses, Maricopa County
 
 ### Motherhood
 **Son:** Howard Robert Higgins
@@ -92,7 +92,7 @@
 - **1902:** Birth
 - **Pre-1920:** Living in Oregon (father George Kuthe's residence)
 - **Mid-1920s:** Moved to Arizona
-- **November 6, 1926:** Married James E. Higgins in Tucson (age ~24)
+- **November 6, 1926:** Married James E. Higgins in Maricopa County/Phoenix area (age ~24)
 - **March 20, 1927:** Photographed at Agua Caliente with Governor Hunt (3 months pregnant)
 - **September 9, 1927:** Son Howard born in Tucson
 - **August 1928:** Mentioned in Arizona Daily Star (context unknown)

@@ -12,9 +12,9 @@
 **Source:** Arizona Birth Certificates, 1880-1935; Ancestry.com
 
 **Biological Parents:**
-- **Father:** James Everett Higgins (1892-1938)
+- **Father:** James Everett Higgins (~1893-1938)
 - **Mother:** Doris Kuthe (1902-1996)
-- **Parents married:** November 6, 1926, Tucson, Pima County, Arizona
+- **Parents married:** November 6, 1926, Maricopa County, Arizona (Phoenix area)
 - **Parents separated:** Circa 1928 (circumstances unknown)
 
 ---
