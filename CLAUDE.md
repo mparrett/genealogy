@@ -38,14 +38,16 @@ The build uses `uvx` to run converters with dependencies (mistune for reports, p
 
 ### Local Server
 
-Run the local server in a **tmux session** so it persists across Claude sessions:
+Run the local server in a **tmux session** so it persists across Claude sessions.
+
+**IMPORTANT:** Check if server is already running before starting:
 
 ```bash
-# Start server in tmux (recommended)
-tmux new-session -d -s genealogy-server 'just serve'
+# Check first!
+tmux list-sessions | grep genealogy || curl -s localhost:8000 > /dev/null && echo "Already running"
 
-# Check if running
-tmux list-sessions | grep genealogy
+# Start only if not running
+tmux new-session -d -s genealogy-server 'just serve'
 
 # Attach to see output
 tmux attach -t genealogy-server
