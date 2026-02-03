@@ -10,7 +10,7 @@ When Lewis died around 1850, Elizabeth was left a widow with several children st
 
 In 1859, Pleasant finally made the journey west. The *Biographical Souvenir of the State of Texas* records that he "reached Texas the year of his mother's death," a detail that suggests they traveled together, Elizabeth joining her children in Lamar County only to die soon after arriving. Whether Pleasant escorted his aging mother on that final journey, or whether her death prompted his own departure, remains unclear. What we know is that 1859 marked both an ending and a beginning—the death of the family matriarch and Pleasant's arrival in Texas.
 
-<img src="../../../images/bio/pleasant-mowrey-01-texas-journey.png" alt="The 1859 journey from Tennessee to Texas" style="width: 100%; height: 400px; object-fit: cover; object-position: center -260px; margin-bottom: 1.25rem;">
+<img src="../../../images/bio/pleasant-mowrey-01-texas-journey.jpg" alt="The 1859 journey from Tennessee to Texas" style="width: 100%; height: 400px; object-fit: cover; object-position: center -260px; margin-bottom: 1.25rem;">
 
 Pleasant established himself in Texas, his presence documented well enough to earn a biographical entry in the 1889 *Biographical Souvenir of the State of Texas* alongside his brother Lewis Daily Mowrey. The spelling of his surname as "Mowrey" (rather than the "Mowery" his brother Moses used) reflects the fluid nature of family names on the frontier, where spelling often depended on who was holding the pen.
 

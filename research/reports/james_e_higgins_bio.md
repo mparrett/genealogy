@@ -6,13 +6,13 @@
 
 James Everett Higgins was born on February 2, 1892, in Manhattan, New York, the fourth of five children born to **Laurence Higgins** (1854–1930) and **Mary Knight** (1866–1930). His parents were Irish immigrants who lived in the Newark and Jersey City area, where Laurence worked as a porter. James's early years were shaped by the tight-knit but struggling Irish-American community of urban New Jersey.
 
-<img src="../../../images/bio/james-e-higgins-01-orphanage.png" alt="St. Agatha's Home for Children in Nanuet, New York" class="float-right">
+<img src="../../../images/bio/james-e-higgins-01-orphanage.jpg" alt="St. Agatha's Home for Children in Nanuet, New York" class="float-right">
 
 By 1905, when James was thirteen, he and his younger sister Theresa were living at St. Agatha's Home for Children in Nanuet, New York—a Catholic orphanage in Rockland County. The circumstances that led to this placement remain unclear; both parents were still alive, suggesting the family faced a crisis severe enough that they could not care for their children. Whatever hardship drove him there, James would emerge from these difficult years with a determination to make his own way.
 
 By 1910, at just eighteen, James had made his way across the country and was boarding in San Francisco. Over the following decade, he built a career as a civil engineer with the Western Pacific Railroad, working the line through Feather River Canyon—the last major railroad route carved through the Sierra Nevada, an engineering marvel of tunnels and trestles hugging granite cliffs above the river. A 1921 newspaper noted that "James E. Higgins is an earnest, hard-working young civil engineer, whose friends believe he will go far."
 
-<img src="../../../images/bio/james-e-higgins-02-railroad.png" alt="Western Pacific Railroad engineering crew in California" class="float-left-sm">
+<img src="../../../images/bio/james-e-higgins-02-railroad.jpg" alt="Western Pacific Railroad engineering crew in California" class="float-left-sm">
 
 When the United States entered World War I, James enlisted in July 1918, listing his residence as the Langhan Hotel in Spokane, Washington. He served as a wagoner—driving supply wagons and handling horses—and remained stateside until his discharge on June 9, 1919.
 
@@ -24,7 +24,7 @@ Their son **Howard Robert Higgins** was born on September 15, 1927, in Tucson. B
 
 James returned to California, continuing his railroad work and trying to make ends meet through the lean years of the Depression. By 1932, legal judgments had been filed against him—signs of the financial troubles that plagued many during that era. He lived at various San Francisco addresses, including 516 O'Farrell Street. In his final years, James found work with the WPA on one of the era's most ambitious engineering projects: the construction of Treasure Island in San Francisco Bay, a man-made island built for the 1939 Golden Gate International Exposition.
 
-<img src="../../../images/bio/james-e-higgins-03-treasure-island.png" alt="Treasure Island construction in San Francisco Bay, 1930s" class="float-right">
+<img src="../../../images/bio/james-e-higgins-03-treasure-island.jpg" alt="Treasure Island construction in San Francisco Bay, 1930s" class="float-right">
 
 On July 6, 1938, James Everett Higgins died in San Francisco at age forty-six. He was found in a "lodger's cell" at the city jail—not incarcerated, but using the free overnight shelter the jail provided for men who had nowhere else to go. Newspapers reported he had recently paid off his debts before taking his own life. As a veteran, he was buried two days later with military honors.
 

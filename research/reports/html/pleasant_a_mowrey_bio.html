@@ -76,6 +76,95 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
 
+        /* Feature accordion (expandable sections) */
+        details.feature-accordion {
+            margin: 2rem 0;
+            padding: 0;
+            border: 1px solid rgba(139, 69, 19, 0.2);
+            border-radius: 8px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.6) 0%, rgba(248,244,240,0.8) 100%);
+            overflow: hidden;
+        }
+
+        details.feature-accordion summary {
+            padding: 1rem 1.5rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 1.05rem;
+            font-weight: 500;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.625rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        details.feature-accordion[open] summary {
+            border-bottom: 1px solid rgba(139, 69, 19, 0.15);
+            border-radius: 8px 8px 0 0;
+            margin-bottom: 0.5rem;
+        }
+
+        details.feature-accordion summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.feature-accordion summary::before {
+            content: '▸';
+            font-size: 0.875rem;
+            color: rgba(139, 69, 19, 0.6);
+            transition: transform 0.2s ease, color 0.2s ease;
+        }
+
+        details.feature-accordion[open] summary::before {
+            transform: rotate(90deg);
+            color: var(--primary);
+        }
+
+        details.feature-accordion summary:hover {
+            background: rgba(139, 69, 19, 0.08);
+        }
+
+        details.feature-accordion > *:not(summary) {
+            padding: 0 1.5rem;
+        }
+
+        details.feature-accordion > p:first-of-type {
+            padding-top: 0.5rem;
+        }
+
+        details.feature-accordion > p:last-child {
+            padding-bottom: 1.5rem;
+            margin-bottom: 0;
+        }
+
+        /* Ensure content clears floated images */
+        details.feature-accordion[open]::after {
+            content: '';
+            display: block;
+            clear: both;
+            padding-bottom: 0.5rem;
+        }
+
+        details.feature-accordion em:last-child {
+            display: block;
+            margin-top: 1rem;
+            padding-bottom: 0.25rem;
+            font-size: 0.9rem;
+            font-style: italic;
+            color: rgba(122, 58, 15, 0.7);
+            clear: both;
+        }
+
+        /* Small images within accordions */
+        details.feature-accordion img {
+            width: 25%;
+            float: right;
+            margin: 0.25rem 0 1rem 1.25rem;
+        }
+
         /* Clear floats after sections */
         h2, h3, hr {
             clear: both;
@@ -577,7 +666,7 @@
 <p><strong>Relationship:</strong> 3rd great-granduncle (Mowery line)</p>
 <p><em>The Youngest Who Traveled with His Mother</em></p>
 <aside class="location-aside-horizontal">
-  <img src="../../../images/locations/knox-county-tn-1820.png" alt="Knox County, Tennessee">
+  <img src="../../../images/locations/knox-county-tn-1820.jpg" alt="Knox County, Tennessee">
   <div class="location-aside-content">
     <div class="location-aside-title">Knox County</div>
     <div class="location-aside-date">Tennessee, c. 1835</div>
@@ -588,7 +677,7 @@
 <p>Pleasant A. Mowrey was born in Tennessee in the 1830s or early 1840s, one of the younger children of <strong>Lewis R. Mowery</strong> (c. 1801–1850) and <strong>Elizabeth &quot;Betsy&quot; Lisbee</strong> (c. 1806–1859). He grew up in the Appalachian foothills alongside his older siblings, including <strong>Moses Mansfield Mowery</strong>, in Knox and Bradley Counties during the years before the family scattered westward.</p>
 <p>When Lewis died around 1850, Elizabeth was left a widow with several children still at home. Her older sons had already begun looking toward Texas—Moses settled in Red River County in 1853—but Pleasant remained with his mother in Tennessee through the decade.</p>
 <p>In 1859, Pleasant finally made the journey west. The <em>Biographical Souvenir of the State of Texas</em> records that he &quot;reached Texas the year of his mother's death,&quot; a detail that suggests they traveled together, Elizabeth joining her children in Lamar County only to die soon after arriving. Whether Pleasant escorted his aging mother on that final journey, or whether her death prompted his own departure, remains unclear. What we know is that 1859 marked both an ending and a beginning—the death of the family matriarch and Pleasant's arrival in Texas.</p>
-<img src="../../../images/bio/pleasant-mowrey-01-texas-journey.png" alt="The 1859 journey from Tennessee to Texas" style="width: 100%; height: 400px; object-fit: cover; object-position: center -260px; margin-bottom: 1.25rem;">
+<img src="../../../images/bio/pleasant-mowrey-01-texas-journey.jpg" alt="The 1859 journey from Tennessee to Texas" style="width: 100%; height: 400px; object-fit: cover; object-position: center -260px; margin-bottom: 1.25rem;">
 
 <p>Pleasant established himself in Texas, his presence documented well enough to earn a biographical entry in the 1889 <em>Biographical Souvenir of the State of Texas</em> alongside his brother Lewis Daily Mowrey. The spelling of his surname as &quot;Mowrey&quot; (rather than the &quot;Mowery&quot; his brother Moses used) reflects the fluid nature of family names on the frontier, where spelling often depended on who was holding the pen.</p>
 <p>Much of Pleasant's Texas life remains to be uncovered—his marriage, children, occupation, and death are not yet documented in our research. But his story represents the broader pattern of the Mowery family: Tennessee roots, westward migration, and new beginnings on the Texas frontier.</p>

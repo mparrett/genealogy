@@ -76,6 +76,95 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
 
+        /* Feature accordion (expandable sections) */
+        details.feature-accordion {
+            margin: 2rem 0;
+            padding: 0;
+            border: 1px solid rgba(139, 69, 19, 0.2);
+            border-radius: 8px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.6) 0%, rgba(248,244,240,0.8) 100%);
+            overflow: hidden;
+        }
+
+        details.feature-accordion summary {
+            padding: 1rem 1.5rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 1.05rem;
+            font-weight: 500;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.625rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        details.feature-accordion[open] summary {
+            border-bottom: 1px solid rgba(139, 69, 19, 0.15);
+            border-radius: 8px 8px 0 0;
+            margin-bottom: 0.5rem;
+        }
+
+        details.feature-accordion summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.feature-accordion summary::before {
+            content: '▸';
+            font-size: 0.875rem;
+            color: rgba(139, 69, 19, 0.6);
+            transition: transform 0.2s ease, color 0.2s ease;
+        }
+
+        details.feature-accordion[open] summary::before {
+            transform: rotate(90deg);
+            color: var(--primary);
+        }
+
+        details.feature-accordion summary:hover {
+            background: rgba(139, 69, 19, 0.08);
+        }
+
+        details.feature-accordion > *:not(summary) {
+            padding: 0 1.5rem;
+        }
+
+        details.feature-accordion > p:first-of-type {
+            padding-top: 0.5rem;
+        }
+
+        details.feature-accordion > p:last-child {
+            padding-bottom: 1.5rem;
+            margin-bottom: 0;
+        }
+
+        /* Ensure content clears floated images */
+        details.feature-accordion[open]::after {
+            content: '';
+            display: block;
+            clear: both;
+            padding-bottom: 0.5rem;
+        }
+
+        details.feature-accordion em:last-child {
+            display: block;
+            margin-top: 1rem;
+            padding-bottom: 0.25rem;
+            font-size: 0.9rem;
+            font-style: italic;
+            color: rgba(122, 58, 15, 0.7);
+            clear: both;
+        }
+
+        /* Small images within accordions */
+        details.feature-accordion img {
+            width: 25%;
+            float: right;
+            margin: 0.25rem 0 1rem 1.25rem;
+        }
+
         /* Clear floats after sections */
         h2, h3, hr {
             clear: both;
@@ -579,11 +668,11 @@
 <p>Raymond Robert Mowrey was born on December 20, 1899, in Paris, Texas, the third child of <strong>Samuel S. Mowrey</strong> (1867–1904) and <strong>Effie May Coker</strong> (1878–1958). He had an older brother Frank Preston and an older half-sister Cecilia Mae, with a younger sister Ruby arriving in 1902.</p>
 <p>Raymond's childhood was marked by tragedy. On August 29, 1904, when he was just four years old, his father Samuel died—on the same day as his grandfather Moses Mansfield Mowery. The cause of this double death remains a family mystery. His mother Effie, widowed at twenty-six with four young children, eventually remarried a Mr. Dawson.</p>
 <p>Despite the early loss, Raymond grew into a man of ambition and community spirit. He registered for the draft during World War I while still living in Lamar County, Texas. In May 1921, at twenty-one, he married <strong>May Smith</strong> in Lamar County—though this marriage did not last.</p>
-<img src="../../../images/bio/raymond-mowrey-01-williams-az.png" alt="Williams, Arizona in the 1930s - Route 66 town" class="float-right">
+<img src="../../../images/bio/raymond-mowrey-01-williams-az.jpg" alt="Williams, Arizona in the 1930s - Route 66 town" class="float-right">
 
 <p>By 1930, Raymond had made his way to <strong>Williams, Arizona</strong>, a railroad town along Route 66 in the pine forests below the San Francisco Peaks. There he married <strong>Anne Barbara Gleeson</strong> (1903–1986), connecting the Mowrey line with the Gleeson family—descendants of Irish immigrants who had settled in Wisconsin before moving west. Their daughter <strong>Patricia Anne Mowrey</strong> was born in Williams on February 5, 1929.</p>
 <p>Raymond became a prominent figure in Williams. In 1937, he was elected president of the Williams Rotary Club—the local newspaper announced &quot;Governor Mowrey Is New Rotary Pilot.&quot; He served as commander of the American Legion post. In January 1938, he leased the <strong>Sultana Bar and Buffet</strong>, a landmark establishment on Route 66 that he would operate for years, refurbishing its interior in 1941.</p>
-<img src="../../../images/bio/raymond-mowrey-02-sultana-bar.png" alt="Sultana Bar and Buffet interior, Williams, AZ" class="float-left-sm">
+<img src="../../../images/bio/raymond-mowrey-02-sultana-bar.jpg" alt="Sultana Bar and Buffet interior, Williams, AZ" class="float-left-sm">
 
 <p>The newspaper clippings paint a picture of a man deeply woven into small-town Arizona life: attending Rotarian Christmas programs, traveling to Phoenix on business, hosting visitors from out of town. In 1946, he announced his candidacy for local office—though the outcome is not recorded in available sources.</p>
 <p>Raymond and Anne Barbara raised Patricia in Williams through the Depression and war years. By the late 1940s, the family had connections to Phoenix, where Raymond would eventually settle. His mother Effie died there in January 1958.</p>
