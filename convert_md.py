@@ -382,8 +382,8 @@ def convert_file(md_file_path, html_file_path, production: bool = False):
             margin: 0.25rem 0 1rem 1.25rem;
         }}
 
-        /* Clear floats after sections */
-        h2, h3, hr {{
+        /* Clear floats after major sections (h2), but allow h3 to flow around location asides */
+        h2, hr {{
             clear: both;
         }}
         
