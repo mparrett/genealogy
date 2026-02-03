@@ -22,7 +22,10 @@
 - Charles Austin Kuthe (1897-1967)
 - Frances Anita Kuthe (1898-1926) - died Feb 2, 1926 in Phoenix
 - Wallace (William Wallace) Kuthe (1901-1928) - died Nov 13, 1928 in Los Angeles
-- Jessie Velma Kuthe (1905-1993)
+- **Jessie Velma Kuthe (1905-1993)** - married Willis A. Rosser Sr. in 1922
+  - 1920: Working as stenographer in Silver City, New Mexico (age 15)
+  - Son: Willis A. Rosser Jr. (born 1923)
+  - **CRITICAL: Jessie participated in Howard's care network** (anecdotal evidence)
 - George Leslie Kuthe (1906-1962)
 
 **Half-siblings (father's remarriage):**
@@ -222,6 +225,44 @@
 - Visited Howard regularly (documented 1929, 1933, likely more)
 - The relationship was acknowledged ("her small son")
 - She maintained connection while building new life
+
+### Family Care Network: Sister Jessie's Role
+
+**CRITICAL DISCOVERY:** Howard's care involved **biological family**, not just the Birches.
+
+**Sister Jessie Velma Kuthe Rosser:**
+- Doris's younger sister (born 1905, 3 years younger than Doris)
+- 1920: Established in Silver City, New Mexico (working as stenographer, age 15)
+- 1922: Married Willis A. Rosser Sr.
+- 1923: Son Willis A. Rosser Jr. born (Howard's cousin, 4 years older than Howard)
+
+**Anecdotal Evidence:**
+- Howard and cousin Willis A. Rosser Jr. were together in New Mexico at some point
+- Dates unknown (~1930s?)
+- Suggests Jessie participated in Howard's care alongside the Birches
+
+**Care Network Pattern:**
+This reveals a **flexible family/community care network**:
+1. **Primary:** Robert & Sarah Birch at Agua Caliente (1928-1935+)
+2. **Secondary:** Sister Jessie Kuthe Rosser & nephew Willis in New Mexico (period unknown)
+3. **Tertiary:** Woodard family in Phoenix (1940 census, Howard age 12)
+4. **Throughout:** Doris visiting and maintaining contact
+
+**Significance:**
+- Doris didn't "give up" Howard to strangers
+- She arranged care within her trusted friend network (Birches) AND biological family (sister Jessie)
+- Howard had connection to both Birch family and Kuthe biological family
+- Nephew Willis (4 years older) may have been like brother figure to Howard
+- This was community-based care, not institutional placement
+
+**Open Questions:**
+- When exactly were Howard and Willis in New Mexico?
+- How long did Howard stay with Jessie?
+- Did Howard know Jessie was his biological aunt?
+- Did Willis know Howard was his cousin?
+- Was the Woodard placement connected to the Rosser/Kuthe network?
+
+**Sources:** Anecdotal family evidence; 1920 U.S. Census (Jessie in Silver City, NM)
 
 ---
 
