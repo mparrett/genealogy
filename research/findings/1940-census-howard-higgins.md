@@ -241,15 +241,18 @@ The "lodger" designation is particularly interesting - it suggests a **formal bo
 **CRITICAL:** James E. Higgins (Howard's biological father) died **July 6, 1938** in **San Francisco, California**
 - Howard was **10 years old** at the time
 - Howard was living at Agua Caliente with the Birches (confirmed by 1940 census "previous residence")
-- This was **10 years after James abandoned Doris and infant Howard** (~1928)
-- James lived in California after leaving Arizona
+- This was **10 years after James and Doris separated** (~1928)
+- James had moved to California after the marriage ended
 
 **Questions:**
+- What were the circumstances of the separation? (Divorce? Desertion? Mutual decision?)
+- Did James know Howard was with the Birches?
 - Did Howard know about his father's death?
 - Did the Birches inform him?
 - Did Doris know?
 - What were the circumstances of James's death?
 - Was there any inheritance or contact with Howard?
+- Had James remarried or had other children?
 
 ### Howard's Military Service - January 18, 1945
 **Enlisted:** January 18, 1945 (age 17, still in high school)
