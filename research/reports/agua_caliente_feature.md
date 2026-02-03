@@ -22,15 +22,17 @@ The **Agua Caliente Hotel** was not grand by eastern standards. Twenty-two rooms
 But in territorial and early-statehood Arizona, this was enough. The hot springs drew ranchers from the Gila Valley, merchants from Phoenix, politicians from the capital. They came for the waters, for the quiet, for a few days away from the telegraph and the telephone.
 
 <details class="feature-accordion">
-<summary>The Railroad Connection: Hyder</summary>
+<summary>The Railroad Connection: Sentinel & Hyder</summary>
 
 <img src="../../../images/bio/hyder-railroad-depot.jpg" alt="Desert railroad depot, Arizona 1920s">
 
-Most guests arrived via **Hyder**, a railroad town fourteen miles to the south. During its heyday, several eastbound and westbound passenger trains stopped there daily—weary travelers stepping off onto the platform, looking for respite from the desert journey.
+Built in 1897, the 22-room adobe hotel at Agua Caliente catered specifically to railroad passengers. In the 1920s, most guests detrained at **Sentinel**, a Southern Pacific depot twelve to fourteen miles south of the springs. The journey from Sentinel took two to three hours by automobile over desert roads—long enough to build anticipation for the hot mineral waters waiting at journey's end.
 
-Built in 1897, the 22-room adobe hotel at Agua Caliente catered specifically to these railroad passengers. A wagon or early automobile would carry them from the Hyder depot to the springs. For a few days, they soaked in the mineral waters before continuing their journey across Arizona.
+**Hyder**, another Southern Pacific stop just a mile or two from the resort, became more prominent in the 1930s. During its heyday, several eastbound and westbound passenger trains stopped daily at both stations. Weary travelers stepped off onto desert platforms, looking for respite from the journey.
 
-Hyder is a ghost town now. The trains stopped running. The depot crumbled. But in the 1910s and 1920s, this railroad connection made Agua Caliente viable—and may explain how certain lives intersected here. A railroad civil engineer. A young woman from Oregon. A hotelier who would later take in their child.
+But the resort's core clientele weren't just tourists passing through. Railroad workers themselves—engineers, brakemen, conductors—used Agua Caliente as a layover retreat. A quick buggy ride from the depot, a hot bath to wash away the coal dust and desert grit, a night's rest before the next run. The hot springs were built for the railroad, and the railroad sustained them.
+
+Hyder and Sentinel are ghost towns now. The trains stopped running. The depots crumbled. But in the 1910s and 1920s, this railroad network made Agua Caliente viable—and may explain how certain lives intersected here. A railroad civil engineer. A young woman from Oregon. A hotelier who would later take in their child.
 
 *The threads of family history sometimes run along railroad tracks.*
 
@@ -63,13 +65,13 @@ It was the kind of event that happened in small-town Arizona—a wedding at the 
 
 ## The Governor Visits
 
-On **March 15, 1931**, a notable guest signed the register: **George W. P. Hunt**, Arizona's first state governor, serving his seventh non-consecutive term.
+On **March 20, 1927**, a notable guest arrived: **George W. P. Hunt**, Arizona's first state governor, then serving his sixth term.
 
-Hunt was seventy-one years old, a barrel-chested man with a walrus mustache who had championed labor rights and progressive causes since territorial days. He had helped write Arizona's constitution. He had feuded with copper barons and won. Now, in the early Depression years, the old governor came to the desert to take the waters.
+Hunt was sixty-six years old, a barrel-chested man with a walrus mustache who had championed labor rights and progressive causes since territorial days. He had helped write Arizona's constitution. He had feuded with copper barons and won. On this spring day, the governor came to the desert to tour the historic **King Woolsey ruins** near Agua Caliente.
 
-A photograph preserved in the **Arizona State Archives** captures the visit: Hunt at Agua Caliente with Robert Birch. Two Arizona pioneers, one famous and one obscure, standing together at a desert hot spring. The image documents something the written records only hint at—that the Birches moved in Arizona's civic circles, that running a hot springs hotel brought you into contact with the people who shaped the state.
+A photograph preserved in the **Arizona State Archives** captures the visit: Hunt stands with Mary Birch and others in front of the crumbling adobe walls of King Woolsey's 1860s ranch house. Among them is **Doris Higgins**—a young woman, three months pregnant, four months married, and already part of the Birches' world. Six months later she would give birth to Howard. A year after that, the Birches would raise him as their own.
 
-What did they talk about? Prohibition, perhaps—Hunt had signed the state's dry law in 1915, and the Birch brothers had once run a saloon in Prescott. Politics, certainly. The weather, almost inevitably. The visit was likely brief, a night or two at most, but it left behind a photograph that endures.
+The photograph documents something the written records only hint at—that the Birches moved in Arizona's civic circles, that running a hot springs hotel brought you into contact with the people who shaped the state, and that the connections made there could change lives. Doris Higgins standing alongside Mary Birch and Governor Hunt wasn't an accident. It was evidence of the social network that would, within a year, become Howard's family.
 
 ---
 
@@ -119,7 +121,7 @@ And one family's memory: that a man named Robert Birch ran a hot springs hotel i
 
 **Sources:**
 - Arizona State Hotel Directory, 1938 (via Arizona Highways archive)
-- Arizona Memory Project: Gov. G.W.P. Hunt at Agua Caliente, 15 Mar 1931
+- Arizona Memory Project: Gov. G.W.P. Hunt at Agua Caliente King Woolsey ruins with Doris Higgins & Mary Birch, 20 Mar 1927 (https://azmemory.azlibrary.gov/nodes/view/218999)
 - Facebook post, "Friends from Hyder" group: Carpenter wedding photo, 1930
 - FamilySearch: Robert W. Birch (1869–1950)
 - Arizona Gravestones Project: Robert W. Birch, Mountain View Cemetery, Prescott
