@@ -29,10 +29,8 @@ Use this for location/place images. Distinct from bio illustrations (watercolor 
 **Reference**: https://mirka-h.blogspot.com/2015/02/imprinting-american-west-engravings.html
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Hand-watercolored engraving depicting [PLACE], [REGION/COUNTRY] circa [YEAR]" \
   --size 1024x1024 \
   --out images/locations/[filename].png \
@@ -390,10 +388,8 @@ These are watercolor-style illustrations embedded within biography reports. They
 *File: `images/bio/laurence-higgins-01-dublin-emigration.jpg`*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage watercolor illustration of Irish emigration from Dublin in the 1880s for genealogy report" \
   --size 1024x1024 \
   --out images/bio/laurence-higgins-01-dublin-emigration.png \
@@ -411,10 +407,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *File: `images/bio/laurence-higgins-02-newark-porter.jpg`*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage watercolor illustration of Irish immigrant porter working in Newark NJ in the 1890s-1900s for genealogy report" \
   --size 1024x1024 \
   --out images/bio/laurence-higgins-02-newark-porter.png \
@@ -432,10 +426,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *File: `images/bio/james-e-higgins-01-orphanage.jpg`*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage watercolor illustration of a Catholic children's home in early 1900s New York for genealogy report" \
   --size 1024x1024 \
   --out images/bio/james-e-higgins-01-orphanage.png \
@@ -453,10 +445,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *File: `images/bio/james-e-higgins-02-railroad.png`*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage watercolor illustration of Western Pacific Railroad engineering crew in California mountains 1910s-1920s for genealogy report" \
   --size 1024x1024 \
   --out images/bio/james-e-higgins-02-railroad.png \
@@ -474,10 +464,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *File: `images/bio/james-e-higgins-03-treasure-island.png`*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage watercolor illustration of Treasure Island construction in San Francisco Bay, 1930s WPA engineering project, for genealogy report" \
   --size 1024x1024 \
   --out images/bio/james-e-higgins-03-treasure-island.png \
@@ -495,10 +483,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *File: `images/bio/peter-mowrey-01-guilford.png`*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage watercolor illustration of Virginia militia at the Battle of Guilford Court House, 1781, for genealogy report" \
   --size 1024x1024 \
   --out images/bio/peter-mowrey-01-guilford.png \
@@ -516,10 +502,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *File: `images/bio/peter-mowrey-02-shenandoah.png`*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage watercolor illustration of Pennsylvania German farmstead in Shenandoah Valley Virginia, late 1700s, for genealogy report" \
   --size 1024x1024 \
   --out images/bio/peter-mowrey-02-shenandoah.png \
@@ -537,10 +521,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *File: `images/bio/peter-mowrey-03-knox-county.png`*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage watercolor illustration of early 19th century homestead in Knox County Tennessee, for genealogy report" \
   --size 1024x1024 \
   --out images/bio/peter-mowrey-03-knox-county.png \
@@ -558,10 +540,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *File: `images/bio/howard-higgins-01-agua-caliente.jpg`*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage watercolor illustration of a young boy at a remote Arizona desert hot springs resort in the early 1930s, for genealogy report" \
   --size 1024x1024 \
   --out images/bio/howard-higgins-01-agua-caliente.png \
@@ -579,10 +559,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *File: `images/bio/howard-higgins-02-military.jpg`*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage watercolor illustration of a young WWII-era serviceman at an Air Force base or train station in the mid-1940s, for genealogy report" \
   --size 1024x1024 \
   --out images/bio/howard-higgins-02-military.png \

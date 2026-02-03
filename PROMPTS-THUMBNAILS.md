@@ -17,10 +17,8 @@ Use the codex `image_gen.py` script for thumbnail generation.
 ### Base Template
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage sepia-toned pencil sketch of [TOPIC] for genealogy thumbnail" \
   --size 1024x1024 \
   --out images/thumbs/[filename].jpg \
@@ -40,10 +38,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *File: `images/thumbs/german-immigrant.jpg`*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage sepia-toned pencil sketch of German colonial Pennsylvania settlement 1750s for genealogy thumbnail" \
   --size 1024x1024 \
   --out images/thumbs/german-immigrant.jpg \
@@ -63,10 +59,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *File: `images/thumbs/revolutionary-war.jpg`*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage sepia-toned pencil sketch of Revolutionary War Virginia Shenandoah Valley 1780s for genealogy thumbnail" \
   --size 1024x1024 \
   --out images/thumbs/revolutionary-war.jpg \
@@ -87,10 +81,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *For: Lewis R. Mowery, Elizabeth "Betsy" Lisbee Mowery*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage sepia-toned pencil sketch of Tennessee pioneer homestead 1820s for genealogy thumbnail" \
   --size 1024x1024 \
   --out images/thumbs/tennessee-pioneer.jpg \
@@ -111,10 +103,8 @@ uv run --with openai --with pillow python "$IMAGE_GEN" generate \
 *For: Moses Mansfield Mowery, Samuel S. Mowrey*
 
 ```bash
-export CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-export IMAGE_GEN="$CODEX_HOME/skills/imagegen/scripts/image_gen.py"
 
-uv run --with openai --with pillow python "$IMAGE_GEN" generate \
+./scripts/imagegen.sh generate \
   --prompt "Vintage sepia-toned pencil sketch of Texas frontier farming 1830s for genealogy thumbnail" \
   --size 1024x1024 \
   --out images/thumbs/texas-farming-1820-1830.jpg \
