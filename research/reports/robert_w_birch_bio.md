@@ -16,7 +16,7 @@ Robert and Sarah had at least one child, a daughter **Mary Birch**, born in the 
 
 Robert's most significant venture was the **Agua Caliente Hot Springs resort**, a 22-room hotel built around natural hot springs in the Gila River desert of Maricopa County, about fourteen miles from Sentinel. The therapeutic mineral baths drew visitors from across Arizona and beyond. The 1938 Arizona State Hotel Directory listed "Agua Caliente Hotel (Hot Springs) – Robert Birch" among the state's destinations.
 
-The resort attracted notable guests. On March 15, 1931, **Governor George W. P. Hunt**—Arizona's first governor—visited Agua Caliente. A photograph preserved in the Arizona State Archives shows Hunt at the resort with Robert Birch, documenting the connection between the pioneer hotelier and Arizona's political establishment.
+The resort attracted notable guests. On March 20, 1927, **Governor George W. P. Hunt**—Arizona's first governor—visited Agua Caliente to tour the ruins of the historic King Woolsey home. A photograph preserved in the Arizona State Archives shows Hunt with Mary Birch, **Doris Higgins** (then three months pregnant with Howard), and others at the ruins, documenting the Birches' connection to Arizona's political establishment and the social circles that would intersect in Howard's story.
 
 Around 1928, Robert and Sarah's lives took an unexpected turn. **Doris Kuthe**, a young woman from Oregon, had married a Mr. Higgins in Tucson in late 1926 and given birth to a son, **Howard Robert Higgins**, on September 15, 1927. By 1928, circumstances unknown led Doris to give up her infant son. The Birches—then in their late fifties with their daughter grown—took in the toddler and raised him as their own.
 
@@ -40,7 +40,7 @@ From his Canadian birth through the Arizona frontier to the desert hot springs, 
 - Daughter: Mary Birch (later Mary Carpenter), married Harold Carpenter at Agua Caliente, 6 Apr 1930.
 - Brother: William T. "Slim" Birch (1875–1952), business partner, later resident of Arizona Pioneers' Home.
 - Business: Merchant in Prescott by 1902; proprietor of Agua Caliente Hot Springs Hotel (Maricopa County) 1910s–1940s.
-- Gov. Hunt photo: Arizona Memory Project, 15 Mar 1931 at Agua Caliente.
+- Gov. Hunt photo: Arizona Memory Project, 20 Mar 1927 at Agua Caliente (King Woolsey ruins) - includes Doris Higgins (pregnant with Howard), Mary Birch, A.L. Mortenson, L.W. Martin. https://azmemory.azlibrary.gov/nodes/view/218999
 - Foster son: Howard Robert Higgins (1927–2019), taken in ~1928, raised as Howard R. Birch.
 - Howard's mother: Doris Kuthe (1902–1996), later Doris Bynon; married Mr. Higgins 6 Nov 1926, Tucson.
 - Death: 6 Aug 1950, Phoenix, AZ. Cause: heart disease. Occupation: retired merchant.
