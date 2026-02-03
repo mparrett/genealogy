@@ -10,6 +10,8 @@ The baby was originally named **James Everett Higgins** after his father—a nam
 
 ## A Desert Childhood
 
+<img src="../../../images/bio/howard-higgins-01-agua-caliente.jpg" alt="Young boy at Agua Caliente Hot Springs, 1930s" class="float-right-sm">
+
 By late 1928, when Howard was barely a year old, his mother made a decision that would shape the rest of his life. She placed him with **Robert and Sarah Birch**, a couple in their late fifties who operated the **Agua Caliente Hot Springs** resort in the remote Gila River desert of Maricopa County. Doris had been part of the Birch household since at least August 1926—voter registration records show her living at Agua Caliente three months before her marriage to James. The Birches were not strangers; they were trusted friends.
 
 Robert Birch was a Canadian-born pioneer who had operated saloons in Prescott before Arizona's prohibition drove him to the hospitality business. His wife Sarah was an English immigrant. Together they ran a 22-room adobe hotel that catered to railroad workers, health seekers, and travelers along the Southern Pacific's Sunset Route. It was here, among the mineral springs and desert sunsets, that Howard spent his early childhood.
@@ -31,6 +33,8 @@ Why Howard left the Birches' resort for the Woodard household remains a mystery.
 Howard attended **North High School** in Phoenix. The 1944 yearbook shows him as "Howard R Higgins"—still carrying his birth name at age sixteen or seventeen.
 
 ## Military Service and a New Name
+
+<img src="../../../images/bio/howard-higgins-02-military.jpg" alt="Young serviceman at Air Force base, 1940s" class="float-left-sm">
 
 On January 18, 1945, at age seventeen, Howard enlisted in the military. Both Navy and Army records exist, and the exact branch and duration of his service remain subjects for further research. What is clear is that when he emerged from military service, something fundamental had changed.
 
