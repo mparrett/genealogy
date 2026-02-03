@@ -7,9 +7,9 @@
 ## Birth & Early Life
 
 **Full Name:** James Everett Higgins
-**Birth Year:** ~1893 (marriage record shows age 33 in Nov 1926; some records say 1892)
-**Birth Place:** Unknown (James's bio says Manhattan, New York, Feb 2, 1892 - needs verification)
-**Age at Death:** Approximately 45-46 years (died 1938)
+**Birth Date:** February 2, 1892 (CONFIRMED)
+**Birth Place:** Manhattan, New York (confirmed by Howard's birth certificate: "New York, N.Y.")
+**Age at Death:** 46 years (died July 6, 1938)
 
 **Parents:** Unknown
 **Siblings:** Unknown
@@ -62,19 +62,25 @@ This biographical information needs to be cross-verified with primary sources an
 
 ## Fatherhood
 
-**Son:** Howard Robert Higgins (born September 9, 1927)
+**Son:** Howard Robert Higgins (born September 15, 1927)
 **Birth Location:** Tucson, Pima County, Arizona
-**James's Age at Son's Birth:** Approximately 35 years old
+**James's Age at Son's Birth:** 35 years old (birth cert lists 34, slight discrepancy)
+**James's Residence at Son's Birth:** **San Francisco, California**
+**Doris's Residence at Son's Birth:** Tucson, Arizona
 
-**Source:** Arizona Birth Certificates, 1880-1935
+**Source:** Arizona Birth Certificate #882-915-4725
+
+**CRITICAL DISCOVERY:** James was already living in San Francisco when Howard was born in Tucson. This means the couple was geographically separated before the birth, less than 10 months after their November 1926 marriage.
 
 ---
 
 ## Marriage End & Separation
 
-**Timeframe:** Circa 1928
-**Son's Age at Separation:** Approximately 1 year old
-**Circumstances:** Unknown
+**Geographic Separation:** By September 1927 (James in San Francisco, Doris in Tucson)
+**Marriage Duration:** Less than 10 months before separation
+**Son's Age at Geographic Separation:** Not yet born (Doris pregnant)
+**Formal End:** Circa 1928 (divorce or legal separation)
+**Circumstances:** Unknown (work assignment? Marriage breakdown? Economic necessity?)
 
 **Possibilities:**
 - Divorce (no records found yet)
@@ -125,12 +131,12 @@ This biographical information needs to be cross-verified with primary sources an
 
 ## Verified Timeline
 
-- **~1893:** Birth (marriage record shows age 33 in Nov 1926)
+- **February 2, 1892:** Birth in Manhattan, New York
 - **Mid-1920s:** Working in Arizona (possibly on railroad projects)
-- **November 6, 1926:** Married Doris Kuthe in Maricopa County, Arizona (age 33)
-- **1927:** Work in Sonora, Mexico and California mentioned (unverified)
-- **September 9, 1927:** Son Howard born in Tucson
-- **~1928:** Separated from Doris; Howard placed with Birch family
+- **November 6, 1926:** Married Doris Kuthe in Maricopa County, Arizona (age 34, almost 35)
+- **By September 1927:** Moved to San Francisco, California (separated from pregnant wife)
+- **September 15, 1927:** Son Howard born in Tucson (James listed as resident of San Francisco)
+- **~1928:** Formal divorce or legal separation; Howard placed with Birch family
 - **August 1928:** Doris mentioned in Arizona Daily Star (possibly divorce filing)
 - **1928-1938:** Living/working in California (presumed)
 - **July 6, 1938:** Death in San Francisco, California (age 46)

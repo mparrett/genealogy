@@ -6,16 +6,29 @@
 
 ## Birth & Early Life
 
-**Birth Date:** September 9, 1927 (some records say Sept 15 - needs verification)
+**Birth Date:** September 15, 1927 (CONFIRMED by birth certificate)
 **Birth Place:** Tucson, Pima County, Arizona
 **Birth Name:** Howard Robert Higgins
-**Source:** Arizona Birth Certificates, 1880-1935; Ancestry.com
+**Legitimate Birth:** Yes (parents married Nov 6, 1926)
+**Source:** Arizona Birth Certificate #882-915-4725; Arizona Birth Certificates, 1880-1935; Ancestry.com
+
+**Note:** Some census/ancestry records incorrectly show Sept 9 - birth certificate confirms Sept 15, 1927
 
 **Biological Parents:**
-- **Father:** James Everett Higgins (~1893-1938)
-- **Mother:** Doris Kuthe (1902-1996)
+- **Father:** James Everett Higgins (Feb 2, 1892 - July 6, 1938)
+  - Age at Howard's birth: 35 (birth cert says 34, slight discrepancy)
+  - Residence at Howard's birth: **San Francisco, California** (!)
+  - Birthplace: New York, N.Y.
+  - Occupation: Civil Engineer
+- **Mother:** Doris Pauline Kuthe (1902-1996)
+  - Age at Howard's birth: 25
+  - Residence at Howard's birth: Tucson, Arizona
+  - Birthplace: Jefferson, Oregon
+  - Occupation: Housewife - Teacher
 - **Parents married:** November 6, 1926, Maricopa County, Arizona (Phoenix area)
-- **Parents separated:** Circa 1928 (circumstances unknown)
+- **Parents separated:** **Before Howard's birth** - James living in San Francisco by Sept 1927
+
+**Source:** Arizona Birth Certificate #882-915-4725
 
 ---
 

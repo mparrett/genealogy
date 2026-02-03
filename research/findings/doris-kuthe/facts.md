@@ -7,14 +7,14 @@
 ## Birth & Early Life
 
 **Birth Date:** 1902 (exact date unknown)
-**Birth Place:** Unknown (likely Oregon or Pacific Northwest)
-**Birth Name:** Doris E. Kuthe
+**Birth Place:** Jefferson, Marion County, Oregon (confirmed by Howard's birth certificate)
+**Birth Name:** Doris Pauline Kuthe (middle name confirmed)
 
-**Father:** George Kuthe (appeared in 1920 Oregon Census)
+**Father:** George Kuthe (George Washington Kuthe per James's bio - appeared in 1920 Oregon Census)
 **Mother:** Unknown
 
-**Early Residence:** Oregon (father George Kuthe in 1920 Census)
-**Source:** U.S. Census records via Ancestry; family records
+**Early Residence:** Jefferson, Oregon
+**Source:** Arizona Birth Certificate #882-915-4725 (Howard's); U.S. Census records via Ancestry; family records
 
 ---
 
@@ -51,10 +51,16 @@
 
 ### Motherhood
 **Son:** Howard Robert Higgins
-**Birth Date:** September 9, 1927 (some records say Sept 15)
+**Birth Date:** September 15, 1927 (CONFIRMED by birth certificate)
 **Birth Place:** Tucson, Pima County, Arizona
-**Doris's Age at Birth:** Approximately 25 years old
-**Source:** Arizona Birth Certificates, 1880-1935
+**Doris's Age at Birth:** 25 years old
+**Doris's Residence:** Tucson, Arizona
+**Doris's Birthplace:** Jefferson, Oregon (specific town confirmed)
+**Doris's Occupation at Birth:** Housewife - Teacher
+**James's Residence at Birth:** **San Francisco, California** (already separated geographically)
+**Source:** Arizona Birth Certificate #882-915-4725; Arizona Birth Certificates, 1880-1935
+
+**CRITICAL:** Marriage lasted less than 10 months before geographic separation (married Nov 1926, James in SF by Sept 1927)
 
 ### Separation & Placement of Howard
 **Timeframe:** Circa 1928
@@ -89,14 +95,15 @@
 
 ## Verified Timeline
 
-- **1902:** Birth
-- **Pre-1920:** Living in Oregon (father George Kuthe's residence)
+- **1902:** Birth in Jefferson, Oregon
+- **Pre-1920:** Living in Jefferson, Oregon (father George Kuthe's residence)
 - **Mid-1920s:** Moved to Arizona
 - **November 6, 1926:** Married James E. Higgins in Maricopa County/Phoenix area (age ~24)
-- **March 20, 1927:** Photographed at Agua Caliente with Governor Hunt (3 months pregnant)
-- **September 9, 1927:** Son Howard born in Tucson
+- **By March 1927:** James moved to San Francisco (marriage lasted <4 months)
+- **March 20, 1927:** Photographed at Agua Caliente with Governor Hunt (3 months pregnant, James absent)
+- **September 15, 1927:** Son Howard born in Tucson (Doris alone, working as "Housewife - Teacher")
 - **August 1928:** Mentioned in Arizona Daily Star (context unknown)
-- **~1928:** Marriage to James ended; Howard placed with Birches
+- **~1928:** Marriage to James formally ended; Howard placed with Birches
 - **March 30, 1930:** Possible mention in Douglas Daily Dispatch (not verified)
 - **Post-1930:** Left Arizona (presumed)
 - **Unknown:** Remarried, became "Doris Bynon"
