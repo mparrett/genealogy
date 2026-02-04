@@ -53,6 +53,7 @@ Use this for location/place images. Distinct from bio illustrations (watercolor 
 | Feather River Canyon, California | `images/locations/feather-river-canyon-1915.png` | c. 1915 |
 | Wabash County, Indiana | `images/locations/wabash-county-indiana-1900.jpg` | c. 1900 |
 | Richmond, Indiana | `images/locations/richmond-indiana-1950.jpg` | c. 1950 |
+| Williams, Arizona | `images/locations/williams-arizona-1930.jpg` | c. 1930 |
 
 ---
 
