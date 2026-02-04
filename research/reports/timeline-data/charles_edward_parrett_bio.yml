@@ -33,3 +33,14 @@ events:
   - year: 1951
     label: Brothers James and Ferry drowned
     type: event
+
+location_aside:
+  place: Richmond
+  region: Indiana
+  year: c. 1950
+  image: locations/richmond-indiana-1950.jpg
+  layout: vertical
+  after_paragraph: 1
+  description: >
+    Charles settled in Richmond, Wayne County, where he worked
+    as an auto mechanic for decades.
