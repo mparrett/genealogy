@@ -71,6 +71,50 @@ Site available at **http://localhost:8000**
 - `index.html` - Main site homepage (manually maintained)
 - `PROMPTS.md` - ChatGPT image generation prompts for vintage-style illustrations
 
+## Research Files Organization
+
+Research files are organized by type, not by family line. Use directories instead of filename suffixes.
+
+```
+research/
+  prompts/           # Requests sent to AI/research tools
+    gleeson-deep.md
+    higgins-initial.md
+    agua-caliente-deep.md
+
+  results/           # Raw responses back from AI/research
+    gleeson-deep.md
+    agua-caliente-hyder.md
+
+  analysis/          # Our synthesis/interpretation of results
+    agua-caliente.md
+    mowery-ancestry-conflict.md
+
+  hypotheses/        # Speculative theories awaiting evidence
+    railroad-connection.md
+
+  findings/          # Confirmed facts organized by person
+    <person>/
+      facts.md
+
+  summaries/         # Ancestry tree overviews by line
+    gleeson.md
+    higgins.md
+
+assets/
+  bear/              # Bear note sync (bidirectional)
+  external/          # Documents from external sources
+    wikitree/
+    ancestry/
+```
+
+### Naming Conventions
+
+- Use kebab-case: `gleeson-deep.md` not `gleeson_deep.md`
+- Keep names short: `gleeson-deep.md` not `gleeson-deep-research-prompt.md`
+- Include line name or person name as prefix
+- For dated exports: `<name>-<date>.md` (e.g., `raymond-mowrey-2026-01-29.md`)
+
 ## Workflow
 
 1. Create new reports in `research/reports/` using the template
