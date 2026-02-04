@@ -27,3 +27,14 @@ events:
   - year: 1951
     label: Sons James and Ferry drowned
     type: event
+
+location_aside:
+  place: Wabash County
+  region: Indiana
+  year: c. 1900
+  image: locations/wabash-county-indiana-1900.jpg
+  layout: vertical
+  after_paragraph: 1
+  description: >
+    The flat farmland of Wabash County, where Adam spent his childhood
+    on his father's farm near Lagro.

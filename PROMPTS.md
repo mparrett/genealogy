@@ -51,6 +51,7 @@ Use this for location/place images. Distinct from bio illustrations (watercolor 
 | Croom, Co. Limerick, Ireland | `images/locations/croom-limerick-1864.png` | c. 1864 |
 | Rathmines, Dublin, Ireland | `images/locations/rathmines-dublin-1870.png` | c. 1870 |
 | Feather River Canyon, California | `images/locations/feather-river-canyon-1915.png` | c. 1915 |
+| Wabash County, Indiana | `images/locations/wabash-county-indiana-1900.jpg` | c. 1900 |
 
 ---
 
@@ -572,4 +573,47 @@ These are watercolor-style illustrations embedded within biography reports. They
   --palette "khaki and olive military tones, warm browns, soft blue sky, touches of American red-white-blue, warm skin tones" \
   --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations; captures identity transition theme (Higgins to Birch)" \
   --negative "modern elements, bright saturated colors, busy clutter, photorealistic, combat or violent imagery, grim wartime atmosphere"
+```
+
+### Adam Amos Parrett - Cleveland Machine Shop (1920s-1930s)
+*File: `images/bio/adam-parrett-01-cleveland-machine-shop.jpg`*
+
+```bash
+
+./scripts/imagegen.sh generate \
+  --prompt "Vintage watercolor illustration of a skilled machinist in a Cleveland Ohio tool and die shop in the 1920s-1930s, for genealogy report" \
+  --size 1024x1024 \
+  --out images/bio/adam-parrett-01-cleveland-machine-shop.png \
+  --scene "1920s-1930s Cleveland industrial machine shop, lathes and milling machines, tool and die work benches, brick factory building with large windows, belt-driven machinery, metal shavings, precision tools" \
+  --subject "Skilled machinist (age 40s) operating lathe or examining precision work, working-class dignity, immigrant generation's advancement from laborer to skilled tradesman (no specific portrait)" \
+  --style "vintage watercolor illustration, soft washes, warm tones, lightly textured paper, period-appropriate, dignified working-class atmosphere" \
+  --composition "machinist at work in industrial setting, machinery and tools surrounding, sense of skill and craft, warm light from factory windows" \
+  --lighting "natural light from large factory windows, warm afternoon industrial atmosphere, dust motes in light beams" \
+  --palette "warm browns, steel grays, brass and copper highlights, brick reds, soft blue-gray shadows, warm skin tones" \
+  --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations; captures rural-to-industrial migration theme" \
+  --negative "modern elements, bright saturated colors, busy clutter, photorealistic, unsafe or grim industrial conditions"
+```
+
+---
+
+## Location Panels
+
+### Wabash County, Indiana c. 1900
+*File: `images/locations/wabash-county-indiana-1900.png`*
+*For: Adam Amos Parrett*
+
+```bash
+
+./scripts/imagegen.sh generate \
+  --prompt "Hand-watercolored engraving depicting Wabash County, Indiana circa 1900" \
+  --size 1024x1024 \
+  --out images/locations/wabash-county-indiana-1900.png \
+  --scene "Flat Indiana farmland near Lagro, Wabash River in distance, neat farmsteads with white clapboard houses, red barns, corn and wheat fields, split-rail and wire fencing, country road, church steeple on horizon" \
+  --subject "Location panel, no people" \
+  --style "19th century wood engraving with hand-applied watercolor washes; fine black linework using parallel lines, cross-hatching, stippling; subtle color washes over linework; aged paper texture" \
+  --composition "square format, title cartouche reading 'Wabash County, Indiana — c. 1900'" \
+  --lighting "soft Midwestern summer light, gentle clouds, pastoral atmosphere" \
+  --palette "muted greens of Indiana farmland, warm ochres and browns for fields and buildings, soft gray-blue sky; colors complement linework without overwhelming" \
+  --constraints "engraved linework must remain visible beneath color; no modern elements; cohesive with genealogy collection" \
+  --negative "photorealistic, modern elements, bright saturated colors, busy clutter, text other than cartouche"
 ```
