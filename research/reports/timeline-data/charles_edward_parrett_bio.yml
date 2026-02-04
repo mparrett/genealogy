@@ -1,0 +1,35 @@
+draft: true
+name: Charles Edward Parrett
+birth:
+  year: 1908
+  label: Born
+  location: Gas City, Indiana
+death:
+  year: 1983
+  label: Died
+  location: Richmond, Indiana
+events:
+  - year: 1928
+    label: Married Josephine King
+    type: marriage
+  - year: 1929
+    label: Son James Edward born
+    type: event
+  - year: 1937
+    label: Married Mary Ellen Sweeney
+    type: marriage
+  - year: 1940s
+    label: WWII draft registration
+    type: event
+  - year: 1942
+    label: Married Grace Elizabeth Clark
+    type: marriage
+  - year: 1946
+    label: Married Betty Sherrow Preston
+    type: marriage
+  - year: 1948
+    label: Son Charles Eugene born
+    type: event
+  - year: 1951
+    label: Brothers James and Ferry drowned
+    type: event
