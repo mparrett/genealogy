@@ -6,7 +6,7 @@
 
 Howard Robert Higgins was born on September 15, 1927, in Tucson, Arizona, the only child of **James Everett Higgins** (1892–1938) and **Doris Pauline Kuthe** (1902–1996). His birth certificate tells a story of separation before it even began: while Doris listed her residence as Tucson and her occupation as "Housewife - Teacher," James's residence was recorded as **San Francisco, California**. The couple had married less than a year earlier, in November 1926, but by the time their son arrived, they were already living on opposite ends of the coast.
 
-The baby was originally named **James Everett Higgins** after his father—a name that would later be amended to Howard Robert Higgins, as if to mark a new beginning.
+The baby was initially recorded as **James Everett Higgins**—likely a placeholder using the father's name before a proper naming—later amended to Howard Robert Higgins.
 
 ## A Desert Childhood
 
@@ -53,7 +53,7 @@ Even as a young husband and father, Howard pursued his education. He enrolled at
 
 ## A Long Life
 
-Howard's career took the family to California for a time—the 1960 census shows them in Whittier, Los Angeles County. But Arizona called them back. By 1984, they had returned to Tucson, where Howard would spend the rest of his life.
+Howard's electrical engineering career took him far from the Arizona desert. He worked for **General Electric Company**, with assignments that brought the family to **Schenectady, New York**—GE's historic headquarters—and later to **Whittier, California**, where the 1960 census finds them in Los Angeles County. But Arizona called them back. By 1984, they had returned to Tucson, where Howard would spend the rest of his life.
 
 The losses accumulated in his later years. His biological father James had died in San Francisco in 1938, when Howard was ten—though whether Howard knew of this at the time remains uncertain. Robert Birch died in 1950, Sarah Birch in 1959. His mother Doris, who had visited him as a child and maintained a lifelong friendship with the Birch family, died in 1996 at age ninety-three. Patricia, his wife of sixty years, died on April 4, 2009. His son Michael followed on July 4, 2010, at just fifty-two years old.
 
@@ -61,25 +61,26 @@ Howard Robert Birch died in 2019, in Tucson, at the age of ninety-two. He had li
 
 ---
 
-Howard's story is one of resilience, adaptation, and chosen family. Born into circumstances of separation, raised within a network of care that spanned relatives and friends and multiple states, he built a life that honored both his origins and his upbringing. The baby who arrived in Tucson as James Everett Higgins left the world as Howard R. Birch—a name earned through love, not law.
+Howard's story is one of resilience, adaptation, and chosen family. Born into circumstances of separation, raised within a network of care that spanned relatives and friends and multiple states, he built a life that honored both his origins and his upbringing. The unnamed baby recorded on a Tucson birth certificate left the world ninety-two years later as Howard R. Birch—a name earned through love, not law.
 
 ---
 
 **Notes:**
 
 - Birth: 15 Sept 1927, Tucson, Pima County, Arizona. Birth certificate #882-915-4725.
-- Birth Name: James Everett Higgins (amended to Howard Robert Higgins).
+- Birth Name: Initially recorded as James Everett Higgins (placeholder using father's name; amended to Howard Robert Higgins).
 - Parents: James Everett Higgins (1892–1938) + Doris Pauline Kuthe (1902–1996). Married 6 Nov 1926, Maricopa County. Separated before Howard's birth (James in San Francisco).
 - Placed with Robert & Sarah Birch at Agua Caliente Hot Springs, late 1928 (age ~1).
 - Biological mother's documented visits: 26 Sept 1929 (Arizona Republic); 7 Apr 1933 (Casa Grande Dispatch - "to visit her small son Howard").
 - Extended care network: Aunt Jessie Kuthe Rosser in New Mexico; cousin Willis A. Rosser Jr. (b. 1923); time in NM with Willis (~1930s, dates unclear).
 - 1940 Census: Living with Woodard family, Phoenix, as "lodger" (age 12). Previous residence: Agua Caliente (April 1935).
 - Education: North High School, Phoenix (yearbook 1944 shows "Howard R Higgins"); University of Arizona, Electrical Engineering, graduated 27 May 1953 (as "Howard R. Birch").
+- Career: General Electric Company (spent significant portion of career there).
 - Military: Enlisted 18 Jan 1945 (age 17). Navy and Army records exist; branch unclear.
 - Name transition: "Howard Higgins" (1940, 1944) → "Howard R. Birch" (1949 marriage).
 - Marriage: Patricia Anne Mowrey, 17 June 1949, Maricopa County, Arizona.
 - Children: Michele Anne Birch (b. 18 Aug 1951), Michael K. Birch (1958–2010), Melanie Birch Garliepp.
-- Residences: Agua Caliente (1928–1935+), Phoenix (1940), Tucson (1950, college), Whittier CA (1960), Tucson (1984–2019).
+- Residences: Agua Caliente (1928–1935+), Phoenix (1940), Tucson (1950, college), Schenectady NY (GE career), Whittier CA (1960), Tucson (1984–2019).
 - Father's death: James Higgins, 6 July 1938, San Francisco (Howard age 10).
 - Foster father's death: Robert Birch, 1950 (Howard age 22-23).
 - Foster mother's death: Sarah Birch, 1959.

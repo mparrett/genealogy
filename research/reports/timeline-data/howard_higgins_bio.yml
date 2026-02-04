@@ -32,3 +32,12 @@ events:
   - year: 1953
     label: U of A Engineering degree
     type: event
+  - year: 1950s
+    label: GE career, Schenectady NY
+    type: event
+  - year: 1960
+    label: Family in Whittier, CA
+    type: event
+  - year: 1984
+    label: Returned to Tucson
+    type: event
