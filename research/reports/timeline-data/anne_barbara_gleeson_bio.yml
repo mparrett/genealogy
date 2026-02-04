@@ -1,2 +1,43 @@
 draft: true
 name: Anne Barbara Gleeson
+birth:
+  year: 1903
+  label: Born
+  location: Mondovi, Wisconsin
+death:
+  year: 1986
+  label: Died
+  location: Tucson, Arizona
+events:
+  - year: 1916
+    label: Mother Maria Ann died
+    type: event
+  - year: 1917
+    label: Brother Joseph Patrick died
+    type: event
+  - year: 1921
+    label: Possible marriage (uncertain)
+    type: event
+  - year: 1928
+    label: Secret marriage to Raymond Mowrey
+    type: marriage
+  - year: 1929
+    label: Daughter Patricia born
+    type: event
+  - year: 1946
+    label: Father James Joseph died
+    type: event
+  - year: 1973
+    label: Husband Raymond died
+    type: event
+
+location_aside:
+  place: Williams
+  region: Arizona
+  year: c. 1930
+  image: locations/williams-arizona-1930.jpg
+  layout: vertical
+  after_paragraph: 4
+  description: >
+    This Route 66 railroad town near the Grand Canyon became Anne's
+    home after she moved west to teach school and married Raymond Mowrey.
