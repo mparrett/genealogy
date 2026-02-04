@@ -5,7 +5,7 @@
 
 Adam Amos Parrett was born on **April 21, 1885** in **Wabash County, Indiana**, the eldest child of **John Anderson Parrett** (1859–1938) and **Mary Ellen Fisher** (1867–1953). He was named for his paternal grandfather Amos Parret, who had died in the Civil War over two decades earlier.
 
-## Early Life in Lagro
+### Early Life in Lagro
 
 Adam grew up on his father's farm near Lagro in Wabash County. The 1900 census shows him at age 15, still living with his parents and younger siblings. By 1908, he was working as a laborer in Marion, Indiana.
 
@@ -32,6 +32,8 @@ Adam registered for the WWI draft in 1917–1918 while living in Whitley County,
 
 ## Career and Migration
 
+<img src="../../../images/bio/adam-parrett-01-cleveland-machine-shop.jpg" alt="Tool and die maker in Cleveland machine shop, 1920s-1930s" class="float-right">
+
 Adam's occupational trajectory shows a man who worked with his hands throughout his life:
 
 | Year | Location | Occupation |
@@ -39,11 +41,8 @@ Adam's occupational trajectory shows a man who worked with his hands throughout 
 | 1908 | Marion, Indiana | Laborer |
 | 1910 | Lagro, Indiana | Laborer |
 | 1917–18 | Whitley County, Indiana | (Draft registration) |
-| 1920 | Cleveland Township, Whitley Co. | Carpenter |
-| 1923 | Cleveland, Ohio | Carpenter |
-| 1926 | Cleveland, Ohio | Repairman |
-| 1930 | Cleveland, Ohio | Tool and Die Maker |
-| 1940 | Cleveland, Ohio | Machine Repairman |
+| 1920–23 | Indiana → Cleveland, Ohio | Carpenter |
+| 1926–40 | Cleveland, Ohio | Tool and Die Maker, Machine Repairman |
 | 1950 | Cleveland, Ohio | (Head of household) |
 
 The family's move from rural Indiana to industrial Cleveland reflected the broader migration of Americans seeking factory work in the early 20th century. Adam's progression from general laborer to skilled machinist shows his advancement in the trades.
