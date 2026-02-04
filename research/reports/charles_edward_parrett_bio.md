@@ -38,6 +38,8 @@ Charles registered for the WWII draft in the early 1940s. At 32–34 years old w
 
 ### Career
 
+<img src="../../../images/bio/charles-parrett-01-auto-garage.jpg" alt="Auto mechanic in 1940s-1950s garage" class="float-right">
+
 Charles made his living as an **auto mechanic**, a skilled trade that served him well through the Depression and postwar boom. His work history shows steady employment in the automotive industry:
 
 | Year | Location | Occupation |

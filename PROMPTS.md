@@ -52,6 +52,7 @@ Use this for location/place images. Distinct from bio illustrations (watercolor 
 | Rathmines, Dublin, Ireland | `images/locations/rathmines-dublin-1870.png` | c. 1870 |
 | Feather River Canyon, California | `images/locations/feather-river-canyon-1915.png` | c. 1915 |
 | Wabash County, Indiana | `images/locations/wabash-county-indiana-1900.jpg` | c. 1900 |
+| Richmond, Indiana | `images/locations/richmond-indiana-1950.jpg` | c. 1950 |
 
 ---
 
@@ -616,4 +617,45 @@ These are watercolor-style illustrations embedded within biography reports. They
   --palette "muted greens of Indiana farmland, warm ochres and browns for fields and buildings, soft gray-blue sky; colors complement linework without overwhelming" \
   --constraints "engraved linework must remain visible beneath color; no modern elements; cohesive with genealogy collection" \
   --negative "photorealistic, modern elements, bright saturated colors, busy clutter, text other than cartouche"
+```
+
+### Richmond, Indiana c. 1950
+*File: `images/locations/richmond-indiana-1950.jpg`*
+*For: Charles Edward Parrett*
+
+```bash
+
+./scripts/imagegen.sh generate \
+  --prompt "Hand-watercolored engraving depicting Richmond, Indiana circa 1950" \
+  --size 1024x1024 \
+  --out images/locations/richmond-indiana-1950.png \
+  --scene "Main Street Richmond Indiana, Wayne County, postwar small-town America, brick storefronts, vintage automobiles parked along street, church steeples, courthouse or civic buildings, Whitewater River area" \
+  --subject "Location panel, no people" \
+  --style "19th century wood engraving with hand-applied watercolor washes; fine black linework using parallel lines, cross-hatching, stippling; subtle color washes over linework; aged paper texture" \
+  --composition "square format, title cartouche reading 'Richmond, Indiana — c. 1950'" \
+  --lighting "soft Midwestern afternoon light, gentle clouds, prosperous small-town atmosphere" \
+  --palette "warm brick reds, muted greens of trees, cream and tan storefronts, soft gray-blue sky, vintage auto colors; colors complement linework without overwhelming" \
+  --constraints "engraved linework must remain visible beneath color; no modern elements; cohesive with genealogy collection" \
+  --negative "photorealistic, modern elements, bright saturated colors, busy clutter, text other than cartouche"
+```
+
+---
+
+### Charles Edward Parrett - Auto Garage (1940s-1950s)
+*File: `images/bio/charles-parrett-01-auto-garage.jpg`*
+
+```bash
+
+./scripts/imagegen.sh generate \
+  --prompt "Vintage watercolor illustration of an auto mechanic working in a 1940s-1950s American garage or service station, for genealogy report" \
+  --size 1024x1024 \
+  --out images/bio/charles-parrett-01-auto-garage.png \
+  --scene "1940s-1950s small-town Indiana auto garage, Buick dealership service bay, cars on lifts, tool chests, grease pit, large windows, oil cans, tire racks, vintage automobiles being serviced" \
+  --subject "Auto mechanic (age 40s) working under hood or examining engine, skilled tradesman in coveralls, working-class dignity, postwar American prosperity (no specific portrait)" \
+  --style "vintage watercolor illustration, soft washes, warm tones, lightly textured paper, period-appropriate, nostalgic small-town America" \
+  --composition "mechanic at work in service bay, vintage cars and tools surrounding, warm light from garage doors, sense of honest labor" \
+  --lighting "natural light from open garage bay doors, warm afternoon industrial atmosphere" \
+  --palette "warm browns, steel grays, chrome highlights, oil-stained concrete, soft blue shadows, classic car colors (greens, blacks, creams)" \
+  --constraints "no text, no logos, no watermark; cohesive with existing genealogy bio illustrations; captures postwar working-class prosperity" \
+  --negative "modern elements, bright saturated colors, busy clutter, photorealistic, dirty or unsafe conditions"
 ```
