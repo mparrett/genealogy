@@ -97,6 +97,23 @@ The South Dublin Union later became St. James's Hospital, still operating today.
 
 By 1890, most of these families had left Ireland:
 
+<details class="feature-accordion">
+<summary>Why Newark?</summary>
+
+Why did families from Dublin and Limerick—strangers in Ireland—end up as neighbors in Newark's Fifth Ward?
+
+**Chain migration** played a central role. Once one family member established themselves, they sent word back, and others followed. The Fitzgeralds may have had contacts in Newark first; the Higgins family may have followed a similar chain from Dublin.
+
+**Newark offered opportunity.** By the 1880s, it was one of America's largest industrial cities—leather goods, brewing, jewelry manufacturing. Jobs were plentiful for laborers, porters, and factory workers. Laurence Higgins worked as a porter; James Fitzgerald likely found similar work.
+
+**It was cheaper than New York.** Just across the Hudson River, Newark offered affordable housing within reach of Manhattan's jobs and markets. For families arriving with little, that mattered.
+
+**The Irish infrastructure was already there.** Ward 5 had Catholic churches, mutual aid societies, and established networks. A family stepping off the boat could find lodging, work leads, and familiar faces within days.
+
+Whether the Higgins and Fitzgerald families knew each other before emigrating—or simply landed in the same enclave by the logic of chain migration—remains an open question.
+
+</details>
+
 | Family | Departed | Destination | Settled |
 |--------|----------|-------------|---------|
 | Fitzgerald/Gleeson | c. 1880s | Newark, NJ | Newark Ward 5 |
