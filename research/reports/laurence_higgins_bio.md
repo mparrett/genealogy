@@ -6,7 +6,9 @@
 
 Laurence Higgins was born on January 8, 1854, in Rathmines, a suburb of Dublin, Ireland, and baptized that same day. He was the second of eleven children born to **James Higgins** (1830–1880), a laborer, and **Jane Eustace** (1829–1911). Growing up in mid-19th century Dublin, Laurence witnessed the aftermath of the Great Famine and the social upheaval that drove so many Irish to emigrate.
 
-On January 26, 1873, at age 19, Laurence married **Mary Verner** at the Chapel of St. Mary's in Rathmines. The marriage record identifies him as "Laurence Higgins, 21, Bachelor, labourer, Fulham's Lane." The young couple had four children in Dublin: Margaret Ester "Maggie" (1874), Mary Jane (1876–1879), Anne (1878), and Bridget (1881). Tragically, Mary Verner died on October 4, 1881, leaving Laurence a widower at 27 with three surviving children.
+On January 26, 1873, at age 19, Laurence married **Mary Verner** (also recorded as Maria Vernor) at the Chapel of St. Mary's in Rathmines. The marriage record identifies him as "Laurence Higgins, 21, Bachelor, labourer, Fulham's Lane." Mary's parents were Michael Verner and Margaret Kearney. The young couple had five children in Dublin: Margaret Ester "Maggie" (1874), Mary Jane (1876–1879), Anne (1878), and twins Bridget and Mary Jane born September 7, 1881.
+
+The family's circumstances deteriorated. Mary gave birth to the twins at the **South Dublin Union**—the workhouse—suggesting they had fallen into destitution. Less than a month later, on October 4, 1881, Mary Verner died there. She was 29. Both twins likely died in infancy. Laurence, now a widower at 27, was left with two surviving children: Maggie and Anne.
 
 <img src="../../../images/bio/laurence-higgins-01-dublin-emigration.jpg" alt="Irish emigration from Dublin in the 1880s" class="float-left">
 
@@ -30,8 +32,8 @@ Laurence Higgins lived the arc of many Irish immigrants of his generation: from 
 
 - Birth/baptism (8 Jan 1854, Rathmines, Dublin) from Irish parish records and Ancestry data.
 - Parents: James Higgins (1830–1880) + Jane Eustace (1829–1911) per Ancestry family tree.
-- First marriage (26 Jan 1873) to Mary Verner at Chapel of St. Mary's, Rathmines; marriage record transcription in family files.
-- Mary Verner died 4 Oct 1881, Dublin.
+- First marriage (26 Jan 1873) to Mary Verner (Maria Vernor) at Chapel of St. Mary's, Rathmines; parents Michael Verner + Margaret Kearney.
+- Mary Verner gave birth to twins at South Dublin Union (workhouse) 7 Sept 1881; died there 4 Oct 1881.
 - Second marriage to Mary Knight: Dublin (25 Nov 1883) and Manhattan (6 Feb 1887) ceremonies per family records.
 - Census records: Newark Ward 10 (1895), Newark Ward 5 (1900, 1910, 1920).
 - Occupations from census: Porter (1900, 1910), Janitor (1920).
