@@ -32,7 +32,7 @@ The 1890s brought more loss. Son Christopher died in Toxteth Park, Lancashire, i
 
 The 1901 Irish Census found Jane living alone in Terenure, back in the Rathfarnham area where she was born. At 71, she was still working as a **laundress**—though she gave her age as 82 on the census form. A widow supporting herself through manual labor, decades after burying her husband and most of her children.
 
-By 1908, Jane could no longer manage on her own. She entered the **South Dublin Union**, the same workhouse where her son William had died sixteen years earlier.
+By 1908, Jane could no longer manage on her own. She entered the **South Dublin Union**, the same workhouse where her son William had died sixteen years earlier. She lived there for three years. Jane Eustace Higgins died on October 23, 1911, at age 82, of **paraplegia**. Her last known address before the workhouse was Fulham's Lane—the same street where she had raised her family and buried her husband.
 
 <details class="feature-accordion">
 <summary>The South Dublin Union: Ireland's Workhouses</summary>
@@ -45,7 +45,7 @@ Jane's son **William** died there in 1892, his residence listed as Charlemont St
 
 The South Dublin Union later became **St. James's Hospital**, still standing today. The workhouse buildings where Jane lived and died are gone, replaced by modern medical facilities. But for generations of Dublin's poor, including two members of the Higgins family, it was the end of the road.
 
-</details> She lived there for three years. Jane Eustace Higgins died on October 23, 1911, at age 82, of **paraplegia**. Her last known address before the workhouse was Fulham's Lane—the same street where she had raised her family and buried her husband.
+</details>
 
 Through her son Laurence, who emigrated to America and married Mary Knight, Jane Eustace became an ancestor of the American Higgins line that continues today.
 
