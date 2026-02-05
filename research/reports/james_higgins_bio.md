@@ -6,6 +6,8 @@
 
 James Higgins was born around 1830 in County Wicklow, Ireland—possibly in the Rathgar area near Dublin. He was one of at least eight children born to **Christopher Higgins** (1803–1857) and **Bridget Darcy** (1801–1896). His siblings included Thomas (1833–1898), Christopher (1834–1866), Mary (1837–1899), Ann (1837–1903), Catherine (1838–1882), Patrick (1839–), Mary Marcella (1840–), and Margaret (1840–).
 
+On December 23, 1850, at age 20, James married **Jane Eustace** at Rathmines, Dublin. The witnesses were Patrick Delaney and Elizabeth Doyle. The young couple settled in the Harold's Cross area of Dublin, where James worked as a laborer.
+
 <details class="feature-accordion">
 <summary>An Gorta Mór: The Great Hunger (1845–1852)</summary>
 
@@ -20,8 +22,6 @@ County Wicklow, where James was likely born, saw its population drop by nearly 2
 Of their eleven children, only one would leave: **Laurence**, who emigrated to America in the 1880s. The rest stayed in Dublin, living and dying within a few miles of where they were born. But the famine cast a long shadow. The Ireland James knew as a boy—before the blight, before the coffin ships, before the mass graves—was gone forever.
 
 </details>
-
-On December 23, 1850, at age 20, James married **Jane Eustace** at Rathmines, Dublin. The witnesses were Patrick Delaney and Elizabeth Doyle. The young couple settled in the Harold's Cross area of Dublin, where James worked as a laborer.
 
 James and Jane had eleven children over the next 23 years:
 
