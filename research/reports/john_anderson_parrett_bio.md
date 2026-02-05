@@ -3,17 +3,18 @@
 
 *Civil War Orphan, Indiana Farmer, Patriarch of the Parrett Family*
 
-John Anderson Parrett was born on **May 1, 1859** in **Wabash County, Indiana**. His parents were **Amos Parret** (c. 1820–1863), born in Ohio, and **Mary Shelly** (1825–1907). Amos and Mary married in 1843 in Wabash County and lived near Dora before moving to Andrews.
+John Anderson Parrett was born on **May 1, 1859** in **Wabash County, Indiana**. His parents were **Amos Parret** (1820–1863) and **Mary Shelly** (1825–1907). Amos was born in Preble County, Ohio, the son of Leonard Parrett (1779–1854) and Elizabeth House Haus Webb (1785–1860). Mary was born in Dayton, Montgomery County, Ohio. They married on **June 24, 1843** in Wabash County and lived near Dora before moving to Andrews.
 
 ### Childhood and Loss
 
-John's early life was marked by the tragedy of the Civil War. His father Amos died on **September 24, 1863** in **Helena, Arkansas**, when John was only four years old. Amos was serving in the Union Army—though his specific regiment has not been identified, the 43rd Indiana Infantry and 1st Indiana Cavalry were stationed at Helena in 1863. With no combat recorded on his death date, Amos likely succumbed to disease; Helena's military hospitals were overwhelmed with illness that year.
+John's early life was marked by the tragedy of the Civil War. His father Amos had been a farmer in Lagro (1850 census) before becoming a merchant in the Dallas/Antioch area of Huntington County by 1860. Amos died on **September 24, 1863** in **Helena, Arkansas**, when John was only four years old. He was serving in the Union Army—though his specific regiment has not been identified, the 43rd Indiana Infantry and 1st Indiana Cavalry were stationed at Helena in 1863. With no combat recorded on his death date, Amos likely succumbed to disease; Helena's military hospitals were overwhelmed with illness that year.
 
 After Amos's death, Mary Shelly remarried to **Jonah Reeves Irey** (1817–1902). John gained half-brothers through this marriage: Lewis J. Irey (1864–1932) and Samuel Meredith Irey (1868–1943).
 
 John had several full siblings from his parents' marriage:
 - Martha E. Parrett (1845–1931)
 - Joseph Leonard Parrett (1846–1928)
+- Sarah J. Parrett (1848–1851) — died in infancy
 - Mary Louise Parrett (1852–1929)
 - Eliza Alida Sullivan (1854–1939)
 - Amy "Annie" Clementine Parrett (1857–1944)
@@ -57,8 +58,9 @@ John Anderson Parrett died on **June 27, 1938** in **Noble Township, Wabash Coun
 **Notes:**
 
 - Birth: May 1, 1859, Wabash County, Indiana
-- Father: **Amos Parret** (c. 1820–1863), born Ohio, died Helena, Arkansas (disease)
-- Mother: **Mary Shelly** (1825–1907)
+- Father: **Amos Parret** (1820–1863), born Preble Co., Ohio; died Helena, Arkansas (disease)
+- Paternal grandparents: Leonard Parrett (1779–1854) & Elizabeth House Haus Webb (1785–1860)
+- Mother: **Mary Shelly** (1825–1907), born Dayton, Montgomery Co., Ohio
 - Stepfather: Jonah Reeves Irey (1817–1902)
 - First Marriage: April 1, 1884, to Mary Ellen Fisher (1867–1953)
 - Second Marriage: July 29, 1926, to Medora Alice Kuldau (1863–1935)
