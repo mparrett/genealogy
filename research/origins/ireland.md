@@ -19,9 +19,9 @@ Their son **Laurence Higgins** (1854–1930) married twice in Dublin before emig
 Jane's father, **James Eustace** (c. 1798–1866), married Margaret Conlan at Rathfarnham in 1821. The Eustace family had deep roots in the area—the name appears in parish records going back generations.
 
 **Dublin Bios:**
-- [James Higgins (1830–1880)](../reports/html/james_higgins_bio.html) — laborer, father of eleven
-- [Jane Eustace (1829–1911)](../reports/html/jane_eustace_bio.html) — laundress, widow
-- [Laurence Higgins (1854–1930)](../reports/html/laurence_higgins_bio.html) — emigrated to Newark
+- [James Higgins (1830–1880)](../../reports/html/james_higgins_bio.html) — laborer, father of eleven
+- [Jane Eustace (1829–1911)](../../reports/html/jane_eustace_bio.html) — laundress, widow
+- [Laurence Higgins (1854–1930)](../../reports/html/laurence_higgins_bio.html) — emigrated to Newark
 
 ---
 
@@ -38,20 +38,22 @@ Maria's father, **James Joseph Gleeson** (c. 1805–1864), was a shopkeeper in C
 The Fitzgeralds and Gleesons represent a different slice of Irish emigration than the Dublin families: rural Munster rather than urban Leinster, though both ended up in the same Newark neighborhoods.
 
 **Limerick Bios:**
-- [James Fitzgerald (c. 1830–1897)](../reports/html/james_fitzgerald_bio.html) — Croom to Newark
-- [Maria Ann Gleeson (1842–1918)](../reports/html/maria_ann_fitzgerald_bio.html) — shopkeeper's daughter
-- [James Joseph Gleeson (c. 1805–1864)](../reports/html/james_j_gleeson_bio.html) — Croom shopkeeper
+- [James Fitzgerald (c. 1830–1897)](../../reports/html/james_fitzgerald_bio.html) — Croom to Newark
+- [Maria Ann Gleeson (1842–1918)](../../reports/html/maria_ann_fitzgerald_bio.html) — shopkeeper's daughter
+- [James Joseph Gleeson (c. 1805–1864)](../../reports/html/james_j_gleeson_bio.html) — Croom shopkeeper
 
 ---
 
 ### County Sligo
+
+<img src="../../../images/locations/sligo-town-1880.jpg" alt="Sligo Town, circa 1880" class="float-right-sm">
 
 **Mary Knight** (1866–1930), who became Laurence Higgins' second wife, was born in County Sligo in Connacht, the western province. She emigrated to America with her family as a teenager, then returned to Dublin to marry Laurence in 1883.
 
 The Knights represent a third regional origin—Connacht, the poorest province, which lost the highest proportion of its population to famine and emigration. Mary's journey from Sligo to America to Dublin and back to America traces the complicated paths of 19th-century Irish migration.
 
 **Sligo Bios:**
-- [Mary Knight (1866–1930)](../reports/html/mary_knight_bio.html) — Sligo to Newark
+- [Mary Knight (1866–1930)](../../reports/html/mary_knight_bio.html) — Sligo to Newark
 
 ---
 
@@ -106,5 +108,5 @@ Newark's Fifth Ward became an Irish enclave where families from Dublin and Limer
 ---
 
 **Lines from Ireland:**
-- [Higgins Line](../../lines/higgins.html) — Dublin to Newark to Arizona
-- [Gleeson Line](../../lines/gleeson.html) — Limerick to Newark to Arizona
+- [Higgins Line](../../../lines/higgins.html) — Dublin to Newark to Arizona
+- [Gleeson Line](../../../lines/gleeson.html) — Limerick to Newark to Arizona
