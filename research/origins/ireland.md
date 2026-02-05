@@ -8,7 +8,7 @@ Four of my ancestral lines trace back to Ireland, spanning three provinces and a
 
 ### Dublin
 
-<img src="../../images/locations/harolds-cross-dublin-1860.jpg" alt="Harold's Cross, Dublin, circa 1860" class="float-right-sm">
+<img src="../../../images/locations/harolds-cross-dublin-1860.jpg" alt="Harold's Cross, Dublin, circa 1860" class="float-right-sm">
 
 The **Higgins** and **Eustace** families lived in Dublin's southern suburbs—working-class neighborhoods of laborers, laundresses, and tradesmen clustered around Harold's Cross, Rathmines, and Rathfarnham.
 
@@ -27,7 +27,7 @@ Jane's father, **James Eustace** (c. 1798–1866), married Margaret Conlan at Ra
 
 ### County Limerick
 
-<img src="../../images/locations/croom-limerick-1864.jpg" alt="Croom, County Limerick, circa 1864" class="float-right-sm">
+<img src="../../../images/locations/croom-limerick-1864.jpg" alt="Croom, County Limerick, circa 1864" class="float-right-sm">
 
 The **Gleeson** and **Fitzgerald** families came from County Limerick in Munster, the southwestern province hardest hit by the Famine. The town of **Croom**, on the River Maigue, was home to both families.
 
