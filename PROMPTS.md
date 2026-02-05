@@ -50,6 +50,7 @@ Use this for location/place images. Distinct from bio illustrations (watercolor 
 |----------|------|------|
 | Croom, Co. Limerick, Ireland | `images/locations/croom-limerick-1864.png` | c. 1864 |
 | Rathmines, Dublin, Ireland | `images/locations/rathmines-dublin-1870.png` | c. 1870 |
+| Harold's Cross, Dublin, Ireland | `images/locations/harolds-cross-dublin-1860.jpg` | c. 1860 |
 | Feather River Canyon, California | `images/locations/feather-river-canyon-1915.png` | c. 1915 |
 | Wabash County, Indiana | `images/locations/wabash-county-indiana-1900.jpg` | c. 1900 |
 | Richmond, Indiana | `images/locations/richmond-indiana-1950.jpg` | c. 1950 |
@@ -636,6 +637,26 @@ These are watercolor-style illustrations embedded within biography reports. They
   --composition "square format, title cartouche reading 'Richmond, Indiana — c. 1950'" \
   --lighting "soft Midwestern afternoon light, gentle clouds, prosperous small-town atmosphere" \
   --palette "warm brick reds, muted greens of trees, cream and tan storefronts, soft gray-blue sky, vintage auto colors; colors complement linework without overwhelming" \
+  --constraints "engraved linework must remain visible beneath color; no modern elements; cohesive with genealogy collection" \
+  --negative "photorealistic, modern elements, bright saturated colors, busy clutter, text other than cartouche"
+```
+
+### Harold's Cross, Dublin c. 1860
+*File: `images/locations/harolds-cross-dublin-1860.jpg`*
+*For: James Higgins*
+
+```bash
+
+./scripts/imagegen.sh generate \
+  --prompt "Hand-watercolored engraving depicting Harold's Cross, Dublin, Ireland circa 1860" \
+  --size 1024x1024 \
+  --out images/locations/harolds-cross-dublin-1860.png \
+  --scene "Working-class Dublin suburb south of Grand Canal, narrow lanes like Fulham's Lane, modest terraced cottages and brick row houses, small shops, Catholic church spire in distance, horse-drawn cart, gas lamps" \
+  --subject "Location panel, no people" \
+  --style "19th century wood engraving with hand-applied watercolor washes; fine black linework using parallel lines, cross-hatching, stippling; subtle color washes over linework; aged paper texture" \
+  --composition "square format, title cartouche reading 'Harold's Cross, Dublin — c. 1860'" \
+  --lighting "overcast Dublin daylight, soft diffused light, damp atmosphere" \
+  --palette "muted grays and browns of Dublin brick, soft greens, warm ochres for stonework, gray-blue sky; colors complement linework without overwhelming" \
   --constraints "engraved linework must remain visible beneath color; no modern elements; cohesive with genealogy collection" \
   --negative "photorealistic, modern elements, bright saturated colors, busy clutter, text other than cartouche"
 ```
