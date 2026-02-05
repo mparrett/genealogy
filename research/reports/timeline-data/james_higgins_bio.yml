@@ -9,6 +9,9 @@ death:
   label: Died
   location: Harold's Cross, Dublin
 events:
+  - year: 1845
+    label: An Gorta Mór begins
+    type: event
   - year: 1850
     label: Married Jane Eustace
     type: marriage
