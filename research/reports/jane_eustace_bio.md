@@ -28,9 +28,24 @@ Jane's father James Eustace died in 1866. Her husband James Higgins died on May 
 
 The 1890s brought more loss. Son Christopher died in Toxteth Park, Lancashire, in 1891. Son William died in 1892 at the South Dublin Union Workhouse, his residence listed as Charlemont Street. Daughter Mary Jane died in 1895 at Harold's Cross Hospice. Son James died in November 1899.
 
+<img src="../../../images/bio/jane-eustace-01-rathfarnham-laundress.jpg" alt="Elderly Irish widow working as a laundress in Rathfarnham, circa 1900" class="float-right">
+
 The 1901 Irish Census found Jane living alone in Terenure, back in the Rathfarnham area where she was born. At 71, she was still working as a **laundress**—though she gave her age as 82 on the census form. A widow supporting herself through manual labor, decades after burying her husband and most of her children.
 
-By 1908, Jane could no longer manage on her own. She entered the **South Dublin Union**, the same workhouse where her son William had died sixteen years earlier. She lived there for three years. Jane Eustace Higgins died on October 23, 1911, at age 82, of **paraplegia**. Her last known address before the workhouse was Fulham's Lane—the same street where she had raised her family and buried her husband.
+By 1908, Jane could no longer manage on her own. She entered the **South Dublin Union**, the same workhouse where her son William had died sixteen years earlier.
+
+<details class="feature-accordion">
+<summary>The South Dublin Union: Ireland's Workhouses</summary>
+
+The workhouse was the last resort for Ireland's destitute—and for Jane Eustace, it became her final home. Built in 1703 and expanded under the Poor Law system, the South Dublin Union on James's Street was one of the largest workhouses in Ireland, housing thousands during the Great Famine and remaining in operation well into the 20th century.
+
+Conditions were deliberately harsh, designed to discourage all but the truly desperate from seeking relief. Families were separated. Inmates wore uniforms. Work was mandatory—oakum picking, stone breaking, laundry. The stigma was profound; entering the workhouse meant admitting you had no family able or willing to support you.
+
+Jane's son **William** died there in 1892, his residence listed as Charlemont Street—suggesting he had been living independently before whatever circumstances brought him to the Union. Sixteen years later, Jane followed. At 79, after a lifetime of labor and loss, she had outlived her ability to support herself. She spent her final three years within those walls.
+
+The South Dublin Union later became **St. James's Hospital**, still standing today. The workhouse buildings where Jane lived and died are gone, replaced by modern medical facilities. But for generations of Dublin's poor, including two members of the Higgins family, it was the end of the road.
+
+</details> She lived there for three years. Jane Eustace Higgins died on October 23, 1911, at age 82, of **paraplegia**. Her last known address before the workhouse was Fulham's Lane—the same street where she had raised her family and buried her husband.
 
 Through her son Laurence, who emigrated to America and married Mary Knight, Jane Eustace became an ancestor of the American Higgins line that continues today.
 
