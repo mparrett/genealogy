@@ -21,3 +21,16 @@ events:
   - year: 1926
     label: Married Medora Alice Kuldau
     type: marriage
+
+location_aside:
+  place: Wabash & Erie Canal, Lagro
+  region: Indiana
+  year: c. 1868
+  image: locations/lagro-canal-1868.jpg
+  layout: vertical
+  after_paragraph: 1
+  description: >
+    Born into Lagro's golden age, John witnessed the canal's final years
+    as a child. By 1873, when he was fourteen, the waterway that had made
+    Lagro "the metropolis of northern Indiana" was abandoned—the world of
+    his childhood fading alongside the memory of his father.

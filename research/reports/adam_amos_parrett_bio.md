@@ -13,7 +13,7 @@ Adam grew up on his father's farm near Lagro in Wabash County. The 1900 census s
 
 Adam married three times:
 
-**First Marriage:** On **August 19, 1906**, at age 21, Adam married **Mary Ann Beeks** in **St. Joseph, Berrien County, Michigan**. Together they had seven children:
+**First Marriage:** On **August 19, 1906**, at age 21, Adam married **Mary Ann Beeks** in **St. Joseph, Berrien County, Michigan**—a lake-port town with manufacturing and shipyard jobs, suggesting Adam was working in the area. Together they had six children:
 
 - **Charles Edward Parrett** (1908–1983) — *our direct ancestor*, born in Gas City, Indiana
 - Gertrude P. Coy (1909–2010)
@@ -22,9 +22,11 @@ Adam married three times:
 - Ferry Ellsworth Parrett (1916–1951)
 - Hazel Irene Parrett (1919–2012)
 
-**Second Marriage:** On **April 23, 1921**, Adam married **Nettie Thompson O'Connor** (1881–1926) in **Cuyahoga County, Ohio**. Nettie died on July 17, 1926.
+Adam and Mary Ann divorced by 1921. Mary Ann did not die young—she lived until 1981.
 
-**Third Marriage:** Just a month after Nettie's death, on **August 14, 1926**, Adam married **Lillie Thompson Graham** (1878–1958) in Cuyahoga County. Lillie was apparently related to Nettie (both Thompsons). Lillie died in Whiting, Kansas in 1958.
+**Second Marriage:** On **April 23, 1921**, Adam married **Nettie Thompson O'Connor** (1884–1926) in **Cuyahoga County, Ohio**. Nettie was born in Cleveland. She died on July 17, 1926.
+
+**Third Marriage:** Just a month after Nettie's death, on **August 14, 1926**, Adam married **Lillie Thompson Graham** (1879–1958) in Cuyahoga County. Lillie was Nettie's sister—both were Cleveland-born Thompsons who had been married to other men before Adam. Lillie died in Whiting, Kansas in 1958.
 
 ## World War I
 
@@ -49,7 +51,7 @@ The family's move from rural Indiana to industrial Cleveland reflected the broad
 
 ## Family Tragedy
 
-On **May 13, 1951**, Adam suffered a devastating loss when two of his sons—**James Franklin Parrett** (age 37) and **Ferry Ellsworth Parrett** (age 34)—drowned together in **Mud Lake** near Columbia City, Whitley County, Indiana. The brothers died the same day in what was likely a boating accident.
+On **May 13, 1951**, Adam suffered a devastating loss when two of his sons drowned together in **Mud Lake** (now Nyona Lake) near Columbia City, Whitley County, Indiana. According to the *Columbia City Palladium-Item*, **James Franklin Parrett** (age 37) and **Ferry Ellsworth Parrett** (age 35) were setting a trotline when their boat capsized early Sunday morning. Their younger brother **Glenn** was with them and escaped by swimming to safety. Ferry's body was recovered at 2:30 a.m. and James's at 5:15 a.m.
 
 ## Later Years and Death
 
@@ -62,8 +64,8 @@ After his wife Lillie died in 1958, Adam returned to Indiana. He died on **Octob
 - Birth: April 21, 1885, Wabash County, Indiana
 - Father: **John Anderson Parrett** (1859–1938)
 - Mother: **Mary Ellen Fisher** (1867–1953)
-- First Marriage: August 19, 1906, to Mary Ann Beeks (St. Joseph, Michigan)
-- Second Marriage: April 23, 1921, to Nettie Thompson O'Connor (Cuyahoga Co., Ohio)
+- First Marriage: August 19, 1906, to Mary Ann Beeks (St. Joseph, Michigan); divorced by 1921
+- Second Marriage: April 23, 1921, to Nettie Thompson O'Connor (Cuyahoga Co., Ohio); Nettie and Lillie were sisters
 - Third Marriage: August 14, 1926, to Lillie Thompson Graham (Cuyahoga Co., Ohio)
 - Death: October 21, 1959, Wabash, Indiana
 - WWI Draft Registration: 1917–1918, Whitley County, Indiana
@@ -83,6 +85,7 @@ After his wife Lillie died in 1958, Adam returned to Indiana. He died on **Octob
 - Ohio County Marriage Records, 1774–1993
 - U.S. Social Security Applications and Claims Index, 1936–2007
 - Find A Grave Index
+- *Columbia City Palladium-Item*, May 15, 1951 (drowning account)
 
 ---
-*Last updated: 2026-02-01*
+*Last updated: 2026-02-04*
