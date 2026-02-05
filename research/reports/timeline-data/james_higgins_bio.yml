@@ -22,6 +22,19 @@ events:
     label: Father died
     type: event
 
+location_aside:
+  place: Harold's Cross
+  region: Dublin, Ireland
+  year: c. 1860
+  image: locations/harolds-cross-dublin-1860.jpg
+  layout: vertical
+  after_paragraph: 3
+  description: >
+    A working-class Dublin suburb south of the Grand Canal where James
+    and Jane raised eleven children. Addresses like Loughawn and Fulham's
+    Lane housed laborers' families in modest terraced cottages along
+    narrow lanes.
+
 family_links:
   - name: Jane Eustace
     relation: Wife
