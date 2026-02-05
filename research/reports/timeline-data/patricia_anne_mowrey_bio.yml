@@ -1,2 +1,23 @@
 draft: true
 name: Patricia Anne Mowrey
+birth:
+  year: 1929
+  label: Born
+  location: Williams, Arizona
+death:
+  year: 2009
+  label: Died
+  location: Tucson, Arizona
+events:
+  - year: 1947
+    label: Enrolled at Stephens College, Missouri
+    type: event
+  - year: 1949
+    label: Married Howard Robert Birch
+    type: marriage
+  - year: 1951
+    label: Daughter Michele born
+    type: event
+  - year: 1968
+    label: Settled in Tucson
+    type: event
