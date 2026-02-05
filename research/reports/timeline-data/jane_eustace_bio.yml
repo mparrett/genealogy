@@ -1,0 +1,28 @@
+draft: true
+name: Jane Eustace
+birth:
+  year: 1829
+  label: Born
+  location: Rathfarnham, Dublin
+death:
+  year: 1911
+  label: Died
+  location: Dublin South, Ireland
+events:
+  - year: 1850
+    label: Married James Higgins
+    type: marriage
+  - year: 1880
+    label: Husband James died
+    type: event
+  - year: 1881
+    label: Mother Margaret died
+    type: event
+
+family_links:
+  - name: James Higgins
+    relation: Husband
+    link: james_higgins_bio.html
+  - name: Laurence Higgins
+    relation: Son
+    link: laurence_higgins_bio.html
