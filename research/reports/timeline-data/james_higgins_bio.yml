@@ -27,8 +27,8 @@ location_aside:
   region: Dublin, Ireland
   year: c. 1860
   image: locations/harolds-cross-dublin-1860.jpg
-  layout: vertical
-  after_paragraph: 1
+  layout: horizontal
+  after_paragraph: 7
   description: >
     A working-class Dublin suburb south of the Grand Canal where James
     and Jane raised eleven children. Addresses like Loughawn and Fulham's
