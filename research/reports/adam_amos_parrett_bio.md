@@ -13,7 +13,7 @@ Adam grew up on his father's farm near Lagro in Wabash County. The 1900 census s
 
 Adam married three times:
 
-**First Marriage:** On **August 19, 1906**, at age 21, Adam married **Mary Ann Beeks** in **St. Joseph, Berrien County, Michigan**—a lake-port town with manufacturing and shipyard jobs, suggesting Adam was working in the area. Together they had six children:
+**First Marriage:** On **August 19, 1906**, at age 21, Adam married **Mary Ann Beeks** (1889–1981) in **St. Joseph, Berrien County, Michigan**. Despite the out-of-state wedding, Mary Ann was also from Lagro—the daughter of Isaac Newton Beeks and Rebecca Susan Enyeart. The Michigan ceremony was likely an elopement. Together they had six children:
 
 - **Charles Edward Parrett** (1908–1983) — *our direct ancestor*, born in Gas City, Indiana
 - Gertrude P. Coy (1909–2010)
@@ -22,7 +22,7 @@ Adam married three times:
 - Ferry Ellsworth Parrett (1916–1951)
 - Hazel Irene Parrett (1919–2012)
 
-Adam and Mary Ann divorced by 1921. Mary Ann did not die young—she lived until 1981.
+Adam and Mary Ann divorced by 1921. Mary Ann remarried **Malen Ray North** on March 1, 1930 in Wabash, Indiana, and had three more children (Thelma, George, and John North). She lived until 1981, dying in Columbia City at age 92.
 
 **Second Marriage:** On **April 23, 1921**, Adam married **Nettie Thompson O'Connor** (1884–1926) in **Cuyahoga County, Ohio**. Nettie was born in Cleveland. She died on July 17, 1926.
 
@@ -43,11 +43,12 @@ Adam's occupational trajectory shows a man who worked with his hands throughout 
 | 1908 | Marion, Indiana | Laborer |
 | 1910 | Lagro, Indiana | Laborer |
 | 1917–18 | Whitley County, Indiana | (Draft registration) |
-| 1920–23 | Indiana → Cleveland, Ohio | Carpenter |
+| 1920 | Cleveland Twp., Whitley Co., Indiana | Carpenter |
+| 1923 | Cleveland, Ohio | Carpenter |
 | 1926–40 | Cleveland, Ohio | Tool and Die Maker, Machine Repairman |
 | 1950 | Cleveland, Ohio | (Head of household) |
 
-The family's move from rural Indiana to industrial Cleveland reflected the broader migration of Americans seeking factory work in the early 20th century. Adam's progression from general laborer to skilled machinist shows his advancement in the trades.
+Note: The 1920 census lists Adam in "Cleveland, Whitley, Indiana"—this is Cleveland Township in Whitley County, not Cleveland, Ohio. Adam moved to Cleveland, Ohio between 1920 and 1923. The family's migration from rural Indiana to industrial Cleveland reflected the broader movement of Americans seeking factory work in the early 20th century. Adam's progression from general laborer to skilled machinist shows his advancement in the trades.
 
 ## Family Tragedy
 
@@ -64,7 +65,7 @@ After his wife Lillie died in 1958, Adam returned to Indiana. He died on **Octob
 - Birth: April 21, 1885, Wabash County, Indiana
 - Father: **John Anderson Parrett** (1859–1938)
 - Mother: **Mary Ellen Fisher** (1867–1953)
-- First Marriage: August 19, 1906, to Mary Ann Beeks (St. Joseph, Michigan); divorced by 1921
+- First Marriage: August 19, 1906, to Mary Ann Beeks (1889–1981) of Lagro; divorced by 1921; she remarried Malen Ray North 1930
 - Second Marriage: April 23, 1921, to Nettie Thompson O'Connor (Cuyahoga Co., Ohio); Nettie and Lillie were sisters
 - Third Marriage: August 14, 1926, to Lillie Thompson Graham (Cuyahoga Co., Ohio)
 - Death: October 21, 1959, Wabash, Indiana
@@ -74,7 +75,7 @@ After his wife Lillie died in 1958, Adam returned to Indiana. He died on **Octob
 
 - 1900 U.S. Federal Census — Lagro, Wabash, Indiana
 - 1910 U.S. Federal Census — Lagro, Wabash, Indiana
-- 1920 U.S. Federal Census — Cleveland, Whitley, Indiana
+- 1920 U.S. Federal Census — Cleveland Township, Whitley County, Indiana
 - 1930 U.S. Federal Census — Cleveland, Cuyahoga, Ohio
 - 1940 U.S. Federal Census — Cleveland, Cuyahoga, Ohio
 - 1950 U.S. Federal Census — Cleveland, Cuyahoga, Ohio
