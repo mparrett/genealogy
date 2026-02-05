@@ -1,10 +1,11 @@
 # Parrett Line Analysis: Three Generations
 
-Summary of findings from GPT lite deep research (Feb 2026).
+Summary of findings from GPT lite deep research and Ancestry tree exports (Feb 2026).
 
-## Source
+## Sources
 
-`assets/parret-fam-three-gen-deepres-lite.md` — based on Indiana state/local records, newspapers, and the Frederick Parrott family history site (p-rr-tt.org.uk).
+- `assets/parret-fam-three-gen-deepres-lite.md` — GPT deep research based on Indiana state/local records, newspapers, Frederick Parrott family history site
+- `assets/external/ancestry/*.md` — Ancestry tree exports (Feb 4, 2026)
 
 ---
 
@@ -14,11 +15,11 @@ Summary of findings from GPT lite deep research (Feb 2026).
 
 | Field | Previous | Corrected |
 |-------|----------|-----------|
-| Birthplace | Unknown | **Ohio, c. 1820** |
-| Marriage | Unverified | **1843, Wabash County, Indiana** |
+| Birthplace | Unknown | **Preble County, Ohio, 1820** |
+| Marriage | Unverified | **24 Jun 1843, Wabash County, Indiana** |
 | Death cause | "Likely serving in Union Army" | **Disease** (no combat on death date; Helena had rampant illness) |
 
-### New Details
+### New Details (GPT Research)
 
 - Lived near Dora, then moved to Andrews (both in Wabash Co.)
 - Died ~2 years after moving to Andrews
@@ -27,10 +28,30 @@ Summary of findings from GPT lite deep research (Feb 2026).
 - Mary remarried Jonas (Jonah) Irey around 1863, lived until 1907
 - Mary's obituary in *Daily News-Democrat* (1907) is a key source
 
+### New Details (Ancestry Export)
+
+- **Parents**: Leonard Parrett (1779–1854) & Elizabeth House Haus Webb (1785–1860)
+- **1830 residence**: Perry, Richland, Ohio (age 10)
+- **1850 residence**: Lagro, Wabash, Indiana — Occupation: **Farmer**
+- **1860 residence**: Dallas, Antioch, Huntington, Indiana — Occupation: **Merchant** (career change!)
+- **Siblings who also served**: James Parrott Pvt (1808–1855), Elias Parrott Pvt (1817–1862, died Louisville, KY)
+- **Missing child**: Sarah J Parrett (1848–1851) — died at age 3
+- **Ancestry sources confirm military service**: "U.S., Registers of Deaths of Volunteers, 1861-1865"
+
+### Children with Mary Shelly (corrected list)
+
+1. Martha E Parrett (1845–1931) — born Andrews, Huntington, Indiana
+2. Joseph Leonard Parrett (1846–1928) — born Andrews
+3. Sarah J Parrett (1848–1851) — **died age 3**
+4. Mary Louise Parrett (1852–1929)
+5. Eliza Alida Sullivan (1854–1939)
+6. Amy "Annie" Clementine Parrett (1857–1944)
+7. John Anderson Parrett (1859–1938)
+
 ### Still Unknown
 
-- Exact regiment and rank
-- Location of pension file (not found under Mary Shelly or Mary Irey)
+- Exact regiment and rank (sources exist but not yet retrieved)
+- Location of pension file
 
 ---
 
@@ -65,10 +86,10 @@ Summary of findings from GPT lite deep research (Feb 2026).
 | Field | Previous | Corrected |
 |-------|----------|-----------|
 | Mary Ann Beeks fate | Unknown (assumed death or divorce) | **Divorced** — she lived until **1981** |
-| Children with Mary Ann | Listed as 7 | Research says **2 sons** — needs verification |
+| Children with Mary Ann | Listed as 7 | **6 children** (confirmed by Ancestry) |
 | Thompson wives | Suspected sisters | **Confirmed sisters** — both born Cleveland (Nettie 1884, Lillie 1879) |
 
-### New Details
+### New Details (GPT Research)
 
 - St. Joseph, Michigan (1906 marriage location) had manufacturing/shipyard jobs — Adam likely working there
 - Both Adam and Mary Ann listed Indiana residence on marriage record
@@ -76,28 +97,52 @@ Summary of findings from GPT lite deep research (Feb 2026).
 - After Nettie's death (1926), Adam married her sister Lillie
 - Both Thompson sisters had been married to other men before Adam
 
+### Mary Ann Beeks — Full Picture (Ancestry Export)
+
+- **Born**: 12 Aug 1889, **Lagro**, Wabash County, Indiana — same town as Adam!
+- **Parents**: Isaac Newton Beeks (1860–1928) & Rebecca Susan Enyeart (1862–1933)
+- **St. Joseph, Michigan wedding**: Likely elopement, not her hometown
+- **1950 census**: Marital status explicitly listed as **"Divorced"**
+- **Remarried**: 1 Mar 1930 to **Malen Ray North** in Wabash, Indiana
+- **3 more children with North**: Thelma Eudora (1923–2015), George Isaac (1924–1978), John Gilbert (1926–2000)
+- **Died**: 2 Sep 1981, Columbia City, Whitley County, Indiana (age 92)
+- **She was 61 when James and Ferry drowned** — they were her sons too
+
+### Children with Mary Ann Beeks (confirmed)
+
+1. Charles Edward Parrett (1908–1983) — *our direct ancestor*
+2. Gertrude P. Coy (1909–2010)
+3. Glenn Leroy Parrett (1911–2001)
+4. James Franklin "Jim" Parrett (1913–1951)
+5. Ferry Ellsworth Parrett (1916–1951)
+6. Hazel Irene Parrett (1919–2012)
+
 ### Mud Lake Drowning (May 13, 1951)
 
 New details from *Columbia City Palladium-Item* (May 15, 1951):
-- James Franklin Parrett (b. June 14, 1913) and Ferry Ellsworth Parrett (b. Aug 1, 1915)
+- James Franklin Parrett (b. June 14, 1913) and Ferry Ellsworth Parrett (b. Aug 1, 1916)
 - Drowned while **setting a trotline** (fishing)
 - Boat capsized in Mud Lake (now Nyona Lake), Whitley County
-- Younger brother **Glen escaped** by swimming to safety
+- Younger brother **Glenn escaped** by swimming to safety
 - Ferry's body recovered at 2:30 a.m., James's at 5:15 a.m.
+- Both Adam (age 66) and Mary Ann (age 61, by then remarried to North) lost their sons that day
 
 ### Still Unknown
 
-- Divorce date/record for Mary Ann Beeks
+- Exact divorce date for Adam and Mary Ann (between 1920–1930)
 - Why listed as "widower" in 1921 if Mary Ann was alive (perhaps shorthand for divorced?)
 
 ---
 
 ## Corrected Timeline
 
-**Amos Parret (c. 1820–1863)**
-- c. 1820: Born in Ohio
-- 1843: Married Mary Shelly, Wabash County, Indiana
-- Sept 1863: Died at Helena, Arkansas (Union soldier, likely disease)
+**Amos Parret (1820–1863)**
+- 1820: Born, Preble County, Ohio
+- 1830: Living Perry, Richland, Ohio (age 10)
+- 24 Jun 1843: Married Mary Shelly, Wabash County, Indiana
+- 1850: Farmer in Lagro, Wabash County
+- 1860: Merchant in Dallas/Antioch, Huntington County
+- 24 Sept 1863: Died at Helena, Arkansas (Union soldier, likely disease)
 
 **John Anderson Parrett (1859–1938)**
 - May 1, 1859: Born, Wabash County, Indiana
@@ -119,20 +164,33 @@ New details from *Columbia City Palladium-Item* (May 15, 1951):
 
 ---
 
-## Bio Updates Needed
+## Bio Updates Completed
+
+### John Anderson Parrett bio ✓
+- ✓ Updated Amos: born Ohio, married 1843, died of disease
+- ✓ Added 1920 census "widower" was likely an error
+- ✓ Added quiet divorce presumably occurred by 1926
+- ✓ Clarified farm likely lost/sold between 1900-1910
+
+### Adam Amos Parrett bio ✓
+- ✓ Corrected: Mary Ann Beeks was divorced, lived until 1981
+- ✓ Corrected: 6 children with Mary Ann (not 7)
+- ✓ Added: Nettie and Lillie Thompson were sisters
+- ✓ Expanded: Mud Lake drowning details (trotline, Glenn survived)
+
+## Bio Updates Still Needed
 
 ### John Anderson Parrett bio
-- Add: 1920 census "widower" was likely an error
-- Add: Quiet divorce presumably occurred by 1926 (no record found)
-- Clarify: Farm likely lost/sold between 1900-1910
+- Add: Amos's parents (Leonard Parrett & Elizabeth House Haus Webb)
+- Add: Amos was a Merchant by 1860 (not just farmer)
+- Add: Missing sibling Sarah J Parrett (1848–1851)
 
 ### Adam Amos Parrett bio
-- **Correct**: Mary Ann Beeks was divorced, not dead — she lived until 1981
-- **Correct**: Number of children with Mary Ann (verify: 7 vs 2?)
-- **Add**: Nettie and Lillie Thompson were sisters
-- **Expand**: Mud Lake drowning details (trotline, Glen survived)
-- **Clarify**: 1921 "widower" status meant divorced, not actually widowed
+- Add: Mary Ann Beeks was from Lagro (same hometown)
+- Add: Mary Ann remarried Malen Ray North in 1930, had 3 more children
+- Clarify: St. Joseph, Michigan wedding was likely elopement
 
 ---
 
 *Compiled: 2026-02-04*
+*Updated with Ancestry exports: 2026-02-04*
