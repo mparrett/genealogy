@@ -6,17 +6,26 @@ birth:
   location: Rathfarnham, Dublin
 death:
   year: 1911
-  label: Died
-  location: Dublin South, Ireland
+  label: Died (workhouse)
+  location: South Dublin Union
 events:
   - year: 1850
     label: Married James Higgins
     type: marriage
+  - year: 1866
+    label: Father James died
+    type: event
   - year: 1880
     label: Husband James died
     type: event
   - year: 1881
     label: Mother Margaret died
+    type: event
+  - year: 1901
+    label: Census (laundress, Terenure)
+    type: event
+  - year: 1908
+    label: Entered workhouse
     type: event
 
 family_links:
