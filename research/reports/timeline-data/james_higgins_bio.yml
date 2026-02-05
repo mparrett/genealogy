@@ -1,0 +1,31 @@
+draft: true
+name: James Higgins
+birth:
+  year: 1830
+  label: Born
+  location: County Wicklow, Ireland
+death:
+  year: 1880
+  label: Died
+  location: Harold's Cross, Dublin
+events:
+  - year: 1850
+    label: Married Jane Eustace
+    type: marriage
+  - year: 1851
+    label: Son Christopher born
+    type: event
+  - year: 1854
+    label: Son Laurence born
+    type: event
+  - year: 1857
+    label: Father died
+    type: event
+
+family_links:
+  - name: Jane Eustace
+    relation: Wife
+    link: jane_eustace_bio.html
+  - name: Laurence Higgins
+    relation: Son
+    link: laurence_higgins_bio.html
