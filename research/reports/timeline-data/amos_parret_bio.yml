@@ -1,0 +1,26 @@
+draft: true
+name: Amos Parret
+birth:
+  year: 1820
+  label: Born
+  location: Preble County, Ohio
+death:
+  year: 1863
+  label: Died (Helena, AR)
+  location: Helena, Arkansas
+events:
+  - year: 1843
+    label: Married Mary Shelly
+    type: marriage
+  - year: 1850
+    label: Farmer in Lagro
+    type: event
+  - year: 1859
+    label: Son John Anderson born (our ancestor)
+    type: event
+  - year: 1860
+    label: Merchant in Huntington Co.
+    type: event
+  - year: 1863
+    label: Enlisted, Union Army
+    type: event
