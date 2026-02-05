@@ -28,7 +28,7 @@ Jane's father James Eustace died in 1866. Her husband James Higgins died on May 
 
 The 1890s brought more loss. Son Christopher died in Toxteth Park, Lancashire, in 1891. Son William died in 1892 at the South Dublin Union Workhouse, his residence listed as Charlemont Street. Daughter Mary Jane died in 1895 at Harold's Cross Hospice. Son James died in November 1899.
 
-<img src="../../../images/bio/jane-eustace-01-rathfarnham-laundress.jpg" alt="Elderly Irish widow working as a laundress in Rathfarnham, circa 1900" class="float-right">
+<img src="../../../images/bio/jane-eustace-01-rathfarnham-laundress.jpg" alt="Elderly Irish widow working as a laundress in Rathfarnham, circa 1900" class="float-right-sm">
 
 The 1901 Irish Census found Jane living alone in Terenure, back in the Rathfarnham area where she was born. At 71, she was still working as a **laundress**—though she gave her age as 82 on the census form. A widow supporting herself through manual labor, decades after burying her husband and most of her children.
 
