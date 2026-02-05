@@ -32,6 +32,8 @@ The shift from farming to mercantile work suggests Amos was part of the growing 
 
 ### Civil War Service and Death
 
+<img src="../../../images/locations/helena-arkansas-1863.jpg" alt="Helena, Arkansas — 1863" class="float-right">
+
 Amos enlisted in the Union Army during the Civil War. His specific regiment has not been identified, though the **43rd Indiana Infantry** and **1st Indiana Cavalry** were stationed at Helena, Arkansas in 1863. His brothers also served—**James Parrott** died in 1855, and **Elias Parrott** died February 22, 1862 in Louisville, Kentucky.
 
 Amos died on **September 24, 1863** in **Helena, Arkansas**, at age 43. With no combat recorded on that date, he likely succumbed to disease—Helena's military hospitals were overwhelmed with illness that year. Dysentery, typhoid, and malaria were rampant among troops stationed there.

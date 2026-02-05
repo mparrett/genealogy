@@ -24,3 +24,15 @@ events:
   - year: 1863
     label: Enlisted, Union Army
     type: event
+
+location_aside:
+  place: Preble County
+  region: Ohio
+  year: c. 1820
+  image: locations/preble-county-ohio-1820.jpg
+  layout: vertical
+  after_paragraph: 1
+  description: >
+    The western Ohio frontier where Amos was born in 1820. His family
+    moved to Richland County by 1830, then to Indiana where Amos would
+    marry and raise his own family.
