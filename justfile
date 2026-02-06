@@ -37,9 +37,9 @@ clean:
     rm -rf research/reports/html/
     echo "✅ Cleaned HTML reports"
 
-# Preview the site locally (requires Python)
+# Preview the site locally
 serve:
-    python3 -m http.server 8000
+    npx serve . --listen tcp://0.0.0.0:3000
 
 # Update the main site index with new reports
 update-index:
