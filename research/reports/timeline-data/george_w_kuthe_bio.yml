@@ -8,7 +8,7 @@ death:
   label: Died
   location: Arizona
 events:
-  - year: 1891
+  - year: 1892
     label: Married Huldah
     type: marriage
   - year: 1907

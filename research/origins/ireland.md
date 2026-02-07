@@ -19,9 +19,9 @@ Their son **Laurence Higgins** (1854–1930) married twice in Dublin before emig
 Jane's father, **James Eustace** (c. 1798–1866), married Margaret Conlan at Rathfarnham in 1821. The Eustace family had deep roots in the area—the name appears in parish records going back generations.
 
 **Dublin Bios:**
-- [James Higgins (1830–1880)](../../reports/html/james_higgins_bio.html) — laborer, father of eleven
-- [Jane Eustace (1829–1911)](../../reports/html/jane_eustace_bio.html) — laundress, widow
-- [Laurence Higgins (1854–1930)](../../reports/html/laurence_higgins_bio.html) — emigrated to Newark
+- [James Higgins (1830–1880)](../reports/html/james_higgins_bio.html) — laborer, father of eleven
+- [Jane Eustace (1829–1911)](../reports/html/jane_eustace_bio.html) — laundress, widow
+- [Laurence Higgins (1854–1930)](../reports/html/laurence_higgins_bio.html) — emigrated to Newark
 
 ---
 
@@ -31,16 +31,16 @@ Jane's father, **James Eustace** (c. 1798–1866), married Margaret Conlan at Ra
 
 The **Gleeson** and **Fitzgerald** families came from County Limerick in Munster, the southwestern province hardest hit by the Famine. The town of **Croom**, on the River Maigue, was home to both families.
 
-**James Fitzgerald** (c. 1830–1897) and **Maria Ann Gleeson** (1842–1918) married around 1863 and had at least seven children before emigrating to America in the 1880s. They settled in Newark, New Jersey—the same city where Laurence Higgins would arrive from Dublin.
+**James Fitzgerald** (1828–1899) emigrated from Dromin/Athlacca, County Limerick, during the famine era and settled in Wisconsin. His daughter **Maria Ann Fitzgerald** (1865–1916), born in Wisconsin, later married **James J. Gleeson** (1863–1946), an immigrant from Croom, County Limerick.
 
-Maria's father, **James Joseph Gleeson** (c. 1805–1864), was a shopkeeper in Croom. Her mother was Anne Madigan. The Gleesons were Catholic middling folk—not gentry, but not laborers either.
+James J. Gleeson's baptism record identifies parents **Patritii Gleeson** and **Margaritæ Moloney**. The Gleesons were Catholic middling folk—not gentry, but not laborers either.
 
 The Fitzgeralds and Gleesons represent a different slice of Irish emigration than the Dublin families: rural Munster rather than urban Leinster, though both ended up in the same Newark neighborhoods.
 
 **Limerick Bios:**
-- [James Fitzgerald (c. 1830–1897)](../../reports/html/james_fitzgerald_bio.html) — Croom to Newark
-- [Maria Ann Gleeson (1842–1918)](../../reports/html/maria_ann_fitzgerald_bio.html) — shopkeeper's daughter
-- [James Joseph Gleeson (c. 1805–1864)](../../reports/html/james_j_gleeson_bio.html) — Croom shopkeeper
+- [James Fitzgerald (1828–1899)](../reports/html/james_fitzgerald_bio.html) — Limerick to Wisconsin
+- [Maria Ann Fitzgerald (1865–1916)](../reports/html/maria_ann_fitzgerald_bio.html) — Wisconsin-born daughter of Irish immigrants
+- [James J. Gleeson (1863–1946)](../reports/html/james_j_gleeson_bio.html) — Croom immigrant to Wisconsin
 
 ---
 
@@ -53,7 +53,7 @@ The Fitzgeralds and Gleesons represent a different slice of Irish emigration tha
 The Knights represent a third regional origin—Connacht, the poorest province, which lost the highest proportion of its population to famine and emigration. Mary's journey from Sligo to America to Dublin and back to America traces the complicated paths of 19th-century Irish migration.
 
 **Sligo Bios:**
-- [Mary Knight (1866–1930)](../../reports/html/mary_knight_bio.html) — Sligo to Newark
+- [Mary Knight (1866–1930)](../reports/html/mary_knight_bio.html) — Sligo to Newark
 
 ---
 
@@ -125,5 +125,5 @@ Newark's Fifth Ward became an Irish enclave where families from Dublin and Limer
 ---
 
 **Lines from Ireland:**
-- [Higgins Line](../../../lines/higgins.html) — Dublin to Newark to Arizona
-- [Gleeson Line](../../../lines/gleeson.html) — Limerick to Newark to Arizona
+- [Higgins Line](../../lines/higgins.html) — Dublin to Newark to Arizona
+- [Gleeson Line](../../lines/gleeson.html) — Limerick to Newark to Arizona

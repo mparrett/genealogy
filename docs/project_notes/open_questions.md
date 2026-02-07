@@ -1,6 +1,6 @@
 # Open Questions Tracker
 
-Last updated: 2026-01-27
+Last updated: 2026-02-05
 
 Purpose: single place to track unresolved research questions, conflicts, and high-value next actions.
 
@@ -24,14 +24,14 @@ Conventions:
   Status: NEEDS-CONFIRMATION
   Question: Did Moses Mansfield Mowery and Samuel S. Mowrey both die on 29 Aug 1904 in Lamar County, TX? If yes, what was the cause?
   Next action: Check Lamar County death register + local newspapers late Aug/early Sept 1904; Milton Cemetery survey.
-  Source refs: research/deep-research-prompt.md, research/direct-ancestors.md, research/reports/Moses_Mansfield_Mowery_1822-1904_Biography.md
+  Source refs: research/deep-research-prompt.md, research/direct-ancestors.md, research/reports/moses_mansfield_mowery_bio.md
 
 - ID: MOW-003
   Status: IN-PROGRESS
   Question: When did Margaret Elizabeth Witt die (c. 1900–1903 vs 1904)?
   Notes: User is verifying manually (Ancestry child death records mention her).
   Next action: Confirm via census (1900), cemetery records, and any death certificate or local obit.
-  Source refs: research/verify-mowrey-line.md, research/ancestry-tree-fixes.md, research/reports/Moses_Mansfield_Mowery_1822-1904_Biography.md
+  Source refs: research/verify-mowrey-line.md, research/ancestry-tree-fixes.md, research/reports/moses_mansfield_mowery_bio.md
 
 - ID: MOW-004
   Status: CONFLICT
@@ -189,9 +189,10 @@ Conventions:
 
 - ID: DOC-001
   Status: CONFLICT
-  Question: OVERVIEW.md claims six biographies across two lines, but repo includes more bios.
-  Next action: Update overview counts/lines or clarify which are "published".
-  Source refs: OVERVIEW.md, research/reports/
+  Question: OVERVIEW.md is out of date (biography counts and homepage description).
+  Notes: Overview lists 11 biographies across three lines and describes a `<details>`-based homepage, but the repo now includes 29 report HTML files and `index.html` uses line cards with thumbnails.
+  Next action: Update overview counts/layout description or mark the file as historical.
+  Source refs: OVERVIEW.md, research/reports/html/, index.html
 
 - ID: DOC-002
   Status: OPEN
@@ -204,3 +205,16 @@ Conventions:
   Question: TODO list claims Lewis as German immigrant (conflicts with corrections).
   Next action: Update TODO to match current understanding.
   Source refs: TODO.md, research/ancestry-tree-fixes.md
+
+- ID: DOC-004
+  Status: OPEN
+  Question: Moses Mansfield Mowery lineage PDF is linked publicly but stored in `pdf/internal/`.
+  Next action: Decide whether to publish the PDF in `pdf/` or remove/update the links.
+  Source refs: lines/data/mowery.yml, research/reports/moses_mansfield_mowery_bio.md, pdf/internal/Moses_Mansfield_Mowery_1822-1904_Lineage_Confirmation.pdf
+
+- ID: DOC-005
+  Status: OPEN
+  Question: Naming convention guidance conflicts with existing report filenames.
+  Notes: Instructions call for kebab-case but `research/reports/` uses snake_case.
+  Next action: Decide whether to update guidance or plan a rename migration.
+  Source refs: AGENTS.md, research/reports/
