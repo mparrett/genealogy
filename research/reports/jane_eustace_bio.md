@@ -1,5 +1,4 @@
-
-### **Jane Eustace (1829–1911)**
+# Jane Eustace (1829–1911)
 **Relationship:** 3rd great-grandmother (Higgins line)
 
 *Dublin Laundress, Widow Who Outlived Her Children*

@@ -1,5 +1,4 @@
-
-### **Pleasant A. Mowrey (c. 1830s–?)**
+# Pleasant A. Mowrey (c. 1830s–?)
 **Relationship:** 3rd great-granduncle (Mowery line)
 
 *The Youngest Who Traveled with His Mother*

@@ -1,5 +1,4 @@
-
-### **Laurence Higgins (1854–1930)**
+# Laurence Higgins (1854–1930)
 **Relationship:** 2nd great-grandfather (Higgins line)
 
 *Irish Immigrant, Newark Porter, Twice Widowed*

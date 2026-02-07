@@ -1,5 +1,4 @@
-
-### **Maria Ann Fitzgerald (1865–1916)**
+# Maria Ann Fitzgerald (1865–1916)
 **Relationship:** 2nd great-grandmother (Gleeson line)
 
 *Wisconsin Native, Daughter of Irish Immigrants*

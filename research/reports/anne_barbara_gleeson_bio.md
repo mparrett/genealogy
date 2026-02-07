@@ -1,4 +1,4 @@
-### **Anne Barbara Gleeson (1903–1986)**
+# Anne Barbara Gleeson (1903–1986)
 **Relationship:** Great-great-grandmother (Gleeson/Mowrey line)
 
 *Wisconsin Native, Arizona Pioneer Wife, Mother of Patricia*

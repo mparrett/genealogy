@@ -1,4 +1,4 @@
-### **Patricia Anne Mowrey (1929–2009)**
+# Patricia Anne Mowrey (1929–2009)
 **Relationship:** 1st great-grandmother (Mowrey line)
 
 *Williams Girl, College Graduate, Arizona Matriarch*

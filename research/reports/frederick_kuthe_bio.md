@@ -1,5 +1,4 @@
-
-### **Frederick Kuthe (c. 1822–1900)**
+# Frederick Kuthe (c. 1822–1900)
 **Relationship:** 3rd great-grandfather (Kuthe line)
 
 *German Immigrant, Missouri Farmer*

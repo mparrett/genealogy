@@ -1,4 +1,4 @@
-## Biography of Elizabeth "Betsy" Lisbee Mowery
+# Elizabeth "Betsy" Lisbee Mowery
 **Relationship:** 4th great-grandmother (Mowery line)
 
 *Tennessee Native, Pioneer Wife, Maternal Matriarch*

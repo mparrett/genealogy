@@ -1,5 +1,4 @@
-
-### **Robert W. Birch (1869–1950)**
+# Robert W. Birch (1869–1950)
 **Relationship:** Foster great-great-grandfather (raised Howard Higgins/Birch)
 
 *Canadian Pioneer, Arizona Hotelier, Guardian of the Birch Name*

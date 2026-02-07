@@ -1,4 +1,4 @@
-### **Johann Peter Maurer (1709–1781)**
+# Johann Peter Maurer (1709–1781)
 **Relationship:** 6th great-grandfather (Mowrey line)
 
 *German Immigrant, Pennsylvania Pioneer, Progenitor of the Mowrey Line*
