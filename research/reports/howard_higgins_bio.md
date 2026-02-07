@@ -1,5 +1,5 @@
 # Howard Robert Higgins / Birch (1927–2019)
-**Relationship:** Grandfather (paternal)
+**Relationship:** Grandfather (maternal; born Howard Higgins, later Howard Birch)
 
 *Desert Son, Military Veteran, Electrical Engineer*
 

@@ -20,7 +20,7 @@ Transcribed from `assets/mparrett-direct-ancestors.png`.
 | **Michael Lee Parrett** | 1949–Living | Father |
 | **Michele A. Birch** | 1951–Living | Mother |
 
-Also shown: James Fred Garliepp (1952–Living), Melanie D. Birch Garliepp (1953–Living), Michael K. Birch (1956–2010) — Michele's siblings/in-laws.
+Also shown: James Fred Garliepp (1952–Living), Melanie D. Birch Garliepp (1953–Living), Michael K. Birch (1958–2010) — Michele's siblings/in-laws.
 
 ---
 
@@ -30,7 +30,7 @@ Also shown: James Fred Garliepp (1952–Living), Melanie D. Birch Garliepp (1953
 |---|--------|-------|-------|
 | 1 | James E. Parrett | 1929–2000 | Paternal grandfather |
 | 2 | Patricia J. Kemp | 1931–2003 | Paternal grandmother |
-| 3 | Howard R. Higgins Birch | 1922–2019 | Maternal grandfather |
+| 3 | Howard R. Higgins Birch | 1927–2019 | Maternal grandfather |
 | 4 | Patricia A. Mowrey | 1929–2009 | Maternal grandmother |
 
 ---
@@ -62,7 +62,7 @@ Also shown: James Fred Garliepp (1952–Living), Melanie D. Birch Garliepp (1953
 | 6 | Nellie Irene Frazier | 1880–1947 | Frazier |
 | 7 | John D. Lichilter | 1852–1915 | Lichilter |
 | 8 | Mary J. M. Reitenour | 1869–1933 | Reitenour |
-| 9 | Laurence Higgins | 1854–1940 | Higgins |
+| 9 | Laurence Higgins | 1854–before 17 Feb 1930 | Higgins |
 | 10 | Mary Knight | 1866–1930 | Knight |
 | 11 | George W. Kuthe | 1869–1925 | Kuthe |
 | 12 | Huldah I. Bridgefarmer | 1873–1907 | Bridgefarmer |
