@@ -1,5 +1,4 @@
-
-### **James Everett Higgins (1892–1938)**
+# James Everett Higgins (1892–1938)
 **Relationship:** Great-grandfather (Higgins line)
 
 *Orphan, Railroad Engineer, WWI Veteran*

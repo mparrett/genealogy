@@ -1,5 +1,4 @@
-
-### **James Higgins (1830–1880)**
+# James Higgins (1830–1880)
 **Relationship:** 3rd great-grandfather (Higgins line)
 
 *Dublin Laborer, Father of Eleven*

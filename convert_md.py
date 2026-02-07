@@ -4,6 +4,7 @@ Markdown to HTML converter for genealogy reports.
 """
 
 import argparse
+import html
 import mistune
 from mistune.renderers.html import HTMLRenderer
 import os
@@ -27,6 +28,38 @@ def load_timeline_data(md_file_path: Path) -> dict | None:
         return None
     with open(timeline_file, 'r', encoding='utf-8') as f:
         return yaml.safe_load(f)
+
+
+def _strip_markdown_title(text: str) -> str:
+    """Normalize a Markdown heading into plain text for HTML title usage."""
+    text = re.sub(r'`([^`]*)`', r'\1', text)
+    text = re.sub(r'!\[([^\]]*)\]\([^)]+\)', r'\1', text)
+    text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)
+    text = re.sub(r'[*_~]+', '', text)
+    text = re.sub(r'<[^>]+>', '', text)
+    return ' '.join(text.split()).strip()
+
+
+def extract_title(markdown_content: str, body_content: str, fallback: str) -> str:
+    """Extract a stable page title from markdown headings, with safe fallback."""
+    for line in markdown_content.splitlines():
+        stripped = line.strip()
+        if not stripped:
+            continue
+        match = re.match(r'#{1,6}\s+(.+?)\s*#*\s*$', stripped)
+        if match:
+            cleaned = _strip_markdown_title(match.group(1))
+            if cleaned:
+                return cleaned
+
+    match = re.search(r'<h[1-6][^>]*>(.*?)</h[1-6]>', body_content, re.IGNORECASE | re.DOTALL)
+    if match:
+        heading_text = re.sub(r'<[^>]+>', '', match.group(1))
+        cleaned = ' '.join(html.unescape(heading_text).split())
+        if cleaned:
+            return cleaned
+
+    return fallback
 
 
 def generate_timeline_html(data: dict) -> str:
@@ -178,9 +211,8 @@ def convert_file(md_file_path, html_file_path, production: bool = False):
         markdown = mistune.create_markdown(renderer=renderer, plugins=['footnotes', 'table'])
         body_content = markdown(markdown_content)
 
-        # Extract title from first heading or filename
-        title_line = markdown_content.split('\n')[0] if markdown_content.startswith('#') else md_file_path.stem
-        title = title_line.lstrip('#').strip() if title_line.startswith('#') else title_line
+        # Extract title from first heading (any level), fallback to filename stem
+        title = extract_title(markdown_content, body_content, md_file_path.stem)
 
         # Load timeline data if available
         timeline_data = load_timeline_data(md_file_path)

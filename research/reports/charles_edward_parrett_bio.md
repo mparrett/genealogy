@@ -1,4 +1,4 @@
-### **Charles Edward Parrett (1908–1983)**
+# Charles Edward Parrett (1908–1983)
 **Relationship:** Great-grandfather (Parrett line)
 
 *Indiana Native, Auto Mechanic, Family Man*

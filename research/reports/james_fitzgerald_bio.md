@@ -1,5 +1,4 @@
-
-### **James Fitzgerald (1828–1899)**
+# James Fitzgerald (1828–1899)
 **Relationship:** 3rd great-grandfather (Gleeson/Fitzgerald line)
 
 *Irish Immigrant, Wisconsin Farmer*

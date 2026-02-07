@@ -1,5 +1,4 @@
-
-### **Samuel S. Mowrey (1867–1904)**
+# Samuel S. Mowrey (1867–1904)
 **Relationship:** 2nd great-grandfather (Mowrey line)
 
 *Texas Farmer, Father of Four, Gone Too Soon*

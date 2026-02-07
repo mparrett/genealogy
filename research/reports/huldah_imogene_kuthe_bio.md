@@ -1,5 +1,4 @@
-
-### **Huldah Imogene (Bridgefarmer) Kuthe (1873–1907)**
+# Huldah Imogene (Bridgefarmer) Kuthe (1873–1907)
 **Relationship:** 2nd great-grandmother (Kuthe line)
 
 *Oregon Native, Pioneer Descendant, Early 20th Century Farm Wife*

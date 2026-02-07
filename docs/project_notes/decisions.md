@@ -101,3 +101,30 @@ uv run --with pillow python -c "from PIL import Image; img = Image.open('file.pn
 **Decision**: Add `'table'` plugin to mistune in convert_md.py.
 
 **Fix**: `plugins=['footnotes', 'table']`
+
+## ADR-007: Canonical Bio Heading and Title Extraction (2026-02-07)
+
+**Context**: Bio markdown files had inconsistent first headings (`## Biography of ...`, `### **Name**`, leading blank lines), which led to inconsistent semantic structure and brittle HTML `<title>` values.
+
+**Decision**:
+- For all bios (files with a matching `research/reports/timeline-data/<stem>.yml`), the first non-empty line is a single H1: `# Person Name (dates)`.
+- H1 text should not be wrapped in markdown emphasis (`**...**`) and should avoid boilerplate prefixes like `Biography of`.
+- `convert_md.py` extracts titles from the first heading at any level as a fallback-safe mechanism.
+
+**Consequences**:
+- Bio source files are easier to audit and keep consistent.
+- Generated HTML titles and heading hierarchy are stable across the site.
+- Future drift is reduced by explicit convention in `CLAUDE.md`.
+
+## ADR-008: Canonical Bio Filename Stem (2026-02-07)
+
+**Context**: One bio used an outlier stem (`Moses_Mansfield_Mowery_1822-1904_Biography`) that diverged from the standard bio naming pattern and made references harder to maintain.
+
+**Decision**:
+- Bio files use lowercase snake-case stems with `_bio` suffix.
+- Report markdown, timeline YAML, and generated HTML use the same stem.
+- Example canonical stem: `moses_mansfield_mowery_bio`.
+
+**Consequences**:
+- Link references in line data and family links are more predictable.
+- Renames become mechanical and less error-prone.

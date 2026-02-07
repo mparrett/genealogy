@@ -1,4 +1,4 @@
-### **John Anderson Parrett (1859–1938)**
+# John Anderson Parrett (1859–1938)
 **Relationship:** 3rd great-grandfather (Parrett line)
 
 *Civil War Orphan, Indiana Farmer, Patriarch of the Parrett Family*

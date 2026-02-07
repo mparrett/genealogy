@@ -1,4 +1,4 @@
-### **Amos Parret (1820–1863)**
+# Amos Parret (1820–1863)
 **Relationship:** 4th great-grandfather (Parrett line)
 
 *Ohio Native, Indiana Merchant, Civil War Casualty*

@@ -1,5 +1,4 @@
-
-### **Raymond Robert Mowrey (1899–1973)**
+# Raymond Robert Mowrey (1899–1973)
 **Relationship:** Great-grandfather (Mowrey line)
 
 *Texas-Born, Arizona-Made, A Pillar of Williams*

@@ -1,4 +1,4 @@
-### **Peter W. Mowrey (1760–1840)**
+# Peter W. Mowrey (1760–1840)
 **Relationship:** 5th great-grandfather (Mowrey line)
 
 *Revolutionary War Veteran, Pennsylvania German, Appalachian Pioneer*

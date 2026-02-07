@@ -1,5 +1,4 @@
-
-### **Doris Pauline Kuthe (1902–1996)**
+# Doris Pauline Kuthe (1902–1996)
 **Relationship:** Biological grandmother (mother of Howard Higgins/Birch)
 
 *Resilient Educator, Devoted Mother, Lifelong Friend*

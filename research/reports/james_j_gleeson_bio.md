@@ -1,5 +1,4 @@
-
-### **James J. Gleeson (1863–1946)**
+# James J. Gleeson (1863–1946)
 **Relationship:** 2nd great-grandfather (Gleeson line)
 
 *Irish Immigrant, Wisconsin Settler*

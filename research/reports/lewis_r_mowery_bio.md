@@ -1,5 +1,4 @@
-
-### **Lewis R. Mowery (c. 1801–c. 1850)**
+# Lewis R. Mowery (c. 1801–c. 1850)
 **Relationship:** 4th great-grandfather (Mowery line)
 
 *Tennessee Farmer, Family Patriarch, the One Who Didn't Go West*

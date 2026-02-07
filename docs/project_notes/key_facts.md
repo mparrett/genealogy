@@ -3,11 +3,11 @@
 ## Site
 - GitHub Pages: https://mparrett.github.io/genealogy
 - Build: `just build-reports` (converts markdown to HTML via mistune)
-- Local preview: tmux session `serve-genea` runs server on port 8000
+- Local preview: tmux session `genealogy-server` runs server on port 3000
 
 ## Structure
 - Reports: `research/reports/*.md` → `research/reports/html/`
-- Ancestry PDFs: `assets/ancestry/`
+- Ancestry PDFs: `assets/external/ancestry/`
 - Research notes: `research/`
 
 ## Matt's Direct Lineage (Mowrey Line)

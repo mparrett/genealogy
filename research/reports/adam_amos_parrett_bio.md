@@ -1,4 +1,4 @@
-### **Adam Amos Parrett (1885–1959)**
+# Adam Amos Parrett (1885–1959)
 **Relationship:** 2nd great-grandfather (Parrett line)
 
 *Indiana Farm Boy, WWI Registrant, Cleveland Tradesman*

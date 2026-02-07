@@ -44,7 +44,7 @@ Run the local server in a **tmux session** so it persists across Claude sessions
 
 ```bash
 # Check first!
-tmux list-sessions | grep genealogy || curl -s localhost:8000 > /dev/null && echo "Already running"
+tmux list-sessions | grep genealogy || curl -s localhost:3000 > /dev/null && echo "Already running"
 
 # Start only if not running
 tmux new-session -d -s genealogy-server 'just serve'
@@ -56,7 +56,7 @@ tmux attach -t genealogy-server
 tmux kill-session -t genealogy-server
 ```
 
-Site available at **http://localhost:8000**
+Site available at **http://localhost:3000**
 
 ## Project Structure
 
@@ -114,6 +114,10 @@ assets/
 - Keep names short: `gleeson-deep.md` not `gleeson-deep-research-prompt.md`
 - Include line name or person name as prefix
 - For dated exports: `<name>-<date>.md` (e.g., `raymond-mowrey-2026-01-29.md`)
+- Bio report/timeline stems should be lowercase snake case with `_bio` suffix and matching stems:
+  - `research/reports/<stem>.md`
+  - `research/reports/timeline-data/<stem>.yml`
+  - `research/reports/html/<stem>.html`
 
 ## Workflow
 
@@ -125,6 +129,11 @@ assets/
 ## Content Guidelines
 
 Reports use Markdown footnotes for citations. The HTML converter applies custom vintage-style CSS with sepia tones appropriate for genealogy content.
+
+Bio source convention (for files with matching `timeline-data/*.yml`):
+- First non-empty line must be a single H1: `# Person Name (dates)`
+- Do not wrap the H1 text in `**bold**`
+- Keep the H1 concise; avoid prefixes like `Biography of`
 
 ## Bio Layout Components
 

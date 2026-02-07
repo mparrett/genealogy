@@ -1,4 +1,4 @@
-## Biography of Moses Mansfield Mowery
+# Moses Mansfield Mowery
 **Relationship:** 3rd great-grandfather (Mowery line)
 
 **Moses Mansfield Mowery** was born on **1 November 1822** in **Knox County, Tennessee**, likely the third of at least ten children born to **Lewis R. Mowery** and **Elizabeth "Betsy" Lisbee**[^1]. His middle name, *Mansfield*, was later passed down to one of his sons, suggesting family or ancestral significance.
@@ -40,7 +40,7 @@ The family's journey from East Tennessee to the Red River valley reflects a comm
 
 ### Additional Research
 
-For detailed lineage documentation and ancestry confirmation, see: [Moses Mansfield Mowery (1822–1904) – Lineage and Ancestry Confirmation (PDF)](../../../pdf/Moses_Mansfield_Mowery_1822-1904_Lineage_Confirmation.pdf)
+For detailed lineage documentation and ancestry confirmation, see: [Moses Mansfield Mowery (1822–1904) – Lineage and Ancestry Confirmation (PDF)](../../../pdf/internal/Moses_Mansfield_Mowery_1822-1904_Lineage_Confirmation.pdf)
 
 ### Footnotes
 
@@ -58,4 +58,3 @@ For detailed lineage documentation and ancestry confirmation, see: [Moses Mansfi
 [^12]: Lamar County cemetery surveys and family tradition place Moses, Margaret, and Samuel in Milton Cemetery, though graves are unmarked.
 [^13]: Based on triangulated evidence from children's naming patterns, proximity to known siblings, and historical records.
 [^14]: *Biographical Souvenir of the State of Texas*, p. 622; confirms Pleasant A. Mowrey as son of Lewis and Elizabeth (Lisby) Mowrey.
-
