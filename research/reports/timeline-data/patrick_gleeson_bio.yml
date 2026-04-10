@@ -1,0 +1,28 @@
+draft: true
+name: Patrick Gleeson
+birth:
+  year: 1835
+  label: Born
+  location: Co. Limerick, Ireland
+death:
+  year: 1900
+  label: Died (est.)
+  location: Ireland (presumed)
+events:
+  - year: 1860
+    label: Married Margaret Moloney
+    type: marriage
+  - year: 1863
+    label: Son James baptized
+    type: event
+  - year: 1878
+    label: Last child baptized
+    type: event
+  - year: 1883
+    label: Son James emigrated to US
+    type: migration
+
+family_links:
+  - name: James J. Gleeson
+    relation: Son
+    link: james_j_gleeson_bio.html

@@ -8,6 +8,14 @@ intro: |
 
 ancestors:
   direct:
+    - name: Patrick Gleeson
+      years: c. 1835–?
+      tagline: Sailor, Croom, County Limerick
+      relation: 3rd Great-Grandfather
+      bio: patrick_gleeson_bio.html
+      image_class: pgleeson
+      initials: PG
+
     - name: James Fitzgerald
       years: c. 1820–aft. 1880
       tagline: Irish Immigrant, Wisconsin Pioneer

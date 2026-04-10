@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patrick Gleeson (c. 1835–?)</title>
+    <style>
+        /* CSS Custom Properties */
+        :root {
+            --primary: #7a3a0f;      /* Rich brown - evokes old documents */
+            --secondary: #2c5530;    /* Deep forest green */
+            --accent: #d4a574;       /* Warm gold */
+            --text-primary: #2d3748;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --background: #fefefe;
+            --paper: #fcfcfc;        /* Slight warmth */
+            --border-light: #e8e5e0;
+            --footnote-red: #c53030; /* Warmer red */
+        }
+        
+        /* Modern CSS Reset */
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+        
+        * {
+            margin: 0;
+        }
+        
+        body {
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        img, picture, video, canvas, svg {
+            display: block;
+            max-width: 100%;
+        }
+
+        /* Full-width images clear floats */
+        img:not(.float-right):not(.float-left) {
+            clear: both;
+        }
+
+        /* Floating images for inline illustrations */
+        img.float-right {
+            float: right;
+            width: 50%;
+            margin: 0 0 1rem 1.5rem;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        img.float-left {
+            float: left;
+            width: 50%;
+            margin: 0 1.5rem 1rem 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        img.float-right-sm {
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        img.float-left-sm {
+            float: left;
+            width: 33%;
+            margin: 0 1.5rem 1rem 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        /* Feature accordion (expandable sections) */
+        details.feature-accordion {
+            margin: 2rem 0;
+            padding: 0;
+            border: 1px solid rgba(139, 69, 19, 0.2);
+            border-radius: 8px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.6) 0%, rgba(248,244,240,0.8) 100%);
+            overflow: hidden;
+        }
+
+        details.feature-accordion summary {
+            padding: 1rem 1.5rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 1.05rem;
+            font-weight: 500;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.625rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        details.feature-accordion[open] summary {
+            border-bottom: 1px solid rgba(139, 69, 19, 0.15);
+            border-radius: 8px 8px 0 0;
+            margin-bottom: 0.5rem;
+        }
+
+        details.feature-accordion summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.feature-accordion summary::before {
+            content: '▸';
+            font-size: 0.875rem;
+            color: rgba(139, 69, 19, 0.6);
+            transition: transform 0.2s ease, color 0.2s ease;
+        }
+
+        details.feature-accordion[open] summary::before {
+            transform: rotate(90deg);
+            color: var(--primary);
+        }
+
+        details.feature-accordion summary:hover {
+            background: rgba(139, 69, 19, 0.08);
+        }
+
+        details.feature-accordion > *:not(summary) {
+            padding: 0 1.5rem;
+        }
+
+        details.feature-accordion > p:first-of-type {
+            padding-top: 0.5rem;
+        }
+
+        details.feature-accordion > p:last-child {
+            padding-bottom: 1.5rem;
+            margin-bottom: 0;
+        }
+
+        /* Ensure content clears floated images */
+        details.feature-accordion[open]::after {
+            content: '';
+            display: block;
+            clear: both;
+            padding-bottom: 0.5rem;
+        }
+
+        details.feature-accordion em:last-child {
+            display: block;
+            margin-top: 1rem;
+            padding-bottom: 0.25rem;
+            font-size: 0.9rem;
+            font-style: italic;
+            color: rgba(122, 58, 15, 0.7);
+            clear: both;
+        }
+
+        /* Small images within accordions */
+        details.feature-accordion img {
+            width: 25%;
+            float: right;
+            margin: 0.25rem 0 1rem 1.25rem;
+        }
+
+        /* Clear floats after major sections (h2), but allow h3 to flow around location asides */
+        h2, hr {
+            clear: both;
+        }
+        
+        input, button, textarea, select {
+            font: inherit;
+        }
+        
+        /* Typography */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 1.875rem;
+            box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
+            border-radius: 8px;
+            min-height: 100vh;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 1rem;
+            color: var(--primary);
+        }
+        
+        h1 { font-size: 2.25rem; margin-bottom: 1.5rem; }
+        h2 { font-size: 1.875rem; margin-top: 2rem; }
+        h3 { font-size: 1.5rem; margin-top: 1.5rem; }
+        
+        /* Add breathing room at the top */
+        h1:first-child, h2:first-child, h3:first-child {
+            margin-top: 1rem;
+        }
+        
+        p {
+            margin-bottom: 1.25rem;
+        }
+        
+        strong {
+            font-weight: 600;
+            color: var(--primary);
+        }
+        
+        em {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+        
+        /* Lists */
+        ul, ol {
+            margin-bottom: 1.25rem;
+            padding-left: 1.5rem;
+        }
+        
+        li {
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+        
+        /* Links */
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+            background-image: linear-gradient(120deg, transparent 0%, var(--accent) 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0px;
+            background-position: 0 88%;
+            transition: background-size 0.25s ease-in;
+        }
+        
+        a:hover {
+            background-size: 100% 3px;
+        }
+        
+        /* Horizontal Rule - simple gradient for markdown hr */
+        hr {
+            border: none;
+            height: 2px;
+            background: linear-gradient(to right, transparent, var(--accent), transparent);
+            margin: 2.5rem auto;
+            max-width: 95%;
+        }
+        
+        /* Genealogy-specific classes */
+        .date, .location {
+            font-variant: small-caps;
+            letter-spacing: 0.5px;
+            color: var(--text-secondary);
+        }
+        
+        /* Footnotes */
+        .footnote-ref {
+            font-size: 0.85em;
+            font-weight: 500;
+        }
+        
+        .footnote-ref a {
+            color: var(--footnote-red);
+            text-decoration: none;
+            background: none;
+        }
+        
+        .footnote-ref a:hover {
+            color: #9c1f1f;
+        }
+        
+        .footnotes {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-light);
+            background-color: var(--paper);
+            border-radius: 6px;
+            padding: 2rem;
+            margin-left: -2rem;
+            margin-right: -2rem;
+        }
+        
+        .footnotes h3 {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        
+        .footnotes ol {
+            padding-left: 1.25rem;
+        }
+        
+        .footnotes li {
+            font-size: 0.9rem;
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+            color: var(--text-secondary);
+        }
+        
+        .footnotes .footnote {
+            color: var(--text-muted);
+            text-decoration: none;
+            margin-left: 0.5rem;
+        }
+        
+        .footnotes .footnote:hover {
+            color: var(--text-secondary);
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            body { 
+                padding: 1rem; 
+                box-shadow: none;
+                border-radius: 0;
+            }
+            h1 { font-size: 1.875rem; }
+            h2 { font-size: 1.5rem; }
+            h3 { font-size: 1.25rem; }
+            
+            .footnotes {
+                margin-left: -1rem;
+                margin-right: -1rem;
+            }
+        }
+        
+        /* Print styles */
+        @media print {
+            body {
+                font-size: 12pt;
+                line-height: 1.5;
+                color: #000;
+                background: #fff;
+                margin: 0;
+                padding: 1in;
+                box-shadow: none;
+                border-radius: 0;
+            }
+
+            a {
+                color: #000;
+                text-decoration: underline;
+                background: none;
+            }
+
+            .footnotes {
+                background: #fff;
+                border: 1px solid #ccc;
+            }
+
+            .bio-timeline {
+                display: none;
+            }
+        }
+
+        /* Timeline Sidebar */
+        .bio-layout {
+            position: relative;
+        }
+
+        .bio-timeline {
+            position: fixed;
+            top: 2rem;
+            left: calc(50% + 420px);
+            width: 175px;
+            padding: 1.25rem 1.5rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 252, 250, 0.97) 0%,
+                rgba(252, 250, 245, 0.95) 50%,
+                rgba(250, 248, 242, 0.97) 100%
+            );
+            border: 1px solid var(--border-light);
+            border-radius: 6px;
+            font-size: 0.85rem;
+            box-shadow: 0 2px 12px rgba(122, 58, 15, 0.06);
+        }
+
+        .timeline-event {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .timeline-year {
+            font-family: Georgia, serif;
+            font-weight: 500;
+            color: var(--primary);
+            min-width: 2.5rem;
+        }
+
+        .timeline-marker {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--accent);
+            border: 2px solid var(--primary);
+            flex-shrink: 0;
+        }
+
+        .timeline-marker--major {
+            width: 10px;
+            height: 10px;
+            background: var(--primary);
+        }
+
+        .timeline-label {
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            line-height: 1.3;
+        }
+
+        .timeline-line {
+            width: 2px;
+            height: 1rem;
+            background: linear-gradient(180deg, var(--border-light) 0%, var(--accent) 50%, var(--border-light) 100%);
+            margin-left: calc(2.5rem + 0.5rem + 3px);
+            opacity: 0.6;
+        }
+
+        @media (max-width: 1100px) {
+            .bio-timeline {
+                display: none;
+            }
+        }
+
+        /* Family Links */
+        .family-links {
+            margin: 2rem 0;
+        }
+
+        .family-links-title {
+            font-family: Georgia, serif;
+            font-size: 1rem;
+            color: var(--text-muted);
+            font-weight: 400;
+            margin-bottom: 1rem;
+            letter-spacing: 0.5px;
+        }
+
+        .family-links-grid {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .family-link-card {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            text-align: center;
+            width: 140px;
+            padding: 0.875rem 1rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 252, 250, 0.97) 0%,
+                rgba(250, 248, 242, 0.95) 100%
+            );
+            border: 1px solid var(--border-light);
+            border-left: 3px solid rgba(212, 165, 116, 0.35);
+            border-radius: 6px;
+            text-decoration: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            overflow: hidden;
+        }
+
+        .family-link-card:hover {
+            border-left-color: var(--accent);
+            box-shadow: 0 2px 8px rgba(122, 58, 15, 0.1);
+            background-size: 100% 0;
+        }
+
+        .family-link-name {
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            color: var(--primary);
+            line-height: 1.25;
+            font-weight: 500;
+            position: relative;
+        }
+
+        .family-link-relation {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+            position: relative;
+        }
+
+        /* Location Aside */
+        .location-aside {
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 250, 245, 0.6) 0%,
+                rgba(250, 247, 240, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(212, 165, 116, 0.6);
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+
+        .location-aside img {
+            width: 100%;
+            border-radius: 2px;
+            margin-bottom: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }
+
+        .location-aside-title {
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.125rem;
+            line-height: 1.3;
+        }
+
+        .location-aside-date {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .location-aside-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        @media (max-width: 600px) {
+            .location-aside {
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+            }
+        }
+
+        @media print {
+            .location-aside {
+                float: right;
+                width: 40%;
+                border-left: 1px solid #ccc;
+            }
+        }
+
+        /* Location Aside - Horizontal variant (image left, text right) */
+        .location-aside-horizontal {
+            float: right;
+            width: 50%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(252, 250, 245, 0.6) 0%,
+                rgba(250, 247, 240, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(212, 165, 116, 0.6);
+            border-radius: 4px;
+            font-size: 0.85rem;
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .location-aside-horizontal img {
+            flex: 1;
+            min-width: 0;
+            border-radius: 2px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+            align-self: flex-start;
+        }
+
+        .location-aside-horizontal .location-aside-content {
+            flex: 1.6;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .location-aside-horizontal .location-aside-title {
+            font-family: Georgia, serif;
+            font-size: 0.95rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.125rem;
+            line-height: 1.3;
+        }
+
+        .location-aside-horizontal .location-aside-date {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .location-aside-horizontal .location-aside-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        @media (max-width: 600px) {
+            .location-aside-horizontal {
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+                flex-direction: column;
+            }
+
+            .location-aside-horizontal img {
+                width: 100%;
+            }
+        }
+
+        @media print {
+            .location-aside-horizontal {
+                float: right;
+                width: 45%;
+                border-left: 1px solid #ccc;
+            }
+        }
+
+        /* Back Navigation - matches line page breadcrumb */
+        .bio-nav {
+            padding: 0.5rem 0;
+            margin-bottom: 1rem;
+            font-size: 0.85rem;
+        }
+
+        .bio-nav a {
+            color: var(--text-muted);
+            text-decoration: none;
+            background: none;
+        }
+
+        .bio-nav a:hover {
+            color: var(--secondary);
+            text-decoration: underline;
+        }
+
+
+        @media print {
+            .bio-nav {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+<nav class="bio-nav"><a href="../../../index.html">← Family Index</a></nav>
+<div class="bio-layout"><div class="bio-content"><h1>Patrick Gleeson (c. 1835–?)</h1>
+<p><strong>Relationship:</strong> 3rd great-grandfather (Gleeson line)</p>
+<p><em>Sailor, Croom, County Limerick</em></p>
+<p>Patrick Gleeson was born around 1830–1845 in County Limerick, Ireland. He worked as a sailor and lived in the townland of Scagh in Croom parish, where he and his wife Margaret raised a large family over a span of fifteen years.</p>
+<p>Patrick married <strong>Margaret Moloney</strong> around 1860 in Ireland. Her surname appears in records under several spellings—Moloney, Molony, Malony—but the Croom baptismal register's Latin form <em>Margaritæ Moloney</em> is the most authoritative. The Moloney surname is common in County Clare and the Clare/Limerick border region, suggesting possible connections across the county line.</p>
+<p>The couple had at least seven children baptized in Croom parish between 1863 and 1878:</p>
+<ul>
+<li><strong>James (Jacobus) Gleeson</strong> (23 Dec 1863) — sponsors: William Shaw, Margaret Kiely</li>
+<li><strong>Honora Gleeson</strong> (10 Mar 1866)</li>
+<li><strong>Bridget (Brigida) Gleeson</strong> (21–24 Feb 1868) — later Mrs. Bridget O'Connor</li>
+<li><strong>Ellen / Helena Gleeson</strong> (15 Jul 1869)</li>
+<li><strong>Mary Gleeson</strong> (15 Dec 1872) — likely &quot;Miss Mary Gleeson, Croom&quot; referenced in James's obituary</li>
+<li><strong>Margaret (Margarita) Gleeson</strong> (29 Sep 1875)</li>
+<li><strong>Jane / Janet Gleeson</strong> (25–28 Sep 1878)</li>
+</ul>
+<p>The tight, consistent sequence of births confirms a stable family unit in Scagh through the late 1870s. The baptismal sponsors—William Shaw and Margaret Kiely for James—point to a local network of families in the Croom area.</p>
+<p>Patrick's occupation as a sailor is noted in early research but no specific records of his service have been located. Given Croom's position on the River Maigue, roughly 20 miles from the port of Limerick, maritime work would have been accessible.</p>
+<h2>Emigration of James</h2>
+<p>Patrick's eldest son James emigrated to the United States around 1883, arriving in New York from Liverpool and Queenstown at approximately age 19. No U.S. records have been found for Patrick or Margaret, and James appears to have emigrated alone. Patrick likely remained in Ireland for the rest of his life.</p>
+<h2>Death</h2>
+<p>Patrick's date and place of death are unknown. Ancestry trees estimate death before 1925, and his father is listed as Michael Gleeson (b. c. 1810), though this connection has limited documentation.</p>
+<h2>Disambiguation</h2>
+<p>Early research confused Patrick with an <strong>Australian Patrick Gleeson</strong> from the same era who married a <strong>Margaret Mahony</strong>. The two families were distinguished through several lines of evidence:</p>
+<ul>
+<li>Our Patrick married Margaret <strong>Moloney</strong> (confirmed by Croom baptism register and James's 1892 Wisconsin marriage record)</li>
+<li>The Australian Patrick married Margaret <strong>Mahony</strong> (née Mahony, parents Patrick Mahony + Johanna O'Connell), who emigrated to Australia in 1856/7</li>
+<li>The Australian Patrick had 11 children, none named James</li>
+<li>Correspondence with a descendant of the Australian line (Tony) confirmed no DNA match</li>
+</ul>
+<p>James's obituary mentions siblings <strong>Mrs. Bridget O'Connor</strong> and <strong>Miss Mary Gleeson of Croom</strong>, both of whom map to children in the parish records above. A third reference, <strong>Mrs. John Hayes (New York)</strong>, has not yet been mapped to a known sibling.</p>
+<div class="family-links">
+  <h4 class="family-links-title">Family</h4>
+  <div class="family-links-grid">
+    <a href="james_j_gleeson_bio.html" class="family-link-card">
+      <span class="family-link-name">James J. Gleeson</span>
+      <span class="family-link-relation">Son</span>
+    </a>
+  </div>
+</div>
+<hr />
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Baptismal records: NLI Catholic Parish Registers, Croom parish (Scagh townland), County Limerick. FamilySearch index lists Jacobus Gleeson baptized 23 Dec 1863, parents Patritii Gleeson + Margaritæ Moloney (Microfilm 02427/07; image unavailable).</li>
+<li>Patrick's occupation as sailor from early Ancestry research; no primary source located.</li>
+<li>Disambiguation of the two Patrick Gleesons confirmed via correspondence with Tony (Australian descendant, no DNA match).</li>
+<li>Margaret Moloney's death date and location are unconfirmed for our line. An 1886 death in Drouin, Victoria, Australia attributed to &quot;Margaritte Malony&quot; in some Ancestry trees likely belongs to the Australian Patrick's wife Margaret Mahony.</li>
+<li>Patrick's father Michael Gleeson (b. c. 1810) per Ancestry; limited documentation.</li>
+</ul>
+</div><aside class="bio-timeline">
+  <div class="timeline-event">
+    <span class="timeline-year">1835</span>
+    <span class="timeline-marker timeline-marker--major"></span>
+    <span class="timeline-label">Born</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1860</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Married Margaret Moloney</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1863</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Son James baptized</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1878</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Last child baptized</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1883</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Son James emigrated to US</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1900</span>
+    <span class="timeline-marker timeline-marker--major"></span>
+    <span class="timeline-label">Died (est.)</span>
+  </div>
+</aside></div>
+</body>
+</html>
