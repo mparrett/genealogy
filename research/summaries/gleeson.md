@@ -195,19 +195,31 @@ Extracted from Ancestry profile exports (Jan 2026).
 ### Wife's Death — Australia
 - Margaritte Malony (1840–1886) died **25 October 1886 in Drouin, Victoria, Australia**
 
-### Children (uncertain which wife)
-- Ella Isabel Gleason (1860–1946) — half-sibling to James J.
-- Mary Gleeson (1860–)
-- Brigit Gleeson O'Connor (1860–)
-- **James Joseph Gleeson (1863–1946)** ← our direct ancestor
+### Children (from Croom/Scagh parish records)
+- **James (Jacobus) Gleeson (23 Dec 1863)** ← our direct ancestor; sponsors: William Shaw, Margaret Kiely
+- Honora Gleeson (10 Mar 1866)
+- Bridget (Brigida) Gleeson (21–24 Feb 1868) — likely Mrs. Bridget O'Connor from obituary
+- Ellen / Helena Gleeson (15 Jul 1869) — name varies in records
+- Mary Gleeson (15 Dec 1872) — likely "Miss Mary Gleeson, Croom" from obituary
+- Margaret (Margarita) Gleeson (29 Sep 1875)
+- Jane / Janet Gleeson (25–28 Sep 1878)
+
+**Note:** Ella Isabel Gleason (1860–1946) from Ancestry may be a half-sibling or from a different source; she does not appear in the Croom parish baptism sequence.
+
+**Unresolved from obituary:** Mrs. John Hayes (NY) — not yet mapped to a sibling.
 
 ### Notes from Ancestry
 - "Son was born in Cork. Maybe from Tipperary?"
 - "Jacobus is a masculine first name, which is a variant of Jacob, Jack and James."
 - Lived in Croom, Limerick, Ireland when James was born (1863)
 
+### Key Details (Croom)
+- **Location:** Scagh townland, Croom parish, Limerick
+- **Sponsor network:** Shaw + Kiely (local families)
+- **Family span:** 1863–1878 (tight, consistent sequence)
+
 ### Research Notes
-- Limited documentation — connection is speculative
+- Parish records now provide solid documentation for Patrick as James J.'s father
 - The Australia death of Margaritte suggests family split between US and Australia emigration
 
 ---
