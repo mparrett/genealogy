@@ -14,6 +14,7 @@ ancestors:
       relation: 3rd Great-Grandfather
       bio: patrick_gleeson_bio.html
       image_class: pgleeson
+      image_thumb: james-gleeson-mondovi.jpg
       initials: PG
 
     - name: James Fitzgerald
@@ -42,3 +43,12 @@ ancestors:
       image_class: jgleeson
       image_thumb: james-gleeson-mondovi.jpg
       initials: JG
+
+    - name: Anne Barbara Gleeson
+      years: 1903–1986
+      tagline: Wisconsin Teacher, Arizona Pioneer
+      relation: Great-Grandmother
+      bio: anne_barbara_gleeson_bio.html
+      image_class: agleeson
+      image_thumb: james-gleeson-mondovi.jpg
+      initials: AG
