@@ -1,5 +1,16 @@
 # chatgpt response Kuthe
 
+> **2026-04-11 Reconciliation Note:** A ship manifest for Baltimore, April–June 1834, lists the Kuth family arriving from Germany: Andreas (36), Anna D. (34), Fredk (7–10), Margareth (3). This changes the immigration picture significantly:
+>
+> 1. **Frederick arrived in 1834 as a child**, not in 1845 as an adult.
+> 2. **The 1845 Olbers family is a different Kuthe line.** The Olbers manifest lists **Heinrich** Küthe (52) as head, from **Vöhl**, with children including Friederich (18) and Maria (20). Our Frederick's father was **Andreas**, from near **Darmstadt**. These are two separate families.
+> 3. **Mary C. Kuthe** (who married Louis Schleicher) was on the Olbers with Heinrich's family — she is likely Heinrich's daughter, not our Frederick's sister.
+> 4. **Andreas Kuthe confirmed** — previously "unverified family tradition," now documented on the 1834 manifest with birth year c. 1798 matching exactly.
+> 5. **New family members**: wife Anna D. Kuthe (b. c. 1800) and daughter Margareth (b. c. 1831).
+> 6. **Origin**: Darmstadt (consistent with this report's family sources) rather than Vöhl (which belongs to the Heinrich Küthe line).
+>
+> See `research/results/kuthe-1834-manifest.md` for full manifest transcription.
+
 # Frederick Kuthe: German Immigrant to Missouri (1822–1900)
 
 ## Immigration from Germany in 1845

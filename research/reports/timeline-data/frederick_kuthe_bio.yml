@@ -1,27 +1,27 @@
 name: Frederick Kuthe
 birth:
-  year: 1822
+  year: 1824
   label: Born
-  location: Vöhl, Hesse
+  location: Hesse, Germany
 death:
   year: 1900
   label: Died
   location: Missouri
 events:
-  - year: 1845
-    label: Emigrated
+  - year: 1834
+    label: Arrived Baltimore with family
     type: migration
   - year: 1868
     label: Married Sarah Ann
     type: marriage
 
 location_aside:
-  place: Vöhl, Hesse
+  place: Hesse
   region: Germany
-  year: c. 1850
+  year: c. 1830
   image: locations/vohl-hesse-1850.jpg
   after_paragraph: 1
   description: >
-    Frederick's birthplace in the Waldeck region. The village of
-    half-timbered houses in the Eder valley was home before he
-    sailed from Bremen to New Orleans in 1845.
+    Frederick's family emigrated from Hesse, possibly near Darmstadt,
+    arriving in Baltimore in 1834 when Frederick was a child. His
+    father Andreas was 36 at the time of the voyage.
