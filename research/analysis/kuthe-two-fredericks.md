@@ -45,9 +45,13 @@ Early research conflated two separate Kuthe families who emigrated from Hesse, G
 - Our Frederick's marriage record (1868) uses the name "KUTHE, GEORGE F." — he was George Frederick, arriving as a child, not the 18-year-old Friederich on the Olbers
 - The Olbers family came from **Vöhl, Waldeck**; our family came from near **Darmstadt** — different parts of Hesse
 
+## Possible Kinship
+
+Despite being separate families, Andreas and Heinrich may be related. The overlapping names across both manifests (Anna as wife, Friedrich and Margareth as children) are suggestive of extended kin from a common origin. If so, Vöhl could still be our family's origin — but this remains unconfirmed.
+
 ## Impact on Existing Research
 
 - The 1845 Olbers immigration story in Frederick's bio has been corrected to 1834 Baltimore
-- Mary C. Kuthe is no longer considered a likely sibling of our Frederick
-- The Vöhl origin has been removed from our line; Darmstadt is the working origin
+- Mary C. Kuthe is no longer considered a confirmed sibling of our Frederick (but could still be a relative)
+- Exact origin within Hesse is uncertain — Darmstadt from family tradition, Vöhl from the possibly related Olbers family; neither confirmed by primary source
 - Andreas Kuthe is now confirmed by primary source (previously unverified family tradition)

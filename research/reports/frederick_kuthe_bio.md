@@ -3,13 +3,13 @@
 
 *German Immigrant, Missouri Farmer*
 
-Frederick Kuthe (also recorded as George Frederick Kuthe) was born around 1822–1827 in Hesse, Germany—possibly near Darmstadt.[^1] His father was **Andreas Kuthe** (born c. 1798 in Hesse).
+Frederick Kuthe (also recorded as George Frederick Kuthe) was born around 1822–1827 in Hesse, Germany.[^1] His father was **Andreas Kuthe** (born c. 1798 in Hesse). The family's exact place of origin within Hesse has not been confirmed by primary sources—family tradition suggests Darmstadt, and a related Küthe family emigrated from Vöhl in the Waldeck region, but solid evidence for either location remains elusive.
 
 A ship manifest for the district of Baltimore, dated April–June 1834, lists the Kuth family arriving from Germany: **Andreas** (age 36), his wife **Anna D.** (age 34), son **Fredk** (age 7–10), and daughter **Margareth** (age 3). Frederick came to America as a child, traveling with his family.[^2]
 
 <img src="../../../images/bio/frederick-kuthe-01-voyage.jpg" alt="The Kuthe family's arrival in Baltimore, 1834" class="float-left">
 
-An 1845 passenger manifest for the ship *Olbers*, sailing from Bremen to New Orleans, lists a Küthe family from Vöhl (in the Waldeck region of Hesse) that included an 18-year-old "Friederich." This was previously thought to be our Frederick, but the 1834 Baltimore manifest—which matches Andreas's known birth year and confirms the father-son relationship—indicates Frederick was already in the United States by 1845. The Olbers entry likely represents a different Kuthe family from Vöhl.[^3] A biography of Louis Schleicher, a baker in Lancaster, Ohio, notes that he married "Miss Mary C. Kuthe, who was born in Germany in 1824, and came to America in 1845"—Mary may be a relative of our Frederick, but the connection is uncertain given the Olbers reassessment.[^4]
+An 1845 passenger manifest for the ship *Olbers*, sailing from Bremen to New Orleans, lists a Küthe family from Vöhl (in the Waldeck region of Hesse) headed by **Heinrich** Küthe (age 52), with an 18-year-old "Friederich" among his children. This was previously thought to be our Frederick, but the 1834 Baltimore manifest—which matches Andreas's known birth year and confirms the father-son relationship—indicates Frederick was already in the United States by 1845. The Olbers Friederich appears to be a cousin or other relative, not our ancestor.[^3] The two families may share a common origin—the overlapping names (Anna, Friedrich, Margareth) suggest kinship—but no direct link between Andreas and Heinrich has been established. A biography of Louis Schleicher, a baker in Lancaster, Ohio, notes that he married "Miss Mary C. Kuthe, who was born in Germany in 1824, and came to America in 1845"—Mary traveled on the Olbers with Heinrich's family and may be a relative of our Frederick, but the connection is unconfirmed.[^4]
 
 By the 1850s Frederick had settled in Dent County, Missouri, which had been organized in 1851. The surname Kuthe proved difficult for English-speaking clerks, appearing in records variously as Kuethe, Küthe, Kuth, Kuthy, Koothe, and even "Kite."
 
@@ -29,7 +29,7 @@ Frederick Kuthe's life exemplified the German immigrant experience in rural Miss
 
 **Notes:**
 
-[^1]: Birth year estimated from 1834 manifest (age 7–10), 1880 census (age ~57), and death in 1900 (age ~77). Range: c. 1822–1827. Darmstadt origin per manifest source context.
+[^1]: Birth year estimated from 1834 manifest (age 7–10), 1880 census (age ~57), and death in 1900 (age ~77). Range: c. 1822–1827. Exact origin within Hesse unconfirmed; Darmstadt from family tradition, Vöhl from a possibly related Küthe family on the 1845 Olbers.
 
 [^2]: Ship manifest, district of Baltimore, MD, April–June 1834. Lists Andreas Kuth (36), Anna D. Kuth (34), Fredk Kuth (7–10), Margareth Kuth (3), from Germany.
 
