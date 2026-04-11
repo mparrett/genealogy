@@ -22,6 +22,17 @@ events:
     label: Son James emigrated to US
     type: migration
 
+location_aside:
+  place: Croom, Co. Limerick
+  region: Ireland
+  year: c. 1860
+  image: locations/croom-limerick-1864.jpg
+  after_paragraph: 3
+  description: >
+    The market town of Croom sits on the River Maigue, roughly
+    20 miles from the port of Limerick. Patrick worked as a sailor
+    and raised his family in the nearby townland of Scagh.
+
 family_links:
   - name: James J. Gleeson
     relation: Son
