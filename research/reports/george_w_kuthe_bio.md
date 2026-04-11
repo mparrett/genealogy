@@ -3,7 +3,7 @@
 
 *Farmer, Pioneer Descendant, German-American Migrant*
 
-George Washington Kuthe was born on October 14, 1869, in Salem, Dent County, Missouri, to German immigrant **Frederick Kuthe** (c. 1822–1900, from Vöhl in the Waldeck region of Hesse, Germany) and **Sarah Ann Steagall** (c. 1837–1876). Sarah had previously been married to a man named Patterson and was a widow when she married Frederick in 1868.
+George Washington Kuthe was born on October 14, 1869, in Salem, Dent County, Missouri, to German immigrant **Frederick Kuthe** (c. 1822–1900, from Hesse, Germany) and **Sarah Ann Steagall** (c. 1837–1876). Sarah had previously been married to a man named Patterson and was a widow when she married Frederick in 1868.
 
 George was one of six children. His siblings were William, Mary (who married Louis Schmit), Catherine, Susan, and Adam. Tragedy came early—his mother Sarah died in 1876 when George was only seven years old, leaving Frederick to raise the children alone on their Dent County farm.
 

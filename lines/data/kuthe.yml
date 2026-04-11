@@ -2,14 +2,14 @@ name: Kuthe / Bridgefarmer Line
 accent_color: "#3d6b47"  # forest green
 migration: Germany → Missouri → Oregon → Arizona
 intro: |
-  The Kuthe line begins in Saxony, Germany, emigrating to Missouri in the mid-19th century.
+  The Kuthe line begins in Hesse, Germany, emigrating to Missouri in the 1830s.
   Frederick Kuthe established the family in America, and subsequent generations moved
   westward through Oregon before settling in Arizona.
 
 ancestors:
   direct:
     - name: Frederick Kuthe
-      years: 1830–1913
+      years: c. 1824–1900
       tagline: German Immigrant, Missouri Farmer
       relation: 3rd Great-Grandfather
       bio: frederick_kuthe_bio.html
