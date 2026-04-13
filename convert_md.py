@@ -157,6 +157,32 @@ def generate_location_aside_html(data: dict) -> str:
     return '\n'.join(lines)
 
 
+def generate_research_notes_html(data: dict) -> list:
+    """Generate research note aside HTML blocks from YAML data.
+    Returns list of (after_paragraph, html) tuples."""
+    notes = data.get('research_notes')
+    if not notes:
+        return []
+
+    results = []
+    for note in notes:
+        title = note.get('title', '')
+        text = note.get('text', '').strip()
+        after_para = note.get('after_paragraph', 3)
+
+        lines = ['<aside class="research-note">']
+        if title:
+            lines.append(f'  <div class="research-note-title">{title}</div>')
+        if text:
+            paragraphs = text.split('\n\n')
+            for p in paragraphs:
+                lines.append(f'  <div class="research-note-text">{p.strip()}</div>')
+        lines.append('</aside>')
+        results.append((after_para, '\n'.join(lines)))
+
+    return results
+
+
 def is_draft_link(href: str) -> bool:
     """Return True if the linked bio is marked draft in its timeline data."""
     if not HAS_YAML:
@@ -236,6 +262,23 @@ def convert_file(md_file_path, html_file_path, production: bool = False):
                 pos = found + 1
             if p_count >= after_para:
                 body_content = body_content[:insert_pos] + '\n' + location_aside_html + '\n' + body_content[insert_pos:]
+
+        # Generate research notes if available - inject after Nth paragraph
+        research_notes = generate_research_notes_html(timeline_data) if timeline_data else []
+        for after_para, note_html in sorted(research_notes, key=lambda x: x[0], reverse=True):
+            p_count = 0
+            insert_pos = 0
+            search_str = '</p>'
+            pos = 0
+            while p_count < after_para:
+                found = body_content.find(search_str, pos)
+                if found == -1:
+                    break
+                p_count += 1
+                insert_pos = found + len(search_str)
+                pos = found + 1
+            if p_count >= after_para:
+                body_content = body_content[:insert_pos] + '\n' + note_html + '\n' + body_content[insert_pos:]
 
         # Generate family links if available
         family_links_html = generate_family_links_html(timeline_data, production) if timeline_data else ""
@@ -430,7 +473,7 @@ def convert_file(md_file_path, html_file_path, production: bool = False):
             line-height: 1.6;
             color: var(--text-primary);
             background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
-            max-width: 800px;
+            max-width: 920px;
             margin: 0 auto;
             padding: 1.875rem;
             box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
@@ -619,7 +662,7 @@ def convert_file(md_file_path, html_file_path, production: bool = False):
         .bio-timeline {{
             position: fixed;
             top: 2rem;
-            left: calc(50% + 420px);
+            left: calc(50% + 480px);
             width: 175px;
             padding: 1.25rem 1.5rem;
             background: linear-gradient(
@@ -676,7 +719,7 @@ def convert_file(md_file_path, html_file_path, production: bool = False):
             opacity: 0.6;
         }}
 
-        @media (max-width: 1100px) {{
+        @media (max-width: 1400px) {{
             .bio-timeline {{
                 display: none;
             }}
@@ -744,6 +787,51 @@ def convert_file(md_file_path, html_file_path, production: bool = False):
             color: var(--text-muted);
             margin-top: 0.25rem;
             position: relative;
+        }}
+
+        /* Research Note Aside */
+        .research-note {{
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(245, 248, 252, 0.6) 0%,
+                rgba(240, 244, 250, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(120, 140, 170, 0.5);
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }}
+
+        .research-note-title {{
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+            line-height: 1.3;
+        }}
+
+        .research-note-text {{
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+            margin-bottom: 0.4rem;
+        }}
+
+        .research-note-text:last-child {{
+            margin-bottom: 0;
+        }}
+
+        @media (max-width: 600px) {{
+            .research-note {{
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+            }}
         }}
 
         /* Location Aside */
