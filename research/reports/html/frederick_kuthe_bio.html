@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Frederick Kuthe (c. 1822–1900)</title>
+    <title>Frederick Kuthe (c. 1827–c. 1879)</title>
     <style>
         /* CSS Custom Properties */
         :root {
@@ -181,7 +181,7 @@
             line-height: 1.6;
             color: var(--text-primary);
             background: linear-gradient(135deg, var(--background) 0%, #f8f9fa 100%);
-            max-width: 800px;
+            max-width: 920px;
             margin: 0 auto;
             padding: 1.875rem;
             box-shadow: 0 0 40px rgba(122, 58, 15, 0.08);
@@ -370,7 +370,7 @@
         .bio-timeline {
             position: fixed;
             top: 2rem;
-            left: calc(50% + 420px);
+            left: calc(50% + 480px);
             width: 175px;
             padding: 1.25rem 1.5rem;
             background: linear-gradient(
@@ -427,7 +427,7 @@
             opacity: 0.6;
         }
 
-        @media (max-width: 1100px) {
+        @media (max-width: 1400px) {
             .bio-timeline {
                 display: none;
             }
@@ -495,6 +495,51 @@
             color: var(--text-muted);
             margin-top: 0.25rem;
             position: relative;
+        }
+
+        /* Research Note Aside */
+        .research-note {
+            float: right;
+            width: 33%;
+            margin: 0 0 1rem 1.5rem;
+            padding: 0.75rem;
+            background: linear-gradient(
+                180deg,
+                rgba(245, 248, 252, 0.6) 0%,
+                rgba(240, 244, 250, 0.4) 100%
+            );
+            border: none;
+            border-left: 2px solid rgba(120, 140, 170, 0.5);
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+
+        .research-note-title {
+            font-family: Georgia, serif;
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+            line-height: 1.3;
+        }
+
+        .research-note-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+            margin-bottom: 0.4rem;
+        }
+
+        .research-note-text:last-child {
+            margin-bottom: 0;
+        }
+
+        @media (max-width: 600px) {
+            .research-note {
+                float: none;
+                width: 100%;
+                margin: 1rem 0;
+            }
         }
 
         /* Location Aside */
@@ -662,53 +707,73 @@
 </head>
 <body>
 <nav class="bio-nav"><a href="../../../index.html">← Family Index</a></nav>
-<div class="bio-layout"><div class="bio-content"><h1>Frederick Kuthe (c. 1822–1900)</h1>
+<div class="bio-layout"><div class="bio-content"><h1>Frederick Kuthe (c. 1827–c. 1879)</h1>
 <p><strong>Relationship:</strong> 3rd great-grandfather (Kuthe line)</p>
 <aside class="location-aside">
-  <img src="../../../images/locations/vohl-hesse-1850.jpg" alt="Hesse, Germany">
-  <div class="location-aside-title">Hesse</div>
+  <img src="../../../images/locations/vohl-hesse-1850.jpg" alt="Darmstadt, Hesse, Germany">
+  <div class="location-aside-title">Darmstadt, Hesse</div>
   <div class="location-aside-date">Germany, c. 1830</div>
-  <div class="location-aside-text">Frederick's family emigrated from Hesse, possibly near Darmstadt, arriving in Baltimore in 1834 when Frederick was a child. His father Andreas was 36 at the time of the voyage.</div>
+  <div class="location-aside-text">Frederick's family emigrated from Darmstadt in Hesse, arriving in Baltimore in 1834 when Frederick was seven. His father Andreas was 36 at the time of the voyage.</div>
 </aside>
 
 <p><em>German Immigrant, Miller, Union Soldier</em></p>
-<p>Frederick Kuthe (also recorded as George Frederick Kuthe) was born around 1827 in <strong>Darmstadt, Hesse, Germany</strong>.<sup class="footnote-ref" id="fnref-1"><a href="#fn-1">1</a></sup> His father was <strong>Andreas Kuthe</strong> (born c. 1798 in Hesse). The 1870 federal census lists Frederick's birthplace as &quot;Darmstadt,&quot; confirming the family tradition. A related Küthe family emigrated from Vöhl in the Waldeck region in 1845, but Darmstadt and Vöhl are roughly 150 km apart—the connection between the two families, if any, remains unclear.</p>
-<p>A quarterly abstract of passenger arrivals for the district of Baltimore, covering April–June 1834, lists the Kuth family arriving from Germany: <strong>Andreas</strong> (age 36), his wife <strong>Anna D.</strong> (age 34), son <strong>Fredk</strong> (age 7), and daughter <strong>Margareth</strong> (age 3). Frederick came to America as a child, traveling with his family.<sup class="footnote-ref" id="fnref-2"><a href="#fn-2">2</a></sup></p>
+<p>Frederick Kuthe (also recorded as George Frederick Kuthe) was born around 1827 in <strong>Darmstadt, Hesse, Germany</strong>.<sup class="footnote-ref" id="fnref-1"><a href="#fn-1">1</a></sup> His father was <strong>Andreas Kuthe</strong> (born c. 1798 in Hesse) and his mother was <strong>Anna D. Kobeny</strong> (born c. 1800).</p>
+<p>A quarterly abstract of passenger arrivals for the district of Baltimore, covering April–June 1834, lists the Kuth family arriving from Germany: <strong>Andreas</strong> (age 36), his wife <strong>Anna D.</strong> (age 34), son <strong>Fredk</strong> (age 7), and daughter <strong>Margareth</strong> (age 3).<sup class="footnote-ref" id="fnref-2"><a href="#fn-2">2</a></sup></p>
 <img src="../../../images/bio/frederick-kuthe-01-voyage.jpg" alt="The Kuthe family's arrival in Baltimore, 1834" class="float-left">
 
-<p>An 1845 passenger manifest for the ship <em>Olbers</em>, sailing from Bremen to New Orleans, lists a Küthe family from Vöhl (in the Waldeck region of Hesse) headed by <strong>Heinrich</strong> Küthe (age 52), with an 18-year-old &quot;Friederich&quot; among his children. This was previously thought to be our Frederick, but the 1834 Baltimore manifest—which matches Andreas's known birth year and confirms the father-son relationship—indicates Frederick was already in the United States by 1845. The Olbers Friederich appears to be a cousin or other relative, not our ancestor.<sup class="footnote-ref" id="fnref-3"><a href="#fn-3">3</a></sup> The two families may share a common origin—the overlapping names (Anna, Friedrich, Margareth) suggest kinship—but no direct link between Andreas and Heinrich has been established. A biography of Louis Schleicher, a baker in Lancaster, Ohio, notes that he married &quot;Miss Mary C. Kuthe, who was born in Germany in 1824, and came to America in 1845&quot;—Mary traveled on the Olbers with Heinrich's family and may be a relative of our Frederick, but the connection is unconfirmed.<sup class="footnote-ref" id="fnref-4"><a href="#fn-4">4</a></sup></p>
-<p>By the 1850s Frederick had settled in the Spring Creek township of Dent County, Missouri, which had been organized in 1851. He worked as a <strong>miller</strong>, not a farmer as previously assumed—both the 1870 census and his 1865 military enlistment record list his occupation as miller.<sup class="footnote-ref" id="fnref-5"><a href="#fn-5">5</a></sup> The surname Kuthe proved difficult for English-speaking clerks, appearing in records variously as Kuethe, Küthe, Kuth, Kuthy, Koothe, and even &quot;Kite.&quot;</p>
-<p>In the final months of the Civil War, Frederick enlisted in the Union Army in New York City on February 14, 1865, at age 36. He was mustered into <strong>Company G, 9th New York Cavalry</strong> as a private.<sup class="footnote-ref" id="fnref-6"><a href="#fn-6">6</a></sup> His enlistment record describes him as born in Germany, 5'6&quot;, with blue eyes and light hair, occupation miller. The 9th NY Cavalry saw action in the Shenandoah Valley and around Petersburg in the war's closing weeks. Frederick was mustered out on July 17, 1865, at Cloud's Mills, Virginia. Why he was in New York rather than Missouri at the time of enlistment is unknown—late-war bounty enlistments drew men from across the country to fill depleted units.</p>
-<p>On January 19, 1868, Frederick married <strong>Sarah Ann Patterson</strong> (née Steagall) in Dent County.<sup class="footnote-ref" id="fnref-7"><a href="#fn-7">7</a></sup> Sarah (born c. 1837) was a widow—her first husband had been a man named Patterson, and Steagall was her maiden name. The Dent County marriage register (Book A, 1851–1870) records the union of &quot;KUTHE, GEORGE F.&quot; to &quot;Sarah A. Patterson.&quot;<sup class="footnote-ref" id="fnref-8"><a href="#fn-8">8</a></sup> Sarah brought three children from her first marriage: <strong>W. C. Paterson</strong> (b. c. 1859), <strong>N. E. Paterson</strong> (b. c. 1861), and <strong>J. H. Paterson</strong> (b. c. 1863)—all present in the 1870 census household.<sup class="footnote-ref" id="fnref-5"><a href="#fn-5">5</a></sup> The couple settled near Salem, the county seat.</p>
+<p>By the 1850s Frederick had settled in the Spring Creek township of Dent County, Missouri, which had been organized in 1851. He worked as a <strong>miller</strong> — both the 1870 census and his 1865 military enlistment record list his occupation as such.<sup class="footnote-ref" id="fnref-3"><a href="#fn-3">3</a></sup> Milling was essential to the Ozark frontier economy; Dent County's scattered settlements depended on local mills to grind corn and wheat into flour and meal. Water-powered grist mills dotted the creeks and rivers of the region, and a skilled miller was a valued member of any community. Frederick's trade placed him at the center of rural commerce in a way that farming alone would not.</p>
+<p>The surname Kuthe proved difficult for English-speaking clerks, appearing in records variously as Kuethe, Küthe, Kuth, Kuthy, Koothe, and even &quot;Kite.&quot;</p>
+<p>In the final months of the Civil War, Frederick enlisted in the Union Army in New York City on February 14, 1865, at age 36. He was mustered into <strong>Company G, 9th New York Cavalry</strong> as a private.<sup class="footnote-ref" id="fnref-4"><a href="#fn-4">4</a></sup> His enlistment record describes him as born in Germany, 5'6&quot;, with blue eyes and light hair, occupation miller. The 9th NY Cavalry saw action in the Shenandoah Valley and around Petersburg in the war's closing weeks. Frederick was mustered out on July 17, 1865, at Cloud's Mills, Virginia. Why he was in New York rather than Missouri at the time of enlistment is unknown—late-war bounty enlistments drew men from across the country to fill depleted units.</p>
+<p>On January 19, 1868, Frederick married <strong>Sarah Ann Patterson</strong> (née Steagall) in Dent County.<sup class="footnote-ref" id="fnref-5"><a href="#fn-5">5</a></sup> Sarah (born c. 1837) was a widow whose first husband had been a man named Patterson. The Dent County marriage register (Book A, 1851–1870) records the union of &quot;KUTHE, GEORGE F.&quot; to &quot;Sarah A. Patterson.&quot;<sup class="footnote-ref" id="fnref-6"><a href="#fn-6">6</a></sup> Sarah brought three children from her first marriage: <strong>W. C. Paterson</strong> (b. c. 1859), <strong>N. E. Paterson</strong> (b. c. 1861), and <strong>J. H. Paterson</strong> (b. c. 1863)—all present in the 1870 census household.<sup class="footnote-ref" id="fnref-3"><a href="#fn-3">3</a></sup> The couple settled near Salem, the county seat.</p>
 <img src="../../../images/bio/frederick-kuthe-02-homestead.jpg" alt="The Kuthe homestead in the Missouri Ozarks" class="float-right">
 
-<p>Frederick and Sarah's confirmed children include <strong>George Washington Kuthe</strong> (14 Oct 1869–1925) and <strong>Charles Fred Kuthe</strong> (31 Mar 1875). Charles Fred's WWI draft card lists &quot;Geo. W. Kuthe&quot; as his sibling, confirming the relationship.<sup class="footnote-ref" id="fnref-9"><a href="#fn-9">9</a></sup> A Dent County history from the 1880s attributes &quot;six living children: William, Mary (Mrs. Schmit), George, Catherine, Susan, Adam&quot; to a Kuthe household, but this source may describe a different family and should be treated with caution.<sup class="footnote-ref" id="fnref-10"><a href="#fn-10">10</a></sup> George was born in Salem and would later migrate to Oregon and then Arizona.</p>
-<p>Frederick owned 100 acres across sections 34 and 35, Township 34, Range 6, in the Spring Creek area of Dent County.[^8b] Tragedy struck the family when Sarah Ann died in 1876 at approximately 39 years of age, leaving Frederick a widower with young children to raise.<sup class="footnote-ref" id="fnref-11"><a href="#fn-11">11</a></sup> A delinquent tax notice in The Salem Monitor (June 15, 1876) lists &quot;Kuthe Fred&quot; owing $6.07 for 1875 taxes on this land — a sign of the strain on the household after Sarah's death. The 1876 Missouri state census confirms her death: Frederick appears as head of household (male, over 45) with sons George W. and Charles, stepdaughter Nancy Patterson (c. 15), and a Wm. Ray (possibly a boarder or hired hand). No wife is listed.</p>
-<p>Frederick died sometime before 1883 — likely around 1879 — leaving George (age ~10) and Charles Fred (age ~4) orphaned.<sup class="footnote-ref" id="fnref-12"><a href="#fn-12">12</a></sup> <strong>Hiram Hodges</strong> was appointed guardian and curator of the minor children, while <strong>Wm. C. Patterson</strong> — Sarah's eldest son from her first marriage — served as administrator of the estate.<sup class="footnote-ref" id="fnref-13"><a href="#fn-13">13</a></sup> Patterson turned over $159.45 from the estate to Hodges for the children's care.<sup class="footnote-ref" id="fnref-14"><a href="#fn-14">14</a></sup> By the 1880 census, Charles Fred was living with the Craig family in Current township, Dent County, listed as &quot;brother-in-law&quot; to head Kennedy Craig — Nancy Craig (19) was Nancy E. Patterson, Sarah's daughter from her first marriage, who had married Kennedy Craig and taken in her young half-brother. A final settlement notice appeared in The Salem Monitor on June 7, 1883, and the estate was formally closed September 1888.</p>
+<p>Frederick and Sarah's confirmed children include <strong>George Washington Kuthe</strong> (14 Oct 1869–1925) and <strong>Charles Fred Kuthe</strong> (31 Mar 1875). Charles Fred's WWI draft card lists &quot;Geo. W. Kuthe&quot; as his sibling, confirming the relationship.<sup class="footnote-ref" id="fnref-7"><a href="#fn-7">7</a></sup> A Dent County history from the 1880s attributes &quot;six living children: William, Mary (Mrs. Schmit), George, Catherine, Susan, Adam&quot; to a Kuthe household, but this source may describe a different family and should be treated with caution.<sup class="footnote-ref" id="fnref-8"><a href="#fn-8">8</a></sup> George was born in Salem and would later migrate to Oregon and then Arizona.</p>
+<p>Frederick owned 100 acres across sections 34 and 35, Township 34, Range 6, in the Spring Creek area of Dent County.[^8b] Tragedy struck the family when Sarah Ann died in 1876 at approximately 39 years of age, leaving Frederick a widower with young children to raise.<sup class="footnote-ref" id="fnref-9"><a href="#fn-9">9</a></sup> A delinquent tax notice in The Salem Monitor (June 15, 1876) lists &quot;Kuthe Fred&quot; owing $6.07 for 1875 taxes on this land — a sign of the strain on the household after Sarah's death.</p>
+<p>The 1876 Missouri state census confirms her death: Frederick appears as head of household (male, over 45) with sons George W. and Charles, stepdaughter Nancy Patterson (c. 15), and a Wm. Ray (possibly a boarder or hired hand). No wife is listed.<sup class="footnote-ref" id="fnref-9"><a href="#fn-9">9</a></sup> Notably, the 1876 census enumerates the family in <strong>Texas County</strong> (Township 32, Range 8), not Dent County where Frederick's land was located — the two counties border each other, and the household may have moved south after Sarah's death, or Frederick may have been working at a mill in a neighboring township.</p>
+<p>Frederick died sometime before 1883 — likely around 1879 — leaving George (age ~10) and Charles Fred (age ~4) orphaned.<sup class="footnote-ref" id="fnref-10"><a href="#fn-10">10</a></sup> <strong>Hiram Hodges</strong> was appointed guardian and curator of the minor children, while <strong>Wm. C. Patterson</strong> — Sarah's eldest son from her first marriage — served as administrator of the estate.<sup class="footnote-ref" id="fnref-11"><a href="#fn-11">11</a></sup> Patterson turned over $159.45 from the estate to Hodges for the children's care.<sup class="footnote-ref" id="fnref-12"><a href="#fn-12">12</a></sup> By the 1880 census, Charles Fred was living with the Craig family in Current township, Dent County, listed as &quot;brother-in-law&quot; to head Kennedy Craig — Nancy Craig (19) was Nancy E. Patterson, Sarah's daughter from her first marriage, who had married Kennedy Craig and taken in her young half-brother. A final settlement notice appeared in The Salem Monitor on June 7, 1883, and the estate was formally closed September 1888.</p>
 <p>Frederick Kuthe's life was cut short — arriving as a child in Baltimore, working as a miller in the Missouri Ozarks, serving briefly in the Union Army, and dying around age 52, just three years after his wife Sarah. He left behind orphaned children who were taken in by relatives and neighbors. Despite this, his sons carried the family westward: George to Oregon and then Arizona, Charles Fred to Oregon and then Washington. The family's German heritage persisted through the generations even as the surname shifted through a dozen spellings in American records.</p>
+<div class="family-links">
+  <h4 class="family-links-title">Family</h4>
+  <div class="family-links-grid">
+    <a href="george_w_kuthe_bio.html" class="family-link-card">
+      <span class="family-link-name">George W. Kuthe</span>
+      <span class="family-link-relation">Son</span>
+    </a>
+  </div>
+</div>
+<hr />
+<h2>Related Families</h2>
+<details class="feature-accordion">
+<summary>The Vöhl Connection</summary>
+
+<p>An 1845 manifest for the ship <em>Olbers</em>, sailing from Bremen to New Orleans, lists a Küthe family from Vöhl in the Waldeck region of Hesse, headed by <strong>Heinrich Küthe</strong> (age 52), with an 18-year-old &quot;Friederich&quot; among his children.<sup class="footnote-ref" id="fnref-13"><a href="#fn-13">13</a></sup> This was previously thought to be our Frederick, but the 1834 Baltimore manifest confirms he was already in the United States by then. The Olbers Friederich is a different person — possibly a cousin. The overlapping names across both families (Anna, Friedrich, Margareth) suggest kinship, but no direct link between Andreas and Heinrich has been established.</p>
+<p>A biography of Louis Schleicher, a baker in Lancaster, Ohio, notes that he married &quot;Miss Mary C. Kuthe, who was born in Germany in 1824, and came to America in 1845&quot; — Mary traveled on the <em>Olbers</em> with Heinrich's family and may be a relative of our Frederick, but the connection is unconfirmed.<sup class="footnote-ref" id="fnref-14"><a href="#fn-14">14</a></sup></p>
+<p>A third Kuthe — <strong>Wilhelm</strong>, a baker from Melsungen — arrived in Baltimore in 1842, adding to the picture of a broader Kuthe emigration network from Hesse. See the full disambiguation in research/analysis/kuthe-two-fredericks.md.</p>
+</details>
+
 <hr />
 <p><strong>Notes:</strong></p>
 <section class="footnotes">
 <ol>
 <li id="fn-1"><p>Birth year c. 1827 from 1834 manifest (age 7), 1870 census (age 43, &quot;abt 1827&quot;), and 1865 enlistment (age 36, &quot;abt 1829&quot;). Birthplace Darmstadt per 1870 federal census.<a href="#fnref-1" class="footnote">&#8617;</a></p></li>
 <li id="fn-2"><p>NARA Microfilm M596 (Quarterly Abstracts of Passenger Lists), Roll 4, page 67 of 688. &quot;LIST OF PASSENGERS entered in the district of Baltimore, by vessels from Foreign Ports, from the first of April — to the 30th June 1834.&quot; Lists Andreas Kuth (36), Anna D. Kuth (34), Fredk Kuth (7), Margareth Kuth (3), from Germany, intending to become inhabitants of the United States. Accessed via Ancestry.com, &quot;Baltimore, Maryland, U.S., Passenger Lists, 1820–1964.&quot;<a href="#fnref-2" class="footnote">&#8617;</a></p></li>
-<li id="fn-3"><p>ISTG (Immigrant Ships Transcribers Guild), manifest of the <em>Olbers</em> from Bremen to New Orleans, 13 June 1845. Previously attributed to our Frederick; now believed to be a different Kuthe family from Vöhl, Waldeck.<a href="#fnref-3" class="footnote">&#8617;</a></p></li>
-<li id="fn-4"><p>Louis Schleicher biography, noting his 1847 marriage to Mary C. Kuthe &quot;born in Germany in 1824, and came to America in 1845.&quot; Connection to our Frederick uncertain.<a href="#fnref-4" class="footnote">&#8617;</a></p></li>
-<li id="fn-5"><p>1870 United States Federal Census (Ancestry.com Operations, Inc., 2009). G F Koothe, age 43, Miller, born Darmstadt; household in Spring Creek, Dent, Missouri, Post Office Salem. Household includes: W C Paterson (11), N E Paterson (9), J H Paterson (7), G F Koothe (43), S A Koothe (33), G W Koothe (6/12). Father and mother of foreign birth.<a href="#fnref-5" class="footnote">&#8617;</a></p></li>
-<li id="fn-6"><p>&quot;New York, Civil War Muster Roll Abstracts, 1861–1900&quot; (Ancestry.com Operations, Inc., 2011). New York State Archives, Cultural Education Center, Albany, NY; Archive Collection #13775-83, Box #840, Roll #496. Frederick Kuthe (remarks note &quot;also borne as Frederick C [Kuthe]&quot; — the &quot;C&quot; likely a middle initial, not a separate surname), Private, Co. G, 9th NY Cavalry. Enlisted 14 Feb 1865, New York City; mustered out 17 Jul 1865, Cloud's Mills, Virginia. Born Germany, age 36, 5'6&quot;, blue eyes, light hair, light complexion, occupation miller. Credited to 8th Congressional District. See also: &quot;U.S., Civil War Soldier Records and Profiles, 1861–1865,&quot; Historical Data Systems, comp. (Ancestry.com Operations Inc, 2009); source: New York: Report of the Adjutant-General 1893–1906.<a href="#fnref-6" class="footnote">&#8617;</a></p></li>
-<li id="fn-7"><p>Dent County, MO Marriage Book A, 1851–1870.<a href="#fnref-7" class="footnote">&#8617;</a></p></li>
-<li id="fn-8"><p>USGenWeb Archives and Genealogy Trails transcription of Dent County marriages.<a href="#fnref-8" class="footnote">&#8617;</a></p></li>
-<li id="fn-9"><p>Charles Fred Kuthe (b. 31 Mar 1875, Missouri). WWI Draft Registration Card, 1917–1918: age 42, Yakima County, WA; sibling listed as &quot;Geo. W. Kuthe.&quot; Also appears as &quot;Frederick C. Kuthe&quot; (age 5) in the 1880 census, living with the Craig family in Current, Dent County, as &quot;brother-in-law&quot; — Nancy Craig (19) was Nancy E. Patterson, his half-sister via Sarah's first marriage. By 1900 census: &quot;Chas F Kuthe,&quot; age 25, in Albany, Linn County, Oregon, occupation &quot;Bottler Soda Works,&quot; living with Nelson L. Bailey; single, literate. Father's birthplace Germany, mother's birthplace Missouri. By 1908: cigar dealer in Eugene, Oregon — arrested Nov 10, 1908 for selling &quot;near beer&quot; in violation of city ordinance, fined $25; case taken to circuit court as a test of the ordinance's validity (The Spokane Press, Tue, Nov 10, 1908, p. 8). By 1917: Yakima County, Washington.<a href="#fnref-9" class="footnote">&#8617;</a></p></li>
-<li id="fn-10"><p>Dent County local history (c. 1880s), listing &quot;six living children: William, Mary (Mrs. Schmit), George, Catherine, Susan, Adam.&quot; Charles Fred was omitted, possibly because he was living with a married sister (see ^8a).<a href="#fnref-10" class="footnote">&#8617;</a></p></li>
-<li id="fn-11"><p>1876 Missouri state census, Dent County (Ancestry.com, record 145829: https://www.ancestry.com/search/collections/1024/records/145829). Household: Kuthe Frethrick (male, over 45), Kuthe George W (male, under 10), Kuthe Charles (male, under 10), Patterson Nancy (female, c. 15), Ray Wm (male). No wife listed, confirming Sarah's death by 1876. Nancy Patterson is Sarah's daughter from her first marriage, still in the household under her maiden name. Also noted by family researcher SK (moleson2001): two cows listed.<a href="#fnref-11" class="footnote">&#8617;</a></p></li>
-<li id="fn-12"><p>Death before June 1883, likely c. 1879 per family researcher estimate.<a href="#fnref-12" class="footnote">&#8617;</a></p></li>
-<li id="fn-13"><p>&quot;Final Settlement Notice,&quot; The Salem Monitor (Salem, MO), Thu, Jun 7, 1883, p. 3. Wm. C. Patterson, administrator of the estate of Frederick Kuthe, deceased, announces final settlement with the Probate Court of Dent County, to begin September 3, 1883. W.C. Patterson is Sarah Ann's eldest son from her first marriage (b. c. 1859), listed as &quot;W C Paterson&quot; age 11 in the 1870 census household. Image: https://www.newspapers.com/image/491369610/?match=1&amp;clipping_id=195438438<a href="#fnref-13" class="footnote">&#8617;</a></p></li>
-<li id="fn-14"><p>Dent County Probate Records, Settlements vol. 1, p. 554. &quot;In the matter of the minor heirs of Frederick Kuthy deceased.&quot; Hiram Hodges, Guardian &amp; Curator, received $159.45 from W.C. Patterson, administrator of the estate of Frederick Kuthy deceased. Receipt filed with the papers.<a href="#fnref-14" class="footnote">&#8617;</a></p></li>
+<li id="fn-3"><p>1870 United States Federal Census (Ancestry.com Operations, Inc., 2009). G F Koothe, age 43, Miller, born Darmstadt; household in Spring Creek, Dent, Missouri, Post Office Salem. Household includes: W C Paterson (11), N E Paterson (9), J H Paterson (7), G F Koothe (43), S A Koothe (33), G W Koothe (6/12). Father and mother of foreign birth.<a href="#fnref-3" class="footnote">&#8617;</a></p></li>
+<li id="fn-4"><p>&quot;New York, Civil War Muster Roll Abstracts, 1861–1900&quot; (Ancestry.com Operations, Inc., 2011). New York State Archives, Cultural Education Center, Albany, NY; Archive Collection #13775-83, Box #840, Roll #496. Frederick Kuthe (remarks note &quot;also borne as Frederick C [Kuthe]&quot; — the &quot;C&quot; likely a middle initial, not a separate surname), Private, Co. G, 9th NY Cavalry. Enlisted 14 Feb 1865, New York City; mustered out 17 Jul 1865, Cloud's Mills, Virginia. Born Germany, age 36, 5'6&quot;, blue eyes, light hair, light complexion, occupation miller. Credited to 8th Congressional District. See also: &quot;U.S., Civil War Soldier Records and Profiles, 1861–1865,&quot; Historical Data Systems, comp. (Ancestry.com Operations Inc, 2009); source: New York: Report of the Adjutant-General 1893–1906.<a href="#fnref-4" class="footnote">&#8617;</a></p></li>
+<li id="fn-5"><p>Dent County, MO Marriage Book A, 1851–1870.<a href="#fnref-5" class="footnote">&#8617;</a></p></li>
+<li id="fn-6"><p>USGenWeb Archives and Genealogy Trails transcription of Dent County marriages.<a href="#fnref-6" class="footnote">&#8617;</a></p></li>
+<li id="fn-7"><p>Charles Fred Kuthe (b. 31 Mar 1875, Missouri). WWI Draft Registration Card, 1917–1918: age 42, Yakima County, WA; sibling listed as &quot;Geo. W. Kuthe.&quot; Also appears as &quot;Frederick C. Kuthe&quot; (age 5) in the 1880 census, living with the Craig family in Current, Dent County, as &quot;brother-in-law&quot; — Nancy Craig (19) was Nancy E. Patterson, his half-sister via Sarah's first marriage. By 1900 census: &quot;Chas F Kuthe,&quot; age 25, in Albany, Linn County, Oregon, occupation &quot;Bottler Soda Works,&quot; living with Nelson L. Bailey; single, literate. Father's birthplace Germany, mother's birthplace Missouri. By 1908: cigar dealer in Eugene, Oregon — arrested Nov 10, 1908 for selling &quot;near beer&quot; in violation of city ordinance, fined $25; case taken to circuit court as a test of the ordinance's validity (The Spokane Press, Tue, Nov 10, 1908, p. 8). By 1917: Yakima County, Washington.<a href="#fnref-7" class="footnote">&#8617;</a></p></li>
+<li id="fn-8"><p>Dent County local history (c. 1880s), listing &quot;six living children: William, Mary (Mrs. Schmit), George, Catherine, Susan, Adam.&quot; Charles Fred was omitted, possibly because he was living with a married sister (see ^8a).<a href="#fnref-8" class="footnote">&#8617;</a></p></li>
+<li id="fn-9"><p>1876 Missouri state census, Texas County, Township 32, Range 8 (Ancestry.com, &quot;Missouri, U.S., State Census Collection, 1844–1881,&quot; record 145829: https://www.ancestry.com/search/collections/1024/records/145829; image page 35 of 87). Ancestry indexes this as &quot;Texas, Township 32.&quot; Household: Kuthe Frethrick (male, over 45), Kuthe George W (male, under 10), Kuthe Charles (male, under 10), Patterson Nancy (female, c. 15), Ray Wm (male). No wife listed, confirming Sarah's death by 1876. Nancy Patterson is Sarah's daughter from her first marriage, still in the household under her maiden name. The enumeration in Texas County — not Dent County where Frederick's 100-acre tract was located (T34 R6) — suggests the family relocated across the county line after Sarah's death, or that Frederick was working at a mill in the neighboring county. Also noted by family researcher SK (moleson2001): two cows listed.<a href="#fnref-9" class="footnote">&#8617;</a></p></li>
+<li id="fn-10"><p>Death before June 1883, likely c. 1879 per family researcher estimate.<a href="#fnref-10" class="footnote">&#8617;</a></p></li>
+<li id="fn-11"><p>&quot;Final Settlement Notice,&quot; The Salem Monitor (Salem, MO), Thu, Jun 7, 1883, p. 3. Wm. C. Patterson, administrator of the estate of Frederick Kuthe, deceased, announces final settlement with the Probate Court of Dent County, to begin September 3, 1883. W.C. Patterson is Sarah Ann's eldest son from her first marriage (b. c. 1859), listed as &quot;W C Paterson&quot; age 11 in the 1870 census household. Image: https://www.newspapers.com/image/491369610/?match=1&amp;clipping_id=195438438<a href="#fnref-11" class="footnote">&#8617;</a></p></li>
+<li id="fn-12"><p>Dent County Probate Records, Settlements vol. 1, p. 554. &quot;In the matter of the minor heirs of Frederick Kuthy deceased.&quot; Hiram Hodges, Guardian &amp; Curator, received $159.45 from W.C. Patterson, administrator of the estate of Frederick Kuthy deceased. Receipt filed with the papers.<a href="#fnref-12" class="footnote">&#8617;</a></p></li>
+<li id="fn-13"><p>ISTG (Immigrant Ships Transcribers Guild), manifest of the <em>Olbers</em> from Bremen to New Orleans, 13 June 1845. Previously attributed to our Frederick; now believed to be a different Kuthe family from Vöhl, Waldeck.<a href="#fnref-13" class="footnote">&#8617;</a></p></li>
+<li id="fn-14"><p>Louis Schleicher biography, noting his 1847 marriage to Mary C. Kuthe &quot;born in Germany in 1824, and came to America in 1845.&quot; Connection to our Frederick uncertain.<a href="#fnref-14" class="footnote">&#8617;</a></p></li>
 </ol>
 </section>
 </div><aside class="bio-timeline">
   <div class="timeline-event">
-    <span class="timeline-year">1824</span>
+    <span class="timeline-year">1827</span>
     <span class="timeline-marker timeline-marker--major"></span>
     <span class="timeline-label">Born</span>
   </div>
@@ -720,15 +785,27 @@
   </div>
   <div class="timeline-line"></div>
   <div class="timeline-event">
-    <span class="timeline-year">1868</span>
+    <span class="timeline-year">1865</span>
     <span class="timeline-marker"></span>
-    <span class="timeline-label">Married Sarah Ann</span>
+    <span class="timeline-label">Enlisted Union Army (9th NY Cavalry)</span>
   </div>
   <div class="timeline-line"></div>
   <div class="timeline-event">
-    <span class="timeline-year">1900</span>
+    <span class="timeline-year">1868</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Married Sarah Ann Patterson</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1876</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Sarah Ann dies</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1879</span>
     <span class="timeline-marker timeline-marker--major"></span>
-    <span class="timeline-label">Died</span>
+    <span class="timeline-label">Died (est.)</span>
   </div>
 </aside></div>
 </body>
