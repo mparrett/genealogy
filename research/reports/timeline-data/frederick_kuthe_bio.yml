@@ -8,9 +8,6 @@ death:
   label: Died (est.)
   location: Dent County, Missouri
 events:
-  - year: 1834
-    label: Arrived Baltimore with family
-    type: migration
   - year: 1865
     label: Enlisted Union Army (9th NY Cavalry)
     type: event
@@ -28,9 +25,12 @@ location_aside:
   image: locations/vohl-hesse-1850.jpg
   after_paragraph: 1
   description: >
-    Frederick's family emigrated from Darmstadt in Hesse,
-    arriving in Baltimore in 1834 when Frederick was seven.
-    His father Andreas was 36 at the time of the voyage.
+    Frederick's birthplace is recorded as "Darmstadt" on the 1870
+    census — likely referring to the Grand Duchy of Hesse-Darmstadt
+    rather than the city itself. No immigration record has been
+    confirmed for the Kuthe family; a Baltimore 1834 passenger
+    record once attributed to them was found to belong to a
+    different family named Huth.
 
 family_links:
   - name: George W. Kuthe

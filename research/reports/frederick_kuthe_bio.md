@@ -3,15 +3,13 @@
 
 *German Immigrant, Miller, Union Soldier*
 
-Frederick Kuthe (also recorded as George Frederick Kuthe) was born around 1827 in **Darmstadt, Hesse, Germany**.[^1] His father was **Andreas Kuthe** (born c. 1798 in Hesse) and his mother was **Anna D. Kobeny** (born c. 1800).
+Frederick Kuthe (also recorded as George Frederick Kuthe) was born around 1827 in **Darmstadt, Hesse, Germany**.[^1] Prior work named his father as **Andreas Kuthe** (born c. 1798 in Hesse), but no primary source has been found to confirm this.
 
-A quarterly abstract of passenger arrivals for the district of Baltimore, covering April–June 1834, lists the Kuth family arriving from Germany: **Andreas** (age 36), his wife **Anna D.** (age 34), son **Fredk** (age 7), and daughter **Margareth** (age 3).[^2]
+The surname Kuthe proved difficult for English-speaking clerks, appearing in records variously as Kuethe, Küthe, Kuth, Kuthy, Koothe, and even "Kite." No ship, date, or port of arrival has been confirmed for this line.[^2]
 
 <img src="../../../images/bio/frederick-kuthe-01-voyage.jpg" alt="The Kuthe family's arrival in Baltimore, 1834" class="float-left">
 
 By the 1850s Frederick had settled in the Spring Creek township of Dent County, Missouri, which had been organized in 1851. He worked as a **miller** — both the 1870 census and his 1865 military enlistment record list his occupation as such.[^5a] Milling was essential to the Ozark frontier economy; Dent County's scattered settlements depended on local mills to grind corn and wheat into flour and meal. Water-powered grist mills dotted the creeks and rivers of the region, and a skilled miller was a valued member of any community. Frederick's trade placed him at the center of rural commerce in a way that farming alone would not.
-
-The surname Kuthe proved difficult for English-speaking clerks, appearing in records variously as Kuethe, Küthe, Kuth, Kuthy, Koothe, and even "Kite."
 
 In the final months of the Civil War, Frederick enlisted in the Union Army in New York City on February 14, 1865, at age 36. He was mustered into **Company G, 9th New York Cavalry** as a private.[^5] His enlistment record describes him as born in Germany, 5'6", with blue eyes and light hair, occupation miller. The 9th NY Cavalry saw action in the Shenandoah Valley and around Petersburg in the war's closing weeks. Frederick was mustered out on July 17, 1865, at Cloud's Mills, Virginia. Why he was in New York rather than Missouri at the time of enlistment is unknown—late-war bounty enlistments drew men from across the country to fill depleted units.
 
@@ -27,7 +25,7 @@ The 1876 Missouri state census confirms her death: Frederick appears as head of 
 
 Frederick died sometime before 1883 — likely around 1879 — leaving George (age ~10) and Charles Fred (age ~4) orphaned.[^10] **Hiram Hodges** was appointed guardian and curator of the minor children, while **Wm. C. Patterson** — Sarah's eldest son from her first marriage — served as administrator of the estate.[^10a] Patterson turned over $159.45 from the estate to Hodges for the children's care.[^10d] By the 1880 census, Charles Fred was living with the Craig family in Current township, Dent County, listed as "brother-in-law" to head Kennedy Craig — Nancy Craig (19) was Nancy E. Patterson, Sarah's daughter from her first marriage, who had married Kennedy Craig and taken in her young half-brother. A final settlement notice appeared in The Salem Monitor on June 7, 1883, and the estate was formally closed September 1888.
 
-Frederick Kuthe's life was cut short — arriving as a child in Baltimore, working as a miller in the Missouri Ozarks, serving briefly in the Union Army, and dying around age 52, just three years after his wife Sarah. He left behind orphaned children who were taken in by relatives and neighbors. Despite this, his sons carried the family westward: George to Oregon and then Arizona, Charles Fred to Oregon and then Washington. The family's German heritage persisted through the generations even as the surname shifted through a dozen spellings in American records.
+Frederick Kuthe's life was cut short — emigrating from Germany as a child, working as a miller in the Missouri Ozarks, serving briefly in the Union Army, and dying around age 52, just three years after his wife Sarah. He left behind orphaned children who were taken in by relatives and neighbors. Despite this, his sons carried the family westward: George to Oregon and then Arizona, Charles Fred to Oregon and then Washington. The family's German heritage persisted through the generations even as the surname shifted through a dozen spellings — Kuthe, Kuethe, Kuthy, Koothe, Kite — in American records.
 
 ---
 
@@ -36,7 +34,7 @@ Frederick Kuthe's life was cut short — arriving as a child in Baltimore, worki
 <details class="feature-accordion">
 <summary>The Vöhl Connection</summary>
 
-An 1845 manifest for the ship *Olbers*, sailing from Bremen to New Orleans, lists a Küthe family from Vöhl in the Waldeck region of Hesse, headed by **Heinrich Küthe** (age 52), with an 18-year-old "Friederich" among his children.[^3] This was previously thought to be our Frederick, but the 1834 Baltimore manifest confirms he was already in the United States by then. The Olbers Friederich is a different person — possibly a cousin. The overlapping names across both families (Anna, Friedrich, Margareth) suggest kinship, but no direct link between Andreas and Heinrich has been established.
+An 1845 manifest for the ship *Olbers*, sailing from Bremen to New Orleans, lists a Küthe family from Vöhl in the Waldeck region of Hesse, headed by **Heinrich Küthe** (age 52), with an 18-year-old "Friederich" among his children.[^3] This was previously thought to be our Frederick. The Olbers Friederich is almost certainly a different person — he was 18 at arrival in 1845, while our Frederick was already in Missouri by the 1850s and consistently recorded as older. The overlapping names across both families (Anna, Friedrich, Margareth) are suggestive of kinship, but no direct link between Andreas and Heinrich has been established.
 
 A biography of Louis Schleicher, a baker in Lancaster, Ohio, notes that he married "Miss Mary C. Kuthe, who was born in Germany in 1824, and came to America in 1845" — Mary traveled on the *Olbers* with Heinrich's family and may be a relative of our Frederick, but the connection is unconfirmed.[^4]
 
@@ -44,19 +42,28 @@ A third Kuthe — **Wilhelm**, a baker from Melsungen — arrived in Baltimore i
 
 </details>
 
+<details class="feature-accordion">
+<summary>The 1834 Baltimore Record (Huth, not Kuthe)</summary>
+
+A quarterly abstract of passenger arrivals for Baltimore (April–June 1834) was long attributed to the Kuthe family, listing an "Andreas Kuth" (age 36) with wife, son "Fredk" (age 7), and daughter "Margareth" (age 3).[^2] The match to Kuthe family tradition appeared strong — a father named Andreas, a son Friedrich of the right age, arriving from Germany.
+
+However, research into the Baltimore passenger index cards (BRG55) in April 2026 revealed that this family's surname was actually **Huth**, not Kuth. The index cards show the family arriving on the *Julius Eduard* on June 14, 1834, from **Weilhausen**, destination Pittsburgh. The "Kuth" reading on Ancestry.com was a misreading of the quarterly abstract's handwriting. This is a different family entirely. See the full analysis in research/analysis/kuthe-baltimore-1834.md.
+
+</details>
+
 ---
 
 **Notes:**
 
-[^1]: Birth year c. 1827 from 1834 manifest (age 7), 1870 census (age 43, "abt 1827"), and 1865 enlistment (age 36, "abt 1829"). Birthplace Darmstadt per 1870 federal census.
+[^1]: Birth year c. 1827 from 1870 census (age 43, "abt 1827") and 1865 enlistment (age 36, "abt 1829"). Birthplace "Darmstadt" per 1870 federal census — may refer to the Grand Duchy of Hesse-Darmstadt rather than the city itself. Father named Andreas per family tradition; no primary source confirms this.
 
-[^2]: NARA Microfilm M596 (Quarterly Abstracts of Passenger Lists), Roll 4, page 67 of 688. "LIST OF PASSENGERS entered in the district of Baltimore, by vessels from Foreign Ports, from the first of April — to the 30th June 1834." Lists Andreas Kuth (36), Anna D. Kuth (34), Fredk Kuth (7), Margareth Kuth (3), from Germany, intending to become inhabitants of the United States. Accessed via Ancestry.com, "Baltimore, Maryland, U.S., Passenger Lists, 1820–1964."
+[^2]: NARA Microfilm M596 (Quarterly Abstracts of Passenger Lists), Roll 4, p. 67. A family arriving Baltimore April–June 1834 was previously transcribed as "Kuth" — Andreas (36), Anna D. (34), Fredk (7), Margareth (3). Research into the Baltimore passenger index cards (BRG55) in April 2026 revealed the surname is actually **Huth**: cards for Anna Doroth Huth (2596-1-19) and Anna Margareth Huth (2596-1-22) show the family arriving on the *Julius Eduard*, June 14, 1834, from Weilhausen, destination Pittsburgh. This is a different family — not the Kuthe line. The misreading of "Huth" as "Kuth" on Ancestry.com led to the erroneous attribution. See research/analysis/kuthe-baltimore-1834.md.
 
 [^3]: ISTG (Immigrant Ships Transcribers Guild), manifest of the *Olbers* from Bremen to New Orleans, 13 June 1845. Previously attributed to our Frederick; now believed to be a different Kuthe family from Vöhl, Waldeck.
 
 [^4]: Louis Schleicher biography, noting his 1847 marriage to Mary C. Kuthe "born in Germany in 1824, and came to America in 1845." Connection to our Frederick uncertain.
 
-[^5]: "New York, Civil War Muster Roll Abstracts, 1861–1900" (Ancestry.com Operations, Inc., 2011). New York State Archives, Cultural Education Center, Albany, NY; Archive Collection #13775-83, Box #840, Roll #496. Frederick Kuthe (remarks note "also borne as Frederick C [Kuthe]" — the "C" likely a middle initial, not a separate surname), Private, Co. G, 9th NY Cavalry. Enlisted 14 Feb 1865, New York City; mustered out 17 Jul 1865, Cloud's Mills, Virginia. Born Germany, age 36, 5'6", blue eyes, light hair, light complexion, occupation miller. Credited to 8th Congressional District. See also: "U.S., Civil War Soldier Records and Profiles, 1861–1865," Historical Data Systems, comp. (Ancestry.com Operations Inc, 2009); source: New York: Report of the Adjutant-General 1893–1906.
+[^5]: "New York, Civil War Muster Roll Abstracts, 1861–1900" (Ancestry.com Operations, Inc., 2011). New York State Archives, Cultural Education Center, Albany, NY; Archive Collection #13775-83, Box #840, Roll #496. Frederick Kuthe (remarks note "also borne as Frederick C [Kuthe]" — the "C" likely a middle initial, not a separate surname), Private, Co. G, 9th NY Cavalry. Enlisted 14 Feb 1865, New York City; mustered out 17 Jul 1865, Cloud's Mills, Virginia. Born Germany, age 36, 5'6", blue eyes, light hair, light complexion, occupation miller. Credited to 8th Congressional District. See also: "U.S., Civil War Soldier Records and Profiles, 1861–1865," Historical Data Systems, comp. (Ancestry.com Operations Inc, 2009); source: New York: Report of the Adjutant-General 1893–1906. Note: physical description and occupation ("Miller") appear in the Remarks section at the bottom of the muster roll abstract, not the main form fields. Ancestry record: https://www.ancestry.com/search/collections/1965/records/290761
 
 [^5a]: 1870 United States Federal Census (Ancestry.com Operations, Inc., 2009). G F Koothe, age 43, Miller, born Darmstadt; household in Spring Creek, Dent, Missouri, Post Office Salem. Household includes: W C Paterson (11), N E Paterson (9), J H Paterson (7), G F Koothe (43), S A Koothe (33), G W Koothe (6/12). Father and mother of foreign birth.
 
