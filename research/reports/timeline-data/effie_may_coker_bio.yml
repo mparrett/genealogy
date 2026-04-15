@@ -1,0 +1,42 @@
+name: Effie May Coker
+birth:
+  year: 1878
+  label: Born
+  location: Red River County, TX
+death:
+  year: 1958
+  label: Died
+  location: Phoenix, AZ
+events:
+  - year: 1891
+    label: Father James A. Coker died
+    type: event
+  - year: 1894
+    label: Married Joseph Hambrock
+    type: marriage
+  - year: 1897
+    label: Married Samuel S. Mowrey
+    type: marriage
+  - year: 1904
+    label: Samuel died
+    type: event
+  - year: 1907
+    label: Married Hedge B. Evans
+    type: marriage
+  - year: 1911
+    label: Married Andrew M. Dawson
+    type: marriage
+  - year: 1920
+    label: Moved to Williams, AZ
+    type: migration
+  - year: 1938
+    label: Andrew Dawson died
+    type: event
+
+family_links:
+  - name: Samuel S. Mowrey
+    relation: 2nd Husband
+    link: samuel_s_mowrey_bio.html
+  - name: Raymond Robert Mowrey
+    relation: Son
+    link: raymond_robert_mowrey_bio.html

@@ -7,7 +7,7 @@ Samuel S. Mowrey was born in February 1867 in Red River County, Texas, one of te
 
 Samuel grew up in the Milton community of Lamar County, where his father served as postmaster. The 1880 census shows him at thirteen, still single, living with his parents. His older brothers William, Ephraim Lusby, and Lewis Daily had already begun establishing their own families, while Samuel remained on the family farm.
 
-On June 12, 1897, at age thirty, Samuel married **Effie May Coker** (1878–1958) in Lamar County. Effie was nineteen and already a mother—her daughter **Cecilia Mae** had been born in March 1895, two years before the marriage. The surname "Hambrock" attached to Cecilia in some records likely indicates her biological father; no marriage between Effie and a Hambrock has been found, suggesting Cecilia was born out of wedlock. Samuel took on the role of stepfather when he married Effie, and their household grew with children of their own: **Frank Preston Mowrey** in December 1898, **Raymond Robert Mowrey** in December 1899, and Ruby in April 1902.
+On June 12, 1897, at age thirty, Samuel married **Effie May Coker** (1878–1958) in Lamar County. Effie was nineteen and already a mother—she had married **Joseph Hambrock** (1876–1900) in June 1894 at age sixteen, and their daughter **Cecilia Mae Hambrock** had been born in March 1895. Samuel took on the role of stepfather when he married Effie, and their household grew with children of their own: **Frank Preston Mowrey** in December 1898, **Raymond Robert Mowrey** in December 1899, and Ruby in April 1902.
 
 By the 1900 census, Samuel was farming in Justice Precinct 1 of Lamar County, listed as head of household with Effie and their young children. He was thirty-three, a farmer like his father before him, raising the next generation of Mowreys in the same Texas soil his family had worked for nearly fifty years.
 
@@ -15,7 +15,7 @@ Then came August 29, 1904.
 
 On that day, both Samuel and his father Moses died in Lamar County. Samuel was thirty-seven; Moses was eighty-one. The cause of their simultaneous deaths remains unknown—no newspaper obituary, death certificate, or contemporary account has been found. Whether accident, illness, or some shared tragedy, the records are silent. Both are believed to be buried in Milton Cemetery, their graves unmarked.
 
-Samuel left behind four children under the age of ten. Effie, widowed at twenty-six, would eventually remarry (a Mr. Dawson) and live until 1958, dying in Phoenix, Arizona—the same state where her son Raymond would build his life.
+Samuel left behind four children under the age of ten. Effie, widowed at twenty-six, would marry twice more—first **Hedge B. Evans** (1907) and then **Andrew Montgomery Dawson** (1911)—and live until 1958, dying in Phoenix, Arizona, the same state where her son Raymond would build his life.
 
 The mystery of August 29, 1904, lingers. But Samuel's legacy is clear: through Raymond Robert Mowrey, his line continued to Arizona, where it would eventually connect with the Gleeson family and carry forward to the present day.
 
@@ -27,7 +27,7 @@ The mystery of August 29, 1904, lingers. But Samuel's legacy is clear: through R
 - Parents: Moses Mansfield Mowery (1822–1904) + Margaret Elizabeth Witt (1828–c. 1900).
 - Marriage: 12 Jun 1897, Lamar County, TX to Effie May Coker per Texas marriage records.
 - Children: Cecilia Mae (1895, stepdaughter), Frank Preston (1898), Raymond Robert (1899), Ruby (1902).
-- Cecilia Mae Hambrock Coker Bond (1895–1989) was Effie's daughter from a prior relationship; "Hambrock" likely the biological father's surname.
+- Cecilia Mae Hambrock Coker Bond (1895–1989) was Effie's daughter from her first marriage to Joseph Hambrock (1876–1900), married Jun 1894 in Lamar County.
 - Occupation: Farmer per 1900 census, Lamar County.
 - Death: 29 Aug 1904, Lamar County, TX — same day as father Moses. Multiple independent sources confirm this date; not a data-entry error. Cause remains unknown.
 - Burial: Milton Cemetery, Lamar County (grave unmarked).

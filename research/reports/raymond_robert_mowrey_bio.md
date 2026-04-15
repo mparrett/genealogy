@@ -3,9 +3,9 @@
 
 *Texas-Born, Arizona-Made, A Pillar of Williams*
 
-Raymond Robert Mowrey was born on December 20, 1899, in Paris, Texas, the third child of **Samuel S. Mowrey** (1867–1904) and **Effie May Coker** (1878–1958). He had an older brother Frank Preston and an older half-sister Cecilia Mae, with a younger sister Ruby arriving in 1902.
+Raymond Robert Mowrey was born on December 20, 1899, in Paris, Texas, the third child of **Samuel S. Mowrey** (1867–1904) and **Effie May Coker** (1878–1958). He had an older brother Frank Preston, an older half-sister Cecilia Mae Hambrock (from Effie's first marriage to Joseph Hambrock), and a younger sister Ruby arriving in 1902.
 
-Raymond's childhood was marked by tragedy. On August 29, 1904, when he was just four years old, his father Samuel died—on the same day as his grandfather Moses Mansfield Mowery. The cause of this double death remains a family mystery. His mother Effie, widowed at twenty-six with four young children, eventually remarried a Mr. Dawson.
+Raymond's childhood was marked by tragedy. On August 29, 1904, when he was just four years old, his father Samuel died—on the same day as his grandfather Moses Mansfield Mowery. The cause of this double death remains a family mystery. His mother Effie, widowed at twenty-six with four young children, married Hedge B. Evans in 1907, then **Andrew Montgomery Dawson** (1879–1938) in 1911. Raymond's half-sisters Loyce Maxine Dawson (1913) and Thelma Dawson (1915) were born from this last marriage.
 
 Despite the early loss, Raymond grew into a man of ambition and community spirit. He registered for the draft during World War I while still living in Lamar County, Texas. In May 1921, at twenty-one, he married **May Smith** in Lamar County—though this marriage did not last.
 
