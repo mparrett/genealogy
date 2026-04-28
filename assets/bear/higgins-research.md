@@ -52,7 +52,7 @@ Most major questions RESOLVED. Remaining open questions focus on Irish origins a
 - **Birth:** August 1866, Co. Sligo, Ireland
 - **Parents:** James Knight (1843–) + Bridget Larney Knight (1846–1894)
 - **Death:** 27 March 1930, NYC almshouse
-- **Burial:** Holy Name Cemetery, NYC
+- **Burial:** Holy Name Cemetery and Mausoleum, Jersey City, Hudson Co., NJ — Plot I I 7-8, buried with infant son Lawrence (1890–1890). Find A Grave memorial #152646008.
 
 ### James Everett Higgins (1892–1938)
 - **Birth:** 2 February 1892, Manhattan, New York

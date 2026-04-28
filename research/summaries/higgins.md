@@ -67,7 +67,7 @@ Extracted from Ancestry profile exports (Jan 2025).
 - **Birth:** August 1866, Co. Sligo, Ireland
 - **Parents:** James Knight (1843–) + Bridget Larney Knight (1846–1894)
 - **Death:** 27 March 1930, NYC (almshouse)
-- **Burial:** Holy Name Cemetery, NYC
+- **Burial:** Holy Name Cemetery and Mausoleum, Jersey City, Hudson Co., NJ — Plot I I 7-8, with infant son Lawrence (1890–1890). Find A Grave memorial #152646008.
 
 ### Siblings
 - James J Knight (1867–1921)

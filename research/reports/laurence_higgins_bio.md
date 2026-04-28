@@ -21,7 +21,7 @@ Laurence and Mary had five children in America: Margaret (c. 1882), Mary A. (188
 
 The later years brought hardship. Daughter Mary A. died in 1913 at age 25. By 1905, both James Everett and his sister Theresa were living at St. Agatha's Home for Children in Nanuet, New York—an orphanage—suggesting the family faced serious difficulties, though Laurence was still alive. The reasons remain unclear.
 
-Laurence Higgins died sometime before February 17, 1930—the date Mary Knight Higgins was admitted to a New York City almshouse as a widow. The exact date and place of his death have not been confirmed. Mary herself died just six weeks later, on March 27, 1930, at the almshouse, and was buried in Holy Name Cemetery.
+Laurence Higgins died sometime before February 17, 1930—the date Mary Knight Higgins was admitted to a New York City almshouse as a widow. The exact date and place of his death have not been confirmed. Mary herself died just six weeks later, on March 27, 1930, at the almshouse, and was buried in Holy Name Cemetery and Mausoleum in Jersey City, Hudson County, New Jersey (Plot I I 7-8), beside her infant son Lawrence (1890–1890).
 
 Laurence Higgins lived the arc of many Irish immigrants of his generation: from Dublin laborer to American porter, building a family across two marriages and two continents. Though he never lived to see his grandchildren, his grandson Howard Robert Higgins would carry the family name to Arizona, where the Higgins line continues today.
 
@@ -39,4 +39,4 @@ Laurence Higgins lived the arc of many Irish immigrants of his generation: from 
 - Children from both marriages compiled from census and family tree data.
 - James Everett and Theresa at St. Agatha's Home for Children, Nanuet, NY per 1905 NY State Census.
 - Death: before 17 Feb 1930 (date of Mary's almshouse admission as "widowed"); exact date/place unknown.
-- Mary Knight Higgins died 27 Mar 1930, NYC almshouse; buried Holy Name Cemetery.
+- Mary Knight Higgins died 27 Mar 1930, NYC almshouse; buried Holy Name Cemetery and Mausoleum, Jersey City, Hudson Co., NJ, Plot I I 7-8, with infant son Lawrence (1890–1890). Find A Grave memorial #152646008.
