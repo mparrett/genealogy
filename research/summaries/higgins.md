@@ -13,7 +13,7 @@ Extracted from Ancestry profile exports (Jan 2025).
 - **Occupation:** Porter (1900, 1910), Janitor (1920), Watchman (1930 census entry - possibly error/different person?)
 
 ### Siblings (all born Dublin)
-- Christopher Higgins (1851–1891)
+- Christopher Higgins (1851–1891) — *relationship uncertain; family genealogists favor cousin over brother despite the Ancestry tree listing him as a son of James Higgins + Jane Eustace*
 - James Higgins (1856–1899)
 - Martin Thomas Higgins (1858–1939)
 - Joseph Higgins (1860–)
