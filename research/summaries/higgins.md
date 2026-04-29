@@ -104,8 +104,8 @@ Extracted from Ancestry profile exports (Jan 2025).
 
 ### Early Life
 - 1905: Inmate at **St Agatha's Home For Children**, Nanuet, NY (age 13) — per NY State Census. Sister Theresa was also there.
-- 1906: Possibly in Spokane, WA (age 14)
-- 1910: Lodger in San Francisco (age 18, single)
+- 1910 (9 May): Resident at the New York Catholic Protectory, the Bronx, NY (age 17 per census; born NY, parents born Ireland)
+- A 1910 California "James Higgins" lodger record is now believed to be a different person (the candidate would have been age 12 in 1910, not consistent with our James). The earlier "1906 Spokane (age 14)" line was based on the same conflated person and has been removed.
 
 ### Career
 - **Occupation:** Civil Engineer

@@ -9,11 +9,13 @@ James Everett Higgins was born on February 2, 1892, in Manhattan, New York, the 
 
 By 1905, when James was thirteen, he and his younger sister Theresa were living at St. Agatha's Home for Children in Nanuet, New York—a Catholic orphanage in Rockland County. The circumstances that led to this placement remain unclear; both parents were still alive, suggesting the family faced a crisis severe enough that they could not care for their children. Whatever hardship drove him there, James would emerge from these difficult years with a determination to make his own way.
 
-By 1910, at just eighteen, James had made his way across the country and was boarding in San Francisco. Over the following decade, he built a career as a civil engineer with the Western Pacific Railroad, working the line through Feather River Canyon—the last major railroad route carved through the Sierra Nevada, an engineering marvel of tunnels and trestles hugging granite cliffs above the river. A 1921 newspaper noted that "James E. Higgins is an earnest, hard-working young civil engineer, whose friends believe he will go far."
+By 1910, James was still in New York. The federal census enumerated him on May 9 as a resident of the **New York Catholic Protectory** in the Bronx—one of the era's large Catholic institutions for boys and young men—where he was recorded as age seventeen. Sometime in the years that followed he made his way west to the Pacific Northwest.
+
+When the United States entered World War I, James enlisted in July 1918, listing his residence as the Langhan Hotel in Spokane, Washington. He served as a wagoner—driving supply wagons and handling horses—and remained stateside until his discharge on June 9, 1919.
 
 <img src="../../../images/bio/james-e-higgins-02-railroad.jpg" alt="Western Pacific Railroad engineering crew in California" class="float-left-sm">
 
-When the United States entered World War I, James enlisted in July 1918, listing his residence as the Langhan Hotel in Spokane, Washington. He served as a wagoner—driving supply wagons and handling horses—and remained stateside until his discharge on June 9, 1919.
+By 1921 James had settled in California and was working as a civil engineer with the Western Pacific Railroad, helping run the line through Feather River Canyon—the last major railroad route carved through the Sierra Nevada, an engineering marvel of tunnels and trestles hugging granite cliffs above the river. A newspaper that year noted that "James E. Higgins is an earnest, hard-working young civil engineer, whose friends believe he will go far."
 
 In 1924, James's sister Theresa placed a newspaper advertisement searching for him: "James Higgins, 32, Formerly of N.Y., Sought by Sister." The siblings had lost touch during the war years and his constant movement working the western railroads.
 
@@ -38,7 +40,7 @@ James's legacy as an engineer echoed through the generations. Howard became an e
 - Birth (2 Feb 1892, Manhattan) from Ancestry records and family data.
 - Parents: Laurence Higgins (1854–1930) + Mary Knight (1866–1930).
 - St. Agatha's Home for Children placement (1905) from NY State Census.
-- 1910 census: San Francisco, age 18 (listed as lodger/boarder).
+- 1910 census (9 May 1910): resident at the New York Catholic Protectory, the Bronx, NY (age 17 per enumeration; born NY, parents born Ireland — fits our James). A separate 1910 California "James Higgins" lodger record (often surfaced in earlier research) is now believed to be a different person.
 - Career with Western Pacific Railroad from newspaper clippings and family records.
 - WWI service: Enlisted July 1918, served as wagoner (stateside), discharged 9 June 1919; serial number 3,646,177.
 - Marriage to Doris Pauline Kuthe: 6 Nov 1926, Phoenix, Arizona.
