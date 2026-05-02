@@ -13,6 +13,14 @@ REPORTS_DIR = Path(__file__).parent / "research" / "reports"
 TIMELINE_DIR = REPORTS_DIR / "timeline-data"
 _DRAFT_CACHE: dict[str, bool] = {}
 
+BADGE_ICON_HTML = (
+    '<span class="badge-icon" aria-hidden="true">'
+    '<svg viewBox="0 0 16 16">'
+    '<circle cx="8" cy="5.2" r="2.4"/>'
+    '<path d="M2.5 14 a5.5 5.5 0 0 1 11 0 Z"/>'
+    '</svg></span>'
+)
+
 
 def is_draft_bio(bio_filename: str) -> bool:
     """Return True if the bio is marked draft in its timeline data."""
@@ -49,7 +57,7 @@ def generate_ancestor_card(
     bio = ancestor.get("bio")
     bio_is_draft = bool(production and bio and is_draft_bio(bio))
     if bio and not bio_is_draft:
-        links.append(f'<a href="../research/reports/html/{bio}">Biography</a>')
+        links.append(f'<a href="../research/reports/html/{bio}">View bio</a>')
     if pdf := ancestor.get("pdf"):
         links.append(f'<a href="../pdf/{pdf}" target="_blank" rel="noopener noreferrer">Report (PDF)</a>')
     links_html = "\n                        ".join(links) if links else ""
@@ -68,11 +76,71 @@ def generate_ancestor_card(
     return f'''            <div class="ancestor-card">
                 {image_html}
                 <div class="ancestor-content">
-                    <div class="ancestor-name">{ancestor["name"]} ({ancestor["years"]})</div>
+                    <div class="ancestor-name">{ancestor["name"]} <span class="ancestor-years">({ancestor["years"]})</span></div>
                     <div class="ancestor-tagline">{ancestor["tagline"]}</div>
-                    <span class="ancestor-badge {badge_class}">{ancestor["relation"]}</span>{links_section}
+                    <span class="ancestor-badge {badge_class}">{BADGE_ICON_HTML}<span class="badge-text">{ancestor["relation"]}</span></span>{links_section}
                 </div>
             </div>'''
+
+
+def generate_ancestor_couple(
+    couple: dict, accent_color: str, production: bool, has_next: bool = False
+) -> str:
+    """Generate HTML for a paired-couple block (two ancestor cards side by side)."""
+    members = couple.get("members", [])
+    if len(members) != 2:
+        return "\n\n".join(
+            generate_ancestor_card(m, True, accent_color, production) for m in members
+        )
+
+    label = couple.get("label", "")
+    label_html = (
+        f'\n                <div class="ancestor-couple-header"><span>{label}</span></div>'
+        if label
+        else ""
+    )
+    card_a = generate_ancestor_card(members[0], True, accent_color, production)
+    card_b = generate_ancestor_card(members[1], True, accent_color, production)
+
+    married = couple.get("married") or {}
+    marriage_html = ""
+    if married:
+        parts = []
+        if year := married.get("year"):
+            parts.append(str(year))
+        if place := married.get("place"):
+            parts.append(place)
+        marriage_text = "Married " + ", ".join(parts) if parts else "Married"
+        connector_class = " connect-down" if has_next else ""
+        marriage_html = f'\n                <div class="ancestor-couple-marriage{connector_class}">{marriage_text}</div>'
+
+    return f'''            <div class="ancestor-couple">{label_html}
+                <div class="ancestor-couple-pair">
+{card_a}
+                    <div class="ancestor-couple-divider" aria-hidden="true">~</div>
+{card_b}
+                </div>{marriage_html}
+            </div>'''
+
+
+def generate_direct_entry(
+    entry: dict, accent_color: str, production: bool, has_next: bool = False
+) -> str:
+    """Render a direct-ancestors entry: either a couple block or a single card."""
+    if "couple" in entry:
+        return generate_ancestor_couple(entry["couple"], accent_color, production, has_next)
+    return generate_ancestor_card(entry, True, accent_color, production)
+
+
+def flatten_direct_entries(entries: list) -> list:
+    """Expand any couple wrappers so all members appear in the flat ancestor list."""
+    flat = []
+    for entry in entries:
+        if "couple" in entry:
+            flat.extend(entry["couple"].get("members", []))
+        else:
+            flat.append(entry)
+    return flat
 
 
 def generate_image_css(ancestors: list, accent_color: str) -> str:
@@ -104,14 +172,16 @@ def generate_line_page(data: dict, production: bool) -> str:
     migration = data["migration"]
     intro = data["intro"].strip()
 
-    # Collect all ancestors for image CSS
-    all_ancestors = data["ancestors"].get("direct", []) + data["ancestors"].get("collateral", [])
+    # Collect all ancestors for image CSS (expand couple wrappers)
+    direct_flat = flatten_direct_entries(data["ancestors"].get("direct", []))
+    all_ancestors = direct_flat + data["ancestors"].get("collateral", [])
     image_css = generate_image_css(all_ancestors, accent)
 
-    # Generate ancestor cards
+    # Generate ancestor cards (couple-aware; pass has_next so couples can draw a connector)
+    direct_entries = data["ancestors"].get("direct", [])
     direct_cards = "\n\n".join(
-        generate_ancestor_card(a, True, accent, production)
-        for a in data["ancestors"].get("direct", [])
+        generate_direct_entry(e, accent, production, has_next=(i < len(direct_entries) - 1))
+        for i, e in enumerate(direct_entries)
     )
 
     collateral_section = ""
@@ -275,6 +345,169 @@ def generate_line_page(data: dict, production: bool) -> str:
             gap: 0.75rem;
         }}
 
+        .ancestor-couple {{
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            position: relative;
+        }}
+
+        .ancestor-couple-header {{
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--text-muted);
+            font-weight: 500;
+            padding: 0 0.25rem;
+            margin: 0.25rem 0;
+        }}
+
+        .ancestor-couple-header::before,
+        .ancestor-couple-header::after {{
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--accent-line);
+            opacity: 0.3;
+        }}
+
+        .ancestor-couple-pair {{
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 0.5rem;
+            align-items: stretch;
+        }}
+
+        /* Drop the accent stripe inside couples — header/divider/marriage already group them */
+        .ancestor-couple-pair .ancestor-card,
+        .ancestor-couple-pair .ancestor-card:hover {{
+            border-left: none;
+            padding-left: 1rem;
+        }}
+
+        .ancestor-couple-divider {{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--accent-line);
+            opacity: 0.45;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 1.4rem;
+            line-height: 1;
+            user-select: none;
+        }}
+
+        .ancestor-couple .ancestor-years {{
+            display: block;
+            font-size: 0.95rem;
+            font-weight: 400;
+            color: var(--text-secondary);
+            margin-top: 0.1rem;
+        }}
+
+        .ancestor-couple-marriage {{
+            text-align: center;
+            font-style: italic;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            padding: 0.4rem 0 0.2rem;
+            position: relative;
+        }}
+
+        .ancestor-couple-marriage.connect-down::after {{
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 100%;
+            width: 1px;
+            height: 1.25rem;
+            background: var(--accent-line);
+            opacity: 0.4;
+            transform: translateX(-50%);
+            pointer-events: none;
+        }}
+
+        /* Child of a couple: subtle indent to suggest descent */
+        .ancestor-couple + .ancestor-card {{
+            margin-left: 2rem;
+            margin-right: 2rem;
+        }}
+
+        @media (max-width: 700px) {{
+            /* Tighten container padding to give cards more horizontal room */
+            .container {{
+                padding: 0 1rem 1.5rem;
+            }}
+
+            .line-header {{
+                padding: 1.5rem 1rem 1rem;
+            }}
+
+            .breadcrumb {{
+                padding: 0.75rem 1rem;
+            }}
+
+            /* Keep couple cards side-by-side on mobile — go compact instead of stacking */
+            .ancestor-couple-pair {{
+                grid-template-columns: 1fr auto 1fr;
+                gap: 0.4rem;
+            }}
+
+            .ancestor-couple-divider {{
+                font-size: 1.1rem;
+            }}
+
+            .ancestor-couple-pair .ancestor-card {{
+                flex-direction: column;
+                align-items: stretch;
+                padding: 0.5rem;
+                gap: 0.5rem;
+            }}
+
+            .ancestor-couple-pair .ancestor-image {{
+                width: 100%;
+                height: 70px;
+                border-radius: 4px;
+            }}
+
+            .ancestor-couple-pair .ancestor-image::after {{
+                font-size: 1rem;
+            }}
+
+            .ancestor-couple .ancestor-name {{
+                font-size: 1rem;
+                line-height: 1.2;
+            }}
+
+            .ancestor-couple .ancestor-years {{
+                font-size: 0.85rem;
+                margin-top: 0.05rem;
+            }}
+
+            .ancestor-couple .ancestor-tagline {{
+                font-size: 0.8rem;
+                line-height: 1.35;
+                margin-bottom: 0.4rem;
+            }}
+
+            .ancestor-couple .ancestor-badge {{
+                font-size: 0.62rem;
+                padding: 1px 6px;
+            }}
+
+            .ancestor-couple .ancestor-links {{
+                font-size: 0.85rem;
+            }}
+
+            .ancestor-couple + .ancestor-card {{
+                margin-left: 0;
+                margin-right: 0;
+            }}
+        }}
+
         .ancestor-card {{
             display: flex;
             gap: 1rem;
@@ -319,24 +552,47 @@ def generate_line_page(data: dict, production: bool) -> str:
         }}
 
         .ancestor-badge {{
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.45rem;
             font-size: 0.7rem;
             font-weight: 500;
             text-transform: uppercase;
-            letter-spacing: 0.03em;
-            padding: 2px 8px;
-            border-radius: 3px;
+            letter-spacing: 0.05em;
             margin-top: 0.5rem;
-        }}
-
-        .ancestor-badge.direct {{
-            background: rgba(212, 165, 116, 0.25);
-            color: var(--text-secondary);
-        }}
-
-        .ancestor-badge.collateral {{
-            background: rgba(0, 0, 0, 0.05);
             color: var(--text-muted);
+        }}
+
+        .ancestor-badge .badge-icon {{
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            flex-shrink: 0;
+            overflow: hidden;
+        }}
+
+        .ancestor-badge .badge-icon svg {{
+            width: 11px;
+            height: 11px;
+        }}
+
+        .ancestor-badge.direct .badge-icon {{
+            background: rgba(212, 165, 116, 0.3);
+        }}
+
+        .ancestor-badge.direct .badge-icon svg {{
+            fill: #7a5230;
+        }}
+
+        .ancestor-badge.collateral .badge-icon {{
+            background: rgba(0, 0, 0, 0.06);
+        }}
+
+        .ancestor-badge.collateral .badge-icon svg {{
+            fill: var(--text-muted);
         }}
 
         .ancestor-name {{
@@ -354,11 +610,29 @@ def generate_line_page(data: dict, production: bool) -> str:
         }}
 
         .ancestor-links {{
+            display: flex;
+            justify-content: flex-end;
+            gap: 1rem;
             font-size: 0.9rem;
+            margin-top: 0.35rem;
         }}
 
         .ancestor-links a {{
-            margin-right: 1rem;
+            color: var(--secondary);
+        }}
+
+        .ancestor-links a::after {{
+            content: ' →';
+            display: inline-block;
+            transition: transform 0.2s ease;
+        }}
+
+        .ancestor-links a:hover {{
+            text-decoration: none;
+        }}
+
+        .ancestor-links a:hover::after {{
+            transform: translateX(3px);
         }}
 
 {image_css}

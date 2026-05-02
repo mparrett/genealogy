@@ -140,6 +140,169 @@
             gap: 0.75rem;
         }
 
+        .ancestor-couple {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            position: relative;
+        }
+
+        .ancestor-couple-header {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--text-muted);
+            font-weight: 500;
+            padding: 0 0.25rem;
+            margin: 0.25rem 0;
+        }
+
+        .ancestor-couple-header::before,
+        .ancestor-couple-header::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--accent-line);
+            opacity: 0.3;
+        }
+
+        .ancestor-couple-pair {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 0.5rem;
+            align-items: stretch;
+        }
+
+        /* Drop the accent stripe inside couples — header/divider/marriage already group them */
+        .ancestor-couple-pair .ancestor-card,
+        .ancestor-couple-pair .ancestor-card:hover {
+            border-left: none;
+            padding-left: 1rem;
+        }
+
+        .ancestor-couple-divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--accent-line);
+            opacity: 0.45;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 1.4rem;
+            line-height: 1;
+            user-select: none;
+        }
+
+        .ancestor-couple .ancestor-years {
+            display: block;
+            font-size: 0.95rem;
+            font-weight: 400;
+            color: var(--text-secondary);
+            margin-top: 0.1rem;
+        }
+
+        .ancestor-couple-marriage {
+            text-align: center;
+            font-style: italic;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            padding: 0.4rem 0 0.2rem;
+            position: relative;
+        }
+
+        .ancestor-couple-marriage.connect-down::after {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 100%;
+            width: 1px;
+            height: 1.25rem;
+            background: var(--accent-line);
+            opacity: 0.4;
+            transform: translateX(-50%);
+            pointer-events: none;
+        }
+
+        /* Child of a couple: subtle indent to suggest descent */
+        .ancestor-couple + .ancestor-card {
+            margin-left: 2rem;
+            margin-right: 2rem;
+        }
+
+        @media (max-width: 700px) {
+            /* Tighten container padding to give cards more horizontal room */
+            .container {
+                padding: 0 1rem 1.5rem;
+            }
+
+            .line-header {
+                padding: 1.5rem 1rem 1rem;
+            }
+
+            .breadcrumb {
+                padding: 0.75rem 1rem;
+            }
+
+            /* Keep couple cards side-by-side on mobile — go compact instead of stacking */
+            .ancestor-couple-pair {
+                grid-template-columns: 1fr auto 1fr;
+                gap: 0.4rem;
+            }
+
+            .ancestor-couple-divider {
+                font-size: 1.1rem;
+            }
+
+            .ancestor-couple-pair .ancestor-card {
+                flex-direction: column;
+                align-items: stretch;
+                padding: 0.5rem;
+                gap: 0.5rem;
+            }
+
+            .ancestor-couple-pair .ancestor-image {
+                width: 100%;
+                height: 70px;
+                border-radius: 4px;
+            }
+
+            .ancestor-couple-pair .ancestor-image::after {
+                font-size: 1rem;
+            }
+
+            .ancestor-couple .ancestor-name {
+                font-size: 1rem;
+                line-height: 1.2;
+            }
+
+            .ancestor-couple .ancestor-years {
+                font-size: 0.85rem;
+                margin-top: 0.05rem;
+            }
+
+            .ancestor-couple .ancestor-tagline {
+                font-size: 0.8rem;
+                line-height: 1.35;
+                margin-bottom: 0.4rem;
+            }
+
+            .ancestor-couple .ancestor-badge {
+                font-size: 0.62rem;
+                padding: 1px 6px;
+            }
+
+            .ancestor-couple .ancestor-links {
+                font-size: 0.85rem;
+            }
+
+            .ancestor-couple + .ancestor-card {
+                margin-left: 0;
+                margin-right: 0;
+            }
+        }
+
         .ancestor-card {
             display: flex;
             gap: 1rem;
@@ -184,24 +347,47 @@
         }
 
         .ancestor-badge {
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.45rem;
             font-size: 0.7rem;
             font-weight: 500;
             text-transform: uppercase;
-            letter-spacing: 0.03em;
-            padding: 2px 8px;
-            border-radius: 3px;
+            letter-spacing: 0.05em;
             margin-top: 0.5rem;
-        }
-
-        .ancestor-badge.direct {
-            background: rgba(212, 165, 116, 0.25);
-            color: var(--text-secondary);
-        }
-
-        .ancestor-badge.collateral {
-            background: rgba(0, 0, 0, 0.05);
             color: var(--text-muted);
+        }
+
+        .ancestor-badge .badge-icon {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            flex-shrink: 0;
+            overflow: hidden;
+        }
+
+        .ancestor-badge .badge-icon svg {
+            width: 11px;
+            height: 11px;
+        }
+
+        .ancestor-badge.direct .badge-icon {
+            background: rgba(212, 165, 116, 0.3);
+        }
+
+        .ancestor-badge.direct .badge-icon svg {
+            fill: #7a5230;
+        }
+
+        .ancestor-badge.collateral .badge-icon {
+            background: rgba(0, 0, 0, 0.06);
+        }
+
+        .ancestor-badge.collateral .badge-icon svg {
+            fill: var(--text-muted);
         }
 
         .ancestor-name {
@@ -219,11 +405,29 @@
         }
 
         .ancestor-links {
+            display: flex;
+            justify-content: flex-end;
+            gap: 1rem;
             font-size: 0.9rem;
+            margin-top: 0.35rem;
         }
 
         .ancestor-links a {
-            margin-right: 1rem;
+            color: var(--secondary);
+        }
+
+        .ancestor-links a::after {
+            content: ' →';
+            display: inline-block;
+            transition: transform 0.2s ease;
+        }
+
+        .ancestor-links a:hover {
+            text-decoration: none;
+        }
+
+        .ancestor-links a:hover::after {
+            transform: translateX(3px);
         }
 
         .ancestor-image.frederick {
@@ -294,11 +498,11 @@ westward through Oregon before settling in Arizona.
                     <div class="ancestor-image frederick"></div>
                 </a>
                 <div class="ancestor-content">
-                    <div class="ancestor-name">Frederick Kuthe (c. 1824–1900)</div>
+                    <div class="ancestor-name">Frederick Kuthe <span class="ancestor-years">(c. 1824–1900)</span></div>
                     <div class="ancestor-tagline">German Immigrant, Missouri Farmer</div>
-                    <span class="ancestor-badge direct">3rd Great-Grandfather</span>
+                    <span class="ancestor-badge direct"><span class="badge-icon" aria-hidden="true"><svg viewBox="0 0 16 16"><circle cx="8" cy="5.2" r="2.4"/><path d="M2.5 14 a5.5 5.5 0 0 1 11 0 Z"/></svg></span><span class="badge-text">3rd Great-Grandfather</span></span>
                     <div class="ancestor-links">
-                        <a href="../research/reports/html/frederick_kuthe_bio.html">Biography</a>
+                        <a href="../research/reports/html/frederick_kuthe_bio.html">View bio</a>
                     </div>
                 </div>
             </div>
@@ -308,11 +512,11 @@ westward through Oregon before settling in Arizona.
                     <div class="ancestor-image george"></div>
                 </a>
                 <div class="ancestor-content">
-                    <div class="ancestor-name">George W. Kuthe (1870–1935)</div>
+                    <div class="ancestor-name">George W. Kuthe <span class="ancestor-years">(1870–1935)</span></div>
                     <div class="ancestor-tagline">Missouri Native, Oregon Pioneer</div>
-                    <span class="ancestor-badge direct">2nd Great-Grandfather</span>
+                    <span class="ancestor-badge direct"><span class="badge-icon" aria-hidden="true"><svg viewBox="0 0 16 16"><circle cx="8" cy="5.2" r="2.4"/><path d="M2.5 14 a5.5 5.5 0 0 1 11 0 Z"/></svg></span><span class="badge-text">2nd Great-Grandfather</span></span>
                     <div class="ancestor-links">
-                        <a href="../research/reports/html/george_w_kuthe_bio.html">Biography</a>
+                        <a href="../research/reports/html/george_w_kuthe_bio.html">View bio</a>
                     </div>
                 </div>
             </div>
@@ -322,11 +526,11 @@ westward through Oregon before settling in Arizona.
                     <div class="ancestor-image huldah"></div>
                 </a>
                 <div class="ancestor-content">
-                    <div class="ancestor-name">Huldah Imogene Kuthe (1898–1979)</div>
+                    <div class="ancestor-name">Huldah Imogene Kuthe <span class="ancestor-years">(1898–1979)</span></div>
                     <div class="ancestor-tagline">Oregon-Born, Williams Arizona Matriarch</div>
-                    <span class="ancestor-badge direct">Great-Grandmother</span>
+                    <span class="ancestor-badge direct"><span class="badge-icon" aria-hidden="true"><svg viewBox="0 0 16 16"><circle cx="8" cy="5.2" r="2.4"/><path d="M2.5 14 a5.5 5.5 0 0 1 11 0 Z"/></svg></span><span class="badge-text">Great-Grandmother</span></span>
                     <div class="ancestor-links">
-                        <a href="../research/reports/html/huldah_imogene_kuthe_bio.html">Biography</a>
+                        <a href="../research/reports/html/huldah_imogene_kuthe_bio.html">View bio</a>
                     </div>
                 </div>
             </div>

@@ -8,22 +8,28 @@ intro: |
 
 ancestors:
   direct:
-    - name: Laurence Higgins
-      years: 1854–bef. 1930
-      tagline: Born Rathmines, Dublin; Porter in Newark, NJ
-      relation: 2nd Great-Grandfather
-      bio: laurence_higgins_bio.html
-      image_class: lhiggins
-      image_thumb: laurence-higgins-newark.jpg
-      initials: LH
+    - couple:
+        label: "Parents of James Everett"
+        married:
+          year: 1883
+          place: Dublin
+        members:
+          - name: Laurence Higgins
+            years: 1854–bef. 1930
+            tagline: Born Rathmines, Dublin; Porter in Newark, NJ
+            relation: 2nd Great-Grandfather
+            bio: laurence_higgins_bio.html
+            image_class: lhiggins
+            image_thumb: laurence-higgins-newark.jpg
+            initials: LH
 
-    - name: Mary Knight
-      years: 1866–1930
-      tagline: Born Co. Sligo, Ireland; died NYC
-      relation: 2nd Great-Grandmother
-      image_class: mknight
-      image_thumb: mary-knight-sligo-nyc.jpg
-      initials: MK
+          - name: Mary Knight
+            years: 1866–1930
+            tagline: Born Co. Sligo, Ireland; died NYC
+            relation: 2nd Great-Grandmother
+            image_class: mknight
+            image_thumb: mary-knight-sligo-nyc.jpg
+            initials: MK
 
     - name: James Everett Higgins
       years: 1892–1938
