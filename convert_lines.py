@@ -647,16 +647,6 @@ def generate_line_page(data: dict, production: bool) -> str:
         }}
 
         @media (max-width: 600px) {{
-            .ancestor-card {{
-                flex-direction: column;
-                align-items: flex-start;
-            }}
-
-            .ancestor-image {{
-                width: 80px;
-                height: 80px;
-            }}
-
             .line-header h1 {{
                 font-size: 1.75rem;
             }}
