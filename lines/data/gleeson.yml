@@ -26,23 +26,29 @@ ancestors:
       image_thumb: james-gleeson-mondovi.jpg
       initials: JF
 
-    - name: Maria Ann Fitzgerald
-      years: 1855–1931
-      tagline: Wisconsin Native, Wife of James Gleeson
-      relation: 2nd Great-Grandmother
-      bio: maria_ann_fitzgerald_bio.html
-      image_class: mfitzgerald
-      image_thumb: james-gleeson-mondovi.jpg
-      initials: MF
+    - couple:
+        label: "Parents of Anne Barbara"
+        married:
+          year: 1892
+          place: Buffalo, Wisconsin
+        members:
+          - name: James Joseph Gleeson
+            years: 1850–1936
+            tagline: Irish Immigrant, Mondovi Farmer and Merchant
+            relation: 2nd Great-Grandfather
+            bio: james_j_gleeson_bio.html
+            image_class: jgleeson
+            image_thumb: james-gleeson-mondovi.jpg
+            initials: JG
 
-    - name: James Joseph Gleeson
-      years: 1850–1936
-      tagline: Irish Immigrant, Mondovi Farmer and Merchant
-      relation: 2nd Great-Grandfather
-      bio: james_j_gleeson_bio.html
-      image_class: jgleeson
-      image_thumb: james-gleeson-mondovi.jpg
-      initials: JG
+          - name: Maria Ann Fitzgerald
+            years: 1855–1931
+            tagline: Wisconsin Native, Wife of James Gleeson
+            relation: 2nd Great-Grandmother
+            bio: maria_ann_fitzgerald_bio.html
+            image_class: mfitzgerald
+            image_thumb: james-gleeson-mondovi.jpg
+            initials: MF
 
     - name: Anne Barbara Gleeson
       years: 1903–1986
