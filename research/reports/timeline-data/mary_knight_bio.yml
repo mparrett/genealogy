@@ -1,2 +1,40 @@
 draft: true
 name: Mary Knight
+birth:
+  year: 1866
+  label: Born
+  location: Co. Sligo, Ireland
+death:
+  year: 1930
+  label: Died
+  location: NYC almshouse
+events:
+  - year: 1880
+    label: Newark, NJ (age 14)
+    type: event
+  - year: 1883
+    label: Married Laurence Higgins (Dublin)
+    type: marriage
+  - year: 1887
+    label: Second ceremony (Manhattan)
+    type: marriage
+  - year: 1894
+    label: Mother Bridget died
+    type: event
+  - year: 1905
+    label: James & Theresa at St. Agatha's
+    type: event
+  - year: 1913
+    label: Daughter Mary A. died
+    type: event
+  - year: 1930
+    label: Almshouse, then died
+    type: event
+
+family_links:
+  - name: Laurence Higgins
+    relation: Husband
+    link: laurence_higgins_bio.html
+  - name: James Everett Higgins
+    relation: Son
+    link: james_e_higgins_bio.html
