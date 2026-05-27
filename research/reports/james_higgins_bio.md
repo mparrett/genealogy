@@ -3,7 +3,7 @@
 
 *Dublin Laborer, Father of Eleven*
 
-James Higgins was born around 1830, possibly in the Rathgar area near Dublin. He was one of at least seven children born to **Christopher Higgins** (1803–after 1882) and **Bridget Darcy** (–1854), who married in **August 1825 at Valleymount, County Wicklow**. Christopher had been baptized 26 November 1803 at St. Nicholas (Without), Dublin, the son of **Nicholas Higgins** and **Eleanora Smyth** (1769–1811). The family lived at Rathgar, Rathfarnham, and Harold's Cross (the latter documented in the 1845 Valuation Book). James's siblings included **Mary Anne** (1830–1899, who emigrated to Australia and died at Kincumber, NSW), **Thomas** (b. 3 Jan 1833, Rathfarnham), **Christopher** (1834–1866, who died at the Oriental Hotel in Sydney, NSW), **Anne** (b. 1 Dec 1837), **Catherine** (1838–1882), and **Margaret** (b. Nov 1840).
+James Higgins was born around 1830, possibly in the Rathgar area near Dublin. He was one of at least seven children born to **Christopher Higgins** (1803–after 1882) and **Bridget Darcy** (–1854), who married in **August 1825 at Valleymount, County Wicklow** — the family's ancestral parish. Christopher had been baptized 26 November 1803 at St. Nicholas (Without), Dublin, the son of **Nicholas Higgins** (1770–c. 1867, of Charlotte Street, Dublin) and **Eleanora Smyth** (1769–1811). Nicholas was in turn the son of **John Higgins** (1718–1808) and **Anne Thomas** (1733–1773), buried together in Baltyboys Cemetery near Valleymount in County Wicklow — the tombstone, erected by Nicholas in 1808 and 1811, still stands. By 1825 Nicholas had moved his branch into Dublin (the Tithe Applotment Books place him at Rathgar / Rathfarnham), and the family later settled at Harold's Cross (1845 Valuation Book). James's siblings included **Mary Anne** (1830–1899, who emigrated to Australia and died at Kincumber, NSW), **Thomas** (b. 3 Jan 1833, Rathfarnham), **Christopher** (1834–1866, who died at the Oriental Hotel in Sydney, NSW), **Anne** (b. 1 Dec 1837), **Catherine** (1838–1882), and **Margaret** (b. Nov 1840).
 
 <details class="feature-accordion">
 <summary>An Gorta Mór: The Great Hunger (1845–1852)</summary>
@@ -47,7 +47,10 @@ Through his son Laurence, who emigrated to America and married Mary Knight, Jame
 **Notes:**
 
 - Birth: ~1829–1830, Dublin area, Ireland (possibly Rathgar). Multiple sources give dates between 1826–1830.
-- Parents: Christopher Higgins (1803–after 1882, baptized St. Nicholas Without, Dublin) + Bridget Darcy (–1854), married Aug 1825 at Valleymount, Co. Wicklow. Christopher's parents were Nicholas Higgins + Eleanora Smyth (1769–1811). Per Mary Anne Higgins researcher's Ancestry tree (May 2026), citing Irish Catholic Parish Registers.
+- Parents: Christopher Higgins (1803–after 1882, baptized St. Nicholas Without, Dublin) + Bridget Darcy (–1854), married Aug 1825 at Valleymount, Co. Wicklow.
+- Grandparents: Nicholas Higgins (1770–c. 1867, of Charlotte St., Dublin; on 1825 Tithe Applotments at Rathgar/Rathfarnham) + Eleanora Smyth (1769–1811, bapt. St. Paul's Dublin, daughter of Patrick Smith + Sarah).
+- Great-grandparents: John Higgins (1718–1808) + Anne Thomas (1733–1773), buried Baltyboys Cemetery, Valleymount, Co. Wicklow. Tombstone transcribed + photographed (Mary Anne Higgins's DNA / Wicklow paper, Mar 2022).
+- Per Mary Anne Higgins researcher's research, citing Irish Catholic Parish Registers, Tithe Applotment Books, Griffith's Valuation, and tombstone transcriptions.
 - Marriage: 23 Dec 1850, Rathmines, Dublin; witnesses Patrick Delaney & Elizabeth Doyle.
 - Children compiled from Irish Catholic Parish Registers and Ancestry data.
 - Death: 10 May 1880, Harold's Cross, Dublin, Ireland.

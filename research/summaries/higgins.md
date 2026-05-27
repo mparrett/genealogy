@@ -5,25 +5,49 @@ Extracted from Ancestry profile exports (Jan 2025) and supplemented from Mary An
 > **2026-05-26 — Partial refinement in progress.**
 > A second independent set of Ancestry PDFs (from a researcher descended from Mary Anne Higgins 1830, Australian branch) was catalogued at `incoming/higgins_pdfs_catalogue_2026-05-26.md` with certainty tags per fact. Standing rule: when in doubt, provisionally prefer the researcher's version.
 >
-> Resolved into this summary (May 2026): earlier generations above Christopher (1803); Australian emigrant branch via Mary Anne 1830; Jersey City branch via Thomas 1833 (which identifies the 1887 wedding witness as Laurence's first cousin Christopher 1856); Brooklyn/Bethpage branch via William 1864. Christopher (1803) and Bridget Darcy dates corrected in `james_higgins_bio.md`. Christopher 1851 now treated as Laurence's brother (Mary Anne + Ancestry agree, DNA-supported). Mary A. Higgins (1888–1913) = Mary Hamm — the St. Joseph's Hospital (Bronx) death venue anchors the identification.
+> Resolved (May 2026):
+> - **Earlier generations** above Christopher (1803): Nicholas + Eleanora Smyth (parents); John Higgins + Anne Thomas (grandparents) at Baltyboys, Co. Wicklow, with tombstone evidence; Wicklow townland origin context (Carrigacurra / Carrig / Ballynatona)
+> - **Australian branch** via Mary Anne 1830
+> - **Jersey City branch** via Thomas 1833 → identifies the 1887 wedding witness as Laurence's first cousin Christopher 1856
+> - **Brooklyn/Bethpage branch** via William 1864 (Christopher A.W. + descendants)
+> - **Marshall branch** via Margaret Ester Higgins 1874 (Laurence's first-marriage daughter, US descendants)
+> - Christopher (1803) and Bridget Darcy dates corrected; James 1829 occupation = hackney car-driver
+> - Christopher 1851 confirmed as Laurence's brother (Liverpool, DNA-supported); Christopher 1856 confirmed as the 1887 witness (cousin, Jersey City)
+> - Mary A. Higgins (1888–1913) = Mary Hamm — St. Joseph's Hospital (Bronx) death venue
+> - Laurence's 1854 baptismal sponsors = uncle James + aunt Anne Eustace
+> - Mary Knight death venue: NYC Cancer Institute (transferred from almshouse)
+> - Mary Knight birth-year hedge (1863 vs 1866) and Sligo-origin hedge (Larney not documented in Sligo per Grenham; "Courtney" variant in another descendant's tree) now in her bio
+> - Laurence's Manhattan years (12 Clarkson, 409 Hudson) added; **longshoreman occupation in 1890 NYC** added
 >
-> Known conflicts not yet folded in:
-> - **Mary Knight birth year:** researcher says 1863 (we have 1866) — defer, note both
-> - **Mary Knight death location:** researcher says NYC Cancer Institute, Manhattan (we have almshouse) — possibly both true (admitted to almshouse, died at Cancer Institute)
-> - **"Margaret Higgins c. 1882"** child of Laurence + Mary Knight: likely **1905 Brooklyn census ghost** (head Mary, daughters Mary + Maggie — probably a different Mary Higgins household fused into ours by tree-stitching). Pending cleanup. Not in Mary Anne's tree.
-> - **1883 Dublin first ceremony** for Laurence + Mary Knight: NOT spurious — Matt has records locally, pending upload. Keep in bios; cite when records land. Mary Anne's tree omits because she hasn't seen them.
-> - **James Higgins (1829) occupation:** "laborer" → researcher says "hackney car-driver"
+> Known conflicts / open leads not yet folded in:
+> - **"Margaret Higgins c. 1882"** child of Laurence + Mary Knight: likely 1905 Brooklyn census ghost (head Mary, daughters Mary + Maggie — probably a different Mary Higgins household fused into ours by tree-stitching). Pending Matt's cleanup. Not in Mary Anne's tree.
+> - **1883 Dublin first ceremony** for Laurence + Mary Knight: not spurious — Matt has records locally, pending upload. Keep in bios; cite when records land.
+> - **Anne Higgins (b. 1878, Mary Verner's daughter)**: fate unknown. Possible emigration, death, or adoption.
+> - **Margaret McGrath** (1887 witness #2): identity unknown to both us and Mary Anne.
+> - **Laurence's actual death record** (date / place): still no record beyond pre-Feb-1930 inference.
+> - **Bridget Darcy's parents**: tentative Thomas Darcy of Carrigacurra (Mary Anne speculation, no Darcy DNA matches yet).
 
 ---
 
 ## Earlier generations — Christopher Higgins (1803) line
 
-Per Mary Anne researcher's tree (May 2026), citing Irish Catholic Parish Registers 1655–1915.
+Per Mary Anne researcher's tree (May 2026) and her DNA / Wicklow paper (Mar 2022), citing Irish Catholic Parish Registers 1655–1915, tombstone transcriptions, Tithe Applotments, and Griffith's Valuation.
+
+### Wicklow origin
+
+The Higgins family's ancestral seat is **Baltyboys, near Valleymount in County Wicklow** (parish of Blackditches / Boystown / Valleymount, Diocese of Dublin). Three Wicklow townlands of origin are documented for the wider Higgins kin: **Carrigacurra** (near Valleymount), **Carrig** (near Blessington, south of the Liffey), and **Ballynatona** (Manor Kilbride). The branch that produced our line drifted into Dublin by the early 1800s — by 1825 Nicholas Higgins (1770) appears in the Tithe Applotment Books at Rathgar / Rathfarnham, and his son Christopher (1803) married Bridget Darcy that same year at Valleymount, returning to the family parish for the ceremony.
+
+### John Higgins + Anne Thomas — 6th great-grandparents
+
+- **John Higgins** (1718, Co. Wicklow – 24 Sep 1808) — buried Baltyboys Cemetery, Valleymount
+- **Anne Thomas** (1733, Dublin – 24 Jun 1773) — same plot
+- Tombstone (transcribed + photographed by Mary Anne's source) erected 1808 and 1811 by their son **Nicholas Higgins** of Charlotte Street, Dublin
+- Known children: Laurence (1754), Andrew (1759–1794, intestate probate), John (1764–1837), James (1767, likely the "James Higgins" of Ballynatona in the Tithe Applotments), Catherine (bapt. 1769 St. Nicholas, Dublin), Bridget (bapt. 1778 St. Catherine's), **Nicholas (1770)** — our line.
 
 ### Nicholas Higgins + Eleanora Smyth — 5th great-grandparents
 
-- **Nicholas Higgins** (–) of Dublin
-- **Eleanora Smyth** (1769–1 June 1811, Charlotte St., Dublin)
+- **Nicholas Higgins** (1770 Co. Wicklow – c. 1867) — moved to Dublin; on 1825 Tithe Applotments at Rathgar / Rathfarnham; erected the Baltyboys tombstones in 1808 and 1811 from his Charlotte Street address
+- **Eleanora Smyth** (bapt. 30 Nov 1769, St. Paul's Dublin – 1 June 1811, Charlotte St., Dublin) — daughter of **Patrick Smith** and **Sarah** (parish register)
 - Children (Christopher 1803's siblings — our 5th great-aunts/uncles):
   Anne (b. 1790), Michael (1792–1864), Julia (1796–1811), John (1797–1878, d. Co. Wicklow), Nicholas (b. 1798), Patrick (1802–1802 infant), Bridget, **Christopher (1803)**.
 
@@ -346,6 +370,12 @@ Rathmines → Brooklyn Ward 7 (1910, single, boarder) → Brooklyn AD 18 (1920, 
 
 #### Note
 Descendants likely living — William Patrick (b. 1918) lived until 2013. Patrick Reilly (Christopher A.W.'s maternal uncle) later married Mary Higgins Hartley (William's sister, then a widow) on 29 May 1892, creating an endogamous Higgins–Reilly tie.
+
+---
+
+## Marshall branch (via Margaret Ester Higgins 1874) — Laurence's eldest daughter
+
+**Margaret Ester "Maggie" Higgins** (1874–1912, d. Passaic, NJ) — Laurence's eldest daughter by his first wife Mary Verner — emigrated from Dublin to the USA at some point after her mother's 1881 workhouse death. She married **William J. Marshall** and they had six children. Her US descendants are documented DNA matches to Mary Anne researcher and are a likely strong-match pool for Matt's own Ancestry results once they land. This is the only one of Laurence's first-marriage children whose adult line we've been able to follow.
 
 ---
 

@@ -3,7 +3,7 @@
 
 *Sligo Native, Irish Immigrant, Newark Wife and Mother*
 
-Mary Knight was born in the mid-1860s in County Sligo, Ireland, on the rugged northwestern coast where the Atlantic meets the Ox Mountains. Sources give her birth as August 1866; an alternative tree puts it three years earlier, at 1863. Her parents were **James Knight** (b. 1843) and **Bridget Larney Knight** (1846–1894). The specific townland or parish of her birth has not been confirmed, but the family was among many Sligo households that left Ireland in the decades after the Famine for opportunities in the American Northeast.
+Mary Knight was born in the mid-1860s in Ireland; family records and Ancestry profile data place her in County Sligo, on the rugged northwestern coast where the Atlantic meets the Ox Mountains. Sources give her birth as August 1866; an alternative tree puts it three years earlier, at 1863. Her parents were **James Knight** (b. 1843) and **Bridget Larney Knight** (1846–1894). The specific townland or parish has not been confirmed, and the Sligo origin itself is tentative — Mary Anne Higgins (Australia-branch researcher) notes that the surname **Larney** is not documented in Sligo per John Grenham's Irish Ancestors index, and a separate Theresa-line descendant records the variant surname **Courtney**. Whatever the truth of her townland, the family was among many post-Famine Irish households that left Ireland for opportunities in the American Northeast.
 
 By 1880, when Mary was fourteen, the family had settled in Newark, New Jersey, where the U.S. census found her living among the city's growing Irish-American community. Newark in the 1880s was a place of immigrant labor—leather and shoe factories, breweries, the Pennsylvania Railroad—and a dense Catholic parish life. Mary's siblings included James J. (b. 1867), David H. (b. 1870), Mary Rebertha (1879–1902), and Elizabeth (b. 1879).
 
@@ -24,6 +24,7 @@ Why a sixty-three-year-old widow with surviving adult children was admitted to a
 **Notes:**
 
 - Birth (Aug 1866, Co. Sligo) from Ancestry profile data; townland/parish not yet identified. An alternative tree puts her birth at 1863 — sources differ.
+- Sligo origin tentative: surname Larney is not documented in Sligo per Grenham's Irish Ancestors index (Mary Anne Higgins, Australia-branch researcher, Oct 2024). Separate Theresa-line descendant Brittany Bepler records origin as Sligo with the variant surname Courtney.
 - Parents: James Knight (1843–) + Bridget Larney Knight (1846–1894). Bridget's death in Newark 1894 per Ancestry data.
 - Siblings: James J. Knight (1867–1921), David H. Knight (b. 1870), Mary Rebertha Knight (1879–1902), Elizabeth Knight (b. 1879).
 - 1880 U.S. Census: Newark, Essex Co., NJ (Mary listed, age 14, single).
