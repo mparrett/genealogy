@@ -2,6 +2,20 @@
 
 Extracted from Ancestry profile exports (Jan 2025).
 
+> **2026-05-26 — Pending refinement against Mary Anne researcher's tree.**
+> A second independent set of Ancestry PDFs (from a researcher descended from Mary Anne Higgins 1830, Australian branch) has been catalogued at `incoming/higgins_pdfs_catalogue_2026-05-26.md` with certainty tags per fact. Several entries below are flagged as conflicting and will be revised after review. Standing rule: when in doubt, provisionally prefer the researcher's version.
+>
+> Known conflicts not yet folded into this summary:
+> - **Mary Knight birth year:** researcher says 1863 (we have 1866) — defer, note both
+> - **Mary Knight death location:** researcher says NYC Cancer Institute, Manhattan (we have almshouse) — possibly both true (admitted to almshouse, died at Cancer Institute)
+> - **"Margaret Higgins c. 1882"** child of Laurence + Mary Knight: absent from researcher's tree, possibly spurious in ours
+> - **1883 Dublin first ceremony** for Laurence + Mary Knight: not present in researcher's tree
+> - **Christopher Higgins (1851–1891):** researcher treats as Laurence's eldest brother (Ancestry framing). Memory note's cousin theory still holds pending evidence — see `higgins_christopher_relationship` memory note.
+> - **James E. Higgins occupation** (above us): "laborer" → researcher says "hackney car-driver"
+> - **Christopher Higgins (1803) + Bridget Darcy:** dates in `james_higgins_bio.md` (1803–1857 / 1801–1896) appear inverted — researcher has Christopher alive past 1882 and Bridget dead before 1854
+>
+> New material not yet integrated: Nicholas Higgins + Eleanora Smyth (parents of Christopher 1803); Mary Anne (1830) + Christopher (1834) Australian emigration; William Higgins (1864) full life arc and his son Christopher Aloisis William Higgins (1885–1963) Brooklyn/Bethpage branch.
+
 ## Laurence Higgins (1854–1930)
 
 **2nd great-grandfather**
