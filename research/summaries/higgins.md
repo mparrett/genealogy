@@ -1,20 +1,53 @@
 # Higgins/Knight Line — Ancestry Data Summary
 
-Extracted from Ancestry profile exports (Jan 2025).
+Extracted from Ancestry profile exports (Jan 2025) and supplemented from Mary Anne Higgins researcher's tree (May 2026).
 
-> **2026-05-26 — Pending refinement against Mary Anne researcher's tree.**
-> A second independent set of Ancestry PDFs (from a researcher descended from Mary Anne Higgins 1830, Australian branch) has been catalogued at `incoming/higgins_pdfs_catalogue_2026-05-26.md` with certainty tags per fact. Several entries below are flagged as conflicting and will be revised after review. Standing rule: when in doubt, provisionally prefer the researcher's version.
+> **2026-05-26 — Partial refinement in progress.**
+> A second independent set of Ancestry PDFs (from a researcher descended from Mary Anne Higgins 1830, Australian branch) was catalogued at `incoming/higgins_pdfs_catalogue_2026-05-26.md` with certainty tags per fact. Standing rule: when in doubt, provisionally prefer the researcher's version.
 >
-> Known conflicts not yet folded into this summary:
+> Resolved into this summary (May 2026): earlier generations above Christopher (1803), Australian emigrant branch, and Brooklyn/Bethpage cousin branch (sections below). Christopher (1803) and Bridget Darcy dates have been corrected in `james_higgins_bio.md`.
+>
+> Known conflicts not yet folded in:
 > - **Mary Knight birth year:** researcher says 1863 (we have 1866) — defer, note both
 > - **Mary Knight death location:** researcher says NYC Cancer Institute, Manhattan (we have almshouse) — possibly both true (admitted to almshouse, died at Cancer Institute)
 > - **"Margaret Higgins c. 1882"** child of Laurence + Mary Knight: absent from researcher's tree, possibly spurious in ours
 > - **1883 Dublin first ceremony** for Laurence + Mary Knight: not present in researcher's tree
 > - **Christopher Higgins (1851–1891):** researcher treats as Laurence's eldest brother (Ancestry framing). Memory note's cousin theory still holds pending evidence — see `higgins_christopher_relationship` memory note.
-> - **James E. Higgins occupation** (above us): "laborer" → researcher says "hackney car-driver"
-> - **Christopher Higgins (1803) + Bridget Darcy:** dates in `james_higgins_bio.md` (1803–1857 / 1801–1896) appear inverted — researcher has Christopher alive past 1882 and Bridget dead before 1854
->
-> New material not yet integrated: Nicholas Higgins + Eleanora Smyth (parents of Christopher 1803); Mary Anne (1830) + Christopher (1834) Australian emigration; William Higgins (1864) full life arc and his son Christopher Aloisis William Higgins (1885–1963) Brooklyn/Bethpage branch.
+> - **James Higgins (1829) occupation:** "laborer" → researcher says "hackney car-driver"
+
+---
+
+## Earlier generations — Christopher Higgins (1803) line
+
+Per Mary Anne researcher's tree (May 2026), citing Irish Catholic Parish Registers 1655–1915.
+
+### Nicholas Higgins + Eleanora Smyth — 5th great-grandparents
+
+- **Nicholas Higgins** (–) of Dublin
+- **Eleanora Smyth** (1769–1 June 1811, Charlotte St., Dublin)
+- Children (Christopher 1803's siblings — our 5th great-aunts/uncles):
+  Anne (b. 1790), Michael (1792–1864), Julia (1796–1811), John (1797–1878, d. Co. Wicklow), Nicholas (b. 1798), Patrick (1802–1802 infant), Bridget, **Christopher (1803)**.
+
+### Christopher Higgins (1803 – after 1882) — 4th great-grandfather
+
+- **Birth/baptism:** 26 Nov 1803, St. Nicholas (Without), Dublin
+- **Spouse:** **Bridget Darcy** (–1854), married **August 1825, Valleymount, County Wicklow** — explains the family's rural Wicklow tie
+- **Residences:** Rathgar; Rathfarnham; Harold's Cross (1845 Valuation Book)
+- **Death:** Ireland, after 1882 (still living when daughter Catherine died age 78, 1882)
+- Children (James 1829's siblings):
+  - **James Higgins** (1829–1880) — our line
+  - **Mary Anne Higgins** (1830–1899) — emigrated to Australia, d. 25 Dec 1899, Kincumber, NSW
+  - Thomas Higgins (b. 3 Jan 1833, Rathfarnham)
+  - **Christopher Higgins** (1834–1866) — d. 19 Oct 1866, Oriental Hotel, Sydney, NSW
+  - Anne Higgins (b. 1 Dec 1837)
+  - Catherine Higgins (1838–1882)
+  - Margaret Higgins (b. Nov 1840)
+
+### Australian branch (via Mary Anne 1830)
+
+Mary Anne Higgins (1830–1899) emigrated to Australia and died at Kincumber, NSW. Her brother **Christopher Higgins** (1834–1866) had also died in Sydney decades earlier. The "Mary Anne Higgins" Ancestry tree — supplied by a family researcher friend descended from Mary Anne — documents this line. Matt is approximately **3rd cousins** with the researcher via shared 3rd-great-grandfather Christopher Higgins (1803).
+
+---
 
 ## Laurence Higgins (1854–1930)
 
@@ -268,3 +301,56 @@ Howard's surname came from his foster family. The Birch family (Robert and Sarah
 - **Doris Pauline Kuthe (1902–1996)**
 - Jessie Velma Kuthe (1905–1993)
 - George Leslie Kuthe (1906–1962)
+
+---
+
+## Brooklyn / Long Island branch (via William 1864) — collateral line
+
+Per Mary Anne researcher's tree (May 2026). A second American Higgins line descended from Laurence's brother William.
+
+### William Higgins (1864–1892) — Laurence's brother, our 3rd great-uncle
+
+- **Birth:** 29 Dec 1864, Loughawn, Harold's Cross to Roundtown, Dublin
+- **Baptism:** 8 Jan 1865, Rathfarnham Parish; sponsors James Howlett + Teresa Dillon
+- **Marriage:** 26 Jan 1885, St. Joseph's, Terenure, Dublin South, to **Mary Reilly** (–1908; daughter of Nicholas Reilly, labourer). William signed his marriage record "X" (illiterate).
+- **Death:** 14 Feb 1892, South Dublin Union Workhouse (age 27); residence Charlemont St.
+- **Children:**
+  - **Christopher Aloisis William Higgins** (1885–1963) — emigrated to NYC, see below
+  - Cecilia Higgins (14 Feb – 19 Mar 1890, b./d. 9 Union Place, Rathmines)
+
+### Christopher Aloisis William Higgins (1885–1963) — 1st cousin 3x removed
+
+- **Birth:** 24 Dec 1885, Ashby Lodge, Rathmines (grandmother **Jane Eustace** present at birth)
+- **Baptism:** 30 Dec 1885, Rathmines Church; sponsors Patrick Reilly + Elizabeth Gibson
+- **Immigration:** arrived NYC 1908, departed from Queenstown, Ireland (after mother's December 1908 death in workhouse)
+- **Spouse:** **Mary Elizabeth Flannery** (1887–1943), married 23 Sep 1915, NYC
+- **Death:** 1 Feb 1963, Bethpage, Nassau, NY
+
+#### Children
+- Anna Maria (1916–1921)
+- William Patrick (1918–2013)
+- Christopher Aloyious (1921–1969)
+- Martin Kevin (1925–2004)
+- Helen Blandina/Josephine (1928–1977)
+
+#### Residences
+Rathmines → Brooklyn Ward 7 (1910, single, boarder) → Brooklyn AD 18 (1920, married, head) → Brooklyn (1925, 1930, 1950) → Bethpage (1963).
+
+#### Note
+Descendants likely living — William Patrick (b. 1918) lived until 2013. Patrick Reilly (Christopher A.W.'s maternal uncle) later married Mary Higgins Hartley (William's sister, then a widow) on 29 May 1892, creating an endogamous Higgins–Reilly tie.
+
+---
+
+## Other Higgins siblings — life endings (Mary Anne researcher)
+
+Locations of death for Laurence's siblings, per researcher's tree (May 2026):
+
+- Christopher Higgins (1851–1891): Toxteth Park, Lancashire (Liverpool) — explains the "Liverpool / arrived from England" detail in Laurence's immigration note
+- James Higgins (1856–1899): Dublin
+- Martin Thomas Higgins (1858–29 Sep 1939): Dublin
+- Edward Higgins (1862–1872): Meath Hospital, Dublin (age 9)
+- Michael Higgins (1866–1867): infant
+- Catherine Elizabeth Higgins (1871–1873): 6 Fulham's Lane (toddler)
+- Edward Higgins (1873–1914): St. Anthony's Parish, Montreal, Quebec, Canada — third emigrant sibling
+- Mary Jane Higgins (1867–1895): Dublin
+- **Jane Eustace** (1829–23 Oct 1911): South Dublin Union workhouse
