@@ -9,7 +9,7 @@ By 1880, when Mary was fourteen, the family had settled in Newark, New Jersey, w
 
 Three years later, in 1883, Mary married **Laurence Higgins** in Dublin on November 25. Laurence was then a 29-year-old Dublin laborer and widower with two surviving daughters from his first marriage to Mary Verner. Whether Mary had returned to Ireland for the wedding, or whether her family's American chapter had been temporary, the surviving record does not say.
 
-By 1885 Mary was back in Newark, and on February 6, 1887, the couple married a second time at a ceremony in Manhattan—possibly to satisfy American legal recognition of their Irish marriage, or to formalize the union in an American parish. The witnesses to the 1887 ceremony were a Christopher Higgins (whose exact relationship to Laurence remains uncertain; family genealogists currently lean toward cousin rather than brother) and Margaret McGrath.
+By 1885 Mary was back in Newark, and on February 6, 1887, the couple married a second time at a ceremony in Manhattan—possibly to satisfy American legal recognition of their Irish marriage, or to formalize the union in an American parish. The witnesses to the 1887 ceremony were Christopher Higgins—Laurence's first cousin, eldest son of his paternal uncle Thomas Higgins, who had emigrated from Dublin to Jersey City in 1871—and Margaret McGrath.
 
 Over the next dozen years Mary bore at least five children: Margaret (c. 1882), Mary A. (1888–1913), Lawrence (born and died in 1890 in infancy), **James Everett** (1892–1938), and Theresa Cecilia (1894–1980). Census records track the family through Newark's Ward 5 from 1895 through 1920, with a brief Jersey City interval around 1905. Laurence worked as a porter and later a janitor. Across these decades Mary appears in the census schedules as a wife and mother—without a recorded occupation. What she did with her days, whether she took in piecework or laundry, whether she organized her household alongside the rhythms of the parish, these textures of her life were not captured in the bureaucratic record.
 
@@ -28,7 +28,7 @@ Why a sixty-three-year-old widow with surviving adult children was admitted to a
 - Siblings: James J. Knight (1867–1921), David H. Knight (b. 1870), Mary Rebertha Knight (1879–1902), Elizabeth Knight (b. 1879).
 - 1880 U.S. Census: Newark, Essex Co., NJ (Mary listed, age 14, single).
 - First marriage: 25 November 1883, Dublin, Ireland—to Laurence Higgins.
-- Second marriage: 6 February 1887, Manhattan, NY—witnesses Christopher Higgins and Margaret McGrath. See `higgins_christopher_relationship` memory note for the cousin-vs-brother question.
+- Second marriage: 6 February 1887, Manhattan, NY—witnesses Christopher Higgins (Laurence's first cousin, eldest son of his uncle Thomas Higgins of Jersey City) and Margaret McGrath. See `higgins_christopher_relationship` memory note.
 - Children with Laurence: Margaret (c. 1882), Mary A. (1888–1913), Lawrence (1890–1890), James Everett (1892–1938), Theresa Cecilia (1894–1980).
 - Census-tracked residences: Newark Ward 9 (1895), Newark Ward 5 (1900, 1910, 1920), Jersey City (briefly c. 1905).
 - 1905: James Everett and Theresa enumerated at St. Agatha's Home for Children, Nanuet, NY (1905 NY State Census).

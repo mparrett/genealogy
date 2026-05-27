@@ -5,14 +5,13 @@ Extracted from Ancestry profile exports (Jan 2025) and supplemented from Mary An
 > **2026-05-26 — Partial refinement in progress.**
 > A second independent set of Ancestry PDFs (from a researcher descended from Mary Anne Higgins 1830, Australian branch) was catalogued at `incoming/higgins_pdfs_catalogue_2026-05-26.md` with certainty tags per fact. Standing rule: when in doubt, provisionally prefer the researcher's version.
 >
-> Resolved into this summary (May 2026): earlier generations above Christopher (1803), Australian emigrant branch, and Brooklyn/Bethpage cousin branch (sections below). Christopher (1803) and Bridget Darcy dates have been corrected in `james_higgins_bio.md`.
+> Resolved into this summary (May 2026): earlier generations above Christopher (1803); Australian emigrant branch via Mary Anne 1830; Jersey City branch via Thomas 1833 (which identifies the 1887 wedding witness as Laurence's first cousin Christopher 1856); Brooklyn/Bethpage branch via William 1864. Christopher (1803) and Bridget Darcy dates corrected in `james_higgins_bio.md`. Christopher 1851 now treated as Laurence's brother (Mary Anne + Ancestry agree, DNA-supported).
 >
 > Known conflicts not yet folded in:
 > - **Mary Knight birth year:** researcher says 1863 (we have 1866) — defer, note both
 > - **Mary Knight death location:** researcher says NYC Cancer Institute, Manhattan (we have almshouse) — possibly both true (admitted to almshouse, died at Cancer Institute)
 > - **"Margaret Higgins c. 1882"** child of Laurence + Mary Knight: absent from researcher's tree, possibly spurious in ours
 > - **1883 Dublin first ceremony** for Laurence + Mary Knight: not present in researcher's tree
-> - **Christopher Higgins (1851–1891):** researcher treats as Laurence's eldest brother (Ancestry framing). Memory note's cousin theory still holds pending evidence — see `higgins_christopher_relationship` memory note.
 > - **James Higgins (1829) occupation:** "laborer" → researcher says "hackney car-driver"
 
 ---
@@ -37,15 +36,24 @@ Per Mary Anne researcher's tree (May 2026), citing Irish Catholic Parish Registe
 - Children (James 1829's siblings):
   - **James Higgins** (1829–1880) — our line
   - **Mary Anne Higgins** (1830–1899) — emigrated to Australia, d. 25 Dec 1899, Kincumber, NSW
-  - Thomas Higgins (b. 3 Jan 1833, Rathfarnham)
-  - **Christopher Higgins** (1834–1866) — d. 19 Oct 1866, Oriental Hotel, Sydney, NSW
+  - **Thomas Higgins** (b. 3 Jan 1833, Rathfarnham) — m. Bridget Brereton; emigrated to Jersey City, NJ in 1871 (see Jersey City branch below)
+  - **Christopher Higgins** (1834–1866) — d. 19 Oct 1866, Oriental Hotel, Sydney, NSW (bachelor, no issue)
   - Anne Higgins (b. 1 Dec 1837)
   - Catherine Higgins (1838–1882)
   - Margaret Higgins (b. Nov 1840)
 
 ### Australian branch (via Mary Anne 1830)
 
-Mary Anne Higgins (1830–1899) emigrated to Australia and died at Kincumber, NSW. Her brother **Christopher Higgins** (1834–1866) had also died in Sydney decades earlier. The "Mary Anne Higgins" Ancestry tree — supplied by a family researcher friend descended from Mary Anne — documents this line. Matt is approximately **3rd cousins** with the researcher via shared 3rd-great-grandfather Christopher Higgins (1803).
+Mary Anne Higgins (1830–1899) emigrated to Australia, married John Woodward c. 1859–1860, and died at Kincumber, NSW. Her brother **Christopher Higgins** (1834–1866) had also died in Sydney decades earlier (bachelor, no issue). The "Mary Anne Higgins" Ancestry tree — supplied by a family researcher friend descended from Mary Anne — documents this line. Matt is approximately **3rd cousins** with the researcher via shared 3rd-great-grandfather Christopher Higgins (1803). DNA matches with descendants of Mary Anne anchor this branch.
+
+### Jersey City branch (via Thomas 1833) — explains the 1887 wedding witness
+
+Thomas Higgins (b. 3 Jan 1833, Rathfarnham), James's brother, married **Bridget Brereton** (who used the name "Mary" by 1880) and had nine children — one daughter and eight sons, the last born in the USA. Thomas was originally to emigrate to Australia under sponsorship by his sister Mary Anne's husband John Woodward; for unknown reasons he changed course and the family emigrated to **Jersey City, NJ in 1871** instead. The passenger manifest erroneously recorded their origin as England (possibly reflecting a few months' stay in Liverpool en route). They appear in the 1880 U.S. Census in Jersey City, then the records thin.
+
+**Children of Thomas + Bridget Brereton:**
+- **Christopher Higgins** (b. 1856, Rathmines) — eldest son; the likely witness at Laurence's 1887 Manhattan ceremony, making him Laurence's **first cousin** (both grandsons of Christopher 1803). Per Mary Anne researcher's reasoning: Thomas's American household would have been Laurence's natural Higgins contacts for an American ceremony.
+- Michael Higgins (1865–1924) — DNA matches with his descendants anchor the Thomas branch in records.
+- Six other sons + Thomas's one daughter — Mary Anne has had no luck tracing them.
 
 ---
 
@@ -60,7 +68,7 @@ Mary Anne Higgins (1830–1899) emigrated to Australia and died at Kincumber, NS
 - **Occupation:** Porter (1900, 1910), Janitor (1920), Watchman (1930 census entry - possibly error/different person?)
 
 ### Siblings (all born Dublin)
-- Christopher Higgins (1851–1891) — *relationship uncertain; family genealogists favor cousin over brother despite the Ancestry tree listing him as a son of James Higgins + Jane Eustace*
+- Christopher Higgins (1851–1891) — emigrated to Liverpool with wife and three children; d. Toxteth Park, Lancashire. Per Mary Anne researcher's tree, with DNA support on the Higgins side. (Not the 1887 wedding witness — see Jersey City branch above.)
 - James Higgins (1856–1899)
 - Martin Thomas Higgins (1858–1939)
 - Joseph Higgins (1860–)
