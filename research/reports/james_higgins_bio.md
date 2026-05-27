@@ -16,11 +16,11 @@ The famine struck hardest in the rural west, but Dublin and its suburbs felt the
 
 County Wicklow, where James was likely born, saw its population drop by nearly 20% during the famine years. Whether any of his family members perished or emigrated during this period remains unknown, but the trauma shaped everyone who lived through it. The marriage of James and Jane in December 1850—as the worst was finally passing—marked the beginning of a new generation born into a changed Ireland.
 
-Of their eleven children, only one would leave: **Laurence**, who emigrated to America in the 1880s. The rest stayed in Dublin, living and dying within a few miles of where they were born. But the famine cast a long shadow. The Ireland James knew as a boy—before the blight, before the coffin ships, before the mass graves—was gone forever.
+Of their eleven children, three would eventually leave Ireland. Eldest son **Christopher** (1851) moved to Liverpool with his wife and three children. **Laurence** emigrated to America in the 1880s. Their youngest, **Edward** (1873), would settle in Montreal. The rest stayed in Dublin, living and dying within a few miles of where they were born. But the famine cast a long shadow. The Ireland James knew as a boy—before the blight, before the coffin ships, before the mass graves—was gone forever.
 
 </details>
 
-On December 23, 1850, at age 20, James married **Jane Eustace** at Rathmines, Dublin. The witnesses were Patrick Delaney and Elizabeth Doyle. The young couple settled in the Harold's Cross area of Dublin, where James worked as a laborer.
+On December 23, 1850, at age 20, James married **Jane Eustace** at Rathmines, Dublin. The witnesses were Patrick Delaney and Elizabeth Doyle. The young couple settled in the Harold's Cross area of Dublin, where James worked as a **hackney car-driver**, taking passengers around the city by horse-drawn carriage—the occupation recorded on his children's birth registrations and on his own 1880 death record.
 
 James and Jane had eleven children over the next 23 years:
 

@@ -3,7 +3,7 @@
 
 *Orphan, Railroad Engineer, WWI Veteran*
 
-James Everett Higgins was born on February 2, 1892, in Manhattan, New York, the fourth of five children born to **Laurence Higgins** (1854–1930) and **Mary Knight** (1866–1930). His parents were Irish immigrants who lived in the Newark and Jersey City area, where Laurence worked as a porter. James's early years were shaped by the tight-knit but struggling Irish-American community of urban New Jersey.
+James Everett Higgins was born on February 2, 1892, at **12 Clarkson Street** in Manhattan, New York—the fourth of five children born to **Laurence Higgins** (1854–1930) and **Mary Knight** (1866–1930). His parents were Irish immigrants who lived in the Newark and Jersey City area, where Laurence worked as a porter. James's early years were shaped by the tight-knit but struggling Irish-American community of urban New Jersey.
 
 <img src="../../../images/bio/james-e-higgins-01-orphanage.jpg" alt="St. Agatha's Home for Children in Nanuet, New York" class="float-right">
 
@@ -37,7 +37,7 @@ James's legacy as an engineer echoed through the generations. Howard became an e
 
 **Notes:**
 
-- Birth (2 Feb 1892, Manhattan) from Ancestry records and family data.
+- Birth (2 Feb 1892, 12 Clarkson Street, Manhattan) from Ancestry records and family data.
 - Parents: Laurence Higgins (1854–1930) + Mary Knight (1866–1930).
 - St. Agatha's Home for Children placement (1905) from NY State Census.
 - 1910 census (9 May 1910): resident at the New York Catholic Protectory, the Bronx, NY (age 17 per enumeration; born NY, parents born Ireland — fits our James). A separate 1910 California "James Higgins" lodger record (often surfaced in earlier research) is now believed to be a different person.
