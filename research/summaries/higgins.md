@@ -5,13 +5,13 @@ Extracted from Ancestry profile exports (Jan 2025) and supplemented from Mary An
 > **2026-05-26 — Partial refinement in progress.**
 > A second independent set of Ancestry PDFs (from a researcher descended from Mary Anne Higgins 1830, Australian branch) was catalogued at `incoming/higgins_pdfs_catalogue_2026-05-26.md` with certainty tags per fact. Standing rule: when in doubt, provisionally prefer the researcher's version.
 >
-> Resolved into this summary (May 2026): earlier generations above Christopher (1803); Australian emigrant branch via Mary Anne 1830; Jersey City branch via Thomas 1833 (which identifies the 1887 wedding witness as Laurence's first cousin Christopher 1856); Brooklyn/Bethpage branch via William 1864. Christopher (1803) and Bridget Darcy dates corrected in `james_higgins_bio.md`. Christopher 1851 now treated as Laurence's brother (Mary Anne + Ancestry agree, DNA-supported).
+> Resolved into this summary (May 2026): earlier generations above Christopher (1803); Australian emigrant branch via Mary Anne 1830; Jersey City branch via Thomas 1833 (which identifies the 1887 wedding witness as Laurence's first cousin Christopher 1856); Brooklyn/Bethpage branch via William 1864. Christopher (1803) and Bridget Darcy dates corrected in `james_higgins_bio.md`. Christopher 1851 now treated as Laurence's brother (Mary Anne + Ancestry agree, DNA-supported). Mary A. Higgins (1888–1913) = Mary Hamm — the St. Joseph's Hospital (Bronx) death venue anchors the identification.
 >
 > Known conflicts not yet folded in:
 > - **Mary Knight birth year:** researcher says 1863 (we have 1866) — defer, note both
 > - **Mary Knight death location:** researcher says NYC Cancer Institute, Manhattan (we have almshouse) — possibly both true (admitted to almshouse, died at Cancer Institute)
-> - **"Margaret Higgins c. 1882"** child of Laurence + Mary Knight: absent from researcher's tree, possibly spurious in ours
-> - **1883 Dublin first ceremony** for Laurence + Mary Knight: not present in researcher's tree
+> - **"Margaret Higgins c. 1882"** child of Laurence + Mary Knight: likely **1905 Brooklyn census ghost** (head Mary, daughters Mary + Maggie — probably a different Mary Higgins household fused into ours by tree-stitching). Pending cleanup. Not in Mary Anne's tree.
+> - **1883 Dublin first ceremony** for Laurence + Mary Knight: NOT spurious — Matt has records locally, pending upload. Keep in bios; cite when records land. Mary Anne's tree omits because she hasn't seen them.
 > - **James Higgins (1829) occupation:** "laborer" → researcher says "hackney car-driver"
 
 ---
