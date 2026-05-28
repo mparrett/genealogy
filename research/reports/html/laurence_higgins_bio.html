@@ -165,6 +165,277 @@
             margin: 0.25rem 0 1rem 1.25rem;
         }
 
+        /* === Connection Card (ad-hoc relationship widget) === */
+        details.connection-card {
+            float: right;
+            clear: right;
+            width: 50%;
+            margin: 0.5rem 0 1rem 1.5rem;
+            padding: 0;
+            border: 1px solid rgba(139, 69, 19, 0.2);
+            border-radius: 8px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.6) 0%, rgba(248,244,240,0.8) 100%);
+            overflow: hidden;
+        }
+
+        details.connection-card.full-width {
+            float: none;
+            width: auto;
+            margin: 1.5rem 0;
+        }
+
+        details.connection-card summary {
+            padding: 0.625rem 1rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 0.875rem;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        details.connection-card[open] summary {
+            border-bottom: 1px solid rgba(139, 69, 19, 0.15);
+            border-radius: 8px 8px 0 0;
+        }
+
+        details.connection-card summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.connection-card summary::before {
+            content: '▸';
+            font-size: 0.875rem;
+            color: rgba(139, 69, 19, 0.6);
+            transition: transform 0.2s ease;
+        }
+
+        details.connection-card[open] summary::before {
+            transform: rotate(90deg);
+        }
+
+        details.connection-card summary:hover {
+            background: rgba(139, 69, 19, 0.08);
+        }
+
+        .connection-tree {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 2rem;
+            row-gap: 1.5rem;
+            padding: 1rem 1rem 1.25rem;
+            justify-items: center;
+            font-family: Georgia, 'Times New Roman', serif;
+        }
+
+        .connection-tree .tn {
+            background: rgba(255,255,255,0.75);
+            border: 1px solid rgba(139, 69, 19, 0.3);
+            border-radius: 6px;
+            padding: 0.4rem 0.75rem;
+            text-align: center;
+            line-height: 1.25;
+            min-width: 6.5rem;
+            max-width: 100%;
+            position: relative;
+            z-index: 1;
+        }
+
+        .connection-tree .tn-name {
+            display: block;
+            font-weight: 500;
+            color: var(--primary);
+            font-size: 0.875rem;
+        }
+
+        .connection-tree .tn-meta {
+            display: block;
+            font-size: 0.72rem;
+            color: rgba(122, 58, 15, 0.75);
+            font-style: italic;
+            margin-top: 0.1rem;
+        }
+
+        .connection-tree .tn-focus {
+            background: rgba(139, 69, 19, 0.12);
+            border-color: rgba(139, 69, 19, 0.55);
+        }
+
+        .connection-tree .tn-focus .tn-name {
+            font-weight: 600;
+        }
+
+        .connection-tree .tn-anc { grid-column: 1 / 3; grid-row: 1; }
+        .connection-tree .tn-sib-l { grid-column: 1; grid-row: 2; justify-self: end; }
+        .connection-tree .tn-sib-r { grid-column: 2; grid-row: 2; justify-self: start; }
+        .connection-tree .tn-desc { grid-column: 2; grid-row: 3; justify-self: start; }
+
+        /* Connector lines — geometry tied to column-gap (2rem) and row-gap (1.5rem) */
+        .connection-tree .tn-anc::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            width: 1px;
+            height: 0.75rem;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        .connection-tree .tn-sib-l::before {
+            content: '';
+            position: absolute;
+            top: -0.75rem;
+            left: 50%;
+            right: -1rem;
+            height: 1px;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        .connection-tree .tn-sib-r::before {
+            content: '';
+            position: absolute;
+            top: -0.75rem;
+            left: -1rem;
+            right: 50%;
+            height: 1px;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        .connection-tree .tn-sib-r::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            width: 1px;
+            height: 0.75rem;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        /* === Timeline Card (in-content event timeline) === */
+        details.timeline-card {
+            float: right;
+            clear: right;
+            width: 50%;
+            margin: 0.5rem 0 1rem 1.5rem;
+            padding: 0;
+            border: 1px solid rgba(139, 69, 19, 0.2);
+            border-radius: 8px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.6) 0%, rgba(248,244,240,0.8) 100%);
+            overflow: hidden;
+        }
+
+        details.timeline-card.full-width {
+            float: none;
+            width: auto;
+            margin: 1.5rem 0;
+        }
+
+        details.timeline-card summary {
+            padding: 0.625rem 1rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 0.875rem;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        details.timeline-card[open] summary {
+            border-bottom: 1px solid rgba(139, 69, 19, 0.15);
+            border-radius: 8px 8px 0 0;
+        }
+
+        details.timeline-card summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.timeline-card summary::before {
+            content: '▸';
+            font-size: 0.875rem;
+            color: rgba(139, 69, 19, 0.6);
+            transition: transform 0.2s ease;
+        }
+
+        details.timeline-card[open] summary::before {
+            transform: rotate(90deg);
+        }
+
+        details.timeline-card summary:hover {
+            background: rgba(139, 69, 19, 0.08);
+        }
+
+        ol.timeline-list {
+            list-style: none;
+            margin: 0;
+            padding: 1rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 0.875rem;
+        }
+
+        ol.timeline-list .tl-event {
+            display: grid;
+            grid-template-columns: 3.25rem 1fr;
+            align-items: start;
+        }
+
+        ol.timeline-list .tl-year {
+            text-align: right;
+            padding-right: 0.875rem;
+            padding-top: 0.1rem;
+            color: rgba(122, 58, 15, 0.85);
+            font-weight: 500;
+            font-size: 0.76rem;
+            font-variant-numeric: tabular-nums;
+            white-space: nowrap;
+        }
+
+        ol.timeline-list .tl-body {
+            color: var(--text-primary);
+            line-height: 1.45;
+            border-left: 1px solid rgba(139, 69, 19, 0.3);
+            padding-left: 0.875rem;
+            padding-bottom: 0.75rem;
+            position: relative;
+            font-size: 0.82rem;
+        }
+
+        ol.timeline-list .tl-event:last-child .tl-body {
+            padding-bottom: 0.2rem;
+        }
+
+        ol.timeline-list .tl-body::before {
+            content: '';
+            position: absolute;
+            left: -0.3rem;
+            top: 0.4rem;
+            width: 0.4rem;
+            height: 0.4rem;
+            border-radius: 50%;
+            background: var(--primary);
+            border: 2px solid #fcfcfc;
+            box-sizing: content-box;
+        }
+
+        ol.timeline-list .tl-sub {
+            list-style: disc;
+            margin: 0.3rem 0 0;
+            padding-left: 1.125rem;
+            font-size: 0.78rem;
+            color: var(--text-secondary);
+        }
+
+        ol.timeline-list .tl-sub li {
+            margin: 0.15rem 0;
+        }
+
         /* Clear floats after major sections (h2), but allow h3 to flow around location asides */
         h2, hr {
             clear: both;
@@ -723,11 +994,72 @@
 <img src="../../../images/bio/laurence-higgins-01-dublin-emigration.jpg" alt="Irish emigration from Dublin in the 1880s" class="float-left">
 
 <p>Two years later, on November 25, 1883, Laurence married <strong>Mary Knight</strong> in Dublin. Mary was seventeen years old, born in County Sligo, Ireland, and had immigrated to America with her family as a teenager before returning to Ireland for the wedding. The couple would marry again on February 6, 1887, in Manhattan—a second ceremony possibly to satisfy American legal requirements, with witnesses Christopher Higgins and Margaret McGrath. Family genealogists identify Christopher as Laurence's first cousin—eldest son of Laurence's paternal uncle Thomas Higgins (b. 1833), who emigrated from Dublin to Jersey City in 1871 with his wife Bridget Brereton and eight children.</p>
-<p>The Higgins family lived in Manhattan through the early 1890s—their son Lawrence was born and died at <strong>12 Clarkson Street</strong> in 1890, James Everett was born at the same address in 1892, and Theresa Cecilia was born a few blocks west at <strong>409 Hudson Street</strong> in 1894. Laurence worked the Hudson River waterfront as a <strong>longshoreman</strong> during these Manhattan years—his occupation given as &quot;L shore&quot; on infant Lawrence's 1890 birth and death registrations at 12 Clarkson. By 1895 the family had crossed the Hudson to Newark, New Jersey, joining the large Irish-American community there. Laurence's choice of the New York / Jersey City corridor came roughly <strong>fifteen years after his uncle Thomas Higgins</strong> had made the same crossing in 1871, settling his own family of ten in Jersey City — a documented American beachhead a younger Higgins emigrant could lean on. (See <code>research/analysis/thomas-higgins-1833-jersey-city.md</code> for what's known about the uncle Thomas household.) There Laurence shifted to portering for most of the next quarter-century, a common occupation for Irish immigrants in the urban Northeast. Census records track the family through Newark's Ward 5 from 1895 through 1920, with Laurence listed as a porter in 1900 and 1910, and as a janitor in 1920.</p>
+<p>The Higgins family lived in Manhattan through the early 1890s—their son Lawrence was born and died at <strong>12 Clarkson Street</strong> in 1890, James Everett was born at the same address in 1892, and Theresa Cecilia was born a few blocks west at <strong>409 Hudson Street</strong> in 1894. Laurence worked the Hudson River waterfront as a <strong>longshoreman</strong> during these Manhattan years—his occupation given as &quot;L shore&quot; on infant Lawrence's 1890 birth and death registrations at 12 Clarkson. By 1895 the family had crossed the Hudson to Newark, New Jersey, joining the large Irish-American community there. Laurence's choice of the New York / Jersey City corridor came roughly <strong>fifteen years after his uncle Thomas Higgins</strong> had made the same crossing in 1871, settling his own family of ten in Jersey City — a documented American beachhead a younger Higgins emigrant could lean on.</p>
+<details class="connection-card">
+<summary>How Thomas is Laurence's uncle</summary>
+<div class="connection-tree">
+  <div class="tn tn-anc">
+    <span class="tn-name">Christopher Higgins</span>
+    <span class="tn-meta">b. 1803, Dublin</span>
+  </div>
+  <div class="tn tn-sib-l">
+    <span class="tn-name">Thomas</span>
+    <span class="tn-meta">→ Jersey City 1871</span>
+  </div>
+  <div class="tn tn-sib-r">
+    <span class="tn-name">James</span>
+    <span class="tn-meta">Dublin, d. 1880</span>
+  </div>
+  <div class="tn tn-desc tn-focus">
+    <span class="tn-name">Laurence</span>
+    <span class="tn-meta">→ NJ/NY ~1885</span>
+  </div>
+</div>
+</details> There Laurence shifted to portering for most of the next quarter-century, a common occupation for Irish immigrants in the urban Northeast. Census records track the family through Newark's Ward 5 from 1895 through 1920, with Laurence listed as a porter in 1900 and 1910, and as a janitor in 1920.
+
 <p>Laurence and Mary had five children in America: Margaret (c. 1882), Mary A. (1888–1913), Lawrence (1890–1890, died in infancy), <strong>James Everett</strong> (1892–1938), and Theresa Cecilia (1894–1980). Their son James Everett Higgins would become a civil engineer with the Western Pacific Railroad, eventually making his way to Arizona where he married Doris Pauline Kuthe in 1926—connecting the Higgins line to the American Southwest.</p>
 <img src="../../../images/bio/laurence-higgins-02-newark-porter.jpg" alt="Irish immigrant porter working in Newark, 1890s" class="float-right-sm">
 
-<p>The middle years brought a wrenching family crisis. By about 1902 the two youngest children, James Everett and Theresa, had been placed at <strong>St. Agatha's Home for Children</strong> in Nanuet, New York—a Catholic orphanage in Rockland County, where they were enumerated together in the 1905 New York State Census. The New York Catholic Protectory's reception card for James, written in August 1906, supplies the bleak context: Laurence had <strong>absconded</strong> from the household, and Mary was confined to the asylum on Ward's Island. James himself was then living at 65 Downing Street in Manhattan with an aunt, a Mrs. Quigley whose place in the family the surviving record does not yet name.</p>
+<p>The middle years brought a wrenching family crisis.</p>
+<details class="timeline-card">
+<summary>The foster-care chapter, 1902–1915</summary>
+<ol class="timeline-list">
+  <li class="tl-event">
+    <span class="tl-year">c. 1902</span>
+    <div class="tl-body">James (9) and Theresa (8) placed at <strong>St. Agatha's Home for Children</strong>, Nanuet, NY.</div>
+  </li>
+  <li class="tl-event">
+    <span class="tl-year">1905</span>
+    <div class="tl-body">Both enumerated as inmates at St. Agatha's (NY State Census, Clarkstown).</div>
+  </li>
+  <li class="tl-event">
+    <span class="tl-year">Aug 1906</span>
+    <div class="tl-body">
+      Family crisis documented on James's NY Catholic Protectory reception card:
+      <ul class="tl-sub">
+        <li>Laurence had <strong>absconded</strong> from the household</li>
+        <li>Mary confined to the asylum on <strong>Ward's Island</strong></li>
+        <li>James at 65 Downing St., Manhattan, with aunt Mrs. Quigley</li>
+        <li>James committed to NY Catholic Protectory, Bronx</li>
+      </ul>
+    </div>
+  </li>
+  <li class="tl-event">
+    <span class="tl-year">1910</span>
+    <div class="tl-body">Laurence and Mary back together in Newark Ward 5 (federal census). James still at the Protectory; Theresa still at Clarkstown.</div>
+  </li>
+  <li class="tl-event">
+    <span class="tl-year">1913</span>
+    <div class="tl-body">Daughter <strong>Mary A. Higgins Hamm</strong> dies at St. Joseph's Hospital, Bronx (age 25).</div>
+  </li>
+  <li class="tl-event">
+    <span class="tl-year">1915</span>
+    <div class="tl-body">Theresa enumerated at Clarkstown as "servant" (NY State Census, age 20) — aged out of the inmate roll, retained as institutional staff.</div>
+  </li>
+</ol>
+</details>
+
+<p>By about 1902 the two youngest children, James Everett and Theresa, had been placed at <strong>St. Agatha's Home for Children</strong> in Nanuet, New York—a Catholic orphanage in Rockland County, where they were enumerated together in the 1905 New York State Census. The New York Catholic Protectory's reception card for James, written in August 1906, supplies the bleak context: Laurence had <strong>absconded</strong> from the household, and Mary was confined to the asylum on Ward's Island. James himself was then living at 65 Downing Street in Manhattan with an aunt, a Mrs. Quigley whose place in the family the surviving record does not yet name.</p>
 <p>How long Laurence remained away, and where he went, are not yet documented. The Protectory card recorded only that he was living and temperate. But by the 1910 federal census he and Mary were again together in Newark's Ward 5, his occupation again given as porter, and they appear together once more in the 1920 census. The household that institutional reports described as broken in 1906 had been, at least on paper, reconstituted by the end of the decade. The children's paths diverged: James was committed to the New York Catholic Protectory in 1906, while Theresa remained at Clarkstown for at least another decade, enumerated there in 1910 and again in the 1915 New York State Census at age twenty as a &quot;servant&quot;—evidently aged out of the inmate roll and kept on as institutional staff. Daughter Mary A. died in 1913 at age twenty-five.</p>
 <p>Laurence Higgins died sometime before February 17, 1930—the date Mary Knight Higgins was admitted to a New York City almshouse as a widow. The exact date and place of his death have not been confirmed. Mary herself died just six weeks later, on March 27, 1930, at the <strong>NYC Cancer Institute</strong> in Manhattan—having been transferred from the almshouse—and was buried in Holy Name Cemetery and Mausoleum in Jersey City, Hudson County, New Jersey (Plot I I 7-8), beside her infant son Lawrence (1890–1890).</p>
 <p>Laurence Higgins lived the arc of many Irish immigrants of his generation: from Dublin laborer to American porter, building a family across two marriages and two continents. Though he never lived to see his grandchildren, his grandson Howard Robert Higgins would carry the family name to Arizona, where the Higgins line continues today.</p>

@@ -13,13 +13,75 @@ The family's circumstances deteriorated. Mary gave birth to the twins at the **S
 
 Two years later, on November 25, 1883, Laurence married **Mary Knight** in Dublin. Mary was seventeen years old, born in County Sligo, Ireland, and had immigrated to America with her family as a teenager before returning to Ireland for the wedding. The couple would marry again on February 6, 1887, in Manhattan—a second ceremony possibly to satisfy American legal requirements, with witnesses Christopher Higgins and Margaret McGrath. Family genealogists identify Christopher as Laurence's first cousin—eldest son of Laurence's paternal uncle Thomas Higgins (b. 1833), who emigrated from Dublin to Jersey City in 1871 with his wife Bridget Brereton and eight children.
 
-The Higgins family lived in Manhattan through the early 1890s—their son Lawrence was born and died at **12 Clarkson Street** in 1890, James Everett was born at the same address in 1892, and Theresa Cecilia was born a few blocks west at **409 Hudson Street** in 1894. Laurence worked the Hudson River waterfront as a **longshoreman** during these Manhattan years—his occupation given as "L shore" on infant Lawrence's 1890 birth and death registrations at 12 Clarkson. By 1895 the family had crossed the Hudson to Newark, New Jersey, joining the large Irish-American community there. Laurence's choice of the New York / Jersey City corridor came roughly **fifteen years after his uncle Thomas Higgins** had made the same crossing in 1871, settling his own family of ten in Jersey City — a documented American beachhead a younger Higgins emigrant could lean on. (See `research/analysis/thomas-higgins-1833-jersey-city.md` for what's known about the uncle Thomas household.) There Laurence shifted to portering for most of the next quarter-century, a common occupation for Irish immigrants in the urban Northeast. Census records track the family through Newark's Ward 5 from 1895 through 1920, with Laurence listed as a porter in 1900 and 1910, and as a janitor in 1920.
+The Higgins family lived in Manhattan through the early 1890s—their son Lawrence was born and died at **12 Clarkson Street** in 1890, James Everett was born at the same address in 1892, and Theresa Cecilia was born a few blocks west at **409 Hudson Street** in 1894. Laurence worked the Hudson River waterfront as a **longshoreman** during these Manhattan years—his occupation given as "L shore" on infant Lawrence's 1890 birth and death registrations at 12 Clarkson. By 1895 the family had crossed the Hudson to Newark, New Jersey, joining the large Irish-American community there. Laurence's choice of the New York / Jersey City corridor came roughly **fifteen years after his uncle Thomas Higgins** had made the same crossing in 1871, settling his own family of ten in Jersey City — a documented American beachhead a younger Higgins emigrant could lean on.
+
+<details class="connection-card">
+<summary>How Thomas is Laurence's uncle</summary>
+<div class="connection-tree">
+  <div class="tn tn-anc">
+    <span class="tn-name">Christopher Higgins</span>
+    <span class="tn-meta">b. 1803, Dublin</span>
+  </div>
+  <div class="tn tn-sib-l">
+    <span class="tn-name">Thomas</span>
+    <span class="tn-meta">→ Jersey City 1871</span>
+  </div>
+  <div class="tn tn-sib-r">
+    <span class="tn-name">James</span>
+    <span class="tn-meta">Dublin, d. 1880</span>
+  </div>
+  <div class="tn tn-desc tn-focus">
+    <span class="tn-name">Laurence</span>
+    <span class="tn-meta">→ NJ/NY ~1885</span>
+  </div>
+</div>
+</details> There Laurence shifted to portering for most of the next quarter-century, a common occupation for Irish immigrants in the urban Northeast. Census records track the family through Newark's Ward 5 from 1895 through 1920, with Laurence listed as a porter in 1900 and 1910, and as a janitor in 1920.
 
 Laurence and Mary had five children in America: Margaret (c. 1882), Mary A. (1888–1913), Lawrence (1890–1890, died in infancy), **James Everett** (1892–1938), and Theresa Cecilia (1894–1980). Their son James Everett Higgins would become a civil engineer with the Western Pacific Railroad, eventually making his way to Arizona where he married Doris Pauline Kuthe in 1926—connecting the Higgins line to the American Southwest.
 
 <img src="../../../images/bio/laurence-higgins-02-newark-porter.jpg" alt="Irish immigrant porter working in Newark, 1890s" class="float-right-sm">
 
-The middle years brought a wrenching family crisis. By about 1902 the two youngest children, James Everett and Theresa, had been placed at **St. Agatha's Home for Children** in Nanuet, New York—a Catholic orphanage in Rockland County, where they were enumerated together in the 1905 New York State Census. The New York Catholic Protectory's reception card for James, written in August 1906, supplies the bleak context: Laurence had **absconded** from the household, and Mary was confined to the asylum on Ward's Island. James himself was then living at 65 Downing Street in Manhattan with an aunt, a Mrs. Quigley whose place in the family the surviving record does not yet name.
+The middle years brought a wrenching family crisis.
+
+<details class="timeline-card">
+<summary>The foster-care chapter, 1902–1915</summary>
+<ol class="timeline-list">
+  <li class="tl-event">
+    <span class="tl-year">c. 1902</span>
+    <div class="tl-body">James (9) and Theresa (8) placed at <strong>St. Agatha's Home for Children</strong>, Nanuet, NY.</div>
+  </li>
+  <li class="tl-event">
+    <span class="tl-year">1905</span>
+    <div class="tl-body">Both enumerated as inmates at St. Agatha's (NY State Census, Clarkstown).</div>
+  </li>
+  <li class="tl-event">
+    <span class="tl-year">Aug 1906</span>
+    <div class="tl-body">
+      Family crisis documented on James's NY Catholic Protectory reception card:
+      <ul class="tl-sub">
+        <li>Laurence had <strong>absconded</strong> from the household</li>
+        <li>Mary confined to the asylum on <strong>Ward's Island</strong></li>
+        <li>James at 65 Downing St., Manhattan, with aunt Mrs. Quigley</li>
+        <li>James committed to NY Catholic Protectory, Bronx</li>
+      </ul>
+    </div>
+  </li>
+  <li class="tl-event">
+    <span class="tl-year">1910</span>
+    <div class="tl-body">Laurence and Mary back together in Newark Ward 5 (federal census). James still at the Protectory; Theresa still at Clarkstown.</div>
+  </li>
+  <li class="tl-event">
+    <span class="tl-year">1913</span>
+    <div class="tl-body">Daughter <strong>Mary A. Higgins Hamm</strong> dies at St. Joseph's Hospital, Bronx (age 25).</div>
+  </li>
+  <li class="tl-event">
+    <span class="tl-year">1915</span>
+    <div class="tl-body">Theresa enumerated at Clarkstown as "servant" (NY State Census, age 20) — aged out of the inmate roll, retained as institutional staff.</div>
+  </li>
+</ol>
+</details>
+
+By about 1902 the two youngest children, James Everett and Theresa, had been placed at **St. Agatha's Home for Children** in Nanuet, New York—a Catholic orphanage in Rockland County, where they were enumerated together in the 1905 New York State Census. The New York Catholic Protectory's reception card for James, written in August 1906, supplies the bleak context: Laurence had **absconded** from the household, and Mary was confined to the asylum on Ward's Island. James himself was then living at 65 Downing Street in Manhattan with an aunt, a Mrs. Quigley whose place in the family the surviving record does not yet name.
 
 How long Laurence remained away, and where he went, are not yet documented. The Protectory card recorded only that he was living and temperate. But by the 1910 federal census he and Mary were again together in Newark's Ward 5, his occupation again given as porter, and they appear together once more in the 1920 census. The household that institutional reports described as broken in 1906 had been, at least on paper, reconstituted by the end of the decade. The children's paths diverged: James was committed to the New York Catholic Protectory in 1906, while Theresa remained at Clarkstown for at least another decade, enumerated there in 1910 and again in the 1915 New York State Census at age twenty as a "servant"—evidently aged out of the inmate roll and kept on as institutional staff. Daughter Mary A. died in 1913 at age twenty-five.
 
