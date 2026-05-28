@@ -39,3 +39,43 @@ ancestors:
       image_class: jehiggins
       image_thumb: railroad-wwi-era.jpg
       initials: JH
+
+    - name: James Higgins
+      years: 1830–1880
+      tagline: Hackney car-driver in Harold's Cross, Dublin
+      relation: 3rd Great-Grandfather
+      bio: james_higgins_bio.html
+      image_class: jhiggins
+      initials: JH
+
+    - name: Jane Eustace
+      years: 1829–1911
+      tagline: Dublin laundress; ended her days at South Dublin Union
+      relation: 3rd Great-Grandmother
+      bio: jane_eustace_bio.html
+      image_class: jeustace
+      initials: JE
+
+    - name: Christopher Higgins
+      years: 1803–aft. 1882
+      tagline: Dublin-born, married Bridget Darcy at Valleymount, Co. Wicklow
+      relation: 4th Great-Grandfather
+      bio: christopher_higgins_1803_bio.html
+      image_class: chiggins
+      initials: CH
+
+    - name: Nicholas Higgins
+      years: 1770–c. 1867
+      tagline: Moved the branch from Wicklow to Charlotte St., Dublin
+      relation: 5th Great-Grandfather
+      bio: nicholas_higgins_1770_bio.html
+      image_class: nhiggins
+      initials: NH
+
+    - name: John Higgins
+      years: 1718–1808
+      tagline: Baltyboys patriarch; lived to 90 in the Wicklow Mountains
+      relation: 6th Great-Grandfather
+      bio: john_higgins_1718_bio.html
+      image_class: jhhiggins
+      initials: JH

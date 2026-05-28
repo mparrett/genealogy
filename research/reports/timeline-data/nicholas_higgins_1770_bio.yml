@@ -1,0 +1,33 @@
+name: Nicholas Higgins
+birth:
+  year: 1770
+  label: Born
+  location: County Wicklow
+death:
+  year: 1867
+  label: Died c.
+  location: Dublin
+events:
+  - year: 1773
+    label: Mother Anne died
+    type: event
+  - year: 1803
+    label: Son Christopher born
+    type: event
+  - year: 1808
+    label: Father John died; erected Baltyboys tombstone
+    type: event
+  - year: 1811
+    label: Wife Eleanora died
+    type: event
+  - year: 1825
+    label: On Tithe Applotment Books, Rathgar/Rathfarnham
+    type: event
+
+family_links:
+  - name: John Higgins
+    relation: Father
+    link: john_higgins_1718_bio.html
+  - name: Christopher Higgins
+    relation: Son
+    link: christopher_higgins_1803_bio.html

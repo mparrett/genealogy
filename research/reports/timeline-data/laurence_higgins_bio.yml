@@ -39,6 +39,12 @@ location_aside:
     emigrating to America in the 1880s.
 
 family_links:
+  - name: James Higgins
+    relation: Father
+    link: james_higgins_bio.html
+  - name: Jane Eustace
+    relation: Mother
+    link: jane_eustace_bio.html
   - name: Mary Knight
     relation: Wife
     link: mary_knight_bio.html

@@ -21,10 +21,6 @@ events:
   - year: 1854
     label: Son Laurence born
     type: event
-  - year: 1857
-    label: Father died
-    type: event
-
 location_aside:
   place: Harold's Cross
   region: Dublin, Ireland
@@ -39,6 +35,9 @@ location_aside:
     narrow lanes.
 
 family_links:
+  - name: Christopher Higgins
+    relation: Father
+    link: christopher_higgins_1803_bio.html
   - name: Jane Eustace
     relation: Wife
     link: jane_eustace_bio.html

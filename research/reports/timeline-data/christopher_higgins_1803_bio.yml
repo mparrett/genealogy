@@ -1,0 +1,36 @@
+name: Christopher Higgins
+birth:
+  year: 1803
+  label: Born
+  location: Dublin
+death:
+  year: 1882
+  label: Living until at least
+  location: Ireland
+events:
+  - year: 1811
+    label: Mother Eleanora died
+    type: event
+  - year: 1825
+    label: Married Bridget Darcy at Valleymount
+    type: marriage
+  - year: 1829
+    label: Son James born
+    type: event
+  - year: 1854
+    label: Bridget Darcy died (or earlier)
+    type: event
+  - year: 1880
+    label: Son James died
+    type: event
+
+family_links:
+  - name: Nicholas Higgins
+    relation: Father
+    link: nicholas_higgins_1770_bio.html
+  - name: John Higgins
+    relation: Grandfather
+    link: john_higgins_1718_bio.html
+  - name: James Higgins
+    relation: Son
+    link: james_higgins_bio.html

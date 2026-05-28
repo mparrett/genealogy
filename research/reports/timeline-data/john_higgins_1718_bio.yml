@@ -1,0 +1,27 @@
+name: John Higgins
+birth:
+  year: 1718
+  label: Born
+  location: County Wicklow
+death:
+  year: 1808
+  label: Died
+  location: Baltyboys, Co. Wicklow
+events:
+  - year: 1753
+    label: Married Anne Thomas (c.)
+    type: marriage
+  - year: 1770
+    label: Son Nicholas born
+    type: event
+  - year: 1773
+    label: Wife Anne died
+    type: event
+  - year: 1808
+    label: Died age 90; buried Baltyboys
+    type: event
+
+family_links:
+  - name: Nicholas Higgins
+    relation: Son
+    link: nicholas_higgins_1770_bio.html
