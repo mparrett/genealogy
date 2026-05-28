@@ -1,32 +1,67 @@
 # James Everett Higgins - Verified Facts
 
-**Last Updated:** 2026-02-02
+**Last Updated:** 2026-05-27
 
 ---
 
 ## Birth & Early Life
 
 **Full Name:** James Everett Higgins
-**Birth Date:** February 2, 1892 (CONFIRMED)
-**Birth Place:** Manhattan, New York (confirmed by Howard's birth certificate: "New York, N.Y.")
+**Birth Date:** February 2, 1892 (CONFIRMED — NYC birth certificate no. 6077)
+**Birth Place:** Manhattan, New York (Clarkson Street per birth cert; 12 Clarkson Street per family records)
 **Age at Death:** 46 years (died July 6, 1938)
 
-**Parents:** Unknown
-**Siblings:** Unknown
-**Early Life:** Unknown
+**Parents (CONFIRMED):**
+- Father: **Laurence Higgins** (1854–before 17 Feb 1930), born Rathmines, Dublin; Irish immigrant; longshoreman/porter/janitor
+- Mother: **Mary Knight** (1866–27 Mar 1930), born Co. Sligo, Ireland (tentative); Irish immigrant
 
-**Source:** Ancestry.com death records; family records
+**Siblings (with Mary Knight — CONFIRMED):**
+- Margaret Higgins (c. 1882–) — possibly a tree-stitching artifact, see Higgins summary
+- Mary A. Higgins Hamm (1888–1913, d. St. Joseph's Hospital, Bronx)
+- Lawrence Higgins (1890–1890, died infant; buried Holy Name Cemetery, Jersey City)
+- **James Everett Higgins (1892–1938)** ← subject
+- **Theresa Cecilia Higgins (1894–1980)** ← inmate alongside James at St. Agatha's (1905); remained at Clarkstown through 1915
 
-**Note:** James's published bio (`research/reports/james_e_higgins_bio.md`) contains extensive additional information:
-- Birth: Feb 2, 1892, Manhattan, New York
-- Parents: Laurence Higgins (1854-1930) & Mary Knight (1866-1930), Irish immigrants
-- St. Agatha's Home for Children placement (1905, age 13)
-- WWI service (enlisted July 1918, wagoner, discharged June 9, 1919)
-- Death by suicide, July 6, 1938, in jail lodger's cell (free shelter for indigent)
-- Buried with military honors, July 8, 1938
-- Newspaper: "Veteran Pays Debts, Hangs Himself in Cell"
+**Half-siblings (from Laurence's first marriage to Mary Verner, 1873–1881):**
+- Margaret Ester "Maggie" Higgins (1874–1912)
+- Mary Jane Higgins (1876–1879)
+- Anne Higgins (1878–)
+- Twins Bridget & Mary Jane (Sept 1881, both likely died infant; born at South Dublin Union workhouse)
 
-This biographical information needs to be cross-verified with primary sources and integrated here.
+---
+
+## Documented 1902–1910 Institutional Arc
+
+**Source:** New York Catholic Protectory / Lincoln Hall Resident Identification Card, surfaced 2026-05-27 via FamilySearch (Lincolndale Resident Identification Cards). Full transcription: `research/results/higgins-protectory-card-2026-05-27.md`.
+
+- **Reception No.:** 40130
+- **State Board No.:** 19739
+- **Date of commitment:** 2 August 1906 (age 14)
+- **Committed for:** Destitution
+- **Committed by:** Hon. R. C. Baker, 1st Deputy Commissioner of Charities
+- **Brought in by:** Mr. O'Shea, S.P.C.C. (New York Society for the Prevention of Cruelty to Children)
+- **Residence at commitment:** 65 Downing Street, Manhattan, in the care of **aunt Mrs. Quigley**
+- **Education:** Reads and writes
+- **Religion:** Catholic, confirmed
+- **Prior placement:** St. Agatha's Home, Nanuet (Catholic orphanage, Rockland Co.) — for FOUR YEARS prior (i.e. ~1902 onward)
+- **Father status (Aug 1906):** "Absconded"; living; temperate
+- **Mother status (Aug 1906):** "In the insane asylum, Ward's Island"; living; temperate
+- **Health on reception:** Very good (Dr. O. C. Thum)
+
+**Pre-commitment context (July 1906):** James was placed/employed at St. Vincent's Hospital from 6 July 1906 in some unspecified role (likely minor work / messenger / orderly); described as "unmanageable" within weeks, prompting the hospital to request his formal commitment.
+
+**Post-commitment timeline:**
+- **22 Aug 1906:** Discharged from the Protectory's Free List; charged to the regular City Bill (public welfare apparatus accepts financial responsibility)
+- **1 Aug 1908:** Taken off the Public Pay Roll (funding/status change, not necessarily physical departure)
+- **27 Apr 1910:** Sent on trial to **St. Philip's Home, 417 Broome Street** (transitional aftercare for older working boys); employed by **Peter Duryea at 69 Pearl Street**
+- **9 May 1910:** Federal census enumerates him still at the New York Catholic Protectory in the Bronx, age 17 (overlap with St. Philip's placement is presumably administrative)
+- **25 Jun 1910:** Moved out of St. Philip's; boarding at **1192 First Avenue, c/o Kiernan**
+
+**Independent corroboration:**
+- 1905 NY State Census enumerates James and sister Theresa as inmates at Clarkstown, Rockland Co., E.D. 05 (household head: Bezren C. Thayer; institutional setting consistent with St. Agatha's)
+- Theresa enumerated at Clarkstown in 1910 federal and 1915 NY State Census (latter as "Servant" — institutional staff post-aging-out)
+
+**Birth-date variant on Protectory card:** The card records date of birth as **2 Aug 1892**, while the official NYC birth certificate (no. 6077) gives **2 Feb 1892**. The August date is likely an institutional copy-from-commitment-date error. Both agree on the year. The birth certificate is the stronger source.
 
 ---
 
@@ -145,12 +180,24 @@ This biographical information needs to be cross-verified with primary sources an
 
 ## Open Questions
 
-### About His Background
-1. Where was James born?
-2. Who were his parents?
-3. Where did he grow up?
-4. How did he become a railroad civil engineer?
-5. What was his education?
+### About His Background — mostly resolved (2026-05-27)
+
+1. ~~Where was James born?~~ → **Manhattan, NY (Clarkson Street; 12 Clarkson per family records). Birth cert no. 6077.**
+2. ~~Who were his parents?~~ → **Laurence Higgins (1854–<1930) + Mary Knight (1866–1930), both Irish immigrants.**
+3. ~~Where did he grow up?~~ → **St. Agatha's Home (Nanuet, NY) from ~1902; NY Catholic Protectory (Bronx) from Aug 1906; St. Philip's Home (Manhattan) from Apr 1910; boarding at 1192 First Ave from Jun 1910.**
+4. How did he become a railroad civil engineer? → Still unknown — somewhere between 1910 (Manhattan boarding house) and 1918 (Spokane WWI enlistment). Possible vocational training during Protectory/aftercare years; possible self-taught + on-the-job at Western Pacific.
+5. ~~What was his education?~~ → **Reads and writes per the 1906 Protectory card. Confirmed in Catholic faith. Likely Catholic institutional schooling at St. Agatha's and the Protectory.**
+
+### About His Childhood Institutional Years — NEW open questions (2026-05-27)
+
+1. **Who exactly was Mrs. Quigley at 65 Downing Street?** Working hypothesis: paternal aunt by marriage (a Higgins sibling married to a Quigley). Search 1900/1905/1910 census + Trow's directory + parish records.
+2. **When was Mary admitted to Ward's Island, and what was the recorded condition?** Search Manhattan State Hospital patient indexes; NY State Archives.
+3. **Where did Laurence go during the "absconded" period (1906–1910)?** And what prompted his return?
+4. **Who was Mr. O'Shea of the NYSPCC?** Search NYSPCC annual reports / officer lists 1905–1907. Look for case file behind James's referral.
+5. **What was James doing at St. Vincent's Hospital in July 1906?** Search hospital records, Sisters of Charity archives.
+6. **What was Peter Duryea's business at 69 Pearl Street?** Search 1910 Manhattan business directories, city directories.
+7. **Who was Kiernan at 1192 First Avenue?** Boarding-house keeper, employer contact, or supervising adult.
+8. **Department of Charities case records** for James's commitment (Hon. R. C. Baker) — NYC Municipal Archives / DORIS.
 
 ### About His Marriage
 1. How did James and Doris meet?
@@ -250,14 +297,12 @@ This biographical information needs to be cross-verified with primary sources an
 
 ## Critical Gaps in Knowledge
 
-James Everett Higgins is the **most mysterious figure** in Howard's story:
+As of 2026-05-27 James's **childhood** is well-documented — the Protectory reception card and the 1905/1915 NY State Census records give us a connected institutional arc from ~1902 (St. Agatha's) through June 1910 (boarding at 1192 First Ave). The remaining gaps are:
 
-- We know almost nothing about his background or family
-- We don't know why the marriage ended
-- We don't know if he knew about Howard's placement
-- We don't know if he maintained any contact
-- We don't know the circumstances of his death
-- We have no documentation of his life between 1928-1938
+- **1910–1918 (Manhattan boarding → Spokane enlistment):** how he got west, what he was doing, where he learned engineering
+- **1928–1938 (post-divorce California decade):** very little documentation; some 1932 legal judgments and the 1936–37 WPA Treasure Island work, but few specifics
+- **Marriage and separation specifics:** still no divorce records retrieved; no documentation of whether James knew about Howard's placement with the Birches
+- **Death circumstances:** death certificate not yet retrieved; cause and next-of-kin unconfirmed
 
 **The death certificate is crucial** - it may be the only document that provides:
 - His actual occupation in 1938
@@ -279,15 +324,27 @@ James's absence shapes everything:
 ## Speculation vs. Facts
 
 **What We Know (Facts):**
-- Born 1892
-- Railroad civil engineer for Western Pacific
-- Married Doris Kuthe, Nov 6, 1926, Tucson
-- Son Howard born Sept 9, 1927
-- Marriage ended ~1928
-- Died July 6, 1938, San Francisco, age 46
+- Born 2 Feb 1892, Manhattan, NY (Clarkson St; birth cert no. 6077)
+- Parents Laurence Higgins + Mary Knight (both Irish immigrants)
+- Inmate at St. Agatha's Home, Nanuet, NY from ~1902 through Aug 1906 (with sister Theresa)
+- Family-collapse context (per 1906 Protectory card): father absconded, mother on Ward's Island, residence with aunt Mrs. Quigley at 65 Downing Street
+- Committed to NY Catholic Protectory 2 Aug 1906 (Reception 40130) for destitution
+- Trial placement at St. Philip's Home 27 Apr 1910; employed by Peter Duryea (69 Pearl St); boarding at 1192 First Ave c/o Kiernan from Jun 1910
+- WWI enlistment July 1918, Spokane; wagoner; discharged 9 Jun 1919
+- Railroad civil engineer for Western Pacific (Feather River Canyon era, early 1920s)
+- Married Doris Kuthe, 6 Nov 1926, Phoenix
+- Son Howard born 15 Sep 1927, Tucson (James already resident SF)
+- Marriage ended ~1928 (divorce filed Dec 1928)
+- Mother Mary died 27 Mar 1930, NYC Cancer Institute
+- WPA Treasure Island construction 1936–37
+- Died 6 Jul 1938, San Francisco, age 46 (suicide in lodger's cell of SF City Prison)
 
 **What We Don't Know (Need Evidence):**
-- Everything else
+- His specific path from NY institutional youth to western railroad engineer (1910–1918)
+- Whether his marriage to Doris was preceded by another (the 1916 Butte reference is likely a different person)
+- Whether he had contact with Howard or Doris between 1928 and 1938
+- Specific circumstances behind the 1932 legal judgments
+- Death certificate detail (cause, next of kin, marital status as of death)
 
 **Avoid Assumptions:**
 - Did he "abandon" them? (No evidence - could have been mutual decision, job relocation, etc.)

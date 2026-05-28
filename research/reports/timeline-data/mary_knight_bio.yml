@@ -24,6 +24,9 @@ events:
   - year: 1905
     label: James & Theresa at St. Agatha's
     type: event
+  - year: 1906
+    label: Ward's Island confinement
+    type: event
   - year: 1913
     label: Daughter Mary A. died
     type: event

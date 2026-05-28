@@ -2,6 +2,9 @@
 
 Extracted from Ancestry profile exports (Jan 2025) and supplemented from Mary Anne Higgins researcher's tree (May 2026).
 
+> **2026-05-27 — Bombshell: James Everett Higgins's Protectory reception card surfaced.**
+> A New York Catholic Protectory / Lincoln Hall Resident Identification Card for James (Reception No. 40130, State Board No. 19739, committed 2 Aug 1906) is now in `research/results/higgins-protectory-card-2026-05-27.md`. It documents the family-collapse arc that had been unexplained for years: father Laurence "absconded," mother Mary confined to the insane asylum on Ward's Island, James and Theresa at St. Agatha's, James briefly placed at St. Vincent's Hospital, then committed to the Protectory via Mr. O'Shea (NYSPCC) and Hon. R. C. Baker (1st Deputy Commissioner of Charities). Residence at commitment: 65 Downing Street, Manhattan, with aunt Mrs. Quigley. James's 1910 trajectory: sent on trial to St. Philip's Home (417 Broome St), employed by Peter Duryea (69 Pearl St), then boarding at 1192 First Ave c/o Kiernan. Reconciled with 1910/1920 census: Mary discharged from Ward's Island and Laurence returned to the household by 1910. Theresa's parallel arc is documented in the NY State censuses: 1905 inmate at Clarkstown (age 10), still at Clarkstown in 1915 (age 20) but reclassified as "Servant"—evidently retained as institutional staff after aging out.
+>
 > **2026-05-26 — Partial refinement in progress.**
 > A second independent set of Ancestry PDFs (from a researcher descended from Mary Anne Higgins 1830, Australian branch) was catalogued at `incoming/higgins_pdfs_catalogue_2026-05-26.md` with certainty tags per fact. Standing rule: when in doubt, provisionally prefer the researcher's version.
 >
@@ -164,11 +167,13 @@ Thomas Higgins (b. 3 Jan 1833, Rathfarnham), James's brother, married **Bridget 
 - 1895: Newark Ward 9, NJ
 - 1900: Newark Ward 5, NJ (married)
 - 1905: Jersey City, NJ
+- **1906 (Aug):** Recorded as "in the insane asylum, Ward's Island" on James's Aug 1906 Protectory reception card. First documented institutionalization.
+- **By 1910:** Discharged from Ward's Island; back with Laurence in Newark Ward 5 (federal census)
 - 1913: Daughter Mary A died
-- 1920: Newark Ward 5, NJ
+- 1920: Newark Ward 5, NJ (with Laurence)
 - 1930: Husband Laurence died (before Feb 17)
-- 17 Feb 1930: Admitted to NYC almshouse (widowed)
-- 27 Mar 1930: Died in almshouse
+- 17 Feb 1930: Admitted to NYC almshouse (widowed) — second institutionalization
+- 27 Mar 1930: Died at **NYC Cancer Institute**, Manhattan (transferred from almshouse)
 
 ---
 
@@ -181,10 +186,19 @@ Thomas Higgins (b. 3 Jan 1833, Rathfarnham), James's brother, married **Bridget 
 - **Death:** 6 July 1938, San Francisco (suicide by hanging in jail)
 - **Burial:** 8 July 1938, San Francisco
 
-### Early Life
-- 1905: Inmate at **St Agatha's Home For Children**, Nanuet, NY (age 13) — per NY State Census. Sister Theresa was also there.
-- 1910 (9 May): Resident at the New York Catholic Protectory, the Bronx, NY (age 17 per census; born NY, parents born Ireland)
-- A 1910 California "James Higgins" lodger record is now believed to be a different person (the candidate would have been age 12 in 1910, not consistent with our James). The earlier "1906 Spokane (age 14)" line was based on the same conflated person and has been removed.
+### Early Life — documented 1902–1910 institutional arc
+- **c. 1902:** Entered St. Agatha's Home for Children, Nanuet, NY (Catholic orphanage in Rockland County). Duration "four years" per the 1906 Protectory card.
+- **1905 (1 Jun):** NY State Census enumerates James and sister Theresa as inmates at Clarkstown, Rockland Co., E.D. 05 (the St. Agatha's institutional household — Bezren C. Thayer head, plus ~25 children with various surnames).
+- **1906 (Jul 6):** Placed at St. Vincent's Hospital, Greenwich Village; described as "unmanageable" within weeks; hospital requested formal commitment.
+- **1906 (2 Aug):** Committed to the New York Catholic Protectory, the Bronx, as **Reception No. 40130, State Board No. 19739**. Age 14 per card; date of birth recorded 2 Aug 1892 (institutional variant — birth cert no. 6077 gives 2 Feb 1892). Committed by Hon. R. C. Baker, 1st Deputy Commissioner of Charities, for destitution; brought in by Mr. O'Shea, NYSPCC. Residence at commitment: 65 Downing Street, Manhattan, with aunt Mrs. Quigley. Father Laurence "absconded"; mother Mary "in the insane asylum, Ward's Island."
+- **1906 (22 Aug):** Discharged from the Protectory's Free List and charged to the regular City Bill — public welfare apparatus accepts financial responsibility.
+- **1908 (1 Aug):** Taken off the Public Pay Roll (funding/status change; not necessarily physical departure).
+- **1910 (27 Apr):** Sent on trial to St. Philip's Home, 417 Broome Street, Manhattan (transitional aftercare for older working boys); employed by Peter Duryea at 69 Pearl Street.
+- **1910 (9 May):** Federal census still enumerates him at the New York Catholic Protectory, the Bronx, age 17 (date overlaps with St. Philip's placement — likely an administrative tail).
+- **1910 (25 Jun):** Boarding at 1192 First Avenue, Manhattan, c/o Kiernan.
+- A separate 1910 California "James Higgins" lodger record (often surfaced in earlier research) is now believed to be a different person; the earlier "1906 Spokane (age 14)" line was based on the same conflated person and has been removed.
+
+**Source for 1906–1910:** `research/results/higgins-protectory-card-2026-05-27.md` (transcribed FamilySearch Lincolndale Resident Identification Card, retrieved 2026-05-27).
 
 ### Career
 - **Occupation:** Civil Engineer
@@ -227,6 +241,21 @@ Thomas Higgins (b. 3 Jan 1833, Rathfarnham), James's brother, married **Bridget 
 
 ---
 
+## Theresa Cecilia Higgins (1894–1980)
+
+**Great-grand-aunt** — James Everett's younger sister
+
+- **Birth:** 30 July 1894, Manhattan, NY (Laurence then residing at 409 Hudson Street)
+- **1905 (1 Jun):** NY State Census — inmate at Clarkstown, Rockland Co., E.D. 05 (St. Agatha's institutional household, head Bezren C. Thayer); age 10
+- **1910:** Still at Clarkstown (federal census)
+- **1915:** NY State Census — Clarkstown, Rockland Co., Assembly District 01, House No. 110; age 20; relationship "Servant" — evidently retained as institutional staff after aging out of the inmate roll
+- **1924:** Placed a newspaper advertisement searching for her brother James ("James Higgins, 32, Formerly of N.Y., Sought by Sister"); the clipping noted their mother Mary wished to see him
+- **Death:** 1980
+
+Theresa's path diverged sharply from James's after both were placed at St. Agatha's around 1902. James was committed to the New York Catholic Protectory in 1906 and moved through aftercare placements, eventually heading west. Theresa stayed within the Rockland County Catholic institutional world for at least the next decade, transitioning from inmate to staff. Open research: when she left Clarkstown, where she lived after, whether she married, descendants (Brittany Bepler is a known Theresa-line descendant per Mary Anne researcher's Knight-family notes).
+
+---
+
 ## Key Corrections to Previous Understanding
 
 | Item | Previously thought | Actually |
@@ -246,13 +275,22 @@ Thomas Higgins (b. 3 Jan 1833, Rathfarnham), James's brother, married **Bridget 
 
 ## Open Questions
 
-1. **Laurence's exact death date/place** — we know it was before Feb 17, 1930, but no record found
-2. **Who was James's first wife (c. 1914 Spokane)?**
-3. **The 1930/1941/1942 Laurence Higgins census entries** — same person or different?
+1. **Mrs. Quigley, 65 Downing Street** — who was she? Working hypothesis: a paternal aunt by marriage (Higgins sibling who married a Quigley). Knight side not ruled out. Search 1900/1905/1910 census + Trow's directory + parish records for Quigley at/near 65 Downing.
+2. **Mary Knight's Ward's Island admission and discharge** — admission date and recorded condition unknown; we have her there in Aug 1906 and discharged by 1910.
+3. **Mr. O'Shea (NYSPCC)** — officer/agent who brought James to the Protectory. NYSPCC archives should be approachable.
+4. **Department of Charities case file** for James's commitment (Hon. R. C. Baker, 1st Deputy Commissioner) — NYC Municipal Archives / DORIS.
+5. **St. Vincent's Hospital July 1906 placement** — what kind of work; why "unmanageable"; any records surviving.
+6. **Peter Duryea, 69 Pearl Street** — employer 1910; identify the business via city/commercial directories.
+7. **Kiernan at 1192 First Avenue** — boarding-house keeper / employer contact in 1910.
+8. **Laurence's whereabouts 1906–1910** — where did he go during the "absconded" period; when and why did he return.
+9. **Laurence's exact death date/place** — still pre-Feb-17-1930 inference only.
+10. **Who was James's first wife (c. 1914 Spokane)?** (Likely a different James E. Higgins, but unresolved.)
+11. **The 1930/1941/1942 Laurence Higgins census entries** — same person or different?
 
 ## Resolved Questions
 
-- **Why was James in an institution at age 13?** → St Agatha's Home For Children, Nanuet, NY (orphanage). Sister Theresa was also there.
+- **Why were James and Theresa at St. Agatha's in 1905?** → **SOLVED (2026-05-27).** The 1906 Protectory reception card documents the family-collapse arc: Laurence had absconded from the household and Mary was confined to the insane asylum on Ward's Island. James had been at St. Agatha's "for four years" (since ~1902). Theresa remained at Clarkstown through 1910 and 1915 (the latter as institutional "Servant" after aging out of the inmate roll). The household was reconstituted by 1910 when Laurence and Mary appear together in the Newark federal census.
+- **Mary Knight's death venue** → NYC Cancer Institute, Manhattan, 27 Mar 1930 (transferred from almshouse).
 - **Why did James die in jail?** → He was in the lodger's cell (free overnight shelter for those in need), not incarcerated. Financial troubles.
 - **Did Doris remarry a Birch?** → No. She was friends with Mary Birch but never married her.
 - **How did Howard get the "Birch" surname?** → **SOLVED:** Howard was fostered/adopted by **Robert Birch (1869–1950)** and **Sarah Cope Birch (1878–1959)**. c. 1931 during the Depression, Howard was sent to a Catholic orphanage in Silver City, NM along with his cousin Willis "Bill" Rosser (son of Jessie Kuthe). The Birch family took him in. Doris was friends with Mary Birch and attended her 1930 wedding.

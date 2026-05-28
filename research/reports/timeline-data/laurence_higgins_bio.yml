@@ -20,6 +20,12 @@ events:
   - year: 1887
     label: Immigrated to U.S.
     type: event
+  - year: 1906
+    label: Absconded from family
+    type: event
+  - year: 1910
+    label: Reunited with Mary in Newark
+    type: event
 
 location_aside:
   place: Rathmines, Dublin

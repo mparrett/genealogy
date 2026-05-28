@@ -19,7 +19,9 @@ Laurence and Mary had five children in America: Margaret (c. 1882), Mary A. (188
 
 <img src="../../../images/bio/laurence-higgins-02-newark-porter.jpg" alt="Irish immigrant porter working in Newark, 1890s" class="float-right-sm">
 
-The later years brought hardship. Daughter Mary A. died in 1913 at age 25. By 1905, both James Everett and his sister Theresa were living at St. Agatha's Home for Children in Nanuet, New York—an orphanage—suggesting the family faced serious difficulties, though Laurence was still alive. The reasons remain unclear.
+The middle years brought a wrenching family crisis. By about 1902 the two youngest children, James Everett and Theresa, had been placed at **St. Agatha's Home for Children** in Nanuet, New York—a Catholic orphanage in Rockland County, where they were enumerated together in the 1905 New York State Census. The New York Catholic Protectory's reception card for James, written in August 1906, supplies the bleak context: Laurence had **absconded** from the household, and Mary was confined to the asylum on Ward's Island. James himself was then living at 65 Downing Street in Manhattan with an aunt, a Mrs. Quigley whose place in the family the surviving record does not yet name.
+
+How long Laurence remained away, and where he went, are not yet documented. The Protectory card recorded only that he was living and temperate. But by the 1910 federal census he and Mary were again together in Newark's Ward 5, his occupation again given as porter, and they appear together once more in the 1920 census. The household that institutional reports described as broken in 1906 had been, at least on paper, reconstituted by the end of the decade. The children's paths diverged: James was committed to the New York Catholic Protectory in 1906, while Theresa remained at Clarkstown for at least another decade, enumerated there in 1910 and again in the 1915 New York State Census at age twenty as a "servant"—evidently aged out of the inmate roll and kept on as institutional staff. Daughter Mary A. died in 1913 at age twenty-five.
 
 Laurence Higgins died sometime before February 17, 1930—the date Mary Knight Higgins was admitted to a New York City almshouse as a widow. The exact date and place of his death have not been confirmed. Mary herself died just six weeks later, on March 27, 1930, at the **NYC Cancer Institute** in Manhattan—having been transferred from the almshouse—and was buried in Holy Name Cemetery and Mausoleum in Jersey City, Hudson County, New Jersey (Plot I I 7-8), beside her infant son Lawrence (1890–1890).
 
@@ -37,6 +39,8 @@ Laurence Higgins lived the arc of many Irish immigrants of his generation: from 
 - Census records: Newark Ward 10 (1895), Newark Ward 5 (1900, 1910, 1920).
 - Occupations from census: Porter (1900, 1910), Janitor (1920).
 - Children from both marriages compiled from census and family tree data.
-- James Everett and Theresa at St. Agatha's Home for Children, Nanuet, NY per 1905 NY State Census.
+- James Everett and Theresa at St. Agatha's Home for Children, Nanuet, NY per 1905 NY State Census (Clarkstown, Rockland Co., E.D. 05); James and Theresa both enumerated as inmates in the same institutional household.
+- Theresa Higgins continued at Clarkstown: enumerated 1910 and 1915 (NY State Census, age 20, Assembly District 01, House No. 110) with relationship "Servant"—evidently aged out of the inmate roll and retained as institutional staff.
+- NY Catholic Protectory reception card for James (2 Aug 1906) recorded "father absconded" and mother in the asylum on Ward's Island. Laurence is reconciled with later census records by his return to the household between 1906 and 1910. See `research/results/higgins-protectory-card-2026-05-27.md`.
 - Death: before 17 Feb 1930 (date of Mary's almshouse admission as "widowed"); exact date/place unknown.
 - Mary Knight Higgins died 27 Mar 1930, NYC almshouse; buried Holy Name Cemetery and Mausoleum, Jersey City, Hudson Co., NJ, Plot I I 7-8, with infant son Lawrence (1890–1890). Find A Grave memorial #152646008.

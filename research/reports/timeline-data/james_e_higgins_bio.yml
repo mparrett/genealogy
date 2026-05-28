@@ -8,11 +8,14 @@ death:
   label: Died
   location: San Francisco, CA
 events:
-  - year: 1905
-    label: St. Agatha's orphanage
+  - year: 1902
+    label: St. Agatha's Home (Nanuet)
+    type: event
+  - year: 1906
+    label: Catholic Protectory
     type: event
   - year: 1910
-    label: San Francisco
+    label: St. Philip's / aftercare
     type: event
   - year: 1918
     label: WWI enlistment
