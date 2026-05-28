@@ -674,7 +674,7 @@ def convert_file(md_file_path, html_file_path, production: bool = False):
 
         ol.timeline-list .tl-event {{
             display: grid;
-            grid-template-columns: 3.25rem 1fr;
+            grid-template-columns: 3.75rem 1fr;
             align-items: start;
         }}
 
