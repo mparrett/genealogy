@@ -144,7 +144,7 @@ The St. Peter's → Holy Name migration of infant Lawrence's burial in 1890, com
 - Mary Knight's parentage and Sligo origin (her 1880 placement, parents' names, and townland are all still under question)
 - The James / John / Thomas Jr. / William adult fates post-1880 (Mary Agnes now has a 1916 death year via FamilySearch)
 - **Why the FamilySearch curated profile for Thomas + Bridget links only 4 of the children** (Michael J., Mary Agnes, Thomas Jr., William) and not Christopher, James, John, or Henry Jerom — possibly profile incompleteness, possibly separate-profile linkage, possibly a community-level reservation
-- **Lawrence Higgins, 75y, North Bergen NJ, 4 Dec 1897** (NJ State Archives 1897-98. 42 — H30). Not our Laurence (b. 1854). Age 75 in 1897 → b. ~1822 → potentially a previously-unknown older sibling of James (1830) / Thomas (1833) / Mary Anne (1830) in Christopher 1803's family. New lead, low priority.
+- **Lawrence Higgins, 75y, North Bergen NJ, 4 Dec 1897** (NJ State Archives 1897-98. 42 — H30). Not our Laurence (b. 1854), not Thomas (b. 1833), not one of Thomas's sons. Age 75 → b. ~1822. File as an unattached Hudson County Irish Higgins collateral lead, low priority — could be a relative or could be unrelated.
 
 ---
 
