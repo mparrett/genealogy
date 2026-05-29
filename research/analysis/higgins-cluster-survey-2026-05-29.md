@@ -20,7 +20,7 @@
 
 ---
 
-## Anchor #2 — Michael Higgins (1865–1924), Rathmines → Jersey City
+## Anchor #2 — Michael J. Higgins (1865–1924), Rathmines → Jersey City
 
 The **only Thomas-branch child with documented living descendants** per Mary Anne's research. The DNA chain through Michael is currently the strongest present-day evidence anchoring the whole Thomas branch to genealogically connected living people.
 
@@ -64,10 +64,10 @@ All Ireland-born children verified independently in **both** the 1871 Parthia ma
 - **Christopher** — ✅ baptized 21 Sep 1856, Rathmines (Catholic Parish Registers; father Thomas, mother Brigida Breton); at 275 Grand 1880 as Coach driver; still at 275 Grand in 1883 Jersey City directory as Roofer. *Almost certainly the "Christopher Higgins" who witnessed Laurence + Mary Knight's 6 Feb 1887 Manhattan ceremony.*
 - **James** — ✅ b. ~1861 Ireland; at 275 Grand 1880 as Dock builder
 - **John(?)** — ✅ b. ~1863 Ireland; at 275 Grand 1880 as Pottery worker (manifest name partially obscured)
-- **Michael** — see Anchor #2 above
-- **Mary Agnes** — ✅ b. ~1868 Ireland (Irish Catholic baptism record, FHL 101161); at 275 Grand 1880
-- **Thomas Jr.** — ✅ b. June 1870 Ireland; **twin** with William (per 1880 census annotation)
-- **William** — ✅ b. ~1870 Ireland; twin with Thomas Jr.
+- **Michael J.** — see Anchor #2 above; FamilySearch M1K9-PWZ
+- **Mary Agnes** — ✅ b. ~1867 Ireland (Irish Catholic baptism record, FHL 101161; FamilySearch has 1867); at 275 Grand 1880; ✅ **d. 1916** (FamilySearch); FamilySearch M1YQ-PDQ
+- **Thomas Jr.** — ✅ b. June 1870 Ireland; **twin** with William (per 1880 census annotation); FamilySearch 9H8V-S3R
+- **William** — ✅ b. ~1870 Ireland; twin with Thomas Jr.; FamilySearch 9H8V-SQJ
 - **Henry Jerom** — ✅ b. 30 Sep 1872 Jersey City; baptized 20 Oct 1872 **St. Peter's Catholic, Jersey City** (NJ Births & Christenings; mother Bridget Bryarton; 🟡 father field reads "Charles" — Mary Anne treats as scribe error for "Thomas"). 🔴 Likely d. Feb 1906, Holy Name Cemetery Plot F Ha 17 (FindAGrave #152645892) — unverified.
 
 ### Branch metadata
@@ -142,7 +142,8 @@ The St. Peter's → Holy Name migration of infant Lawrence's burial in 1890, com
 - Thomas Sr.'s mother's maiden name (Darcy vs Higgins)
 - The NSW deposit row in `incoming/deposit-thos-higgins.md` — parent ages don't reconcile with our family by ~20 years; depositor "John Broderick" not "John Woodward" (children's ages do match exactly)
 - Mary Knight's parentage and Sligo origin (her 1880 placement, parents' names, and townland are all still under question)
-- The James / John / Mary Agnes / Thomas Jr. / William adult fates post-1880
+- The James / John / Thomas Jr. / William adult fates post-1880 (Mary Agnes now has a 1916 death year via FamilySearch)
+- **Why the FamilySearch curated profile for Thomas + Bridget links only 4 of the children** (Michael J., Mary Agnes, Thomas Jr., William) and not Christopher, James, John, or Henry Jerom — possibly profile incompleteness, possibly separate-profile linkage, possibly a community-level reservation
 
 ---
 
