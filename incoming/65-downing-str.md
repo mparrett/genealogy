@@ -1,3 +1,5 @@
+**Source:** Legacy Tree Genealogists McCue family report (public PDF) — <https://www.legacytree.com/wp-content/uploads/T1607434.CLIENTMcCue1608.report.final_.public.pdf>
+
 Yes. It does not mention **Mrs. Quigley**, but it does make **65 Downing Street** more meaningful.
 
 The key finding: **65 Downing Street was the McCue family residence in January–May 1895**, and it was directly tied to a child-welfare intervention by the New York Society for the Prevention of Cruelty to Children. Catherine Lawless McCue’s death certificate gave the family address as 65 Downing Street, and the report says that in January 1895 the Society investigated “the McCue children who lived at 65 Downing Street.” Their father John McCue was hospitalized, Catherine was very ill, and the children were eventually sent through court to the Association for Befriending Children and Young Girls, run by the Sisters of Divine Compassion. 
