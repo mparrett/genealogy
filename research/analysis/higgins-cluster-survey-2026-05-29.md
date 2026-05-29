@@ -32,6 +32,14 @@ The **only Thomas-branch child with documented living descendants** per Mary Ann
 - ✅ DNA-confirmed line: **Deborah Thompson (née Higgins)** — US-based, 4th cousin to Mary Anne
 - 🟡 Birth year: ~1865 per Mary Anne / 1880 census; manifest age 4 in 1871 implies ~1867 (manifest ages systematically fare-shaved)
 
+### Notable child: John J. Higgins (1886–1957)
+
+- ✅ Son of Michael Higgins (1865–1924)
+- ✅ Most of his descendants ended up in **Florida**
+- Carries the Thomas-branch line into the 20th century and into a documented present-day geographic cluster (FL), distinct from the Jersey City origin
+
+This extends the documented spine to **four generations**: Christopher 1803 → Thomas 1833 → Michael 1865 → John J. 1886 → Florida descendants.
+
 ---
 
 ## Thomas Higgins (1833) branch — Christopher's son, Laurence's uncle, Jersey City
@@ -141,4 +149,4 @@ The St. Peter's → Holy Name migration of infant Lawrence's burial in 1890, com
 
 **Christopher (1803)** is the highest documented ancestor in this cluster — every confirmed branch (James → Laurence; Mary Anne → NSW; Thomas → Jersey City) traces up to him.
 
-**Michael (1865–1924)** is the present-day descendant anchor — until further research lands, he is the *only* Thomas-branch child documented to have living descendants. The chain Christopher 1803 → Thomas 1833 → Michael 1865 → Deborah Thompson is currently the strongest documented spine running across two centuries of this family.
+**Michael (1865–1924)** is the present-day descendant anchor — until further research lands, he is the *only* Thomas-branch child documented to have living descendants. The chain **Christopher 1803 → Thomas 1833 → Michael 1865 → John J. 1886 → Florida descendants → Deborah Thompson** is currently the strongest documented spine running across two centuries of this family.
