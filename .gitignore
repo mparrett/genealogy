@@ -23,6 +23,9 @@ workspace/
 # Private PDFs
 pdf/internal/
 
+# Bulk page-image extracts (large; keep locally only)
+assets/external/catholic-protectory-1909/
+
 # High-res original images (keep locally, don't publish)
 images/originals/
 

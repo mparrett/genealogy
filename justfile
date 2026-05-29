@@ -41,6 +41,36 @@ clean:
 serve:
     npx serve . --listen tcp://0.0.0.0:3000
 
+# Extract one or more pages of the Catholic Protectory 1909 PDF at 300 DPI JPEG q=95.
+# Output: assets/external/catholic-protectory-1909/page-NNN-hires.jpg next to the 150 DPI source.
+# Usage: just protectory-hires 252        # single page
+#        just protectory-hires 100-105    # inclusive range
+protectory-hires page:
+    #!/usr/bin/env bash
+    set -euo pipefail
+    PDF="${PROTECTORY_PDF:-$HOME/Downloads-no-iCloud/Annual_report_of_the_New_York_Catholic_Protectory_to_the_Legislature_of_the_State,_and_to_the_Common_Council_of_the_City_(IA_annualreportofn4619newy_0).pdf}"
+    OUT="assets/external/catholic-protectory-1909"
+    if [[ ! -f "$PDF" ]]; then
+        echo "PDF not found: $PDF" >&2
+        echo "Override with: PROTECTORY_PDF=/path/to/file.pdf just protectory-hires {{page}}" >&2
+        exit 1
+    fi
+    PAGE="{{page}}"
+    if [[ "$PAGE" == *-* ]]; then FIRST="${PAGE%-*}"; LAST="${PAGE#*-}"; else FIRST="$PAGE"; LAST="$PAGE"; fi
+    for p in $(seq "$FIRST" "$LAST"); do
+        pad=$(printf "%03d" "$p")
+        src="$OUT/page-$pad.jpg"
+        if [[ ! -f "$src" ]]; then echo "skipping page $p (no source $src)"; continue; fi
+        echo "→ page $p"
+        pdftoppm -jpeg -jpegopt quality=95 -r 300 -f "$p" -l "$p" "$PDF" "$OUT/__tmp_hires"
+        # Match the 150 DPI source orientation: landscape sources need 90° CW.
+        if [[ "$(magick identify -format '%[fx:w>h?1:0]' "$src")" == "1" ]]; then
+            magick mogrify -rotate 90 "$OUT/__tmp_hires-$pad.jpg"
+        fi
+        mv "$OUT/__tmp_hires-$pad.jpg" "$OUT/page-$pad-hires.jpg"
+        echo "   wrote $OUT/page-$pad-hires.jpg"
+    done
+
 # Update the main site index with new reports
 update-index:
     #!/usr/bin/env bash
