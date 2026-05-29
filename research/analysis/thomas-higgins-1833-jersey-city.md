@@ -123,20 +123,29 @@ Anchored by the 1880 Jersey City census (full household at home) and corroborate
 | **Mary Agnes** | ~1868, Ireland | Irish Catholic Parish baptism (FHL 101161); 1871 manifest (age 3); 1880 census (age 12) | The lone daughter |
 | **Thomas Jr.** | **June 1870, Ireland** | 1871 manifest ("infant"); 1880 census (age 10, Jun; **"Twins"** annotation); SSA Applications & Claims Index | Twin with William |
 | **William** | ~1870, Ireland | 1871 manifest ("infant?"); 1880 census (age 10; **"Twins"** annotation) | Twin with Thomas Jr.; existence confirmed |
-| **Henry Jerom** | **30 Sep 1872, Jersey City** | NJ Births & Christenings (St. Peter's Catholic, Jersey City; mother Bridget Bryarton); christened 20 Oct 1872; **NOT on 1880 census** | The US-born child; likely **died young 1872–1880** (see below) |
+| **Henry Jerom** | **30 Sep 1872, Jersey City** | NJ Births & Christenings (St. Peter's Catholic, Jersey City; mother Bridget Bryarton); christened 20 Oct 1872; 1880 Jersey City residence record (single, per Mary Anne's tree); likely **d. Feb 1906**, Holy Name Cemetery Jersey City, Plot F Ha 17 (FindAGrave #152645892) | The US-born child; lived to ~33 |
 
 **Total: 8 children** (7 Ireland-born + Henry Jerom US-born). Mary Anne's earlier "9 total" figure is most likely one off — or an 8th Ireland-born child died before 1871 and isn't on any surviving record we've located.
 
-### The Henry Jerom puzzle — "Charles" father field + missing in 1880
+### Henry Jerom — what we know now
 
-Henry Jerom's parish baptism record gives his **father as "Charles Higgins"**, not Thomas. Two possibilities:
+**Mary Anne resolves the "Charles" question explicitly:** in her tree note on the 1872 baptism record, she writes *"Father listed as Charles but is Thomas. Mother is Bridget Bryarton, correct spelling is Brereton."* So she has additional family-context information identifying Henry Jerom as Thomas + Bridget's son. The Chas./Thos. indexer-error read holds (still worth confirming with the original parish-register image), but the family-level identification is now her active judgment, not just our inference.
 
-1. **Indexer / scribe error.** "Thos." mis-read as "Chas." is a common 19th-century handwriting confusion on parish hands. The mother's name (Bridget Bryarton = Brereton) and the parish (St. Peter's, Jersey City — the documented family parish) and the date (14 months after the Parthia arrival) all align with Thomas + Bridget's family. Random coincidence — *a different* Higgins man with *a different* Bridget Brereton in the same parish — would be extraordinary.
-2. **Different family.** A Charles Higgins married a different Bridget Brereton in the same parish around the same time. Possible but strained.
+**Mary Anne's timeline for Henry Jerom (her Ancestry tree):**
 
-**Worth pulling the original baptism image** to resolve — if the priest's hand reads "Thos." it's almost certainly our family.
+| Date | Event | Note |
+|---|---|---|
+| 30 Sep 1872 | Birth, Jersey City | "Probably baptismal date" |
+| 20 Oct 1872 | Baptism, St. Peter's Catholic, Jersey City | "Probably is birth date!" |
+| 1880 (age 8) | Residence: Jersey City, NJ; marital status Single | **1 source — but not the 275 Grand St household** |
+| 1882 (age 10) | Death of mother Bridget Brereton | |
+| 1924 (age 51) | Death of brother Michael Higgins | Mary Anne explicitly treats him as Michael's sibling |
 
-**The 1880 absence is the other open question.** Henry Jerom would have been 7 at the 1880 census but is not listed at 275 Grand Street. Most likely interpretation: **he died young between 1872 and 1880**, which would explain both the absence and Mary Anne's not having heard of him from family memory. Worth searching NJ death records 1872–1880 and **St. Peter's Catholic Cemetery, Jersey City** for a Henry Higgins child burial.
+**New mystery — the 1880 residence:** Mary Anne has a Jersey City 1880 residence record for Henry Jerom at age 8, but he's not in the 275 Grand Street household with his parents and seven siblings. Where was he? At St. Peter's parish school? Boarded with a Brereton or other relative? Worth asking her for the specific source.
+
+**Probable death — Holy Name Cemetery 1906:** A FindAGrave record for **Henry Higgins, d. Feb 1906, buried Holy Name Cemetery, Jersey City, Plot F Ha 17** (memorial #152645892) is a strong candidate. Birth date is "unknown" on FindAGrave, so name + cemetery + city + date are the matching points. Holy Name is the same cemetery where infant Lawrence (1890) was reburied and where Mary Knight (1930) was laid in plot I I 7-8 — but Plot F Ha 17 is **a different plot**, so this is either Henry Jerom's individual plot or a separate Thomas-branch family plot. Worth verifying with cemetery records.
+
+**Walked back:** my earlier hypothesis that Henry Jerom died young (1872–1880) is wrong. Mary Anne's data shows him alive at age 8, age 51 (when Michael died), and almost certainly to Feb 1906.
 
 ### DNA-confirmed branch
 
@@ -164,17 +173,20 @@ In her Mary Knight 1930 death email, Mary Anne speculates that the rearrangement
 
 **New context (May 2026):** St. Peter's Catholic is now confirmed as the **Thomas Higgins family's Jersey City parish** (per Henry Jerom's 1872 baptism there). So when infant Lawrence's death certificate originally placed him at St. Peter's Cemetery in 1890, that wasn't a random choice — it was the same parish Thomas's family had been part of since at least 1872, and probably since arrival in 1871. The burial-arrangement question now has a direct family-parish answer: someone in the Thomas branch (Thomas Sr. or one of his adult Jersey City sons) plausibly handled the original 1890 placement.
 
+**Holy Name Cemetery pattern:** the Thomas branch's likely Henry Jerom burial in 1906 (Plot F Ha 17) joins infant Lawrence's 1890 reburial and Mary Knight's 1930 burial (Plot I I 7-8) as the third documented Holy Name placement for the extended Higgins network. The two plots are different — so this isn't one shared family plot, but rather two related family lines (Thomas branch and Laurence branch) buying Holy Name plots in the same era.
+
 ## What we still don't know
 
 - **Thomas's death date and place** — Jersey City sometime after Bridget's Oct 1882 death; not yet located
 - Adult fates post-1880 of James, John, Mary Agnes, Thomas Jr., William
-- **Henry Jerom's fate 1872–1880** — absent from 1880 census suggests he died young; needs NJ death record / St. Peter's burial check
-- Whether the **Henry Jerom baptism "Charles" father field** is an indexer error or the original parish record actually reads Charles — needs original-image inspection
+- **Where Henry Jerom was in 1880 at age 8** — Mary Anne has him in Jersey City but not at 275 Grand Street; specific source needed
+- **Confirmation that the Holy Name 1906 "Henry Higgins" is our Henry Jerom** — FindAGrave #152645892, Plot F Ha 17; needs death-record / cemetery cross-check
+- **Christopher / Charles question on Henry Jerom's baptism** — Mary Anne treats it as a Thos./Chas. scribe error; original parish-register image would close it
 - **Bridget's maiden name** — was it really Higgins (as her son Thomas's 1833 baptism record shows for his mother), or was that the priest writing her married name? In tension with Mary Anne's "Bridget Darcy" attribution for Christopher 1803's wife
 - Whether any 8th Ireland-born child died before 1871 (would reconcile Mary Anne's "9 total" with the documented count of 8)
 - Whether they had any contact with Laurence after Christopher's 1887 witness role
 - Documents from the Brereton side of Bridget's family
-- **Burial location for Bridget (1882) and Thomas (post-1882)** — **St. Peter's Catholic Cemetery, Jersey City** (family parish) is the leading candidate, with Holy Name Cemetery as alternative
+- **Burial location for Bridget (1882) and Thomas (post-1882)** — **St. Peter's Catholic Cemetery, Jersey City** (family parish) is the leading candidate, with Holy Name Cemetery as alternative (Henry Jerom's likely 1906 plot is at Holy Name)
 - **Sponsors James Burk(e?) and Anne Brady** on Thomas Sr.'s 1833 baptism — potential relatives, untraced
 
 ## Why this matters to our line
