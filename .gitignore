@@ -23,6 +23,9 @@ workspace/
 # Local scratch directory (large PDFs, review archives, ephemera)
 tmp/
 
+# Per-machine Claude Code permissions (accumulates noisily across sessions)
+.claude/settings.local.json
+
 # Private PDFs
 pdf/internal/
 
