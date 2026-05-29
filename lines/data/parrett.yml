@@ -1,0 +1,59 @@
+name: Parrett Line
+accent_color: "#7a2e2e"  # burgundy
+migration: Ohio → Indiana
+intro: |
+  The Parrett line traces from early-19th-century Ohio through generations of
+  Indiana farmers, merchants, and tradesmen. Amos Parret died serving in the
+  Union Army in 1863; his descendants put down roots in Wabash and Whitley
+  Counties before the line migrated outward in the twentieth century.
+
+ancestors:
+  direct:
+    - name: Amos Parret
+      years: 1820–1863
+      tagline: Ohio Native, Indiana Merchant, Civil War Casualty
+      relation: 4th Great-Grandfather
+      bio: amos_parret_bio.html
+      image_class: aparret
+      initials: AP
+
+    - name: John Anderson Parrett
+      years: 1859–1938
+      tagline: Civil War Orphan, Indiana Farmer, Family Patriarch
+      relation: 3rd Great-Grandfather
+      bio: john_anderson_parrett_bio.html
+      image_class: japarrett
+      initials: JP
+
+    - name: Adam Amos Parrett
+      years: 1885–1959
+      tagline: Indiana Farm Boy, WWI Registrant, Cleveland Tradesman
+      relation: 2nd Great-Grandfather
+      bio: adam_amos_parrett_bio.html
+      image_class: aaparrett
+      initials: AP
+
+    - name: Charles Edward Parrett
+      years: 1908–1983
+      tagline: Indiana Native, Auto Mechanic, Family Man
+      relation: Great-Grandfather
+      bio: charles_edward_parrett_bio.html
+      image_class: ceparrett
+      initials: CP
+
+    - couple:
+        label: "Paternal Grandparents"
+        members:
+          - name: James Edward Parrett
+            years: 1929–2000
+            tagline: Born Columbia City, Indiana
+            relation: Grandfather
+            image_class: jeparrett
+            initials: JP
+
+          - name: Patricia J. Kemp
+            years: 1931–2003
+            tagline: Paternal Grandmother
+            relation: Grandmother
+            image_class: pkemp
+            initials: PK
