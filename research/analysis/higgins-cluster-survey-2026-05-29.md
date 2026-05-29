@@ -27,7 +27,7 @@ The **only Thomas-branch child with documented living descendants** per Mary Ann
 - ✅ Son of Thomas Higgins (1833) + Bridget Brereton
 - ✅ On 1871 Parthia manifest (age 4)
 - ✅ In 1880 US Census, 275 Grand Street, Jersey City (age 15)
-- ✅ Died **26 March 1924**, Jersey City (per Mary Anne's Ancestry tree)
+- ✅ Died **26 March 1924**, Jersey City (Mary Anne's Ancestry tree; FindAGrave confirms burial at **Holy Name Cemetery and Mausoleum, Jersey City**)
 - ✅ **Has children, many researched by Mary Anne; descendants confirmed connected to living people**
 - ✅ DNA-confirmed line: **Deborah Thompson (née Higgins)** — US-based, 4th cousin to Mary Anne
 - 🟡 Birth year: ~1865 per Mary Anne / 1880 census; manifest age 4 in 1871 implies ~1867 (manifest ages systematically fare-shaved)
@@ -55,7 +55,7 @@ This extends the documented spine to **five generations**: Christopher 1803 → 
 ### Bridget Brereton (b. ~1834, d. 1882)
 - ✅ Married Thomas 18 Nov 1855 Rathmines (recorded as "Brigida Brereton")
 - ✅ Recorded as "Mary" in 1880 Jersey City census (wife-name swap)
-- ✅ Died 7 Oct 1882, Jersey City, age 48 (NJ Deaths and Burials Index, FHL 589833)
+- ✅ Died 7 Oct 1882, Jersey City, age 48 (NJ Deaths and Burials Index, FHL 589833; **NJ State Archives citation 1882-83. 47 — H86** — usable to request the certificate)
 - Burial place open: St. Peter's Catholic Cemetery (family parish) is leading candidate; Holy Name is alternative
 
 ### Children of Thomas + Bridget
@@ -137,13 +137,14 @@ The St. Peter's → Holy Name migration of infant Lawrence's burial in 1890, com
 
 - Mary Anne's "9 children" count for Thomas + Bridget — documented count is 8
 - Henry Jerom = the 1906 Holy Name burial — strong candidate, not verified
-- Thomas Sr.'s death date and place — open
+- Thomas Sr.'s death date and place — open. **NJ State Archives 1850–1900 death index produced no clean match** for him (closest near-miss: Thomas Higgins 70y, Bloomfield NJ, 9 Mar 1899 — Essex County rather than Hudson, 4-yr age discrepancy). Implies he likely died **post-1900 in NJ**, in NY, or back in Ireland. Next-pass resource: Reclaim the Records NJ Death Index 1916–1929 OCR ([archive.org reel 07](https://archive.org/stream/reclaim-the-records-new-jersey-death-index-1916-1929-reel-07-images/Reclaim_The_Records_-_New_Jersey_Death_Index_-_1916-1929_-_reel_07_djvu.txt))
 - The Christopher / Charles indexing question on Henry Jerom's baptism
 - Thomas Sr.'s mother's maiden name (Darcy vs Higgins)
 - The NSW deposit row in `incoming/deposit-thos-higgins.md` — parent ages don't reconcile with our family by ~20 years; depositor "John Broderick" not "John Woodward" (children's ages do match exactly)
 - Mary Knight's parentage and Sligo origin (her 1880 placement, parents' names, and townland are all still under question)
 - The James / John / Thomas Jr. / William adult fates post-1880 (Mary Agnes now has a 1916 death year via FamilySearch)
 - **Why the FamilySearch curated profile for Thomas + Bridget links only 4 of the children** (Michael J., Mary Agnes, Thomas Jr., William) and not Christopher, James, John, or Henry Jerom — possibly profile incompleteness, possibly separate-profile linkage, possibly a community-level reservation
+- **Lawrence Higgins, 75y, North Bergen NJ, 4 Dec 1897** (NJ State Archives 1897-98. 42 — H30). Not our Laurence (b. 1854). Age 75 in 1897 → b. ~1822 → potentially a previously-unknown older sibling of James (1830) / Thomas (1833) / Mary Anne (1830) in Christopher 1803's family. New lead, low priority.
 
 ---
 
