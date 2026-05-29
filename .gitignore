@@ -20,6 +20,9 @@ _site/
 # Workspace
 workspace/
 
+# Local scratch directory (large PDFs, review archives, ephemera)
+tmp/
+
 # Private PDFs
 pdf/internal/
 
