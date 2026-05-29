@@ -144,15 +144,20 @@ def flatten_direct_entries(entries: list) -> list:
 
 
 def generate_image_css(ancestors: list, accent_color: str) -> str:
-    """Generate CSS for ancestor images."""
+    """Generate CSS for ancestor images. Falls back to sepia tint + initials when no thumbnail."""
     css_lines = []
     for ancestor in ancestors:
         img_class = ancestor.get("image_class", "")
         thumb = ancestor.get("image_thumb", "")
         initials = ancestor.get("initials", "")
-        if img_class and thumb:
-            css_lines.append(f"""        .ancestor-image.{img_class} {{
-            background-image: url('../images/thumbs/{thumb}');
+        if not img_class:
+            continue
+        if thumb:
+            bg_rule = f"background-image: url('../images/thumbs/{thumb}');"
+        else:
+            bg_rule = "background-color: rgba(212, 165, 116, 0.45);"
+        css_lines.append(f"""        .ancestor-image.{img_class} {{
+            {bg_rule}
         }}
         .ancestor-image.{img_class}::after {{ content: '{initials}'; }}""")
     return "\n".join(css_lines)
