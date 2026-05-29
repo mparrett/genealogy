@@ -32,13 +32,14 @@ The **only Thomas-branch child with documented living descendants** per Mary Ann
 - ✅ DNA-confirmed line: **Deborah Thompson (née Higgins)** — US-based, 4th cousin to Mary Anne
 - 🟡 Birth year: ~1865 per Mary Anne / 1880 census; manifest age 4 in 1871 implies ~1867 (manifest ages systematically fare-shaved)
 
-### Notable child: John J. Higgins (1886–1957)
+### Notable children of Michael
 
-- ✅ Son of Michael Higgins (1865–1924)
-- ✅ Most of his descendants ended up in **Florida**
-- Carries the Thomas-branch line into the 20th century and into a documented present-day geographic cluster (FL), distinct from the Jersey City origin
+- **John J. Higgins (1886–1957)** — ✅ son of Michael; ✅ settled **NJ**; ✅ descendants (subsequent generations) clustered in **Florida**
+- **Henry M. Higgins (1888–1955)** — ✅ son of Michael; ✅ settled **NJ**; ✅ descendants (subsequent generations) clustered in **Florida**
 
-This extends the documented spine to **four generations**: Christopher 1803 → Thomas 1833 → Michael 1865 → John J. 1886 → Florida descendants.
+Both brothers stayed in the family's New Jersey base — continuing the Thomas-branch's Jersey City pattern through their own lifetimes. The FL clustering shows up in the next generation(s) down, suggesting a later mid-20th-century migration of grandchildren or great-grandchildren rather than a move by John J. and Henry M. themselves.
+
+This extends the documented spine to **five generations**: Christopher 1803 → Thomas 1833 → Michael 1865 → (John J. 1886 / Henry M. 1888) [NJ] → Florida descendants [later 20th c.].
 
 ---
 
@@ -149,4 +150,4 @@ The St. Peter's → Holy Name migration of infant Lawrence's burial in 1890, com
 
 **Christopher (1803)** is the highest documented ancestor in this cluster — every confirmed branch (James → Laurence; Mary Anne → NSW; Thomas → Jersey City) traces up to him.
 
-**Michael (1865–1924)** is the present-day descendant anchor — until further research lands, he is the *only* Thomas-branch child documented to have living descendants. The chain **Christopher 1803 → Thomas 1833 → Michael 1865 → John J. 1886 → Florida descendants → Deborah Thompson** is currently the strongest documented spine running across two centuries of this family.
+**Michael (1865–1924)** is the present-day descendant anchor — until further research lands, he is the *only* Thomas-branch child documented to have living descendants. Two of his sons (John J. 1886 and Henry M. 1888) both stayed in NJ; their own descendant lines later converged on **Florida**. The chain **Christopher 1803 → Thomas 1833 → Michael 1865 [NJ] → (John J. / Henry M.) [NJ] → Florida descendants → Deborah Thompson** is currently the strongest documented spine running across two centuries of this family.
