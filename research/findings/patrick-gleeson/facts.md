@@ -15,11 +15,11 @@
 
 | # | Name | Baptism | Notes |
 |---|------|---------|-------|
-| 1 | **Ella Isabel Gleason** | pre-1863 (not in Croom register sequence) | Married John Nelson Hayes 24 Dec 1874, M.E. Church, Eau Claire WI. = "Mrs. John Hayes (NY)" from James's obit |
-| 2 | **James (Jacobus) Gleeson** | 23 Dec 1863 | Our direct ancestor. Sponsors: William Shaw + Margaret Kiely. Emigrated ~1883 |
+| 1 | **Ella Isabel(la) Gleason** | pre-1863 (not in Croom register sequence) | Married John Nelson Hayes 24 Dec 1874, M.E. Church, Eau Claire WI. = "Mrs. John Hayes (NY)" from James's obit. Name appears as both "Isabel" and "Isabella" in indexes |
+| 2 | **James (Jacobus) Gleeson** | 23 Dec 1863 | Our direct ancestor. Sponsors: William Shaw + Margaret Kiely. Baptized by Rev. Francis Dunlan, C.C. (curate, Croom). Entry No. 22. Emigrated ~1883 |
 | 3 | Honora ("Nora") Gleeson | 10 Mar 1866 | Fate unknown |
 | 4 | Bridget (Brigida) Gleeson | 21–24 Feb 1868 | → "Mrs. Bridget O'Connor" per James's obit |
-| 5 | Ellen / Helena Gleeson | 15 Jul 1869 | Name varies in records |
+| 5 | Ellen / Helena Gleeson | Born + baptized 15 Jul 1869, Croom, Limerick. Father "Patt Gleeson," mother "Margaret Moloney" (FHL Film 101194). Civil birth reg. 1869, GRO Vol. 15 p. 219 (FHL Film 101046) | Name varies in records |
 | 6 | Mary Gleeson | 15 Dec 1872 | → "Miss Mary Gleeson, Croom" per obit |
 | 7 | Margaret (Margarita) Gleeson | 29 Sep 1875 | Fate unknown |
 | 8 | Jane / Janet Gleeson | 25–28 Sep 1878 | Fate unknown |
@@ -47,6 +47,29 @@
 
 ---
 
+## Candidate records — Margaret Moloney (birth)
+
+Margaret Moloney is one of the most common name combinations in 19th-century Limerick/Clare. Until we have corroborating evidence (matching townland, marriage to Patrick Gleeson ~1860, sibling/sponsor overlap with the Croom Moloneys), candidate baptism records are inconclusive by default. Tracked here so we don't re-evaluate them from scratch.
+
+| Status | Record | Parents | Notes |
+|--------|--------|---------|-------|
+| ❓ Inconclusive | Margaret Moloney, baptism 10 Apr 1834, Limerick, Ireland | Timothe Moloney + Maria Colima | Age 29 at James's 1863 birth — plausible but on older side for Irish brides of the era. No townland/sponsor info to cross-check yet. Surname of mother (Colima) is unusual — possibly a transcription of Coleman or Colima/Colema; worth verifying against the image |
+| ❓ Inconclusive | Margaret Moloney (Ancestry record, source TBD) | Patritu (Patrick?) + Maria Mulchunry | Need to locate the underlying source. "Mulchunry" looks like a possible Latinization or misread of Mulcahy / Mulchinock / Mulcairn |
+| ❌ Eliminated | Margaret **Maloney**, age 64, 1900 US Census, Philadelphia Ward 34 (with O'Connor family) | (parents not in record) | Two hard disqualifiers: (1) census reports mother of **2 children, 1 living** — ours had 8+ baptized; (2) immigrated **1858** but ours was still in Ireland baptizing children through 1878. Also spelled Maloney, not Moloney. The O'Connor head-of-household connection is coincidental — daughter is named Mary, not Bridget |
+
+### What would promote a candidate to ✅ Confirmed
+
+- A matching townland that links to Scagh, Fanningstown, or another Croom-parish location
+- A direct marriage record: Patrick Gleeson + Margaret Moloney ~1860
+- Overlap of sibling/sponsor names with Croom-area Moloneys we've already encountered
+- Death record placing her at Scagh / linking her to known children
+
+### What would demote a candidate to ❌ Eliminated
+
+- Death before Patrick + Margaret's marriage (~1860) or before James's birth (1863)
+- Confirmed marriage to a different man
+- Confirmed emigration far from Limerick before 1860
+
 ## Open leads worth pursuing on Ancestry
 
 - **Croom baptisms pre-1863** — for Ella's baptism (and possibly earlier siblings)
@@ -69,8 +92,22 @@ Ella's 1874 Eau Claire marriage predates James's ~1883 emigration by **nine year
 
 ## Sources
 
-- NLI Catholic Parish Registers, Croom parish (Scagh townland), Co. Limerick. FamilySearch index lists Jacobus Gleeson baptized 23 Dec 1863, parents Patritii Gleeson + Margaritæ Moloney (Microfilm 02427/07).
+- NLI Catholic Parish Registers, Croom parish (Scagh townland), Co. Limerick. FamilySearch index lists Jacobus Gleeson baptized 23 Dec 1863, parents Patritii Gleeson + Margaritæ Moloney (Microfilm 02427/07). Image: <https://www.ancestry.com/imageviewer/collections/61039/images/02427_07_0087?pId=152987443> — page entry No. 22, baptized by Rev. Francis Dunlan, C.C.
+- FHL Film 101194 — Croom Catholic parish baptisms. Ellen Gleeson, born + baptized 15 Jul 1869, father "Patt Gleeson," mother "Margaret Moloney" (retrieved 2026-05-30).
+- GRO Ireland civil birth registration (FHL Film 101046) — Ellen Gleeson, 1869, Croom, Vol. 15 p. 219 (retrieved 2026-05-30).
 - Croom Parish Marriage Register Review (2026-04-11) — `research/results/gleeson-croom-marriages-review.md`
 - Ancestry.com, Wisconsin, U.S., Marriage Records, 1820–2015 (Box 674142) — Ella Isabel Gleason + John Nelson Hayes, 24 Dec 1874, retrieved 2026-05-30
+- Wisconsin Marriage Index (Vol. 01, p. 0229) — Ella Isabella Gleason + John Nelson Hayes, 24 Dec 1874, Eau Claire (secondary index citation, same marriage)
 - Correspondence with Tony (Australian Patrick Gleeson descendant) — no DNA match
 - James J. Gleeson obituary, Leader-Telegram, 30 Jan 1946
+
+## Note on civil registration leads
+
+Ireland required civil registration of births from 1864. Since we have Ellen's GRO entry (1869), the **same source likely holds civil birth registrations for**:
+- Honora (1866)
+- Bridget (1868)
+- Mary (1872)
+- Margaret (1875)
+- Jane (1878)
+
+James (1863) predates civil registration. Worth pulling all five — each gives an independent attestation of parents and confirms the Moloney spelling chain.
