@@ -12,7 +12,7 @@ Extracted from Ancestry profile exports (Jan 2026).
 
 - **Birth:** Dec 1863, Croom, Limerick, Ireland (baptized 23 Dec 1863; obituary rounded to 1864)
 - **Baptism:** 23 December 1863, Croom, Limerick, Ireland (NLI Catholic Parish Registers, Microfilm 02427/07; FamilySearch index lists Jacobus Gleeson with parents Patritii Gleeson + Margaritæ Moloney; image unavailable)
-- **Parents:** Patrick Gleason (1843–1925) + Margaritte Malony (1840–1886)
+- **Parents:** Patrick Gleeson (c. 1835–?) + Margaret **Moloney** (not Maloney — see note below)
 - **Death:** 28 January 1946, Waite Park, Stearns, Minnesota, USA
 - **Burial:** Mondovi, Buffalo County, Wisconsin
 
@@ -22,9 +22,10 @@ Extracted from Ancestry profile exports (Jan 2026).
 - **Departed from:** Liverpool, England and Queenstown, Ireland
 - **Return trip to Ireland:** Dec 1908 departure, 14 Feb 1909 arrival NY
 
-### Mother's Death — Australia Connection
-- Margaritte Malony died **25 October 1886 in Drouin, Victoria, Australia**
-- This suggests some Gleeson family members emigrated to Australia rather than the US
+### Surname: Moloney, not Maloney
+- Multiple Croom parish baptism records for the children consistently use **Moloney**.
+- Ancestry trees with **Maloney** are following the wrong surname — Moloney and Maloney are distinct Irish names that get conflated.
+- The 1886 Drouin, Victoria death of "Margaritte Malony" almost certainly belongs to the **Australian Patrick Gleeson's wife (Margaret Mahony)**, not ours. Our Margaret Moloney's death is unconfirmed.
 
 ### First Marriage
 - **Wife:** Maria Ann Fitzgerald (1865–1916)
@@ -196,6 +197,7 @@ Extracted from Ancestry profile exports (Jan 2026).
 - Margaritte Malony (1840–1886) died **25 October 1886 in Drouin, Victoria, Australia**
 
 ### Children (from Croom/Scagh parish records)
+- **Ella Isabel Gleason (b. late 1850s)** — predates Croom register sequence; married John Nelson Hayes (painter, b. NY) 24 Dec 1874, M.E. Church, Eau Claire, WI. = "Mrs. John Hayes (NY)" from James's obituary
 - **James (Jacobus) Gleeson (23 Dec 1863)** ← our direct ancestor; sponsors: William Shaw, Margaret Kiely
 - Honora Gleeson (10 Mar 1866)
 - Bridget (Brigida) Gleeson (21–24 Feb 1868) — likely Mrs. Bridget O'Connor from obituary
@@ -204,9 +206,7 @@ Extracted from Ancestry profile exports (Jan 2026).
 - Margaret (Margarita) Gleeson (29 Sep 1875)
 - Jane / Janet Gleeson (25–28 Sep 1878)
 
-**Note:** Ella Isabel Gleason (1860–1946) from Ancestry may be a half-sibling or from a different source; she does not appear in the Croom parish baptism sequence.
-
-**Unresolved from obituary:** Mrs. John Hayes (NY) — not yet mapped to a sibling.
+**Note:** Ella's 1874 Eau Claire marriage predates James's ~1883 emigration by nine years and likely explains why James settled in Buffalo County, WI (adjacent to Eau Claire) — he followed his older sister's foothold.
 
 ### Notes from Ancestry
 - "Son was born in Cork. Maybe from Tipperary?"
@@ -285,8 +285,10 @@ Extracted from Ancestry profile exports (Jan 2026).
 ## Open Questions
 
 1. **Patrick Gleason connection** — Is he definitively James J.'s father? Limited documentation.
-2. **Australia connection** — Why did Margaritte Malony die in Australia? Did other Gleesons emigrate there?
+2. **Australia connection** — Why did Margaritte Malony die in Australia? Did other Gleesons emigrate there? (Note: 1886 Drouin death likely belongs to Australian Patrick's wife, not ours.)
 3. **James J.'s return to Ireland (1908–1909)** — Purpose of trip? Family visit?
 4. **Maria Ann's 1884 NYC residence** — Was the family moving back and forth?
 5. **Harold Francis Gleason born Chicago (1903)** — Why Chicago? Family temporarily there?
 6. **William (James) Fitzgerald** — Why the dual first name? Was he "William" or "James"?
+7. **Ella Isabel Gleason's baptism** — Likely in Croom before 1863 (pre-James) or in a neighboring parish. Earlier Croom register pages should be searched.
+8. **Ella's emigration** — When did she arrive in WI? Who did she travel with? (Patrick + Margaret stayed in Ireland having kids through 1878, so Ella came as a young teen, possibly with an aunt/uncle.)
