@@ -1,12 +1,12 @@
-# Patrick Gleeson (c. 1835–?)
+# Patrick Gleeson (c. 1828–?)
 
 **Relationship:** 3rd great-grandfather (Gleeson line)
 
 *Sailor, Croom, County Limerick*
 
-Patrick Gleeson was born around 1830–1845 in County Limerick, Ireland. He worked as a sailor and lived in the townland of Scagh in Croom parish, where he and his wife Margaret raised a large family over a span of fifteen years.
+Patrick Gleeson was born around 1825–1830 in County Limerick, Ireland (calibrated estimate — see `research/analysis/gleeson-parents-age-calibration.md`). He worked as a sailor and lived in the townland of Scagh in Croom parish, where he and his wife Margaret raised a large family over a span of more than two decades.
 
-Patrick married **Margaret Moloney** around 1860 in Ireland. Her surname appears in records under several spellings—Moloney, Molony, Malony, Maloney—but multiple Croom parish baptism records for the children consistently use the **Moloney** form (Latin *Moloney*). This is an important distinction: Ancestry trees that merge our line with a **Maloney** family are following the wrong surname and likely the wrong family entirely. Our line is firmly **Moloney**, confirmed across several children's parish records.
+Patrick married **Margaret Moloney** (b. c. 1832) around **1855** in Ireland, presumed Croom. Her surname appears in records under several spellings—Moloney, Molony, Malony, Maloney—but multiple Croom parish baptism records for the children consistently use the **Moloney** form (Latin *Moloney*). This is an important distinction: Ancestry trees that merge our line with a **Maloney** family are following the wrong surname and likely the wrong family entirely. Our line is firmly **Moloney**, confirmed across several children's parish records.
 
 The couple had at least seven children baptized in Croom parish between 1863 and 1878:
 

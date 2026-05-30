@@ -26,16 +26,28 @@
 
 ### Disambiguation (closed loops)
 
-- **Not the Australian Patrick Gleeson** — that Patrick married Margaret *Mahony*, had 11 children (none named James), wife died Drouin, Victoria 1886. Confirmed by no DNA match with Tony (AU descendant).
 - **Not the Ohio Patrick Gleeson** — coincidental name match; Margaret Moloney there is too old.
-- **The 1886 Drouin death** of "Margaritte Malony" belongs to the *Australian* Patrick's wife, NOT ours.
 - **"Mrs. John Hayes (NY)"** in James's 1946 obit = Ella Isabel Gleason. "NY" refers to her husband's birthplace, not her residence.
+
+### Australian Patrick Gleeson family — full fingerprint (NOT our line)
+
+Any Ancestry hint, tree, or record matching this fingerprint is the Australian family and should be rejected on sight:
+
+- **Wife:** Margaret **Mahony** (not Moloney), b. 22 Dec 1842, **Bantry, Cork, Ireland** (Diocese of Cork & Ross)
+- **Margaret's parents:** Denis Mahony + Ellen Anderson
+- **Marriage:** 1862, **Victoria, Australia** (registration #639)
+- **Wife's death:** 25 Oct 1886, Drouin, Victoria
+- **Children (partial):** Michael, **Patrick Thomas (b. 1868)**, **Mary Ellen (b. 1875)**, **John (b. 1877)** — plus others (the family had ~11 children, none named James)
+- **DNA:** No match to our line (confirmed via correspondence with Tony, AU descendant)
+
+⚠️ **Year-overlap traps:** The AU Patrick Thomas (1868) overlaps our Bridget (1868); AU Mary Ellen (1875) sits between our Mary (1872) and Margaret (1875). These near-collisions are exactly what drives bad tree merges. The discriminating fields are always **(a) surname Moloney vs. Mahony**, **(b) Limerick vs. Cork**, and **(c) Ireland vs. Australia for the marriage**.
 
 ---
 
 ## What we don't know
 
-1. **Patrick's birth year** — c. 1830–1845. Bio uses "c. 1835"; Ancestry says 1843.
+1. **Patrick's birth year** — calibrated estimate **c. 1828 (range 1825–1830)** based on Ella's firstborn anchor (~1856) and Irish post-Famine marriage norms. See `research/analysis/gleeson-parents-age-calibration.md`. (The "1843" in earlier Ancestry-sourced notes is contamination from the Australian Patrick line — his wife Margaret Mahony was born 22 Dec 1842, and tree-merging propagated paired 1843 dates across both spouses.)
+1a. **Margaret's birth year** — calibrated estimate **c. 1832 (range 1830–1834)** — same source. Bracketed by Ella firstborn (~1856) on the older side and Jane lastborn (1878) on the younger side.
 2. **Patrick's death** — date and place unknown. Almost certainly died in Ireland (no US records).
 3. **Patrick + Margaret's marriage record** — searched 37 pages of Croom register (1844–1874). Not found. Page 151 (1862–63, the most likely window) is obscured by a thumb shadow. Could also be in a neighboring parish.
 4. **Patrick's father** — Ancestry lists Michael Gleeson (b. c. 1810), but limited documentation.

@@ -180,21 +180,27 @@ Extracted from Ancestry profile exports (Jan 2026).
 
 ---
 
-## Patrick Gleason (c. 1843–bef. 1925) — SPECULATIVE
+## Patrick Gleeson (c. 1828; d. unknown)
 
-**3rd great-grandfather (if confirmed)**
+**3rd great-grandfather**
 
-- **Birth:** About 1843, Ireland
-- **Death:** Before 1925
-- **Father:** Michael Gleeson (1810–)
+- **Birth:** **c. 1828 (range 1825–1830)** — calibrated estimate, see `research/analysis/gleeson-parents-age-calibration.md`. Ancestry's "c. 1843" is contamination from the Australian Patrick line (see disambiguation below).
+- **Death:** Unknown — presumed Ireland. Ancestry's "before 1925" is also Australian-line filler.
+- **Father:** Michael Gleeson (1810–) per Ancestry; limited documentation.
 - **Mother:** Unknown
 
 ### Marriage
-- **Wife:** Margaritte Malony Mahony Maloney (1843–)
-- **Marriage:** About 1860, Ireland
+- **Wife:** Margaret **Moloney** (not Maloney/Mahony — confirmed across multiple Croom parish records), b. **c. 1832 (range 1830–1834)**
+- **Marriage:** About **1855**, Ireland (presumed Croom) — earlier than the "~1860" previously recorded, since eldest known child Ella was born ~1856
 
-### Wife's Death — Australia
-- Margaritte Malony (1840–1886) died **25 October 1886 in Drouin, Victoria, Australia**
+### Australian Patrick disambiguation (NOT our line)
+
+Any record matching the following fingerprint is the Australian Patrick Gleeson family, not ours:
+
+- Margaret **Mahony** (born 22 Dec 1842, Bantry, Cork; parents Denis Mahony + Ellen Anderson)
+- Married Patrick Gleeson 1862 in **Victoria, Australia**
+- Died 25 Oct 1886, Drouin, Victoria
+- Children include **Michael, Patrick Thomas (b. 1868), Mary Ellen (b. 1875), John (b. 1877)** — note that Patrick Thomas (1868) overlaps with our Bridget (1868), and Mary Ellen (1875) is close to our Mary (1872) and Margaret (1875) — these similar names/years are exactly what drives bad tree merges.
 
 ### Children (from Croom/Scagh parish records)
 - **Ella Isabel Gleason (b. late 1850s)** — predates Croom register sequence; married John Nelson Hayes (painter, b. NY) 24 Dec 1874, M.E. Church, Eau Claire, WI. = "Mrs. John Hayes (NY)" from James's obituary

@@ -1,16 +1,16 @@
 draft: true
 name: Patrick Gleeson
 birth:
-  year: 1835
-  label: Born
+  year: 1828
+  label: Born (est.)
   location: Co. Limerick, Ireland
 death:
   year: 1900
   label: Died (est.)
   location: Ireland (presumed)
 events:
-  - year: 1860
-    label: Married Margaret Moloney
+  - year: 1855
+    label: Married Margaret Moloney (est.)
     type: marriage
   - year: 1863
     label: Son James baptized
