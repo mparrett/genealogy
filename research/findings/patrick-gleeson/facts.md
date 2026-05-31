@@ -122,6 +122,23 @@ Ella's 1874 Eau Claire marriage predates James's ~1883 emigration by **nine year
 
 ---
 
+## James + Maria 1892 marriage record — what it tells us about Patrick
+
+The 1892 Wisconsin civil marriage record for James Gleeson + Maria Fitzgerald (Mondovi, Buffalo Co., 23 Nov 1892, Reg. No. 126) gives us our first US-side attestation of Patrick's name:
+
+- **Groom's father:** Patrick Gleason
+- **Groom's mother:** Margarette **Malony** (US phonetic rendering — see note below)
+- **Officiant:** Fr. Joseph M. Baur, Catholic Priest, Durand, Pepin Co., Wis. (circuit priest covering Mondovi)
+- **Witnesses:** William Fitzgerald (bride's brother) + Mary L. Luffering
+
+**Spelling note:** The "Malony" here is a US clerk's phonetic rendering, not a counter-finding to our Moloney lock. Irish parish records (Croom baptisms, Ellen's 1869 civil reg) consistently use **Moloney** — the canonical form. US records taken by ear from immigrants are expected to vary (Malony, Maloney, Molony). This is a documented example of the variant, not evidence against the Irish-side spelling.
+
+**Clerical error flag:** Line 9 of the record lists the bride's mother as "Maria Fitzgerald" — same name as the bride. This is a clerk error (the bride's mother was actually **Mary Ann Feeney**, per our Fitzgerald research). Likely a misread ditto mark.
+
+**No status info on Patrick:** The record names Patrick as the groom's father but does not indicate whether he was living or deceased in 1892. So this doesn't help bound Patrick's death year.
+
+**Priest network thread:** Fr. Joseph M. Baur (Durand, Pepin Co.) is now one of two named priests in our Gleeson record set, alongside Fr. Francis Dunlan, C.C. (Croom, Ireland, baptized James in 1863). Worth watching for either name in other family records.
+
 ## Sources
 
 - NLI Catholic Parish Registers, Croom parish (Scagh townland), Co. Limerick. FamilySearch index lists Jacobus Gleeson baptized 23 Dec 1863, parents Patritii Gleeson + Margaritæ Moloney (Microfilm 02427/07). Image: <https://www.ancestry.com/imageviewer/collections/61039/images/02427_07_0087?pId=152987443> — page entry No. 22, baptized by Rev. Francis Dunlan, C.C.
@@ -132,6 +149,7 @@ Ella's 1874 Eau Claire marriage predates James's ~1883 emigration by **nine year
 - Wisconsin Marriage Index (Vol. 01, p. 0229) — Ella Isabella Gleason + John Nelson Hayes, 24 Dec 1874, Eau Claire (secondary index citation, same marriage)
 - Correspondence with Tony (Australian Patrick Gleeson descendant) — no DNA match
 - James J. Gleeson obituary, Leader-Telegram, 30 Jan 1946
+- Wisconsin Marriage Record No. 126, Stamp 00799 — James Gleason + Maria Fitzgerald, 23 Nov 1892, Mondovi, Buffalo Co.; names Patrick Gleason + Margarette "Malony" as groom's parents (US phonetic rendering of Moloney). Officiant Fr. Joseph M. Baur, Durand, Pepin Co. Witnesses William Fitzgerald + Mary L. Luffering. Retrieved 2026-05-31.
 
 ## Note on civil registration leads
 
