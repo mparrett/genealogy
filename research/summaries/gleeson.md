@@ -192,7 +192,7 @@ Documented children:
 
 - **Birth:** **c. 1828 (range 1825–1830)** — calibrated estimate, see `research/analysis/gleeson-parents-age-calibration.md`. Ancestry's "c. 1843" is contamination from the Australian Patrick line (see disambiguation below).
 - **Death:** Unknown — presumed Ireland. Ancestry's "before 1925" is also Australian-line filler.
-- **Father:** Michael Gleeson (1810–) per Ancestry; limited documentation.
+- **Father:** **Unknown.** One unverified Ancestry tree suggests Michael Gleeson (b. c. 1810); no primary documentation found. Same source pattern as the disproven "sailor"/"Windmill" attributions, so treat as hypothesis to test, not a fact.
 - **Mother:** Unknown
 
 ### Marriage

@@ -32,7 +32,7 @@ James emigrated to the United States around 1883, arriving in New York from Live
 
 ## Death
 
-Patrick's date and place of death are unknown. Ancestry trees estimate death before 1925, and his father is listed as Michael Gleeson (b. c. 1810), though this connection has limited documentation.
+Patrick's date and place of death are unknown. Ancestry trees estimate death before 1925, but this appears to be Australian-line contamination and has no primary source. Patrick's father is unknown. One unverified Ancestry tree suggests Michael Gleeson (b. c. 1810), but no primary documentation has been found — this attribution comes from the same source pattern that gave us the (since-disproven) "sailor" and "The Windmill" attributions, so it should be treated as a hypothesis to test, not a fact.
 
 ## Disambiguation
 
@@ -57,5 +57,5 @@ James's 1946 obituary names three surviving sisters: **Mrs. Bridget O'Connor** a
 - Patrick's occupation is undocumented. The previously held "sailor" attribution traced to a separate Limerick City Patrick Gleeson (married Mary Mahony), not ours. Struck 2026-05-31.
 - Disambiguation of the two Patrick Gleesons confirmed via correspondence with Tony (Australian descendant, no DNA match).
 - Margaret Moloney's death date and location are unconfirmed for our line. An 1886 death in Drouin, Victoria, Australia attributed to "Margaritte Malony" in some Ancestry trees likely belongs to the Australian Patrick's wife Margaret Mahony.
-- Patrick's father Michael Gleeson (b. c. 1810) per Ancestry; limited documentation.
+- Patrick's father is **unknown**. One unverified Ancestry tree suggests "Michael Gleeson (b. c. 1810)" but no primary documentation has been found. Sourced from the same prompt file (`research/results/gleeson-initial.md`) that incorrectly attributed "sailor" + "The Windmill" from a separate Limerick City family — track record from that source is poor. Treat as a hypothesis to test via Griffith's Valuation (Croom/Scagh, 1851–53) or earlier Croom baptism registers.
 - Ella Isabel Gleason + John Nelson Hayes marriage: Ancestry.com, Wisconsin, U.S., Marriage Records, 1820–2015 (Box 674142), retrieved 2026-05-30. Resolves the "Mrs. John Hayes (NY)" reference in James's 1946 obituary.

@@ -70,7 +70,7 @@ Any Ancestry hint, tree, or record matching this fingerprint is the Australian f
 1a. **Margaret's birth year** — calibrated estimate **c. 1832 (range 1830–1834)** — same source. Bracketed by Ella firstborn (~1856) on the older side and Jane lastborn (1878) on the younger side.
 2. **Patrick's death** — date and place unknown. Almost certainly died in Ireland (no US records).
 3. **Patrick + Margaret's marriage record** — searched 37 pages of Croom register (1844–1874). Not found. Page 151 (1862–63, the most likely window) is obscured by a thumb shadow. Could also be in a neighboring parish.
-4. **Patrick's father** — Ancestry lists Michael Gleeson (b. c. 1810), but limited documentation.
+4. **Patrick's father** — **Unknown.** One unverified Ancestry tree suggests Michael Gleeson (b. c. 1810); no primary documentation found. Same source pattern as the disproven sailor/Windmill attributions — treat as hypothesis. Testable via Griffith's Valuation (Croom/Scagh, 1851–53) or pre-1863 Croom baptisms.
 5. **Margaret Moloney's origin** — unknown. Fanningstown (Croom parish) is a strong lead since Moloney families are well-attested there.
 6. **Margaret Moloney's death** — date and location unconfirmed (the Drouin 1886 record belongs to a different family).
 7. **Ella Isabel's baptism** — likely in Croom pre-1863 or in a neighboring parish; not yet located.
