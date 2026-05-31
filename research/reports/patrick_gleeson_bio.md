@@ -2,9 +2,9 @@
 
 **Relationship:** 3rd great-grandfather (Gleeson line)
 
-*Sailor, Croom, County Limerick*
+*Croom, County Limerick*
 
-Patrick Gleeson was born around 1825–1830 in County Limerick, Ireland (calibrated estimate — see `research/analysis/gleeson-parents-age-calibration.md`). He worked as a sailor and lived in the townland of Scagh in Croom parish, where he and his wife Margaret raised a large family over a span of more than two decades.
+Patrick Gleeson was born around 1825–1830 in County Limerick, Ireland (calibrated estimate — see `research/analysis/gleeson-parents-age-calibration.md`). He lived in the townland of Scagh in Croom parish, where he and his wife Margaret raised a large family over a span of more than two decades. His occupation is not documented (a previous "sailor" attribution turned out to be contamination from a separate Limerick City Patrick Gleeson family — see `research/analysis/gleeson-three-family-confusion.md`).
 
 Patrick married **Margaret Moloney** (b. c. 1832) around **1855** in Ireland, presumed Croom. Her surname appears in records under several spellings—Moloney, Molony, Malony, Maloney—but multiple Croom parish baptism records for the children consistently use the **Moloney** form (Latin *Moloney*). This is an important distinction: Ancestry trees that merge our line with a **Maloney** family are following the wrong surname and likely the wrong family entirely. Our line is firmly **Moloney**, confirmed across several children's parish records.
 
@@ -21,8 +21,6 @@ The couple had at least seven children baptized in Croom parish between 1863 and
 The tight, consistent sequence of births confirms a stable family unit in Scagh through the late 1870s. The baptismal sponsors—William Shaw and Margaret Kiely for James—point to a local network of families in the Croom area.
 
 An eighth child, **Ella Isabel Gleason**, almost certainly belongs to this family but predates the Croom register sequence. Ella married John Nelson Hayes (a painter, born in New York) on 24 December 1874 at the M.E. Church in Eau Claire, Wisconsin (officiant: Rev. Jno. B. Backman Jr.). She is the "Mrs. John Hayes (NY)" listed as a surviving sibling in James's 1946 obituary—the "NY" referring to her husband's New York birthplace rather than her own residence. Her birth year is likely in the late 1850s (Ancestry's "~1860" would make her only 14 at marriage). Earlier Croom baptisms (pre-1863) or a neighboring parish should be checked for her record.
-
-Patrick's occupation as a sailor is noted in early research but no specific records of his service have been located. Given Croom's position on the River Maigue, roughly 20 miles from the port of Limerick, maritime work would have been accessible.
 
 ## Emigration of the Children
 
@@ -45,6 +43,8 @@ Early research confused Patrick with an **Australian Patrick Gleeson** from the 
 
 A separate spelling confusion exists between **Moloney** and **Maloney**—two distinct Irish surnames that are often conflated in U.S. records and Ancestry trees. Our line is **Moloney**, confirmed consistently across the Croom parish baptisms. Trees merging in a **Maloney** wife are likely importing the wrong family.
 
+A **third** confused family is a Limerick City Patrick Gleeson, a sailor who lived at "The Windmill" in St Michael's District, Limerick City. He was married to **Mary Mahony** (not Margaret Moloney). Their son **John** was born 17 May 1864 in Limerick City—only five months after our James was baptized in Croom, which is biologically impossible if the same family. Earlier research wrongly imported this Limerick City family's **sailor** occupation and **Windmill** residence into our Patrick's profile; both have now been struck. See `research/analysis/gleeson-three-family-confusion.md`.
+
 James's obituary mentions siblings **Mrs. Bridget O'Connor**, **Miss Mary Gleeson of Croom**, and **Mrs. John Hayes (New York)**. Bridget and Mary map to children in the parish records above. Mrs. John Hayes is **Ella Isabel Gleason**, who married John Nelson Hayes in Eau Claire, Wisconsin on 24 December 1874 (Wisconsin Marriage Records, Box 674142); the "New York" in the obituary refers to her husband's birthplace.
 
 ---
@@ -52,7 +52,7 @@ James's obituary mentions siblings **Mrs. Bridget O'Connor**, **Miss Mary Gleeso
 **Notes:**
 
 - Baptismal records: NLI Catholic Parish Registers, Croom parish (Scagh townland), County Limerick. FamilySearch index lists Jacobus Gleeson baptized 23 Dec 1863, parents Patritii Gleeson + Margaritæ Moloney (Microfilm 02427/07; image unavailable).
-- Patrick's occupation as sailor from early Ancestry research; no primary source located.
+- Patrick's occupation is undocumented. The previously held "sailor" attribution traced to a separate Limerick City Patrick Gleeson (married Mary Mahony), not ours. Struck 2026-05-31.
 - Disambiguation of the two Patrick Gleesons confirmed via correspondence with Tony (Australian descendant, no DNA match).
 - Margaret Moloney's death date and location are unconfirmed for our line. An 1886 death in Drouin, Victoria, Australia attributed to "Margaritte Malony" in some Ancestry trees likely belongs to the Australian Patrick's wife Margaret Mahony.
 - Patrick's father Michael Gleeson (b. c. 1810) per Ancestry; limited documentation.

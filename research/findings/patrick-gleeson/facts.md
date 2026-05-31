@@ -10,7 +10,7 @@
 - **Wife:** Margaret **Moloney** (Latin *Margaritæ Moloney* in Croom register).
   - Spelling is locked: **Moloney** (not Maloney). Confirmed across multiple Croom baptism records for the children. Ancestry trees with *Maloney* are following the wrong family.
 - **Location:** Scagh townland, **Croom parish, Co. Limerick**.
-- **Occupation:** Sailor (early Ancestry note; no primary source yet). Croom sits on the River Maigue, ~20 mi from Limerick port.
+- **Occupation:** **Unknown.** Previously held "sailor" attribution turned out to be contamination from a separate Limerick City Pat Gleeson family (see fingerprint below).
 - **Children** — 7 baptisms in Croom 1863–1878 (tight, consistent sequence — stable family unit):
 
 | # | Name | Baptism | Notes |
@@ -28,6 +28,26 @@
 
 - **Not the Ohio Patrick Gleeson** — coincidental name match; Margaret Moloney there is too old.
 - **"Mrs. John Hayes (NY)"** in James's 1946 obit = Ella Isabel Gleason. "NY" refers to her husband's birthplace, not her residence.
+- **Not the Limerick City Pat Gleeson family** — see fingerprint below; this family wrongly contributed "sailor" + "Windmill" attributes to our Patrick in earlier research.
+
+### Limerick City Pat Gleeson family — fingerprint (NOT our line)
+
+Any record matching this fingerprint is a separate Limerick City family, not ours:
+
+- **Patrick "Pat" Gleeson**, sailor
+- **Residence:** The Windmill, St Michael's District, Limerick City
+- **Wife:** Mary **Mahony** (signed "the mark of Mary Gleeson," indicating illiteracy)
+- **Son John** b. 17 May 1864, Limerick City (civil reg. 2332267)
+- **Registration:** Limerick / St Michael's / Union of Limerick / City of Limerick
+
+⚠️ **Timing impossibility:** John 1864 is only 5 months after our James (Dec 1863) — biologically impossible if same mother. The mother-name conflict (Mary vs. Margaret) confirms different family.
+
+**Earlier research notes wrongly imported into our Patrick's profile** (now struck):
+- Occupation "sailor" → actually from the Limerick City Pat
+- Residence "The Windmill, St Michael's, Limerick City" → same
+- Birth year "~1840" → mixed contamination
+
+See `research/analysis/gleeson-three-family-confusion.md` for the full disentanglement.
 
 ### Australian Patrick Gleeson family — full fingerprint (NOT our line)
 
