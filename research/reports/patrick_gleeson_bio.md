@@ -20,7 +20,9 @@ The couple had at least seven children baptized in Croom parish between 1863 and
 
 The tight, consistent sequence of births confirms a stable family unit in Scagh through the late 1870s. The baptismal sponsors—William Shaw and Margaret Kiely for James—point to a local network of families in the Croom area.
 
-An eighth child, **Ella Isabel Gleason**, almost certainly belongs to this family but predates the Croom register sequence. Ella married John Nelson Hayes (a painter, born in New York) on 24 December 1874 at the M.E. Church in Eau Claire, Wisconsin (officiant: Rev. Jno. B. Backman Jr.). She is the "Mrs. John Hayes (NY)" listed as a surviving sibling in James's 1946 obituary—the "NY" referring to her husband's New York birthplace rather than her own residence. Her birth year is likely in the late 1850s (Ancestry's "~1860" would make her only 14 at marriage). Earlier Croom baptisms (pre-1863) or a neighboring parish should be checked for her record.
+An eighth child, **Ella Isabel Gleason**, almost certainly belongs to this family but predates the Croom register sequence. Ella married John Nelson Hayes (a painter, born in New York) on 24 December 1874 at the M.E. Church in Eau Claire, Wisconsin (officiant: Rev. Jno. B. Backman Jr.). She is the "Mrs. John Hayes" listed as a surviving sibling in James's 1946 obituary, and was living in **Staten Island, New York** by that time — meaning she relocated from Eau Claire to NY at some point between 1874 and 1946. Her birth year is likely in the late 1850s (Ancestry's "~1860" would make her only 14 at marriage). Earlier Croom baptisms (pre-1863) or a neighboring parish should be checked for her record.
+
+Patrick and Margaret almost certainly had more children than the eight currently documented. James's 1946 obituary states that James had **12 children of his own** — but the same obituary's structure suggests Patrick and Margaret's family was also larger than the documented 8: it names only three of James's siblings as surviving in 1946 (Bridget O'Connor and Mary Gleeson in Croom, Ella Hayes in Staten Island), implying others had died earlier. Honora (1866), Margaret (1875), and Jane (1878) all appear in the Croom baptism register but are absent from the 1946 obituary's sibling list — they likely died before 1946, possibly young.
 
 ## Emigration of the Children
 
@@ -45,7 +47,7 @@ A separate spelling confusion exists between **Moloney** and **Maloney**—two d
 
 A **third** confused family is a Limerick City Patrick Gleeson, a sailor who lived at "The Windmill" in St Michael's District, Limerick City. He was married to **Mary Mahony** (not Margaret Moloney). Their son **John** was born 17 May 1864 in Limerick City—only five months after our James was baptized in Croom, which is biologically impossible if the same family. Earlier research wrongly imported this Limerick City family's **sailor** occupation and **Windmill** residence into our Patrick's profile; both have now been struck. See `research/analysis/gleeson-three-family-confusion.md`.
 
-James's obituary mentions siblings **Mrs. Bridget O'Connor**, **Miss Mary Gleeson of Croom**, and **Mrs. John Hayes (New York)**. Bridget and Mary map to children in the parish records above. Mrs. John Hayes is **Ella Isabel Gleason**, who married John Nelson Hayes in Eau Claire, Wisconsin on 24 December 1874 (Wisconsin Marriage Records, Box 674142); the "New York" in the obituary refers to her husband's birthplace.
+James's 1946 obituary names three surviving sisters: **Mrs. Bridget O'Connor** and **Miss Mary Gleeson**, both still in Croom, Ireland; and **Mrs. John Hayes** in Staten Island, New York. Bridget and Mary map to children in the parish records above. Mrs. John Hayes is **Ella Isabel Gleason**, who married John Nelson Hayes in Eau Claire, Wisconsin on 24 December 1874 (Wisconsin Marriage Records, Box 674142) and later relocated to Staten Island.
 
 ---
 

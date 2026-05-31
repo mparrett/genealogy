@@ -15,7 +15,7 @@
 
 | # | Name | Baptism | Notes |
 |---|------|---------|-------|
-| 1 | **Ella Isabel(la) Gleason** | pre-1863 (not in Croom register sequence) | Married John Nelson Hayes 24 Dec 1874, M.E. Church, Eau Claire WI. = "Mrs. John Hayes (NY)" from James's obit. Name appears as both "Isabel" and "Isabella" in indexes |
+| 1 | **Ella Isabel(la) Gleason** | pre-1863 (not in Croom register sequence) | Married John Nelson Hayes 24 Dec 1874, M.E. Church, Eau Claire WI. = "Mrs. John Hayes" from James's obit. Living in **Staten Island, NY** by 1946 — so she relocated from Eau Claire to NY at some point. Name appears as both "Isabel" and "Isabella" in indexes |
 | 2 | **James (Jacobus) Gleeson** | 23 Dec 1863 | Our direct ancestor. Sponsors: William Shaw + Margaret Kiely. Baptized by Rev. Francis Dunlan, C.C. (curate, Croom). Entry No. 22. Emigrated ~1883 |
 | 3 | Honora ("Nora") Gleeson | 10 Mar 1866 | Fate unknown |
 | 4 | Bridget (Brigida) Gleeson | 21–24 Feb 1868 | → "Mrs. Bridget O'Connor" per James's obit |
@@ -122,6 +122,25 @@ Ella's 1874 Eau Claire marriage predates James's ~1883 emigration by **nine year
 
 ---
 
+## James's 1946 obituary — what it tells us about Patrick's family
+
+James J. Gleeson's obituary (Leader-Telegram or local Stearns Co. paper, ~28 Jan 1946) is the single richest US-side document for reconstructing Patrick + Margaret's family:
+
+- **Birthplace explicit:** "Croom, Ireland" — directly confirms our parish-record work
+- **12 children total, 5 living in 1946** — meaning Patrick + Margaret had a grandchild generation of at least 12 great-grandchildren of theirs through James alone. We currently document 8 of those 12 (including duplicates), so **4–5 children of James are missing** from our records — almost certainly infant deaths
+- **3 surviving sisters of James:**
+  - **Mrs. Brigit O'Connor** — Croom, Ireland (still in Croom in 1946 — never emigrated)
+  - **Miss Mary Gleeson** — Croom, Ireland (never married, never emigrated)
+  - **Mrs. John Hayes** — Staten Island, NY (= Ella Isabel; had relocated east from Eau Claire by 1946)
+- **5 surviving children of James:**
+  - James Gleeson — Alma, WI
+  - Mrs. Ray Theisen — Waite Park, MN (= Margaret Mary)
+  - Mrs. Ray Mowrey — Williams, AZ (= Anne Barbara, our direct ancestor)
+  - John Gleeson — Mondovi, WI (printed as "Mandove" — typesetter error for Mondovi)
+  - Mrs. John Jene — Eau Claire, WI (= Jane Agnes Gleeson, married John Charles Jene 1925)
+
+**Implication for Patrick's family:** Three of Patrick's daughters (Bridget, Mary, presumably others) stayed in Croom for life. Only James and Ella confirmed as emigrants. The Croom-to-WI chain migration was a minority pattern — most of Patrick's children rooted in Ireland.
+
 ## James + Maria 1892 marriage record — what it tells us about Patrick
 
 The 1892 Wisconsin civil marriage record for James Gleeson + Maria Fitzgerald (Mondovi, Buffalo Co., 23 Nov 1892, Reg. No. 126) gives us our first US-side attestation of Patrick's name:
@@ -150,6 +169,7 @@ The 1892 Wisconsin civil marriage record for James Gleeson + Maria Fitzgerald (M
 - Correspondence with Tony (Australian Patrick Gleeson descendant) — no DNA match
 - James J. Gleeson obituary, Leader-Telegram, 30 Jan 1946
 - Wisconsin Marriage Record No. 126, Stamp 00799 — James Gleason + Maria Fitzgerald, 23 Nov 1892, Mondovi, Buffalo Co.; names Patrick Gleason + Margarette "Malony" as groom's parents (US phonetic rendering of Moloney). Officiant Fr. Joseph M. Baur, Durand, Pepin Co. Witnesses William Fitzgerald + Mary L. Luffering. Retrieved 2026-05-31.
+- James J. Gleeson obituary, ~28 Jan 1946 (verbatim transcription retrieved 2026-05-31). Explicit Croom Ireland birthplace; 12 children with 5 surviving; 3 sisters surviving (Bridget O'Connor + Mary Gleeson in Croom, Ella Hayes in Staten Island NY); Mrs. John Jene of Eau Claire identified as daughter Jane Agnes.
 
 ## Note on civil registration leads
 

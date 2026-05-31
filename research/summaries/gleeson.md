@@ -31,15 +31,20 @@ Extracted from Ancestry profile exports (Jan 2026).
 - **Wife:** Maria Ann Fitzgerald (1865–1916)
 - **Marriage:** 23 November 1892, Buffalo, Wisconsin
 
-**Children with Maria Ann Fitzgerald:**
-- James Joseph "John" Gleeson Sr (1895–1959)
-- Jennie Gleason (1896–)
-- Jane Agnes Gleeson (1897–1977)
-- John Frank Gleeson (1898–1962)
-- Joseph Patrick Gleeson (1900–1917) — died young
-- Margaret Mary Gleeson Theisen (1901–1980)
-- Harold Francis Gleason (1903–1988) — born Chicago
-- **Anne Barbara Gleeson (1903–1986)** ← our direct ancestor
+**Children with Maria Ann Fitzgerald:** James's 1946 obituary states he had **12 children, 5 living**. We currently document 8 (with "Jennie 1896" suspected to be a duplicate of Jane Agnes 1897). So ~4 children remain unidentified — almost certainly infant deaths.
+
+Documented children:
+- Maria Johanna Gleeson (1894–1894) — died as infant
+- James Joseph "John" Gleeson Sr (1895–1959) — = "James in Alma, WI" per obit
+- Jennie Gleason (1896–) — likely a duplicate of Jane Agnes (1897)
+- **Jane Agnes Gleeson (1897–1977)** — married John Charles Jene 1925 in WI; = "Mrs. John Jene, Eau Claire" per obit
+- John Frank Gleeson (1898–1962) — = "John of Mondovi" per obit (printed as "Mandove" — typesetter error)
+- Joseph Patrick Gleeson (1900–1917) — died at 17
+- Margaret Mary Gleeson Theisen (1901–1980) — = "Mrs. Ray Theisen, Waite Park" per obit
+- Harold Francis Gleason (1903–1988) — born Chicago; not in 1946 obit (likely died before then or wasn't listed)
+- **Anne Barbara Gleeson (1903–1986)** — = "Mrs. Ray Mowrey, Williams AZ" per obit ← our direct ancestor
+
+**Missing children:** 4 additional children (likely infant deaths) implied by the "12 total" obit figure but not yet documented.
 
 ### Second Marriage
 - **Wife:** Sabina Elizabeth "Bina" O'Brien Gleeson (1884–1937)
@@ -63,8 +68,9 @@ Extracted from Ancestry profile exports (Jan 2026).
 
 ### Death
 - **Date:** 28 January 1946
-- **Location:** Waite Park, Stearns, Minnesota (alternate: Mondovi, WI)
-- **Obituary:** Leader-Telegram, 30 Jan 1946
+- **Location:** Waite Park, Stearns, Minnesota (at the home of his daughter Margaret Mary Theisen)
+- **Burial:** Sacred Heart Cemetery, Mondovi, Wisconsin (body shipped from Waite Park)
+- **Obituary:** Leader-Telegram, ~30 Jan 1946 — explicitly confirms birthplace **Croom, Ireland**; lists 12 children (5 living); 3 surviving sisters (Bridget O'Connor + Mary Gleeson in Croom; Ella as Mrs. John Hayes in Staten Island NY); 9 grandchildren; wife dead "28 years" (rounded from actual ~30)
 
 ---
 
@@ -298,3 +304,6 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 6. **William (James) Fitzgerald** — Why the dual first name? Was he "William" or "James"?
 7. **Ella Isabel Gleason's baptism** — Likely in Croom before 1863 (pre-James) or in a neighboring parish. Earlier Croom register pages should be searched.
 8. **Ella's emigration** — When did she arrive in WI? Who did she travel with? (Patrick + Margaret stayed in Ireland having kids through 1878, so Ella came as a young teen, possibly with an aunt/uncle.)
+9. **Ella's move to Staten Island** — She was in Staten Island NY by 1946 (per James's obit). When did she leave Eau Claire? Did John Hayes survive? Worth checking NY census records 1900–1940.
+10. **The missing 4 children of James** — His 1946 obit says 12 children but we only document 8 (incl. likely duplicate). Search WI vital records 1893–1913 for additional Gleeson births to James + Maria. Likely infant deaths.
+11. **Harold Francis Gleason (1903–1988)** — Not listed in 1946 obit's surviving-children list, despite our records showing he died 1988. Either obit error, estrangement, or our death year is wrong.
