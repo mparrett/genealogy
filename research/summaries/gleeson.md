@@ -210,7 +210,7 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 
 ### Children (from Croom/Scagh parish records)
 - **Ella Isabel Gleason (b. late 1850s)** — predates Croom register sequence; married John Nelson Hayes (painter, b. NY) 24 Dec 1874, M.E. Church, Eau Claire, WI. = "Mrs. John Hayes (NY)" from James's obituary
-- **James (Jacobus) Gleeson (23 Dec 1863)** ← our direct ancestor; sponsors: William Shaw, Margaret Kiely
+- **James (Jacobus) Gleeson (23 Dec 1863)** ← our direct ancestor; sponsors: William Storan, Margaret Kiely (Storan is a Croom-rooted surname; corrects earlier "Shaw" index reading)
 - Honora Gleeson (10 Mar 1866)
 - Bridget (Brigida) Gleeson (21–24 Feb 1868) — likely Mrs. Bridget O'Connor from obituary
 - Ellen / Helena Gleeson (9 Jul 1869, per manuscript re-read; older "15 Jul" was an index transcription) — sponsors Jeremiah O'Leary + Bridget Shanahan; officiant Rev. John Quinlan
@@ -227,7 +227,7 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 
 ### Key Details (Croom)
 - **Location:** Scagh townland, Croom parish, Limerick
-- **Sponsor network:** Shaw + Kiely (local families)
+- **Sponsor network:** Storan + Kiely (local families; Storan is Croom-distinctive)
 - **Family span:** 1863–1878 (tight, consistent sequence)
 
 ### Research Notes

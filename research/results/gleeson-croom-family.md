@@ -11,7 +11,7 @@
 
 | Name | Birth / Baptism | Notes |
 |------|----------------|-------|
-| James (Jacobus) Gleeson | 23 Dec 1863 (Croom) | Direct ancestor; sponsors: William Shaw, Margaret Kiely |
+| James (Jacobus) Gleeson | 23 Dec 1863 (Croom) | Direct ancestor; sponsors: William Storan, Margaret Kiely; officiant Rev. John (Joannes) Quinlan C.C. |
 | Honora Gleeson | 10 Mar 1866 | |
 | Bridget (Brigida) Gleeson | 21–24 Feb 1868 (Scagh) | Likely Bridget O'Connor |
 | Ellen / Helena (Ellena) Gleeson | 9 Jul 1869 (Scagh) — sponsors Jeremias O'Leary + Brigida Shanahan; officiant Rev. Joannes Quinlan | Name varies (Ellen/Helena/Ellena); date corrected from index's "15 Jul" via manuscript re-read 2026-05-31 |
@@ -30,5 +30,5 @@
 ## Key Details
 
 - **Location:** Scagh townland, Croom parish, Limerick
-- **Sponsor network:** Shaw + Kiely (local families)
+- **Sponsor network:** Storan + Kiely (local families; Storan distinctively Croom-rooted)
 - **Family span:** 1863–1878 (tight, consistent sequence)

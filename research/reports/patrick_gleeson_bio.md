@@ -10,7 +10,7 @@ Patrick married **Margaret Moloney** (b. c. 1832) around **1855** in Ireland, pr
 
 The couple had at least seven children baptized in Croom parish between 1863 and 1878:
 
-- **James (Jacobus) Gleeson** (23 Dec 1863) — sponsors: William Shaw, Margaret Kiely
+- **James (Jacobus) Gleeson** (23 Dec 1863) — sponsors: William Storan, Margaret Kiely
 - **Honora Gleeson** (10 Mar 1866)
 - **Bridget (Brigida) Gleeson** (21–24 Feb 1868) — later Mrs. Bridget O'Connor
 - **Ellen / Helena Gleeson** (9 Jul 1869) — sponsors: Jeremiah O'Leary + Bridget Shanahan; officiant Rev. John Quinlan
@@ -18,7 +18,7 @@ The couple had at least seven children baptized in Croom parish between 1863 and
 - **Margaret (Margarita) Gleeson** (29 Sep 1875) — sponsors: William Blake + Ellen Condon; officiant Rev. John Quinlan, C.C.
 - **Jane / Janet Gleeson** (25–28 Sep 1878)
 
-The tight, consistent sequence of births confirms a stable family unit in Scagh through the late 1870s. The baptismal sponsors—William Shaw and Margaret Kiely for James—point to a local network of families in the Croom area.
+The tight, consistent sequence of births confirms a stable family unit in Scagh through the late 1870s. The baptismal sponsors—William Storan and Margaret Kiely for James—point to a local network of families in the Croom area. Storan is a distinctively Croom-area surname (Gaelic *Ó Stóirín*); Mark Storan appears in the 1820s Tithe Applotment Books for Lower Corrobal in Croom, and the Storan family has farmed in Mournane/Lower Morenane (Croom parish) continuously since.
 
 An eighth child, **Ella Isabel Gleason**, almost certainly belongs to this family but predates the Croom register sequence. Ella married John Nelson Hayes (a painter, born in New York) on 24 December 1874 at the M.E. Church in Eau Claire, Wisconsin (officiant: Rev. Jno. B. Backman Jr.). She is the "Mrs. John Hayes" listed as a surviving sibling in James's 1946 obituary, and was living in **Staten Island, New York** by that time — meaning she relocated from Eau Claire to NY at some point between 1874 and 1946. Her birth year is likely in the late 1850s (Ancestry's "~1860" would make her only 14 at marriage). Earlier Croom baptisms (pre-1863) or a neighboring parish should be checked for her record.
 
