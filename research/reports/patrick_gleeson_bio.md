@@ -15,7 +15,7 @@ The couple had at least seven children baptized in Croom parish between 1863 and
 - **Bridget (Brigida) Gleeson** (21–24 Feb 1868) — later Mrs. Bridget O'Connor
 - **Ellen / Helena Gleeson** (9 Jul 1869) — sponsors: Jeremiah O'Leary + Bridget Shanahan; officiant Rev. John Quinlan
 - **Mary Gleeson** (15 Dec 1872) — likely "Miss Mary Gleeson, Croom" referenced in James's obituary
-- **Margaret (Margarita) Gleeson** (29 Sep 1875)
+- **Margaret (Margarita) Gleeson** (29 Sep 1875) — sponsors: William Blake + Ellen Condon; officiant Rev. John Quinlan, C.C.
 - **Jane / Janet Gleeson** (25–28 Sep 1878)
 
 The tight, consistent sequence of births confirms a stable family unit in Scagh through the late 1870s. The baptismal sponsors—William Shaw and Margaret Kiely for James—point to a local network of families in the Croom area.
@@ -53,7 +53,7 @@ James's 1946 obituary names three surviving sisters: **Mrs. Bridget O'Connor** a
 
 **Notes:**
 
-- Baptismal records: NLI Catholic Parish Registers, Croom parish (Scagh townland), County Limerick. FamilySearch index lists Jacobus Gleeson baptized 23 Dec 1863, parents Patritii Gleeson + Margaritæ Moloney (Microfilm 02427/07; image unavailable).
+- Baptismal records: NLI Catholic Parish Registers, Croom parish (Scagh townland), County Limerick. FamilySearch index lists Jacobus Gleeson baptized 23 Dec 1863, parents Patritii Gleeson + Margaritæ Moloney (Microfilm 02427/07). Manuscript re-read 2026-05-31 (Gemini, with surrounding-page context) gives officiant as Rev. John (Joannes) Quinlan, C.C. — consistent across baptisms in 1863, 1869, and 1875. An earlier ChatGPT pass had read "Francis Dunlan" but that was a misread; Dunlan has been retired from the priest network.
 - Patrick's occupation is undocumented. The previously held "sailor" attribution traced to a separate Limerick City Patrick Gleeson (married Mary Mahony), not ours. Struck 2026-05-31.
 - Disambiguation of the two Patrick Gleesons confirmed via correspondence with Tony (Australian descendant, no DNA match).
 - Margaret Moloney's death date and location are unconfirmed for our line. An 1886 death in Drouin, Victoria, Australia attributed to "Margaritte Malony" in some Ancestry trees likely belongs to the Australian Patrick's wife Margaret Mahony.

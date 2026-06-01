@@ -16,12 +16,12 @@
 | # | Name | Baptism | Notes |
 |---|------|---------|-------|
 | 1 | **Ella Isabel(la) Gleason** | pre-1863 (not in Croom register sequence) | Married John Nelson Hayes 24 Dec 1874, M.E. Church, Eau Claire WI. = "Mrs. John Hayes" from James's obit. Living in **Staten Island, NY** by 1946 — so she relocated from Eau Claire to NY at some point. Name appears as both "Isabel" and "Isabella" in indexes |
-| 2 | **James (Jacobus) Gleeson** | 23 Dec 1863 | Our direct ancestor. Sponsors: William Shaw + Margaret Kiely. Baptized by Rev. Francis Dunlan, C.C. (curate, Croom). Entry No. 22. Emigrated ~1883 |
+| 2 | **James (Jacobus) Gleeson** | 23 Dec 1863 | Our direct ancestor. Sponsors: William Shaw + Margaret Kiely (male sponsor pending re-review — manuscript may read "Moran"). Officiant: Rev. John (Joannes) Quinlan, C.C. (the consistent Croom curate from at least 1863–1875). Emigrated ~1883 |
 | 3 | Honora ("Nora") Gleeson | 10 Mar 1866 | Fate unknown |
 | 4 | Bridget (Brigida) Gleeson | 21–24 Feb 1868 | → "Mrs. Bridget O'Connor" per James's obit |
 | 5 | Ellen / Helena (Ellena) Gleeson | Baptized **9 Jul 1869**, Croom, Limerick (date per manuscript re-reading "Die 9no"; earlier "15 Jul" came from index FHL Film 101194 and is superseded). Father Patricii Gleeson, mother Margaritae Moloney. Sponsors **Jeremias O'Leary + Brigida Shanahan**. Officiant **Rev. Joannes Quinlan**. Civil birth reg. 1869, GRO Vol. 15 p. 219 (FHL Film 101046) | Name varies (Ellen / Helena / Ellena) |
 | 6 | Mary Gleeson | 15 Dec 1872 | → "Miss Mary Gleeson, Croom" per obit |
-| 7 | Margaret (Margarita) Gleeson | 29 Sep 1875 | Fate unknown |
+| 7 | Margaret (Margarita) Gleeson | 29 Sep 1875 — sponsors William Blake + Ellen Condon; officiant Rev. John Quinlan, C.C. | Fate unknown |
 | 8 | Jane / Janet Gleeson | 25–28 Sep 1878 | Fate unknown |
 
 ### Disambiguation (closed loops)
@@ -109,6 +109,8 @@ Margaret Moloney is one of the most common name combinations in 19th-century Lim
 - **Griffith's Valuation (1850s)** — Moloney households in Fanningstown townland (Croom parish)
 - **Tithe Applotment Books (1820s–30s)** — Moloney in Fanningstown — may name Margaret's likely father
 - **Bridget Gleeson + Maria Malony 1864 Croom marriage** (witness link) — possibly Patrick's sister
+- **Timothy (Timotheo) Gleeson, Croom Jan 1864** — appears as sponsor on the Dempsey-Synan baptism (6 Jan 1864). Possibly Patrick's brother or kinsman. Worth searching Croom register for Timothy's own marriage/family
+- **Croom sponsor network so far:** Shaw, Kiely, Moran (?), O'Leary, Shanahan (Brigida appears for both Ellen 1869 and the Leahy-O'Brien Sep 1875 baptism), Blake, Condon, Canfield. These families are tightly linked to Patrick + Margaret's social circle in Scagh
 - **James J. Gleeson's 1892 WI marriage record** (church register) — Catholic priests often noted parents' status (living/deceased) and origin parish; would confirm if Patrick was alive in 1892
 - **James's 1946 obituary** (Leader-Telegram, 30 Jan 1946) — may name surviving siblings in Ireland or note "native of [parish]"
 - **James's naturalization petition** — if filed post-1906, would list exact birthplace
@@ -156,12 +158,11 @@ The 1892 Wisconsin civil marriage record for James Gleeson + Maria Fitzgerald (M
 
 **No status info on Patrick:** The record names Patrick as the groom's father but does not indicate whether he was living or deceased in 1892. So this doesn't help bound Patrick's death year.
 
-**Priest network thread:** Three named priests in our Gleeson record set so far:
-- **Fr. Francis Dunlan, C.C.** — Croom, baptized James 23 Dec 1863
-- **Rev. John (Joannes) Quinlan** — Croom, baptized Ellen 9 Jul 1869 (different from Dunlan; either Dunlan moved on or Croom had multiple curates)
+**Priest network thread:** Two named priests in our Gleeson record set:
+- **Rev. John (Joannes) Quinlan, C.C.** — Croom curate. Officiated James's baptism (23 Dec 1863), Ellen's (9 Jul 1869), and Margaret's (29 Sep 1875). Active at Croom across at least 12 years. (Note: an earlier transcription gave the 1863 officiant as "Francis Dunlan" — that was a ChatGPT misread; manuscript context across multiple pages confirms Quinlan throughout.)
 - **Fr. Joseph M. Baur** — Durand, Pepin Co. WI, officiated James + Maria's marriage 23 Nov 1892
 
-Worth watching for any of these names in other family records (siblings' baptisms, marriages of related Croom families, etc.).
+Worth watching for these names in other family records.
 
 ## Sources
 

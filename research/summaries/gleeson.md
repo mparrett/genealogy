@@ -215,7 +215,7 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 - Bridget (Brigida) Gleeson (21–24 Feb 1868) — likely Mrs. Bridget O'Connor from obituary
 - Ellen / Helena Gleeson (9 Jul 1869, per manuscript re-read; older "15 Jul" was an index transcription) — sponsors Jeremiah O'Leary + Bridget Shanahan; officiant Rev. John Quinlan
 - Mary Gleeson (15 Dec 1872) — likely "Miss Mary Gleeson, Croom" from obituary
-- Margaret (Margarita) Gleeson (29 Sep 1875)
+- Margaret (Margarita) Gleeson (29 Sep 1875) — sponsors William Blake + Ellen Condon; officiant Rev. John Quinlan
 - Jane / Janet Gleeson (25–28 Sep 1878)
 
 **Note:** Ella's 1874 Eau Claire marriage predates James's ~1883 emigration by nine years and likely explains why James settled in Buffalo County, WI (adjacent to Eau Claire) — he followed his older sister's foothold.
