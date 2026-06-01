@@ -15,7 +15,7 @@
 | Honora Gleeson | 10 Mar 1866 | |
 | Bridget (Brigida) Gleeson | 21–24 Feb 1868 (Scagh) | Likely Bridget O'Connor |
 | Ellen / Helena (Ellena) Gleeson | 9 Jul 1869 (Scagh) — sponsors Jeremias O'Leary + Brigida Shanahan; officiant Rev. Joannes Quinlan | Name varies (Ellen/Helena/Ellena); date corrected from index's "15 Jul" via manuscript re-read 2026-05-31 |
-| Mary Gleeson | 15 Dec 1872 | Likely "Miss Mary Gleeson, Croom" |
+| Mary Gleeson | 18 Dec 1872 (Scagh) — sponsors John + Ellen O'Shaughnessy; officiant Rev. John (Joannes) Quinlan C.C. | Likely "Miss Mary Gleeson, Croom"; date corrected from index's "15 Dec" via manuscript re-read 2026-05-31 |
 | Margaret (Margarita) Gleeson | 29 Sep 1875 — sponsors William Blake + Ellen Condon; officiant Rev. John (Joannes) Quinlan C.C. | |
 | Jane / Janet Gleeson | 25–28 Sep 1878 | |
 

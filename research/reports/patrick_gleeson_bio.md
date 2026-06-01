@@ -14,7 +14,7 @@ The couple had at least seven children baptized in Croom parish between 1863 and
 - **Honora Gleeson** (10 Mar 1866)
 - **Bridget (Brigida) Gleeson** (21–24 Feb 1868) — later Mrs. Bridget O'Connor
 - **Ellen / Helena Gleeson** (9 Jul 1869) — sponsors: Jeremiah O'Leary + Bridget Shanahan; officiant Rev. John Quinlan
-- **Mary Gleeson** (15 Dec 1872) — likely "Miss Mary Gleeson, Croom" referenced in James's obituary
+- **Mary Gleeson** (18 Dec 1872) — sponsors: John + Ellen O'Shaughnessy; officiant Rev. John Quinlan, C.C. Likely "Miss Mary Gleeson, Croom" referenced in James's obituary
 - **Margaret (Margarita) Gleeson** (29 Sep 1875) — sponsors: William Blake + Ellen Condon; officiant Rev. John Quinlan, C.C.
 - **Jane / Janet Gleeson** (25–28 Sep 1878)
 

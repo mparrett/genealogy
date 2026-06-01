@@ -214,7 +214,7 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 - Honora Gleeson (10 Mar 1866)
 - Bridget (Brigida) Gleeson (21–24 Feb 1868) — likely Mrs. Bridget O'Connor from obituary
 - Ellen / Helena Gleeson (9 Jul 1869, per manuscript re-read; older "15 Jul" was an index transcription) — sponsors Jeremiah O'Leary + Bridget Shanahan; officiant Rev. John Quinlan
-- Mary Gleeson (15 Dec 1872) — likely "Miss Mary Gleeson, Croom" from obituary
+- Mary Gleeson (18 Dec 1872, per manuscript re-read; older "15 Dec" was an index transcription) — sponsors John + Ellen O'Shaughnessy; officiant Rev. John Quinlan. Likely "Miss Mary Gleeson, Croom" from obituary
 - Margaret (Margarita) Gleeson (29 Sep 1875) — sponsors William Blake + Ellen Condon; officiant Rev. John Quinlan
 - Jane / Janet Gleeson (25–28 Sep 1878)
 
