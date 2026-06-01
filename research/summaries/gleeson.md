@@ -70,7 +70,7 @@ Documented children:
 - **Date:** 28 January 1946
 - **Location:** Waite Park, Stearns, Minnesota (at the home of his daughter Margaret Mary Theisen)
 - **Burial:** Sacred Heart Cemetery, Mondovi, Wisconsin (body shipped from Waite Park)
-- **Obituary:** Leader-Telegram, ~30 Jan 1946 — explicitly confirms birthplace **Croom, Ireland**; lists 12 children (5 living); 3 surviving sisters (Bridget O'Connor + Mary Gleeson in Croom; Ella as Mrs. John Hayes in Staten Island NY); 9 grandchildren; wife dead "28 years" (rounded from actual ~30)
+- **Obituary:** **St. Cloud Times, 28 Jan 1946, page 5** (Saint Cloud, Minnesota — same-day publication since James died at 3:30 a.m. and Waite Park is in the St. Cloud area). Image archived at `assets/external/james-gleeson-obit-minnesota-1946.jpg`. Explicitly confirms birthplace **Croom, Ireland**; lists 12 children (5 living); 3 surviving sisters (Bridget O'Connor + Mary Gleeson in Croom; Ella as Mrs. John Hayes in Staten Island NY); 9 grandchildren; wife dead "28 years" (rounded from actual ~30).
 
 ---
 

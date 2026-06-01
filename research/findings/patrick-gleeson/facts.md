@@ -114,7 +114,7 @@ Margaret Moloney is one of the most common name combinations in 19th-century Lim
 - **John (Joannes) Moloney + Johanna Moylan, Croom Nov 1872** — another Croom Moloney household. Possibly Margaret's brother or cousin. Worth tracing
 - **Croom sponsor network so far:** Storan, Kiely, O'Leary, Shanahan (Brigida appears for both Ellen 1869 and a Leahy-O'Brien Sep 1875 baptism), Blake, Condon, O'Shaughnessy, Canfield. Storan is the most distinctively Croom-rooted of these — a rare surname (*Ó Stóirín*) intensely clustered in Croom parish (Mark Storan in 1820s Tithe Books at Lower Corrobal; "Master Storan" the 19th-century schoolmaster in Mournane; Storan family continues to farm Lower Morenane in Croom today). All these families are tightly linked to Patrick + Margaret's social circle in Scagh.
 - **James J. Gleeson's 1892 WI marriage record** (church register) — Catholic priests often noted parents' status (living/deceased) and origin parish; would confirm if Patrick was alive in 1892
-- **James's 1946 obituary** (Leader-Telegram, 30 Jan 1946) — may name surviving siblings in Ireland or note "native of [parish]"
+- ✅ **James's 1946 obituary** — retrieved as **St. Cloud Times, 28 Jan 1946, page 5**. Image at `assets/external/james-gleeson-obit-minnesota-1946.jpg`
 - **James's naturalization petition** — if filed post-1906, would list exact birthplace
 - **John Nelson Hayes in WI census records** post-1880 — household with Ella may show her birthplace ("Ireland") and a possible "year of immigration"
 
@@ -128,7 +128,7 @@ Ella's 1874 Eau Claire marriage predates James's ~1883 emigration by **nine year
 
 ## James's 1946 obituary — what it tells us about Patrick's family
 
-James J. Gleeson's obituary (Leader-Telegram or local Stearns Co. paper, ~28 Jan 1946) is the single richest US-side document for reconstructing Patrick + Margaret's family:
+James J. Gleeson's obituary (**St. Cloud Times, 28 Jan 1946, page 5** — Saint Cloud, MN) is the single richest US-side document for reconstructing Patrick + Margaret's family. Image archived at `assets/external/james-gleeson-obit-minnesota-1946.jpg`. Published same-day as death since James died at 3:30 a.m. in Waite Park (Stearns County, MN — St. Cloud's circulation area):
 
 - **Birthplace explicit:** "Croom, Ireland" — directly confirms our parish-record work
 - **12 children total, 5 living in 1946** — meaning Patrick + Margaret had a grandchild generation of at least 12 great-grandchildren of theirs through James alone. We currently document 8 of those 12 (including duplicates), so **4–5 children of James are missing** from our records — almost certainly infant deaths
@@ -175,7 +175,7 @@ Worth watching for these names in other family records.
 - Ancestry.com, Wisconsin, U.S., Marriage Records, 1820–2015 (Box 674142) — Ella Isabel Gleason + John Nelson Hayes, 24 Dec 1874, retrieved 2026-05-30
 - Wisconsin Marriage Index (Vol. 01, p. 0229) — Ella Isabella Gleason + John Nelson Hayes, 24 Dec 1874, Eau Claire (secondary index citation, same marriage)
 - Correspondence with Tony (Australian Patrick Gleeson descendant) — no DNA match
-- James J. Gleeson obituary, Leader-Telegram, 30 Jan 1946
+- James J. Gleeson obituary — **St. Cloud Times** (Saint Cloud, Minnesota), 28 Jan 1946, page 5. Image: `assets/external/james-gleeson-obit-minnesota-1946.jpg`. Citation source: `assets/external/james-gleeson-obit-source.txt`
 - Wisconsin Marriage Record No. 126, Stamp 00799 — James Gleason + Maria Fitzgerald, 23 Nov 1892, Mondovi, Buffalo Co.; names Patrick Gleason + Margarette "Malony" as groom's parents (US phonetic rendering of Moloney). Officiant Fr. Joseph M. Baur, Durand, Pepin Co. Witnesses William Fitzgerald + Mary L. Luffering. Retrieved 2026-05-31.
 - James J. Gleeson obituary, ~28 Jan 1946 (verbatim transcription retrieved 2026-05-31). Explicit Croom Ireland birthplace; 12 children with 5 surviving; 3 sisters surviving (Bridget O'Connor + Mary Gleeson in Croom, Ella Hayes in Staten Island NY); Mrs. John Jene of Eau Claire identified as daughter Jane Agnes.
 
