@@ -1,7 +1,7 @@
 draft: true
 name: Patrick Gleeson
 birth:
-  year: 1828
+  year: 1832
   label: Born (est.)
   location: Co. Limerick, Ireland
 death:
@@ -9,7 +9,7 @@ death:
   label: Died (est.)
   location: Ireland (presumed)
 events:
-  - year: 1855
+  - year: 1862
     label: Married Margaret Moloney (est.)
     type: marriage
   - year: 1863
@@ -25,7 +25,7 @@ events:
 location_aside:
   place: Croom, Co. Limerick
   region: Ireland
-  year: c. 1855
+  year: c. 1862
   image: locations/croom-limerick-1864.jpg
   after_paragraph: 3
   description: >

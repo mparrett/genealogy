@@ -14,7 +14,7 @@
 | **Wife's origin** | Limerick area (presumed) | (unknown) | Bantry, Cork |
 | **Marriage** | ~1855, Ireland (presumed Croom) | (unknown) | 1862, Victoria (reg. #639) |
 | **Patrick's occupation** | **Unknown** (see correction below) | Sailor (per civil record) | (varies) |
-| **Sample children** | Ella (~1856), James (Dec 1863), Honora (1866), Bridget (1868), Ellen (1869), Mary (1872), Margaret (1875), Jane (1878) | John (17 May 1864) | Michael, Patrick Thomas (1868), Mary Ellen (1875), John (1877) |
+| **Sample children** | James (Dec 1863), Honora (1866), Bridget (1868), Ellen (1869), Mary (1872), Margaret (1875), Jane (1878) | John (17 May 1864) | Michael, Patrick Thomas (1868), Mary Ellen (1875), John (1877) |
 
 ## Smoking-gun timing
 

@@ -186,18 +186,18 @@ Documented children:
 
 ---
 
-## Patrick Gleeson (c. 1828; d. unknown)
+## Patrick Gleeson (c. 1832; d. unknown)
 
 **3rd great-grandfather**
 
-- **Birth:** **c. 1828 (range 1825–1830)** — calibrated estimate, see `research/analysis/gleeson-parents-age-calibration.md`. Ancestry's "c. 1843" is contamination from the Australian Patrick line (see disambiguation below).
+- **Birth:** **c. 1832 (range 1830–1834)** — calibrated estimate, see `research/analysis/gleeson-parents-age-calibration.md`. Ancestry's "c. 1843" is contamination from the Australian Patrick line (see disambiguation below). Calibrated 2026-06-01 after the prior "Ella firstborn ~1856" anchor was withdrawn (1874 Eau Claire Ella was a different Gleason family).
 - **Death:** Unknown — presumed Ireland. Ancestry's "before 1925" is also Australian-line filler.
 - **Father:** **Unknown.** One unverified Ancestry tree suggests Michael Gleeson (b. c. 1810); no primary documentation found. Same source pattern as the disproven "sailor"/"Windmill" attributions, so treat as hypothesis to test, not a fact.
 - **Mother:** Unknown
 
 ### Marriage
-- **Wife:** Margaret **Moloney** (not Maloney/Mahony — confirmed across multiple Croom parish records), b. **c. 1832 (range 1830–1834)**
-- **Marriage:** About **1855**, Ireland (presumed Croom) — earlier than the "~1860" previously recorded, since eldest known child Ella was born ~1856
+- **Wife:** Margaret **Moloney** (not Maloney/Mahony — confirmed across multiple Croom parish records), b. **c. 1836 (range 1834–1838)**
+- **Marriage:** About **1862**, Ireland (presumed Croom). Anchored on James (1863) as earliest documented child. The Croom register has now been searched continuously from May 1853 through Feb 1858 (no Patrick + Margaret marriage found) — pushing the marriage estimate to ~1860–1863. Page 151 (Aug 1861 – Mar 1862) is a high-priority re-fetch target — earlier review noted it was obscured by a thumb shadow.
 
 ### Australian Patrick disambiguation (NOT our line)
 
@@ -209,8 +209,7 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 - Children include **Michael, Patrick Thomas (b. 1868), Mary Ellen (b. 1875), John (b. 1877)** — note that Patrick Thomas (1868) overlaps with our Bridget (1868), and Mary Ellen (1875) is close to our Mary (1872) and Margaret (1875) — these similar names/years are exactly what drives bad tree merges.
 
 ### Children (from Croom/Scagh parish records)
-- **Ella Isabel Gleason (b. late 1850s)** — predates Croom register sequence; married John Nelson Hayes (painter, b. NY) 24 Dec 1874, M.E. Church, Eau Claire, WI. = "Mrs. John Hayes (NY)" from James's obituary
-- **James (Jacobus) Gleeson (23 Dec 1863)** ← our direct ancestor; sponsors: William Storan, Margaret Kiely (Storan is a Croom-rooted surname; corrects earlier "Shaw" index reading)
+- **James (Jacobus) Gleeson (23 Dec 1863)** ← our direct ancestor; sponsors: William Storan, Margaret Kiely (Storan is a Croom-rooted surname; corrects earlier "Shaw" index reading). Earliest documented child of Patrick + Margaret.
 - Honora Gleeson (10 Mar 1866)
 - Bridget (Brigida) Gleeson (21–24 Feb 1868) — likely Mrs. Bridget O'Connor from obituary
 - Ellen / Helena Gleeson (9 Jul 1869, per manuscript re-read; older "15 Jul" was an index transcription) — sponsors Jeremiah O'Leary + Bridget Shanahan; officiant Rev. John Quinlan
@@ -218,7 +217,7 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 - Margaret (Margarita) Gleeson (29 Sep 1875) — sponsors William Blake + Ellen Condon; officiant Rev. John Quinlan
 - Jane / Janet Gleeson (25–28 Sep 1878)
 
-**Note:** Ella's 1874 Eau Claire marriage predates James's ~1883 emigration by nine years and likely explains why James settled in Buffalo County, WI (adjacent to Eau Claire) — he followed his older sister's foothold.
+**Note (withdrawn 2026-06-01):** A previously documented "8th child Ella Isabel Gleason" who married John Nelson Hayes in Eau Claire WI 24 Dec 1874 has been **withdrawn** as a false attribution. The actual 1874 marriage record names that bride's father as C. R. Gleason, not Patrick. The Eau Claire 1874 marriage belongs to a different Gleason family entirely.
 
 ### Notes from Ancestry
 - "Son was born in Cork. Maybe from Tipperary?"
@@ -302,8 +301,7 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 4. **Maria Ann's 1884 NYC residence** — Was the family moving back and forth?
 5. **Harold Francis Gleason born Chicago (1903)** — Why Chicago? Family temporarily there?
 6. **William (James) Fitzgerald** — Why the dual first name? Was he "William" or "James"?
-7. **Ella Isabel Gleason's baptism** — Likely in Croom before 1863 (pre-James) or in a neighboring parish. Earlier Croom register pages should be searched.
-8. **Ella's emigration** — When did she arrive in WI? Who did she travel with? (Patrick + Margaret stayed in Ireland having kids through 1878, so Ella came as a young teen, possibly with an aunt/uncle.)
-9. **Ella's move to Staten Island** — She was in Staten Island NY by 1946 (per James's obit). When did she leave Eau Claire? Did John Hayes survive? Worth checking NY census records 1900–1940.
-10. **The missing 4 children of James** — His 1946 obit says 12 children but we only document 8 (incl. likely duplicate). Search WI vital records 1893–1913 for additional Gleeson births to James + Maria. Likely infant deaths.
-11. **Harold Francis Gleason (1903–1988)** — Not listed in 1946 obit's surviving-children list, despite our records showing he died 1988. Either obit error, estrangement, or our death year is wrong.
+7. **Who is "Mrs. John Hayes" of Staten Island NY?** James's 1946 obit names her as a surviving sister. Previous identification with the 1874 Eau Claire Ella Isabel Gleason was withdrawn after the marriage record's bride's father proved to be C. R. Gleason, not Patrick. The actual sister is now unidentified. Could be any of Honora (1866), Ellen (1869), Margaret (1875), Jane (1878), or an older unknown sister. Worth searching 1940 Staten Island census for an Irish-born female Hayes/Hays, sister-aged to James, without restricting the given name.
+8. **Patrick + Margaret's marriage** — searched Croom register continuously May 1853 – Feb 1858, no match. New estimate ~1860–1863 (since James 1863 is now earliest documented child). Page 151 of the marriage register (Aug 1861 – Mar 1862) is the highest-priority target.
+9. **The missing 4 children of James** — His 1946 obit says 12 children but we only document 8 (incl. likely duplicate). Search WI vital records 1893–1913 for additional Gleeson births to James + Maria. Likely infant deaths.
+10. **Harold Francis Gleason (1903–1988)** — Not listed in 1946 obit's surviving-children list, despite our records showing he died 1988. Either obit error, estrangement, or our death year is wrong.

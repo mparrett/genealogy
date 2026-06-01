@@ -15,20 +15,38 @@
 
 | # | Name | Baptism | Notes |
 |---|------|---------|-------|
-| 1 | **Ella Isabel(la) Gleason** | pre-1863 (not in Croom register sequence) | Married John Nelson Hayes 24 Dec 1874, M.E. Church, Eau Claire WI. = "Mrs. John Hayes" from James's obit. Living in **Staten Island, NY** by 1946 — so she relocated from Eau Claire to NY at some point. Name appears as both "Isabel" and "Isabella" in indexes |
-| 2 | **James (Jacobus) Gleeson** | 23 Dec 1863 | Our direct ancestor. Sponsors: **William Storan + Margaret Kiely** (resolved 2026-06-01 — the "St" ligature was read as M, H, or Sh by earlier passes; Storan is a Croom-distinctive surname, see disambiguation note below). Officiant: Rev. John (Joannes) Quinlan, C.C. (the consistent Croom curate from at least 1863–1875). Emigrated ~1883 |
-| 3 | Honora ("Nora") Gleeson | 10 Mar 1866 | Fate unknown |
-| 4 | Bridget (Brigida) Gleeson | 21–24 Feb 1868 | → "Mrs. Bridget O'Connor" per James's obit |
-| 5 | Ellen / Helena (Ellena) Gleeson | Baptized **9 Jul 1869**, Croom, Limerick (date per manuscript re-reading "Die 9no"; earlier "15 Jul" came from index FHL Film 101194 and is superseded). Father Patricii Gleeson, mother Margaritae Moloney. Sponsors **Jeremias O'Leary + Brigida Shanahan**. Officiant **Rev. Joannes Quinlan**. Civil birth reg. 1869, GRO Vol. 15 p. 219 (FHL Film 101046) | Name varies (Ellen / Helena / Ellena) |
-| 6 | Mary Gleeson | **18 Dec 1872** (date corrected from earlier index "15 Dec" via manuscript re-read 2026-05-31) — sponsors John + Ellen O'Shaughnessy; officiant Rev. John Quinlan, C.C. | → "Miss Mary Gleeson, Croom" per obit |
-| 7 | Margaret (Margarita) Gleeson | 29 Sep 1875 — sponsors William Blake + Ellen Condon; officiant Rev. John Quinlan, C.C. | Fate unknown |
-| 8 | Jane / Janet Gleeson | 25–28 Sep 1878 | Fate unknown |
+| 1 | **James (Jacobus) Gleeson** | 23 Dec 1863 | Our direct ancestor. **Earliest documented child.** Sponsors: **William Storan + Margaret Kiely** (resolved 2026-06-01 — the "St" ligature was read as M, H, or Sh by earlier passes; Storan is a Croom-distinctive surname, see disambiguation note below). Officiant: Rev. John (Joannes) Quinlan, C.C. (the consistent Croom curate from at least 1863–1875). Emigrated ~1883 |
+| 2 | Honora ("Nora") Gleeson | 10 Mar 1866 | Fate unknown |
+| 3 | Bridget (Brigida) Gleeson | 21–24 Feb 1868 | → likely "Mrs. Bridget O'Connor" per James's obit (Croom, 1946) |
+| 4 | Ellen / Helena (Ellena) Gleeson | Baptized **9 Jul 1869**, Croom, Limerick (date per manuscript re-reading "Die 9no"; earlier "15 Jul" came from index FHL Film 101194 and is superseded). Father Patricii Gleeson, mother Margaritae Moloney. Sponsors **Jeremias O'Leary + Brigida Shanahan**. Officiant **Rev. Joannes Quinlan**. Civil birth reg. 1869, GRO Vol. 15 p. 219 (FHL Film 101046) | Name varies (Ellen / Helena / Ellena) |
+| 5 | Mary Gleeson | **18 Dec 1872** (date corrected from earlier index "15 Dec" via manuscript re-read 2026-05-31) — sponsors John + Ellen O'Shaughnessy; officiant Rev. John Quinlan, C.C. | → "Miss Mary Gleeson, Croom" per obit |
+| 6 | Margaret (Margarita) Gleeson | 29 Sep 1875 — sponsors William Blake + Ellen Condon; officiant Rev. John Quinlan, C.C. | Fate unknown |
+| 7 | Jane / Janet Gleeson | 25–28 Sep 1878 — sponsors Michael Moloney + Maria Quaid; officiant Rev. John Quinlan | Fate unknown |
+
+**Withdrawn 2026-06-01:** A previously-listed 8th child "Ella Isabel Gleason" (the 1874 Eau Claire bride) has been removed. The 1874 marriage record names that bride's father as **C. R. Gleason** (not Patrick), making her a different Gleason family entirely. See "False leads" section below.
 
 ### Disambiguation (closed loops)
 
 - **Not the Ohio Patrick Gleeson** — coincidental name match; Margaret Moloney there is too old.
-- **"Mrs. John Hayes (NY)"** in James's 1946 obit = Ella Isabel Gleason. "NY" refers to her husband's birthplace, not her residence.
 - **Not the Limerick City Pat Gleeson family** — see fingerprint below; this family wrongly contributed "sailor" + "Windmill" attributes to our Patrick in earlier research.
+- **Not the Eau Claire 1874 Ella Isabel Gleason + John Nelson Hayes** — see False leads section below. The marriage record names that bride's father as C. R. Gleason.
+
+### Mrs. John Hayes of Staten Island — open question
+
+James's 1946 obit names three surviving sisters: Bridget O'Connor (Croom), Mary Gleeson (Croom), and **Mrs. John Hayes, Staten Island, NY**. The third sister's identity is unknown:
+
+- An earlier hypothesis identified her as "Ella Isabel Gleason" of the 1874 Eau Claire marriage — withdrawn 2026-06-01 (different family).
+- Plausible candidates among documented children: Honora (1866), Ellen (1869), Margaret (1875), Jane (1878). Ages in 1946: 80, 77, 71, 68.
+- Could also be an older sister we haven't found (pre-1863).
+- Search strategy: 1940 Staten Island census for an Irish-born female Hayes/Hays, sister-aged to James (b. 1863), without restricting given name.
+
+### False leads (withdrawn identifications)
+
+These records were previously documented as belonging to our family but have since been rejected:
+
+| Lead | Why withdrawn | Date |
+|---|---|---|
+| **Ella Isabel Gleason + John Nelson Hayes, 24 Dec 1874, Eau Claire WI** | 1874 marriage record names bride's father as C. R. Gleason, not Patrick. Groom John Nelson Hayes was born Venice, Cayuga Co., NY (son of Henry + Elmira Hayes), and appears to have later partnered with Antoinette "Nettie" Ring (children Ada 1881, Maud 1882, Hugh 1889 in Dunn County WI). Coincidental name match only. Wisconsin Marriage Records Box 674142, Vol. 1, p. 0229. | 2026-06-01 |
 
 ### Limerick City Pat Gleeson family — fingerprint (NOT our line)
 
@@ -66,16 +84,16 @@ Any Ancestry hint, tree, or record matching this fingerprint is the Australian f
 
 ## What we don't know
 
-1. **Patrick's birth year** — calibrated estimate **c. 1828 (range 1825–1830)** based on Ella's firstborn anchor (~1856) and Irish post-Famine marriage norms. See `research/analysis/gleeson-parents-age-calibration.md`. (The "1843" in earlier Ancestry-sourced notes is contamination from the Australian Patrick line — his wife Margaret Mahony was born 22 Dec 1842, and tree-merging propagated paired 1843 dates across both spouses.)
-1a. **Margaret's birth year** — calibrated estimate **c. 1832 (range 1830–1834)** — same source. Bracketed by Ella firstborn (~1856) on the older side and Jane lastborn (1878) on the younger side.
+1. **Patrick's birth year** — calibrated estimate **c. 1832 (range 1830–1834)** based on James as earliest documented child (1863) and Irish post-Famine marriage norms. Calibration redone 2026-06-01 after the prior "Ella firstborn ~1856" anchor was withdrawn. See `research/analysis/gleeson-parents-age-calibration.md`.
+1a. **Margaret's birth year** — calibrated estimate **c. 1836 (range 1834–1838)** — same source. Bracketed by James firstborn (1863) and Jane lastborn (1878). If Margaret was 27 at James and 42 at Jane, that fits a typical Irish childbearing span.
 2. **Patrick's death** — date and place unknown. Almost certainly died in Ireland (no US records).
 3. **Patrick + Margaret's marriage record** — searched 37 pages of Croom register (1844–1874). Not found. Page 151 (1862–63, the most likely window) is obscured by a thumb shadow. Could also be in a neighboring parish.
 4. **Patrick's father** — **Unknown.** One unverified Ancestry tree suggests Michael Gleeson (b. c. 1810); no primary documentation found. Same source pattern as the disproven sailor/Windmill attributions — treat as hypothesis. Testable via Griffith's Valuation (Croom/Scagh, 1851–53) or pre-1863 Croom baptisms.
 5. **Margaret Moloney's origin** — unknown. Fanningstown (Croom parish) is a strong lead since Moloney families are well-attested there.
 6. **Margaret Moloney's death** — date and location unconfirmed (the Drouin 1886 record belongs to a different family).
-7. **Ella Isabel's baptism** — likely in Croom pre-1863 or in a neighboring parish; not yet located.
-8. **Ella's emigration** — when did she arrive in WI? Who did she travel with? Patrick + Margaret stayed in Ireland having kids through 1878, so Ella came as a young teen, possibly with an aunt/uncle.
-9. **Fate of Honora, Margaret, Jane** — unknown.
+7. **Who is "Mrs. John Hayes" of Staten Island** in James's 1946 obit — see disambiguation section above. Identity unknown after Ella withdrawal.
+8. **Fate of Honora, Ellen, Margaret, Jane** — unknown. Any could potentially be Mrs. John Hayes if she emigrated.
+9. **Older siblings** — if James (1863) wasn't actually firstborn, there could be older Patrick + Margaret children pre-1863 that we haven't found. Worth checking Croom register pre-1863 baptisms.
 
 ---
 
@@ -104,7 +122,8 @@ Margaret Moloney is one of the most common name combinations in 19th-century Lim
 
 ## Open leads worth pursuing on Ancestry
 
-- **Croom baptisms pre-1863** — for Ella's baptism (and possibly earlier siblings)
+- **Croom baptisms pre-1863** — for possible older siblings of James (if any)
+- **Croom marriages 1860–1863** — Patrick + Margaret's wedding (Croom register has been swept May 1853 – Feb 1858 with no match). **Page 151 (Aug 1861 – Mar 1862) is the highest-priority target** — was previously obscured by a thumb shadow in older review
 - **Neighboring parish marriage registers** (~1860–62) — Kilfinane, Bruff, Athlacca, Knockainey — for Patrick + Margaret's marriage
 - **Griffith's Valuation (1850s)** — Moloney households in Fanningstown townland (Croom parish)
 - **Tithe Applotment Books (1820s–30s)** — Moloney in Fanningstown — may name Margaret's likely father
@@ -116,13 +135,13 @@ Margaret Moloney is one of the most common name combinations in 19th-century Lim
 - **James J. Gleeson's 1892 WI marriage record** (church register) — Catholic priests often noted parents' status (living/deceased) and origin parish; would confirm if Patrick was alive in 1892
 - ✅ **James's 1946 obituary** — retrieved as **St. Cloud Times, 28 Jan 1946, page 5**. Image at `assets/external/james-gleeson-obit-minnesota-1946.jpg`
 - **James's naturalization petition** — if filed post-1906, would list exact birthplace
-- **John Nelson Hayes in WI census records** post-1880 — household with Ella may show her birthplace ("Ireland") and a possible "year of immigration"
+- **1940 Staten Island census** — search for Irish-born female Hayes/Hays sister-aged to James (born ~1850–1880, in Richmond County NY) to identify "Mrs. John Hayes" from James's obit. Drop the "Ella Isabel" filter since that identification was withdrawn.
 
 ---
 
-## Key chain-migration insight
+## ~~Key chain-migration insight~~ (withdrawn 2026-06-01)
 
-Ella's 1874 Eau Claire marriage predates James's ~1883 emigration by **nine years**. This is almost certainly why James settled in Buffalo County, WI (adjacent to Eau Claire) rather than the typical Irish destinations of NYC or Boston. James followed his older sister's established foothold.
+Previously this section argued Ella's 1874 Eau Claire marriage was why James later settled in Buffalo County WI (adjacent to Eau Claire). That chain-migration story is **withdrawn** — the 1874 marriage was a different Gleason family. Why James specifically settled in Buffalo County, WI rather than NYC or Boston is now an open question. Possibly via another now-unknown family connection, or simply where land/work was available in 1883.
 
 ---
 
@@ -135,7 +154,7 @@ James J. Gleeson's obituary (**St. Cloud Times, 28 Jan 1946, page 5** — Saint 
 - **3 surviving sisters of James:**
   - **Mrs. Brigit O'Connor** — Croom, Ireland (still in Croom in 1946 — never emigrated)
   - **Miss Mary Gleeson** — Croom, Ireland (never married, never emigrated)
-  - **Mrs. John Hayes** — Staten Island, NY (= Ella Isabel; had relocated east from Eau Claire by 1946)
+  - **Mrs. John Hayes** — Staten Island, NY (identity unknown — see "Mrs. John Hayes of Staten Island" open question section above)
 - **5 surviving children of James:**
   - James Gleeson — Alma, WI
   - Mrs. Ray Theisen — Waite Park, MN (= Margaret Mary)
@@ -143,7 +162,7 @@ James J. Gleeson's obituary (**St. Cloud Times, 28 Jan 1946, page 5** — Saint 
   - John Gleeson — Mondovi, WI (printed as "Mandove" — typesetter error for Mondovi)
   - Mrs. John Jene — Eau Claire, WI (= Jane Agnes Gleeson, married John Charles Jene 1925)
 
-**Implication for Patrick's family:** Three of Patrick's daughters (Bridget, Mary, presumably others) stayed in Croom for life. Only James and Ella confirmed as emigrants. The Croom-to-WI chain migration was a minority pattern — most of Patrick's children rooted in Ireland.
+**Implication for Patrick's family:** Two of Patrick's daughters (Bridget, Mary) confirmed staying in Croom for life. Only James is confirmed as an emigrant. The unidentified "Mrs. John Hayes" in NY suggests at least one other emigrant, but we don't yet know which daughter.
 
 ## James + Maria 1892 marriage record — what it tells us about Patrick
 
@@ -172,8 +191,8 @@ Worth watching for these names in other family records.
 - FHL Film 101194 — Croom Catholic parish baptisms, Ellen Gleeson entry. Index transcription gave 15 Jul 1869; manuscript re-read 2026-05-31 reads "Die 9no" (9 Jul 1869). Father Patricii Gleeson, mother Margaritae Moloney. Sponsors Jeremias O'Leary + Brigida Shanahan. Officiant Rev. Joannes Quinlan. Confidence per re-reader: Ellen / Patrick Gleeson / Joannes Quinlan high; Moloney / Shanahan medium-high; O'Leary high.
 - GRO Ireland civil birth registration (FHL Film 101046) — Ellen Gleeson, 1869, Croom, Vol. 15 p. 219 (retrieved 2026-05-30).
 - Croom Parish Marriage Register Review (2026-04-11) — `research/results/gleeson-croom-marriages-review.md`
-- Ancestry.com, Wisconsin, U.S., Marriage Records, 1820–2015 (Box 674142) — Ella Isabel Gleason + John Nelson Hayes, 24 Dec 1874, retrieved 2026-05-30
-- Wisconsin Marriage Index (Vol. 01, p. 0229) — Ella Isabella Gleason + John Nelson Hayes, 24 Dec 1874, Eau Claire (secondary index citation, same marriage)
+- ~~Ancestry.com, Wisconsin, U.S., Marriage Records, 1820–2015 (Box 674142) — Ella Isabel Gleason + John Nelson Hayes, 24 Dec 1874~~ (withdrawn 2026-06-01 — different Gleason family; full record names bride's father as C. R. Gleason; retained as reference for the False leads section)
+- ~~Wisconsin Marriage Index (Vol. 01, p. 0229) — Ella Isabella Gleason + John Nelson Hayes, 24 Dec 1874, Eau Claire~~ (withdrawn — same record as above)
 - Correspondence with Tony (Australian Patrick Gleeson descendant) — no DNA match
 - James J. Gleeson obituary — **St. Cloud Times** (Saint Cloud, Minnesota), 28 Jan 1946, page 5. Image: `assets/external/james-gleeson-obit-minnesota-1946.jpg`. Citation source: `assets/external/james-gleeson-obit-source.txt`
 - Wisconsin Marriage Record No. 126, Stamp 00799 — James Gleason + Maria Fitzgerald, 23 Nov 1892, Mondovi, Buffalo Co.; names Patrick Gleason + Margarette "Malony" as groom's parents (US phonetic rendering of Moloney). Officiant Fr. Joseph M. Baur, Durand, Pepin Co. Witnesses William Fitzgerald + Mary L. Luffering. Retrieved 2026-05-31.
