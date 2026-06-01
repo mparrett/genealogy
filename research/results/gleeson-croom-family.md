@@ -14,7 +14,7 @@
 | James (Jacobus) Gleeson | 23 Dec 1863 (Croom) | Direct ancestor; sponsors: William Shaw, Margaret Kiely |
 | Honora Gleeson | 10 Mar 1866 | |
 | Bridget (Brigida) Gleeson | 21–24 Feb 1868 (Scagh) | Likely Bridget O'Connor |
-| Ellen / Helena Gleeson | 15 Jul 1869 (Scagh) | Name varies (Ellen/Helena) |
+| Ellen / Helena (Ellena) Gleeson | 9 Jul 1869 (Scagh) — sponsors Jeremias O'Leary + Brigida Shanahan; officiant Rev. Joannes Quinlan | Name varies (Ellen/Helena/Ellena); date corrected from index's "15 Jul" via manuscript re-read 2026-05-31 |
 | Mary Gleeson | 15 Dec 1872 | Likely "Miss Mary Gleeson, Croom" |
 | Margaret (Margarita) Gleeson | 29 Sep 1875 | |
 | Jane / Janet Gleeson | 25–28 Sep 1878 | |

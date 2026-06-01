@@ -19,7 +19,7 @@
 | 2 | **James (Jacobus) Gleeson** | 23 Dec 1863 | Our direct ancestor. Sponsors: William Shaw + Margaret Kiely. Baptized by Rev. Francis Dunlan, C.C. (curate, Croom). Entry No. 22. Emigrated ~1883 |
 | 3 | Honora ("Nora") Gleeson | 10 Mar 1866 | Fate unknown |
 | 4 | Bridget (Brigida) Gleeson | 21–24 Feb 1868 | → "Mrs. Bridget O'Connor" per James's obit |
-| 5 | Ellen / Helena Gleeson | Born + baptized 15 Jul 1869, Croom, Limerick. Father "Patt Gleeson," mother "Margaret Moloney" (FHL Film 101194). Civil birth reg. 1869, GRO Vol. 15 p. 219 (FHL Film 101046) | Name varies in records |
+| 5 | Ellen / Helena (Ellena) Gleeson | Baptized **9 Jul 1869**, Croom, Limerick (date per manuscript re-reading "Die 9no"; earlier "15 Jul" came from index FHL Film 101194 and is superseded). Father Patricii Gleeson, mother Margaritae Moloney. Sponsors **Jeremias O'Leary + Brigida Shanahan**. Officiant **Rev. Joannes Quinlan**. Civil birth reg. 1869, GRO Vol. 15 p. 219 (FHL Film 101046) | Name varies (Ellen / Helena / Ellena) |
 | 6 | Mary Gleeson | 15 Dec 1872 | → "Miss Mary Gleeson, Croom" per obit |
 | 7 | Margaret (Margarita) Gleeson | 29 Sep 1875 | Fate unknown |
 | 8 | Jane / Janet Gleeson | 25–28 Sep 1878 | Fate unknown |
@@ -156,12 +156,17 @@ The 1892 Wisconsin civil marriage record for James Gleeson + Maria Fitzgerald (M
 
 **No status info on Patrick:** The record names Patrick as the groom's father but does not indicate whether he was living or deceased in 1892. So this doesn't help bound Patrick's death year.
 
-**Priest network thread:** Fr. Joseph M. Baur (Durand, Pepin Co.) is now one of two named priests in our Gleeson record set, alongside Fr. Francis Dunlan, C.C. (Croom, Ireland, baptized James in 1863). Worth watching for either name in other family records.
+**Priest network thread:** Three named priests in our Gleeson record set so far:
+- **Fr. Francis Dunlan, C.C.** — Croom, baptized James 23 Dec 1863
+- **Rev. John (Joannes) Quinlan** — Croom, baptized Ellen 9 Jul 1869 (different from Dunlan; either Dunlan moved on or Croom had multiple curates)
+- **Fr. Joseph M. Baur** — Durand, Pepin Co. WI, officiated James + Maria's marriage 23 Nov 1892
+
+Worth watching for any of these names in other family records (siblings' baptisms, marriages of related Croom families, etc.).
 
 ## Sources
 
 - NLI Catholic Parish Registers, Croom parish (Scagh townland), Co. Limerick. FamilySearch index lists Jacobus Gleeson baptized 23 Dec 1863, parents Patritii Gleeson + Margaritæ Moloney (Microfilm 02427/07). Image: <https://www.ancestry.com/imageviewer/collections/61039/images/02427_07_0087?pId=152987443> — page entry No. 22, baptized by Rev. Francis Dunlan, C.C.
-- FHL Film 101194 — Croom Catholic parish baptisms. Ellen Gleeson, born + baptized 15 Jul 1869, father "Patt Gleeson," mother "Margaret Moloney" (retrieved 2026-05-30).
+- FHL Film 101194 — Croom Catholic parish baptisms, Ellen Gleeson entry. Index transcription gave 15 Jul 1869; manuscript re-read 2026-05-31 reads "Die 9no" (9 Jul 1869). Father Patricii Gleeson, mother Margaritae Moloney. Sponsors Jeremias O'Leary + Brigida Shanahan. Officiant Rev. Joannes Quinlan. Confidence per re-reader: Ellen / Patrick Gleeson / Joannes Quinlan high; Moloney / Shanahan medium-high; O'Leary high.
 - GRO Ireland civil birth registration (FHL Film 101046) — Ellen Gleeson, 1869, Croom, Vol. 15 p. 219 (retrieved 2026-05-30).
 - Croom Parish Marriage Register Review (2026-04-11) — `research/results/gleeson-croom-marriages-review.md`
 - Ancestry.com, Wisconsin, U.S., Marriage Records, 1820–2015 (Box 674142) — Ella Isabel Gleason + John Nelson Hayes, 24 Dec 1874, retrieved 2026-05-30
