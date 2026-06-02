@@ -9,8 +9,15 @@
 
 - **Wife:** Margaret **Moloney** (Latin *Margaritæ Moloney* in Croom register).
   - Spelling is locked: **Moloney** (not Maloney). Confirmed across multiple Croom baptism records for the children. Ancestry trees with *Maloney* are following the wrong family.
-- **Location:** Scagh townland, **Croom parish, Co. Limerick**.
+- **Location:** Scagh townland, **Croom parish, Co. Limerick**. Independently attested via the 1864 Petty Sessions record (see "Documented life events" below) and multiple parish baptism townland notations.
 - **Occupation:** **Unknown.** Previously held "sailor" attribution turned out to be contamination from a separate Limerick City Pat Gleeson family (see fingerprint below).
+
+### Documented life events (non-baptism)
+
+| Date | Event | Source |
+|---|---|---|
+| **14 Jun 1864** | Charged with "Drunk on the Street at Croom"; appeared in court 18 Jul 1864 before Justices Robert Maxwell + Henry Lyons. Residence on record: **"Scaugh"**. Fined 2s + 1s costs (or 24 hrs imprisonment). | NAI Petty Sessions Order Books, CSPS1/8382 |
+| **4 Jul 1883** | (TBD — FS-indexed entry; content missing from public view; needs NAI lookup) | FamilySearch (incomplete) |
 - **Children** — 7 baptisms in Croom 1863–1878 (tight, consistent sequence — stable family unit):
 
 | # | Name | Baptism | Notes |
@@ -124,6 +131,8 @@ Margaret Moloney is one of the most common name combinations in 19th-century Lim
 
 - **Croom baptisms pre-1863** — for possible older siblings of James (if any)
 - **Croom marriages 1860–1863** — Patrick + Margaret's wedding (Croom register has been swept May 1853 – Feb 1858 with no match). **Page 151 (Aug 1861 – Mar 1862) is the highest-priority target** — was previously obscured by a thumb shadow in older review
+- **Patrick Gleeson, 4 July 1883 record** — indexed at FamilySearch but content missing; should be available at the National Archives of Ireland. Could be a court appearance, civil registration, or other record. Worth pulling.
+- **More Petty Sessions appearances** — Patrick has at least one (1864). Worth a systematic CSPS sweep for "Gleeson" + "Croom" or "Scagh" across the 1860s–80s. Could surface other appearances, occupation hints, neighbor/witness names.
 - **Neighboring parish marriage registers** (~1860–62) — Kilfinane, Bruff, Athlacca, Knockainey — for Patrick + Margaret's marriage
 - **Griffith's Valuation (1850s)** — Moloney households in Fanningstown townland (Croom parish)
 - **Tithe Applotment Books (1820s–30s)** — Moloney in Fanningstown — may name Margaret's likely father
@@ -196,7 +205,8 @@ Worth watching for these names in other family records.
 - Correspondence with Tony (Australian Patrick Gleeson descendant) — no DNA match
 - James J. Gleeson obituary — **St. Cloud Times** (Saint Cloud, Minnesota), 28 Jan 1946, page 5. Image: `assets/external/james-gleeson-obit-minnesota-1946.jpg`. Citation source: `assets/external/james-gleeson-obit-source.txt`
 - Wisconsin Marriage Record No. 126, Stamp 00799 — James Gleason + Maria Fitzgerald, 23 Nov 1892, Mondovi, Buffalo Co.; names Patrick Gleason + Margarette "Malony" as groom's parents (US phonetic rendering of Moloney). Officiant Fr. Joseph M. Baur, Durand, Pepin Co. Witnesses William Fitzgerald + Mary L. Luffering. Retrieved 2026-05-31.
-- James J. Gleeson obituary, ~28 Jan 1946 (verbatim transcription retrieved 2026-05-31). Explicit Croom Ireland birthplace; 12 children with 5 surviving; 3 sisters surviving (Bridget O'Connor + Mary Gleeson in Croom, Ella Hayes in Staten Island NY); Mrs. John Jene of Eau Claire identified as daughter Jane Agnes.
+- James J. Gleeson obituary, ~28 Jan 1946 (verbatim transcription retrieved 2026-05-31). Explicit Croom Ireland birthplace; 12 children with 5 surviving; 3 sisters surviving (Bridget O'Connor + Mary Gleeson in Croom, Mrs. John Hayes in Staten Island NY — identity unknown after Ella withdrawal); Mrs. John Jene of Eau Claire identified as daughter Jane Agnes.
+- **NAI Petty Sessions Order Books, CSPS1/8382** — Patrick Gleeson of Scaugh charged with public drunkenness in Croom 14 Jun 1864; court appearance 18 Jul 1864; fined 2s + 1s costs. Justices Robert Maxwell + Henry Lyons; complainant Sub-Constable Oliver Goale. First non-parish primary attestation of Patrick at Scagh.
 
 ## Note on civil registration leads
 

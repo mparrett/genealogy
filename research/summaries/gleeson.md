@@ -195,6 +195,10 @@ Documented children:
 - **Father:** **Unknown.** One unverified Ancestry tree suggests Michael Gleeson (b. c. 1810); no primary documentation found. Same source pattern as the disproven "sailor"/"Windmill" attributions, so treat as hypothesis to test, not a fact.
 - **Mother:** Unknown
 
+### Documented non-parish events
+- **14 Jun 1864:** Charged with "Drunk on the Street at Croom"; court 18 Jul 1864; fined 2s + 1s costs. Residence listed as "Scaugh" (= Scagh). Source: NAI Petty Sessions Order Books, CSPS1/8382. First non-parish primary record of Patrick.
+- **4 Jul 1883:** TBD — FamilySearch-indexed entry, content missing; should be in NAI.
+
 ### Marriage
 - **Wife:** Margaret **Moloney** (not Maloney/Mahony — confirmed across multiple Croom parish records), b. **c. 1836 (range 1834–1838)**
 - **Marriage:** About **1862**, Ireland (presumed Croom). Anchored on James (1863) as earliest documented child. The Croom register has now been searched continuously from May 1853 through Feb 1858 (no Patrick + Margaret marriage found) — pushing the marriage estimate to ~1860–1863. Page 151 (Aug 1861 – Mar 1862) is a high-priority re-fetch target — earlier review noted it was obscured by a thumb shadow.

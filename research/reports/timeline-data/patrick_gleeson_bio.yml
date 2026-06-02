@@ -18,6 +18,9 @@ events:
   - year: 1878
     label: Last child baptized
     type: event
+  - year: 1864
+    label: Petty Sessions court appearance (Croom)
+    type: event
   - year: 1883
     label: Son James emigrated to US
     type: migration

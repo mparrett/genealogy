@@ -28,6 +28,11 @@ James emigrated to the United States around 1883, arriving in New York from Live
 
 The identity of **Mrs. John Hayes** of Staten Island (named as a surviving sister in James's 1946 obituary) is an open question. An earlier hypothesis identified her as "Ella Isabel Gleason" who married John Nelson Hayes in Eau Claire WI 24 Dec 1874 — but the actual 1874 marriage record names that bride's father as **C. R. Gleason**, not Patrick. That marriage is to a different Gleason family entirely. The genuine sister "Mrs. John Hayes" remains unidentified.
 
+## Documented life events
+
+- **14 June 1864 — Croom, Co. Limerick.** Patrick was charged with being "Drunk on the Street at Croom" by Sub-Constable Oliver Goale (assisted by Sub-Constable Edmond Sullivan, witness Sub-Constable W. Eakins). Court appearance 18 July 1864 before Justices Robert Maxwell and Henry Lyons. Fined two shillings + one shilling costs, or 24 hours imprisonment. Residence on the record: **"Scaugh"** (= Scagh townland). Source: National Archives of Ireland, Petty Sessions Order Books, CSPS1/8382. This is our first non-parish primary attestation of Patrick at Scagh.
+- **4 July 1883 — TBD.** A Patrick Gleeson record is indexed at FamilySearch for this date but content is missing from the public view; needs follow-up at the National Archives of Ireland.
+
 ## Death
 
 Patrick's date and place of death are unknown. Ancestry trees estimate death before 1925, but this appears to be Australian-line contamination and has no primary source. Patrick's father is unknown. One unverified Ancestry tree suggests Michael Gleeson (b. c. 1810), but no primary documentation has been found — this attribution comes from the same source pattern that gave us the (since-disproven) "sailor" and "The Windmill" attributions, so it should be treated as a hypothesis to test, not a fact.
