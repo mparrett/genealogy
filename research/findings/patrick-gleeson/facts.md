@@ -131,14 +131,18 @@ Margaret Moloney is one of the most common name combinations in 19th-century Lim
 ## Open leads worth pursuing on Ancestry
 
 - **Croom baptisms pre-1863** — for possible older siblings of James (if any)
-- **Croom marriages 1860–1863** — Patrick + Margaret's wedding (Croom register has been swept May 1853 – Feb 1858 with no match). **Page 151 (Aug 1861 – Mar 1862) is the highest-priority target** — was previously obscured by a thumb shadow in older review
+- **Croom marriages — current state of search:** Pages 136–144 (May 1853 – Feb 1858), 148–150 (Oct 1859 – Jul 1861), 151 right column (Feb–May 1862), 152 (Aug 1861 – Mar 1862), and 153 (May 1862 – Oct 1864) have all been swept — **no Patrick + Margaret marriage found**. **HOWEVER, page 151's left column (Aug 1861 – early Feb 1862) remains UNREADABLE due to a shadow** and is the highest-remaining-priority Croom target. Pages 151 and 152 turn out to be parallel registers from different sub-parishes (different priest signatures), so 152 being clean does NOT eliminate the marriage from 151's obscured section.
 - **Patrick Gleeson, 4 July 1883 record** — indexed at FamilySearch but content missing; should be available at the National Archives of Ireland. Could be a court appearance, civil registration, or other record. Worth pulling.
-- **More Petty Sessions appearances** — Patrick has at least one (1864). Worth a systematic CSPS sweep for "Gleeson" + "Croom" or "Scagh" across the 1860s–80s. Could surface other appearances, occupation hints, neighbor/witness names.
+- **Neighboring parishes for marriage search** — if 151's obscured left column doesn't yield Patrick + Margaret, sweep Patrickswell (Quinlan was P.P. there 1861–62), Manister, Fedamore, Bruff, Bruree, Adare.
+- **More Petty Sessions appearances** — Patrick has two documented (1859 + 1864), same court/justice. Likely more across the 1860s–80s. Worth a systematic CSPS sweep for "Gleeson" + "Croom" or "Scagh".
+- **Verify Michael Moloney + Bridget Martin marriage 10 Aug 1861 Croom** — likely Margaret's brother (matches our hypothesized Moloney brother who appeared as sponsor at Jane's 1878 baptism and at Patrick Moloney's 1864 baptism). If Michael is Margaret's brother, his marriage's witnesses (Patricio Martin + Maria Cronin) may include Moloney family members or open up parents' identities.
 - **Neighboring parish marriage registers** (~1860–62) — Kilfinane, Bruff, Athlacca, Knockainey — for Patrick + Margaret's marriage
 - **Griffith's Valuation (1850s)** — Moloney households in Fanningstown townland (Croom parish)
 - **Tithe Applotment Books (1820s–30s)** — Moloney in Fanningstown — may name Margaret's likely father
 - **Bridget Gleeson + Maria Malony 1864 Croom marriage** + **Bridget Gleeson married to Thomas Shea, baptizing daughter Catharina 4 Jan 1873 in Croom (sponsors William Breen + Alicia Moloney)** — these are plausibly the same Bridget, and quite possibly **Patrick's sister**. The Alicia Moloney sponsor in 1873 could be a Moloney kin on Margaret's side too. Strong combined lead worth pursuing
 - **Timothy (Timotheo) Gleeson, Croom Jan 1864** — appears as sponsor on the Dempsey-Synan baptism (6 Jan 1864). Possibly Patrick's brother or kinsman. Worth searching Croom register for Timothy's own marriage/family
+- **Michael Moloney + Bridget Martin married 10 Aug 1861 in Croom** (page 152; officiant J. Clifford; witnesses Patricio Martin + Maria Cronin) — this is **very likely the Michael Moloney who sponsored our Jane's 1878 baptism and Patrick Moloney's daughter Alicia in 1864**. Strongly supports the hypothesis that Michael Moloney is **Margaret's brother**.
+- **Stephen Gleeson + Mary Jammey married early March 1862 in Croom** (page 152; officiant A. Roche V.G.; witnesses Patrick Hartigan + Maria Bennett) — new extended-family Gleeson lead. "Sponte dispensatione" notation suggests a consanguinity dispensation was granted (the families were related), so probably a cousin marriage.
 - **Catharina Gleeson, Fedamore parish, 27 Dec 1872** — appears as mother (with Jeremiah Meara) on an illegitimate baptism at Croom; parents noted as belonging to Fedamore parish (adjacent to Croom). Possible extended Gleeson kin
 - **John (Joannes) Moloney + Johanna Moylan, Croom Nov 1872** — another Croom Moloney household. Possibly Margaret's brother or cousin. Worth tracing
 - **Croom sponsor network so far:** Storan, Kiely, O'Leary, Shanahan (Brigida appears for both Ellen 1869 and a Leahy-O'Brien Sep 1875 baptism), Blake, Condon, O'Shaughnessy, Canfield. Storan is the most distinctively Croom-rooted of these — a rare surname (*Ó Stóirín*) intensely clustered in Croom parish (Mark Storan in 1820s Tithe Books at Lower Corrobal; "Master Storan" the 19th-century schoolmaster in Mournane; Storan family continues to farm Lower Morenane in Croom today). All these families are tightly linked to Patrick + Margaret's social circle in Scagh.
@@ -189,15 +193,16 @@ The 1892 Wisconsin civil marriage record for James Gleeson + Maria Fitzgerald (M
 
 **No status info on Patrick:** The record names Patrick as the groom's father but does not indicate whether he was living or deceased in 1892. So this doesn't help bound Patrick's death year.
 
-**Priest network thread:** Four named priests in our Gleeson record set, showing the Croom curate transitions across the relevant period:
+**Priest network thread:** Multiple named priests across our Croom-area register sweep. **Critical insight (2026-06-02):** Pages 151 and 152 have different priest sets despite overlapping dates — meaning the "Croom register" actually contains parallel sub-parish records (Croom proper + Patrickswell + likely Manister), each with their own clergy. This explains apparent title inconsistencies (Quinlan signs as P.P. on page 152 in 1861, but as C.C. on page 87 for James's 1863 baptism — he was probably **P.P. of Patrickswell** while serving as **C.C. of Croom** simultaneously, since they're adjacent parishes in the same diocese).
 
-| Priest | Role at Croom | Documented appearances |
+| Priest | Role | Documented appearances |
 |---|---|---|
-| **Lawrence (Laurus) Harnett, P.P.** | Parish Priest, early-mid 1850s | Officiated multiple Croom marriages 1854–1856 |
+| **Lawrence (Laurus) Harnett, P.P.** | Parish Priest of Croom, early-mid 1850s | Officiated multiple Croom marriages 1854–1856 |
 | **Rev. J./T./L./S./D. Gleeson** (initial unclear) | Catholic Curate (C.C.), 1856–1857 | Officiated multiple Croom marriages 1856–1857; possibly Patrick's kin (a Gleeson curate during likely-marriage period). Explicitly identified as C.C. on 23 Feb 1857 with Harnett as P.P. |
-| **Francis Scanlan, P.P.** | Parish Priest, early 1862 | Officiating Croom marriages Feb–May 1862 (page 151 right column) |
-| **Jacobus S. Roche, V.P.** | Vicar Parochialis, early 1862 | Same window as Scanlan |
-| **Rev. John (Joannes) Quinlan** | C.C. (curate) then P.P. (parish priest), late 1862 onward | Officiated James's baptism (23 Dec 1863, C.C.), Mary's (18 Dec 1872, C.C.), Ellen's (9 Jul 1869), and Margaret's (29 Sep 1875). Active at Croom across at least 12 years; transitioned from C.C. to P.P. by 1872 (signs as both on the same page in 1872–73). |
+| **Francis Scanlan, P.P.** | Parish Priest (Croom proper?), early 1862 | Officiating marriages on page 151 right column (Feb–May 1862) |
+| **Jacobus S. Roche, V.P. / V.G.** + variants (J. L. Roche, A. Roche, Hubert Roche) | Vicar(s), 1861–62 | Multiple appearances on pages 151 and 152 — possibly a family of priests or different ranks of the same Roche |
+| **J. Clifford** | Officiated 10 Aug 1861 Michael Moloney + Bridget Martin marriage (page 152) | One known appearance |
+| **Rev. John (Joannes) Quinlan** | C.C. of Croom, P.P. of Patrickswell (overlapping in 1861–62), then sole P.P. by 1872 | Officiated James's baptism (23 Dec 1863, C.C.), Mary's (18 Dec 1872, C.C.), Ellen's (9 Jul 1869), and Margaret's (29 Sep 1875). Signed as P.P. in Nov 1861 — likely his Patrickswell role. Active across at least 12 years; transitioned from C.C. to sole P.P. by 1872 |
 | **Fr. Joseph M. Baur** | (Durand, Pepin Co. WI) | Officiated James + Maria's marriage 23 Nov 1892 |
 
 **Transition pattern:** Harnett (P.P.) + Hayes (V.P.) → Rev. ? Gleeson (C.C.) appears 1856 → Scanlan + Roche at start of 1862 → Quinlan takes over late 1862 and stays through 1875+.
