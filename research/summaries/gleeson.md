@@ -196,7 +196,8 @@ Documented children:
 - **Mother:** Unknown
 
 ### Documented non-parish events
-- **14 Jun 1864:** Charged with "Drunk on the Street at Croom"; court 18 Jul 1864; fined 2s + 1s costs. Residence listed as "Scaugh" (= Scagh). Source: NAI Petty Sessions Order Books, CSPS1/8382. First non-parish primary record of Patrick.
+- **11 Sep 1859:** Charged with "Drunk on the Public Street at Croom"; court 19 Sep 1859 before Justices Maxwell + Collins R.M. **Occupation: Farmer.** Residence listed as "Sean" (= Scagh almost certainly). Fined 2s 6d + 1s costs. Source: NAI Petty Sessions Order Books, CSPS1/8381. Earliest primary record of Patrick; documents his occupation.
+- **14 Jun 1864:** Charged with "Drunk on the Street at Croom"; court 18 Jul 1864; fined 2s + 1s costs. Residence listed as "Scaugh" (= Scagh). Source: NAI Petty Sessions Order Books, CSPS1/8382.
 - **4 Jul 1883:** TBD — FamilySearch-indexed entry, content missing; should be in NAI.
 
 ### Marriage

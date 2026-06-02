@@ -10,12 +10,13 @@
 - **Wife:** Margaret **Moloney** (Latin *Margaritæ Moloney* in Croom register).
   - Spelling is locked: **Moloney** (not Maloney). Confirmed across multiple Croom baptism records for the children. Ancestry trees with *Maloney* are following the wrong family.
 - **Location:** Scagh townland, **Croom parish, Co. Limerick**. Independently attested via the 1864 Petty Sessions record (see "Documented life events" below) and multiple parish baptism townland notations.
-- **Occupation:** **Unknown.** Previously held "sailor" attribution turned out to be contamination from a separate Limerick City Pat Gleeson family (see fingerprint below).
+- **Occupation:** **Farmer** (documented in the 1859 Petty Sessions record — see below). Earlier "sailor" attribution was contamination from a separate Limerick City Pat Gleeson family.
 
 ### Documented life events (non-baptism)
 
 | Date | Event | Source |
 |---|---|---|
+| **11 Sept 1859** | Charged with "Drunk on the Public Street at Croom" by Acting Constable Thomas Turner; court 19 Sept 1859 before Justices Robert Maxwell + C. J. Collins R.M. **Occupation: Farmer.** Residence on record: **"Sean"** (almost certainly = Scagh/Scaugh — same justice, same court, same charge pattern as the 1864 record). Fined 2s 6d + 1s costs or 24 hrs imprisonment. | NAI Petty Sessions Order Books, CSPS1/8381 |
 | **14 Jun 1864** | Charged with "Drunk on the Street at Croom"; appeared in court 18 Jul 1864 before Justices Robert Maxwell + Henry Lyons. Residence on record: **"Scaugh"**. Fined 2s + 1s costs (or 24 hrs imprisonment). | NAI Petty Sessions Order Books, CSPS1/8382 |
 | **4 Jul 1883** | (TBD — FS-indexed entry; content missing from public view; needs NAI lookup) | FamilySearch (incomplete) |
 - **Children** — 7 baptisms in Croom 1863–1878 (tight, consistent sequence — stable family unit):
@@ -188,11 +189,22 @@ The 1892 Wisconsin civil marriage record for James Gleeson + Maria Fitzgerald (M
 
 **No status info on Patrick:** The record names Patrick as the groom's father but does not indicate whether he was living or deceased in 1892. So this doesn't help bound Patrick's death year.
 
-**Priest network thread:** Two named priests in our Gleeson record set:
-- **Rev. John (Joannes) Quinlan** — Croom curate (C.C.) and later parish priest (P.P.). Officiated James's baptism (23 Dec 1863, C.C.), Mary's (18 Dec 1872, C.C.), Ellen's (9 Jul 1869), and Margaret's (29 Sep 1875). Active at Croom across at least 12 years; transitioned from C.C. to P.P. by 1872 (signs as both on the same page in 1872–73). (Note: an earlier transcription gave the 1863 officiant as "Francis Dunlan" — that was a ChatGPT misread; manuscript context across multiple pages confirms Quinlan throughout.)
-- **Fr. Joseph M. Baur** — Durand, Pepin Co. WI, officiated James + Maria's marriage 23 Nov 1892
+**Priest network thread:** Four named priests in our Gleeson record set, showing the Croom curate transitions across the relevant period:
 
-Worth watching for these names in other family records.
+| Priest | Role at Croom | Documented appearances |
+|---|---|---|
+| **Lawrence (Laurus) Harnett, P.P.** | Parish Priest, early-mid 1850s | Officiated multiple Croom marriages 1854–1856 |
+| **Rev. J./T./L./S./D. Gleeson** (initial unclear) | Catholic Curate (C.C.), 1856–1857 | Officiated multiple Croom marriages 1856–1857; possibly Patrick's kin (a Gleeson curate during likely-marriage period). Explicitly identified as C.C. on 23 Feb 1857 with Harnett as P.P. |
+| **Francis Scanlan, P.P.** | Parish Priest, early 1862 | Officiating Croom marriages Feb–May 1862 (page 151 right column) |
+| **Jacobus S. Roche, V.P.** | Vicar Parochialis, early 1862 | Same window as Scanlan |
+| **Rev. John (Joannes) Quinlan** | C.C. (curate) then P.P. (parish priest), late 1862 onward | Officiated James's baptism (23 Dec 1863, C.C.), Mary's (18 Dec 1872, C.C.), Ellen's (9 Jul 1869), and Margaret's (29 Sep 1875). Active at Croom across at least 12 years; transitioned from C.C. to P.P. by 1872 (signs as both on the same page in 1872–73). |
+| **Fr. Joseph M. Baur** | (Durand, Pepin Co. WI) | Officiated James + Maria's marriage 23 Nov 1892 |
+
+**Transition pattern:** Harnett (P.P.) + Hayes (V.P.) → Rev. ? Gleeson (C.C.) appears 1856 → Scanlan + Roche at start of 1862 → Quinlan takes over late 1862 and stays through 1875+.
+
+(Note: an earlier transcription gave the 1863 officiant as "Francis Dunlan" — that was a ChatGPT misread; manuscript context across multiple pages confirms Quinlan throughout.)
+
+Worth watching for any of these names in other family records.
 
 ## Sources
 

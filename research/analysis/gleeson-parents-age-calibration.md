@@ -21,7 +21,10 @@ The "1843" birth years floating around our Ancestry data for both Patrick and Ma
 | Earliest documented child James baptized 23 Dec 1863, Croom | NLI Catholic Parish Registers, vtls000634977 page 87 |
 | Last documented child Jane baptized 28 Sep 1878, Croom | NLI Catholic Parish Registers, vtls000634977 page 121 |
 | Documented family span James (1863) → Jane (1878) = **15 years of confirmed childbearing** | Derived |
+| **Patrick documented as a Farmer in Croom by 11 Sept 1859** | NAI Petty Sessions Order Books, CSPS1/8381 |
 | Croom marriage register searched continuously May 1853 – Feb 1858 — no Patrick + Margaret found | NLI parish register sweep 2026-06-01 |
+
+**Important new constraint (added 2026-06-02):** Patrick was already an established farmer in Croom by Sept 1859. This means he was a man of standing (rented land) in his late 20s, ready to marry. The 1859 anchor supports a marriage anywhere from **1860–1863** (between farming-established and James's baptism). It does NOT rule out an even earlier marriage, but combined with the negative results from the 1853–1858 Croom marriage sweep, **1860–1863 is now our highest-confidence window**.
 
 ## Demographic baseline: post-Famine Ireland
 

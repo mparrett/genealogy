@@ -18,6 +18,9 @@ events:
   - year: 1878
     label: Last child baptized
     type: event
+  - year: 1859
+    label: First documented record (Petty Sessions, Croom; Farmer)
+    type: event
   - year: 1864
     label: Petty Sessions court appearance (Croom)
     type: event
