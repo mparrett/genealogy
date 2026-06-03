@@ -82,6 +82,14 @@ Witnessed by J. F. Cronin (Manager, Munster & Leinster Bank Croom) and P. G. Fot
   - Registered 17 Apr 1911, by W. Bourke Assistant Registrar
   - Group registration ID 5174375; civil death register entry 334
   - Pattern: an elderly poor labourer dying alone in another part of Limerick, with a neighbor present — bears no resemblance to our Croom landholding farmer Patrick
+- **Not the Ballinhassig / Gortnaglough Patrick Gleeson** in 1914 civil death (late-registered 1959). Age 80 (= b. ~1834), occupation Farmer, and year (1914, within our death window) appear plausible on paper, but multiple hard disqualifiers rule it out:
+  - **Condition: Widower** — our Patrick is married (Margaret alive Jan 1918, so cannot predecease an October 1914 widower death)
+  - **County: Cork**, not Limerick. Gortnaglough, Ballinhassig is south Co. Cork (~100 mi from Croom). Our Patrick documented at Scagh, Croom in 1859, 1864, 1869, with widow Margaret at Croom 1918 — no plausible Cork relocation
+  - **Informant: John Gleeson, "Second Cousin," Hill Terrace, Bandon, Co. Cork** — a distant Cork-based relative present at death rather than wife or any of the 7 documented children
+  - Cause: Pneumonia, ~2 weeks
+  - Registered 19 October 1959 (45 years post-death, "by the authority of Registrar") — likely for a property/succession question many years later
+  - Certified 4 Jan 1960 by J. Cronen, Cláraitheoir, Ballygarvan, South Cork; entry No. 158 of 1959 register
+  - Pattern: a Cork-resident Gleeson widower with a Bandon-based cousin network — entirely distinct kin cluster from our Croom Patrick
 - **Also ruled out (Patrick Gleeson civil deaths Limerick, the other three indexed results):**
   - 1908, age 46 (too young — our Patrick would be 76)
   - 1914, age 20 (way too young)
