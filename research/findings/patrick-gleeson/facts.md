@@ -149,6 +149,44 @@ Any Ancestry hint, tree, or record matching this fingerprint is the Australian f
 
 ---
 
+## Family geography (per WI-side oral history, 2025-02-13)
+
+**Robert Gleeson** (Wisconsin-side distant cousin descended from James Gleeson b. 1863 — likely via John Gleeson of Mondovi WI) provided two pieces of family lore in text messages to Matt:
+
+1. **2025-02-10 → 2025-02-13:** "Dad mentioned relatives from Wisconsin traveling to Cork to visit Gleeson relatives there but he had no details of who in Ire."
+2. **(undated, same thread):** "Grandpa Geeson born in 1864 in County Limerick. the relatives lived there [Limerick] and in Tipperary, and in Cork."
+
+### Implications
+
+- **Patrick's extended family spanned three counties:** Limerick (where he settled at Croom), Tipperary (likely his or his parents' origin — the historic Gleeson surname heartland), and Cork.
+- **Wisconsin-side oral history validates the Cork link.** Multi-generational visits Wisconsin → Cork are recorded in family memory at least into Robert's grandfather's lifetime.
+- **Patrick's siblings/cousins probably distributed across all three counties.** Our Croom Gleeson cluster (John+Honora Walsh, Michael+Maria Walsh of Meenanus, Bridget+Thomas Shea, Stephen+Mariam Twomey, Catherine+Daniel Greany, Anna, Charles) is **the Limerick branch** — but there are likely Tipperary and Cork branches we haven't yet identified.
+
+### Re-evaluation of previously-rejected records
+
+The following records were rejected as "wrong family" based purely on county mismatch but may now warrant re-evaluation as potential **cousins or collateral relatives** (not Patrick himself — established disqualifiers stand for him):
+
+- **Patrick Gleeson of Tinneranna, Cappamore, Co. Tipperary** — Farmer, d. 18 Nov 1893, beneficiary James Gleeson Farmer, effects £345. Beneficiary's name "James" alongside Cappamore townland (which spans Limerick-Tipperary border) makes him an interesting cousin candidate.
+- **Patrick Gleeson of Kyle, Cappamore, Co. Limerick** — Farmer, d. 28 Sep 1899, administrator Thomas Gleeson. Cappamore again. Worth tracking whether Thomas Gleeson appears in any Croom Gleeson context.
+- **Patrick Gleeson of Gortnaglough, Ballinhassig, Co. Cork** — Farmer, d. 16 Oct 1914, age 80, second cousin John Gleeson of Hill Terrace Bandon as informant. **Same generation as our Patrick (b. ~1834 vs c. 1832), same occupation, Cork location consistent with family lore.** Plausibly a first or second cousin of our Patrick.
+- Tipperary Patrick Gleeson hits 1873, 1875, 1882, 1886, 1890–1894, 1908, 1913, 1915, 1918, 1919 — many of these in the Cappamore / Borrisoleigh / Toomevara cluster need re-evaluation as potential cousins.
+
+### Reframing the marriage hunt
+
+Two new possibilities open up:
+
+1. **Patrick may not have been born in Croom.** His birth (~1832) and possibly his marriage could be in Tipperary (or less likely Cork). If he migrated to Croom as a young adult, his marriage record may be in his birth parish, not Croom or any Croom-adjacent parish.
+2. **The "missing children before James 1863"** hypothesis (Mrs. John Hayes of Staten Island as a possible older sister) gains a new geographic dimension. If older children exist, their baptisms could be in Tipperary or Cork — wherever Patrick + Margaret lived before settling at Scagh ~1859.
+
+### Practical next-pull items
+
+- **Robert Gleeson contact** — Matt has the contact thread. Asking for any specific Cork town names, Tipperary places, or family surnames mentioned in past visits would be high-leverage. Even fragmentary detail ("they stayed in Bandon" or "Dad mentioned a Tom Gleeson") narrows the search dramatically.
+- **Tipperary parish marriage register sweep** — start with parishes adjacent to Croom on the Limerick-Tipperary border (Cappamore, Doon, Hospital, Galbally) for ~1860 Patrick Gleeson + Margaret Moloney marriages.
+- **Cork parish marriage register sweep** — start with Ballinhassig + adjacent parishes (Innishannon, Kinsale, Bandon area).
+- **Civil birth registrations for our 7 documented children** at irishgenealogy.ie may reveal Patrick's or Margaret's birthplace fields (some birth registrations include parents' birthplaces).
+
+---
+
 ## What we don't know
 
 1. **Patrick's birth year** — calibrated estimate **c. 1832 (range 1830–1834)** based on James as earliest documented child (1863) and Irish post-Famine marriage norms. Calibration redone 2026-06-01 after the prior "Ella firstborn ~1856" anchor was withdrawn. See `research/analysis/gleeson-parents-age-calibration.md`.
