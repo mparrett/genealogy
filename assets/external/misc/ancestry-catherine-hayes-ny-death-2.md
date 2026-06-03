@@ -1,0 +1,57 @@
+Name	Catherine Hayes
+Age	64
+Estimated Birth Year	abt 1876
+[abt 1876]
+Gender	Female
+Race	White
+Birthplace	Irish Free State
+Marital Status	Single
+Relation to Head of House	Lodger
+Home in 1940	New York, New York, New York
+Map of Home in 1940	New York, New York, New York
+Street	Third Avenue
+Inferred Residence in 1935	New York, New York, New York
+Residence in 1935	New York
+Citizenship	Alien
+Sheet Number	3A
+Occupation	Retired
+Attended School or College	No
+Highest Grade Completed	Elementary school, 8th grade
+Weeks Worked in 1939	0
+Income	0
+Income Other Sources	Yes
+Neighbors	View others on page
+Household Members (Name)	Age	Relationship
+Frances Murray
+60
+Head
+Brigete Murray
+65
+Wife
+John Murray
+24
+Son
+Negmn Shawn
+21
+Nephew
+Margaret Cassidy
+76
+Lodger
+Molly Dockery
+45
+Lodger
+Mamie O'Toole
+47
+Lodger
+Mary O'Riely
+47
+Lodger
+Elizabeth Burns
+55
+Lodger
+Catherine Prince
+52
+Lodger
+Catherine Hayes	64	Lodger
+
+https://www.ancestry.com/search/collections/2442/records/5584484
