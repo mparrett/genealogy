@@ -1,0 +1,165 @@
+Arrival Record Text Version
+Table showing passenger arrival records with name, arrival date, residence, collection, location and action buttons
+Name	Date of Arrival	Last Residence	Arrival Collection	Arrival Location	
+John Hayes	
+8 September 1912
+Staten Island, U.S.A.
+New York, Passenger Arrival Lists (Ellis Island), 1892-1925
+Ellis Island, New York City, New York, United States
+
+
+Feodor Sandstrom	
+8 September 1912
+New York, U.S.A.
+New York, Passenger Arrival Lists (Ellis Island), 1892-1925
+Ellis Island, New York City, New York, United States
+
+
+Johanna Turnblom	
+8 September 1912
+Minneapolis, U.S.A.
+New York, Passenger Arrival Lists (Ellis Island), 1892-1925
+Ellis Island, New York City, New York, United States
+
+
+Hanna Carlsson	
+8 September 1912
+Denver, U.S.A.
+New York, Passenger Arrival Lists (Ellis Island), 1892-1925
+Ellis Island, New York City, New York, United States
+
+
+Agnes Hayes	
+8 September 1912
+Staten Island, U.S.A.
+New York, Passenger Arrival Lists (Ellis Island), 1892-1925
+Ellis Island, New York City, New York, United States
+
+
+Ivor Carlsson	
+8 September 1912
+Denver, U.S.A.
+New York, Passenger Arrival Lists (Ellis Island), 1892-1925
+Ellis Island, New York City, New York, United States
+
+
+Elsa Agnew	
+8 September 1912
+Ansonia, U.S.A.
+New York, Passenger Arrival Lists (Ellis Island), 1892-1925
+Ellis Island, New York City, New York, United States
+
+
+John Hayes	
+8 September 1912
+Staten Island, U.S.A.
+New York, Passenger Arrival Lists (Ellis Island), 1892-1925
+Ellis Island, New York City, New York, United States
+
+https://www.statueofliberty.org/arrival-details/?id=JVM8-H2L
+Here is a formal transcription of the primary passenger manifest document shown in **image_86a2fe.png**.
+
+---
+
+### Header Information
+
+* **Form No:** 659 B / Department of Commerce and Labor / IMMIGRATION SERVICE
+* **Number:** 7
+* **S.S.:** Cameronia
+* **Sailing from:** Glasgow, 31st August 1912
+* **Arriving at Port of New York:** 3rd Septbr, 1912
+* **Page/Line Number:** 171 / 91
+
+---
+
+### Manifest Passenger Entries
+
+| No. on List | Family Name | Given Name | Age (Yrs / Mos) | Sex | Married or Single | If Native of United States, Give Date and Place of Birth (City or Town and State). | If Naturalized, Give Name and Location of Court Which Issued Naturalization Papers, and Date of Papers. | Address in United States. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **1** | Hayes | John | 50 | M | M | [illegible/crossed out] country 6 mos / Richmond Co. | Nat in Richmond Co 22 July 1903 | Brother Timothy Hayes, York Ave, Staten Island, N.Y. |
+| **2** | Hayes | Agnes | 50 | F | M | NY | Husband is a cit. | [Same as above] |
+| **3** | Hayes | Catherine | 18 | F | S | Born U.S.A. |  | [Same as above] |
+| **4** | Hayes | Agnes | 16 | F | S |  |  | [Same as above] |
+| **5** | Hayes | John | 9 | M | S |  |  | [Same as above] |
+| **6** | Hayes | Thomas | 7 | M | S |  |  | [Same as above] |
+| **7** | Turnblom | Johanna | 47 | F | M |  | Dist Court 4th Dist Hennepin Co. Minn. 25 July 1900 | Home: Husband Edward Turnblom, 1021 - 22nd Ave So, Minneapolis, Minn. |
+| **8** | Larson | Amanda | 25 | F | M |  | District Court of Minnesota Ramsey Co 10th June 1912 | Husband Charles Larson, 889 Burr St, St. Paul Minn |
+| **9** | Larson | Hildur | 3 | F | S | Minn. June 10. 1912 | 10th June 1912 | Father St Paul Minn [Same address] |
+| **10** | Hansen | Marie | 40 | F | M | [Crossed out/illegible] | Glendive Mont. 1887. | Home: 5820 Hood St South, Tacoma Wash |
+| **11** | McClintock | James | 56 | M | Widower |  | District Court Seattle, Wash. over 45 years ago / aff sworn | Kelloggs Block 2nd Ave, Seattle Wash |
+| **12** | *Morrison* | *Charlotte* | *[Entries crossed out]* |  |  |  |  |  |
+| **13** | Sandstrom | Feodor | 28 | M | M | Supreme Ct NY | Supreme Court of New York 4th March 1912 | Home: 2256 - 5th Ave, New York |
+| **14** | Sandstrom | Hilma | 28 | F | M |  | [Ditto marks below Supreme Court NY 1912] | [Same as above] |
+| **15** | Sandstrom | George Harry | 3 / 6 | M | S | US Born | US Cit | [Same as above] |
+| **16** | Agren | Axel | 31 | M | M | US Circuit Ct. dist of Conn. | U.S. Circuit Court New Haven Conn. 27 Feby 1910 | Home: 21 Rockwood Ave, Ansonia Conn. |
+| **17** | Agren | Anna | 29 | F | M |  | [Ditto marks below US Circuit Court 1910] | [Same as above] |
+| **18** | Agren | Elsa | 7 | F | S |  |  | [Same as above] |
+| **19** | Agren | Edward | 5 | M | S |  |  | [Same as above] |
+| **20** | Carlsson | Hanna | 58 | F | M | Co Court Lake Co. Colo. | Co Court, Lake, Colorado May 26 1892 | Home: 815 West 9th Ave, Denver, Col. |
+| **21** | Carlsson | Ivar | 11 | M | S | dcdt 1901. Leadville, Col. | 2nd Dec. 1893 | [Same as above] |
+| **22** | Schramm | Anton | 48 | M | M | [Crossed out] | Circ Court Jackson Mich Nov 1900 | Home: Jackson Mich |
+
+---
+
+### Notation & Marginalia Transcriptions
+
+* **Over Lines 23–28 (Large diagonal administrative stamp/handwriting):**
+> *No. 1-6422*
+> *Inspected*
+> *No. 10 - remanifested on Sheet 8 - #11 as an alien*
+> *by Insp. Macatee*
+
+
+* **Large Bold Crayon Markings:** `V.C.`, `2-1`, `25 Cert`, `1 Alien`
+* **Bottom Footer Warning:**
+> IMPORTANT NOTICE.—Great care should be taken not to place on this list the name of any passenger who was not born in the United States or who has not taken out final naturalization papers. Failure to observe the terms of this notice may result in delay to the passenger at the port of arrival.Here is a detailed transcription of the specific columns visible in **image_864c85.png**, which focuses on the birth and naturalization details from the same 1912 passenger manifest.
+
+---
+
+### Header Information
+
+* **Sailing from:** Glasgow 31st August 1912
+* **Arriving at Port of New York**
+
+---
+
+### Column Transcriptions
+
+| Row (Ref) | IF NATIVE OF UNITED STATES, GIVE DATE AND PLACE OF BIRTH (CITY OR TOWN AND STATE). | IF NATURALIZED, GIVE NAME AND LOCATION OF COURT WHICH ISSUED NATURALIZATION PAPERS, AND DATE OF PAPERS. |
+| --- | --- | --- |
+| **Row 1** | *[Written across both columns]* in vd country 6 mos / Richmond Co / NY | Nat in Richmond Co 22nd July 1903 |
+| **Row 2** |  | Husband is a cit. |
+| **Row 3** | Born U.S.A. |  |
+| **Row 4** |  |  |
+| **Row 5** |  |  |
+| **Row 6** | Dist Court 4th Dist Co [Hennepin] | District Court of Minnesota / 25th July 1900 |
+| **Row 7** | Dist Court Ramsey Co | district Court of Minnesota / 10th June 1912 |
+| **Row 8** | Minn June 10, 1912 | 10th June 1912 |New York, Passenger Arrival Lists (Ellis Island), 1892-1925
+Date of Arrival
+8 September 1912
+Last Residence Place
+Staten Island, U.S.A.
+Arrival Location
+Ellis Island, New York City, New York, United States
+Passenger ID
+JVM8-H2L
+Image Reference
+T715-1930-326
+Line Number
+0003
+Marital Status
+Single
+Gender
+Female
+Age At Arrival
+18
+Nationality
+US Citizen
+Year of Birth
+1894
+Race
+N/A
+Place of Departure
+Glasgow
+Ship / Plane Name
+Cameronia

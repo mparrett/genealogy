@@ -1,0 +1,388 @@
+Arrival Record Text Version
+Table showing passenger arrival records with name, arrival date, residence, collection, location and action buttons
+Name	Date of Arrival	Last Residence	Arrival Collection	Arrival Location	
+Enoch Dingley	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+W C Mayes	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+E C Chamberlin	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Walter Whitehouse	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Wm Snowden	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Kate Snowden	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Jos Snowden	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Martha Snowden	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Jane Snowden	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Anne Snowden	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+William Snowden	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Bridget Bowen	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+S Wild	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+J Daft	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Wm Mitchell	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Chris Bakewell	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Bakewell	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Frank Bakewell	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Geo Mallard	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Eliza Williams	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Mary Williams	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Geo Williams	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Thos Williams	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Fred Williams	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Emily Williams	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Thos W Owen	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Jessie Holmes	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Wm Hurd	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Oliver Boswell	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Phillip White	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Albert Bastow	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Hy Rummea	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+E Hirsh	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Luke Collins	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Emily Collins	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+J L Collins	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Charlie Collins	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Harry Collins	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+John Marsh	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Eliza Brenner	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Margt Morton	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Jas Exton	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Campbell	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Hy J Warren	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Jno Heany	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Katie Ennis	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Mary Mangan	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Catherine Gleeson	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Jno Daley	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+Mary Murray	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+
+R S Lyons	
+1884
+N/A
+New York, Passenger Lists, 1820-1920
+New York County, New York, United States
+
+New York, Passenger Lists, 1820-1920
+Date of Arrival
+1884
+Last Residence Place
+N/A
+Arrival Location
+New York County, New York, United States
+Passenger ID
+QVSV-SX8V
+Image Reference
+M237-480-451
+Line Number
+N/A
+Marital Status
+N/A
+Gender
+Female
+Age At Arrival
+22 years
+Nationality
+Scotland
+Year of Birth
+1862
+Race
+N/A
+Place of Departure
+N/A
+Ship / Plane Name
+Austral

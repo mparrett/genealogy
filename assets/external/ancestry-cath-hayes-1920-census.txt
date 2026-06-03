@@ -1,0 +1,34 @@
+Name	Catherine Hayes
+[Catherine Hayer]
+Age	48
+Birth Year	abt 1872
+[abt 1872]
+Birthplace	Ireland
+Home in 1920	Richmond Assembly District 2, Richmond, New York
+Street	Egbert Street
+Residence Date	1920
+Race	White
+Gender	Female
+Immigration Year	1895
+[1898]
+Relation to Head of House	Wife
+Marital Status	Married
+Spouse's Name	John Hayes
+Father's Birthplace	Ireland
+Mother's Birthplace	Ireland
+Native Tongue	English
+Able to Speak English	Yes
+Naturalization Status	Alien
+Able to read	Yes
+Able to Write	Yes
+Neighbors	View others on page
+Household Members (Name)	Age	Relationship
+John Hayes
+55
+Head
+Catherine Hayes	48	Wife
+John P Leo
+29
+Boarder
+Save this record?
+Save
