@@ -73,6 +73,19 @@ Witnessed by J. F. Cronin (Manager, Munster & Leinster Bank Croom) and P. G. Fot
   - Patrick Gleeson of **Cloon and Commons**, Co. Limerick — Farmer, died 7 Jul 1897 at Limerick Union Workhouse; widow Anne Gleeson; effects £34
   - Patrick Gleeson of **Kyle, Cappamore**, Co. Limerick — Farmer, died 28 Sep 1899; administrator Thomas Gleeson; effects £267
   - Patrick Gleeson of **Six-mile-bridge** — Licensed Victualler, died 14 Jan 1900; widow Elizabeth Gleeson; effects £55
+- **Not the Moigh / Caherconlish Patrick Gleeson** in 1911 civil death registration. Age (76) and year (1911) initially fit our Patrick's profile suggestively (and the 1911 timing matched the antecedent 1911 mortgage on our 1918 deed), but every soft detail disqualifies:
+  - **Condition: Widower** — our Patrick is married (Margaret alive Jan 1918)
+  - **Occupation: Labourer** — our Patrick documented as Farmer in 1859, 1864, 1869 Petty Sessions
+  - **Place of death: Moigh townland**, Caherconlish RD, Co. Limerick — ~15–20 mi east of Croom
+  - Cause: Debility, no medical attendant
+  - Informant: Nora Connell (no kin relation noted), Moigh
+  - Registered 17 Apr 1911, by W. Bourke Assistant Registrar
+  - Group registration ID 5174375; civil death register entry 334
+  - Pattern: an elderly poor labourer dying alone in another part of Limerick, with a neighbor present — bears no resemblance to our Croom landholding farmer Patrick
+- **Also ruled out (Patrick Gleeson civil deaths Limerick, the other three indexed results):**
+  - 1908, age 46 (too young — our Patrick would be 76)
+  - 1914, age 20 (way too young)
+  - 1917, age 0 (infant)
 - **Not either of two Limerick Margaret Gleesons in the 1919 calendar:**
   - Margaret Gleeson of **Nicker, Pallasgreen** — Married Woman, died 24 Feb 1919; husband Daniel Gleeson (farmer)
   - Margaret Gleeson of **Baggotstown West, Hospital** — Widow, died 14 Mar 1910 (grant delayed to 15 Nov 1919); executor Mary Gleeson (Spinster)
@@ -132,7 +145,7 @@ Any Ancestry hint, tree, or record matching this fingerprint is the Australian f
 
 1. **Patrick's birth year** — calibrated estimate **c. 1832 (range 1830–1834)** based on James as earliest documented child (1863) and Irish post-Famine marriage norms. Calibration redone 2026-06-01 after the prior "Ella firstborn ~1856" anchor was withdrawn. See `research/analysis/gleeson-parents-age-calibration.md`.
 1a. **Margaret's birth year** — calibrated estimate **c. 1836 (range 1834–1838)** — same source. Bracketed by James firstborn (1863) and Jane lastborn (1878). If Margaret was 27 at James and 42 at Jane, that fits a typical Irish childbearing span.
-2. **Patrick's death** — bounded: died **after 14 June 1864** (last Petty Sessions appearance) and **before 10 January 1918** (Margaret documented as widow in 1918 Registry of Deeds memorial). A 54-year window. Most likely died **intestate without probate** — searched the National Archives Calendar of Wills 1858–1922 (Limerick and adjacent counties) on 2026-06-02 and found no matching Patrick Gleeson (three Limerick Patricks all confirmed wrong-family — see `research/results/gleeson-calendar-of-wills-search.md`). The 1911 mortgage referenced in the 1918 deed may have been Margaret signing already as widow, not Patrick co-signing. Tightening this window requires either the 1911 deed itself, civil death records at irishgenealogy.ie, or a death record in Croom church burial register if extant.
+2. **Patrick's death** — bounded: died **after 26 April 1869** (third Petty Sessions appearance at Scagh) and **before 10 January 1918** (Margaret documented as widow in 1918 Registry of Deeds memorial). A 49-year window. Most likely died **intestate without probate** — searched the National Archives Calendar of Wills 1858–1922 (Limerick and adjacent counties) on 2026-06-02 and found no matching Patrick Gleeson (three Limerick Patricks all confirmed wrong-family — see `research/results/gleeson-calendar-of-wills-search.md`). Civil death records search for Patrick Gleeson in Co. Limerick also surfaced **only four candidates**, all ruled out (three too young; the fourth — Moigh/Caherconlish 1911, age 76 — superficially plausible but eliminated on five disqualifiers: widower not married, labourer not farmer, wrong townland 15+ mi east of Croom, non-kin informant, no medical attendant). See disambiguation section for full Moigh fingerprint. **Possible explanations:** (a) Patrick's civil death is indexed under a variant spelling (Gleason / Glissan / Glesson), (b) he died in an adjacent county (Tipperary/Cork), or (c) the registration was filed under a different given name (Pat / Patk). Tightening this window requires another irishgenealogy.ie variant-spelling sweep, the 1911 deed itself, or a death record in Croom church burial register if extant.
 3. **Patrick + Margaret's marriage record** — searched 37 pages of Croom register (1844–1874). Not found. Page 151 (1862–63, the most likely window) is obscured by a thumb shadow. Could also be in a neighboring parish.
 4. **Patrick's father** — **Unknown.** One unverified Ancestry tree suggests Michael Gleeson (b. c. 1810); no primary documentation found. Same source pattern as the disproven sailor/Windmill attributions — treat as hypothesis. Testable via Griffith's Valuation (Croom/Scagh, 1851–53) or pre-1863 Croom baptisms.
 5. **Margaret Moloney's origin** — unknown. **Top lead: Kilfinny civil parish (adjacent to Croom)**, based on the 1918 deed identifying Jeremiah Molony of Ballymackeamore (a Kilfinny townland) as her near kinsman/likely brother. Fanningstown (Croom parish) remains a secondary lead.
