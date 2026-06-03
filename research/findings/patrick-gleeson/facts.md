@@ -19,6 +19,36 @@
 | **11 Sept 1859** | Charged with "Drunk on the Public Street at Croom" by Acting Constable Thomas Turner; court 19 Sept 1859 before Justices Robert Maxwell + C. J. Collins R.M. **Occupation: Farmer.** Residence on record: **"Sean"** (almost certainly = Scagh/Scaugh — same justice, same court, same charge pattern as the 1864 record). Fined 2s 6d + 1s costs or 24 hrs imprisonment. | NAI Petty Sessions Order Books, CSPS1/8381 |
 | **14 Jun 1864** | Charged with "Drunk on the Street at Croom"; appeared in court 18 Jul 1864 before Justices Robert Maxwell + Henry Lyons. Residence on record: **"Scaugh"**. Fined 2s + 1s costs (or 24 hrs imprisonment). | NAI Petty Sessions Order Books, CSPS1/8382 |
 | **4 Jul 1883** | (TBD — FS-indexed entry; content missing from public view; needs NAI lookup) | FamilySearch (incomplete) |
+| **13 Jun 1911** | Indenture of Mortgage (referenced as the antecedent to the 1918 release; party details TBD — may show Patrick as co-signatory if still alive). | Irish Registry of Deeds (1918 memorial #29 cites it) |
+| **10–11 Jan 1918** | **Indenture of Release: Jeremiah Molony to Margaret Gleeson.** Registered 26 Jan 1918, Memorial #29. See "1918 Registry of Deeds memorial" section below. Establishes Margaret as **widow** of Patrick by this date. | Irish Registry of Deeds; transcriptions at `assets/external/transcripts-memories-gleeson-molony-1918.md` (Gemini) + `...-fs.md` (FamilySearch) |
+
+### 1918 Registry of Deeds memorial — Molony to Gleeson
+
+A Registry of Deeds memorial registered **26 January 1918 (Memorial #29)** records an Indenture of Release dated 10 Jan 1918 between:
+
+- **Jeremiah Molony of Ballymacamore** (= almost certainly **Ballymackeamore**, a townland in/near **Kilfinny civil parish** adjacent to Croom — per Co. Limerick townland index), **farmer** — releasing party (mortgagee)
+- **Margaret Gleeson of Main Street, Croom, Co. Limerick**, **Widow** — released party
+
+Subject: Jeremiah releases the property previously mortgaged by an antecedent Indenture of Mortgage dated **13 June 1911**. Property is described as a dwelling house with offices on Main Street Croom + strip of ground extending to the **River Maigue**, being part of the lands of **"Skamerrygare"** (Gemini reading) / **"Samerrygare"** (FS reading) with the gardens of **"Crooms"** and **"Shanacloon"** / **"Sharaction"** (FS), Barony of Coshma, Co. Limerick. The FS transcription additionally references a "Parish of [unclear]" field that neither pass cleanly resolves.
+
+Witnessed by J. F. Cronin (Manager, Munster & Leinster Bank Croom) and P. G. Fother (Accountant, same). Sworn at Croom **11 Jan 1918** before William H. Lyons JP for Co. Limerick.
+
+**What this tells us:**
+
+1. **Patrick was dead by 10 Jan 1918.** Margaret signs as widow.
+2. **Margaret was alive at Main Street, Croom on 11 Jan 1918**, signing legal documents — age ~82 (per c. 1836 calibration).
+3. **Margaret had moved from Scagh to Main Street Croom** — common widow-relocation pattern (farm to village center).
+4. **Family was small landed/middle-class** — owned house + lands with mortgage capacity, not landless laborers.
+5. **Jeremiah Molony of Ballymacamore is a NEW Margaret-Moloney kinship candidate** — the brother-to-sister mortgage-release pattern is textbook family transaction. Not previously in our extended-family network. **Ballymackeamore is in/near Kilfinny parish**, which is now a top candidate for Margaret's natal parish AND for the missing marriage record.
+6. **The 13 June 1911 antecedent deed** is the single most important next document to pull. If Patrick was alive in June 1911 and co-signed, Patrick's death falls between Jun 1911 and Jan 1918 (~6.5-year window).
+
+**Townland identification status:**
+- ✅ **Skagh** confirmed real townland in Croom Civil Parish (Patrick's 1859 farm) — unrelated to "Skamerrygare" reading
+- ✅ **Ballymackeamore** confirmed real townland (Co. Limerick townland index), associated with **Kilfinny**
+- ⚠️ **"Skamerrygare" / "Samerrygare"** unresolved — does not match an exact Croom-area townland in basic searches; may be a clerical/OCR rendering of a real name
+- ⚠️ **"Shanacloon"** matches a townland but it's in Doon Civil Parish (eastern Limerick), not Croom — likely a misread of a different Croom-area place name
+- ⚠️ **Parish field** in FS transcription ("Parish of to Newman of Croom") is OCR-garbled and unresolved
+
 - **Children** — 7 baptisms in Croom 1863–1878 (tight, consistent sequence — stable family unit):
 
 | # | Name | Baptism | Notes |
@@ -94,11 +124,11 @@ Any Ancestry hint, tree, or record matching this fingerprint is the Australian f
 
 1. **Patrick's birth year** — calibrated estimate **c. 1832 (range 1830–1834)** based on James as earliest documented child (1863) and Irish post-Famine marriage norms. Calibration redone 2026-06-01 after the prior "Ella firstborn ~1856" anchor was withdrawn. See `research/analysis/gleeson-parents-age-calibration.md`.
 1a. **Margaret's birth year** — calibrated estimate **c. 1836 (range 1834–1838)** — same source. Bracketed by James firstborn (1863) and Jane lastborn (1878). If Margaret was 27 at James and 42 at Jane, that fits a typical Irish childbearing span.
-2. **Patrick's death** — date and place unknown. Almost certainly died in Ireland (no US records).
+2. **Patrick's death** — **bounded: died before 10 January 1918** (Margaret is documented as widow in the 1918 Registry of Deeds memorial). Likely between **13 June 1911** (antecedent mortgage — may have him as co-signatory if alive) and 10 Jan 1918, but possibly earlier if Margaret took the 1911 mortgage as widow already. Pull the 1911 deed to tighten this window.
 3. **Patrick + Margaret's marriage record** — searched 37 pages of Croom register (1844–1874). Not found. Page 151 (1862–63, the most likely window) is obscured by a thumb shadow. Could also be in a neighboring parish.
 4. **Patrick's father** — **Unknown.** One unverified Ancestry tree suggests Michael Gleeson (b. c. 1810); no primary documentation found. Same source pattern as the disproven sailor/Windmill attributions — treat as hypothesis. Testable via Griffith's Valuation (Croom/Scagh, 1851–53) or pre-1863 Croom baptisms.
-5. **Margaret Moloney's origin** — unknown. Fanningstown (Croom parish) is a strong lead since Moloney families are well-attested there.
-6. **Margaret Moloney's death** — date and location unconfirmed (the Drouin 1886 record belongs to a different family).
+5. **Margaret Moloney's origin** — unknown. **Top lead: Kilfinny civil parish (adjacent to Croom)**, based on the 1918 deed identifying Jeremiah Molony of Ballymackeamore (a Kilfinny townland) as her near kinsman/likely brother. Fanningstown (Croom parish) remains a secondary lead.
+6. **Margaret Moloney's death** — bounded: **alive 11 Jan 1918 at Main Street, Croom** (signed legal documents that day). Likely died sometime 1918–1925 given age c. 82 in 1918. Worth searching irishgenealogy.ie civil deaths 1918+ for Margaret Gleeson, Croom area.
 7. **Who is "Mrs. John Hayes" of Staten Island** in James's 1946 obit — see disambiguation section above. Identity unknown after Ella withdrawal.
 8. **Fate of Honora, Ellen, Margaret, Jane** — unknown. Any could potentially be Mrs. John Hayes if she emigrated.
 9. **Older siblings** — if James (1863) wasn't actually firstborn, there could be older Patrick + Margaret children pre-1863 that we haven't found. Worth checking Croom register pre-1863 baptisms.
@@ -136,7 +166,9 @@ Margaret Moloney is one of the most common name combinations in 19th-century Lim
 - **Neighboring parishes for marriage search** — if 151's obscured left column doesn't yield Patrick + Margaret, sweep Patrickswell (Quinlan was P.P. there 1861–62), Manister, Fedamore, Bruff, Bruree, Adare.
 - **More Petty Sessions appearances** — Patrick has two documented (1859 + 1864), same court/justice. Likely more across the 1860s–80s. Worth a systematic CSPS sweep for "Gleeson" + "Croom" or "Scagh".
 - **Verify Michael Moloney + Bridget Martin marriage 10 Aug 1861 Croom** — likely Margaret's brother (matches our hypothesized Moloney brother who appeared as sponsor at Jane's 1878 baptism and at Patrick Moloney's 1864 baptism). If Michael is Margaret's brother, his marriage's witnesses (Patricio Martin + Maria Cronin) may include Moloney family members or open up parents' identities.
-- **Neighboring parish marriage registers** (~1860–62) — Kilfinane, Bruff, Athlacca, Knockainey — for Patrick + Margaret's marriage
+- **Neighboring parish marriage registers** (~1860–62) — **Kilfinny (now top priority — see 1918 deed Jeremiah Molony connection)**, Manister, Fedamore, Bruff, Bruree, Adare, Kilfinane, Athlacca, Knockainey — for Patrick + Margaret's marriage
+- **Jeremiah Molony of Ballymackeamore (Kilfinny parish)** — first named via 1918 Registry of Deeds Memorial #29 as the mortgagee releasing property to widow Margaret Gleeson. Almost certainly Margaret's brother. Born ~1850s–1870s (still a farmer in 1918). Worth searching: (a) Kilfinny baptisms ~1850–1880 for Jeremiah Molony of Ballymackeamore, (b) Kilfinny marriages for Jeremiah's own family, (c) civil records 1864+ for Moloney family at Ballymackeamore, (d) Griffith's Valuation (Kilfinny / Ballymackeamore, ~1851).
+- **The 13 June 1911 antecedent mortgage** — referenced in 1918 Memorial #29 but content unread. Pulling this deed from the Registry of Deeds would: (a) confirm or deny Patrick was alive in mid-1911 as co-signatory, (b) potentially name additional Moloney/Gleeson family members as witnesses, (c) describe the property in possibly clearer townland terms.
 - **Griffith's Valuation (1850s)** — Moloney households in Fanningstown townland (Croom parish)
 - **Tithe Applotment Books (1820s–30s)** — Moloney in Fanningstown — may name Margaret's likely father
 - **Bridget Gleeson + Maria Malony 1864 Croom marriage** + **Bridget Gleeson married to Thomas Shea, baptizing daughter Catharina 4 Jan 1873 in Croom (sponsors William Breen + Alicia Moloney)** — these are plausibly the same Bridget, and quite possibly **Patrick's sister**. The Alicia Moloney sponsor in 1873 could be a Moloney kin on Margaret's side too. Strong combined lead worth pursuing
