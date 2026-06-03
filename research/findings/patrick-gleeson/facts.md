@@ -68,6 +68,13 @@ Witnessed by J. F. Cronin (Manager, Munster & Leinster Bank Croom) and P. G. Fot
 - **Not the Ohio Patrick Gleeson** — coincidental name match; Margaret Moloney there is too old.
 - **Not the Limerick City Pat Gleeson family** — see fingerprint below; this family wrongly contributed "sailor" + "Windmill" attributes to our Patrick in earlier research.
 - **Not the Eau Claire 1874 Ella Isabel Gleason + John Nelson Hayes** — see False leads section below. The marriage record names that bride's father as C. R. Gleason.
+- **Not any of three other Limerick Patrick Gleesons in the NAI Calendar of Wills 1858–1922:**
+  - Patrick Gleeson of **Cloon and Commons**, Co. Limerick — Farmer, died 7 Jul 1897 at Limerick Union Workhouse; widow Anne Gleeson; effects £34
+  - Patrick Gleeson of **Kyle, Cappamore**, Co. Limerick — Farmer, died 28 Sep 1899; administrator Thomas Gleeson; effects £267
+  - Patrick Gleeson of **Six-mile-bridge** — Licensed Victualler, died 14 Jan 1900; widow Elizabeth Gleeson; effects £55
+- **Not either of two Limerick Margaret Gleesons in the 1919 calendar:**
+  - Margaret Gleeson of **Nicker, Pallasgreen** — Married Woman, died 24 Feb 1919; husband Daniel Gleeson (farmer)
+  - Margaret Gleeson of **Baggotstown West, Hospital** — Widow, died 14 Mar 1910 (grant delayed to 15 Nov 1919); executor Mary Gleeson (Spinster)
 
 ### Mrs. John Hayes of Staten Island — open question
 
@@ -124,11 +131,11 @@ Any Ancestry hint, tree, or record matching this fingerprint is the Australian f
 
 1. **Patrick's birth year** — calibrated estimate **c. 1832 (range 1830–1834)** based on James as earliest documented child (1863) and Irish post-Famine marriage norms. Calibration redone 2026-06-01 after the prior "Ella firstborn ~1856" anchor was withdrawn. See `research/analysis/gleeson-parents-age-calibration.md`.
 1a. **Margaret's birth year** — calibrated estimate **c. 1836 (range 1834–1838)** — same source. Bracketed by James firstborn (1863) and Jane lastborn (1878). If Margaret was 27 at James and 42 at Jane, that fits a typical Irish childbearing span.
-2. **Patrick's death** — **bounded: died before 10 January 1918** (Margaret is documented as widow in the 1918 Registry of Deeds memorial). Likely between **13 June 1911** (antecedent mortgage — may have him as co-signatory if alive) and 10 Jan 1918, but possibly earlier if Margaret took the 1911 mortgage as widow already. Pull the 1911 deed to tighten this window.
+2. **Patrick's death** — bounded: died **after 14 June 1864** (last Petty Sessions appearance) and **before 10 January 1918** (Margaret documented as widow in 1918 Registry of Deeds memorial). A 54-year window. Most likely died **intestate without probate** — searched the National Archives Calendar of Wills 1858–1922 (Limerick and adjacent counties) on 2026-06-02 and found no matching Patrick Gleeson (three Limerick Patricks all confirmed wrong-family — see `research/results/gleeson-calendar-of-wills-search.md`). The 1911 mortgage referenced in the 1918 deed may have been Margaret signing already as widow, not Patrick co-signing. Tightening this window requires either the 1911 deed itself, civil death records at irishgenealogy.ie, or a death record in Croom church burial register if extant.
 3. **Patrick + Margaret's marriage record** — searched 37 pages of Croom register (1844–1874). Not found. Page 151 (1862–63, the most likely window) is obscured by a thumb shadow. Could also be in a neighboring parish.
 4. **Patrick's father** — **Unknown.** One unverified Ancestry tree suggests Michael Gleeson (b. c. 1810); no primary documentation found. Same source pattern as the disproven sailor/Windmill attributions — treat as hypothesis. Testable via Griffith's Valuation (Croom/Scagh, 1851–53) or pre-1863 Croom baptisms.
 5. **Margaret Moloney's origin** — unknown. **Top lead: Kilfinny civil parish (adjacent to Croom)**, based on the 1918 deed identifying Jeremiah Molony of Ballymackeamore (a Kilfinny townland) as her near kinsman/likely brother. Fanningstown (Croom parish) remains a secondary lead.
-6. **Margaret Moloney's death** — bounded: **alive 11 Jan 1918 at Main Street, Croom** (signed legal documents that day). Likely died sometime 1918–1925 given age c. 82 in 1918. Worth searching irishgenealogy.ie civil deaths 1918+ for Margaret Gleeson, Croom area.
+6. **Margaret Moloney's death** — bounded: **alive 11 Jan 1918 at Main Street, Croom** (signed legal documents that day). **Not in Calendar of Wills 1858–1922** (Limerick searched 2026-06-02, only two hits both ruled out — see `research/results/gleeson-calendar-of-wills-search.md`), so most likely died **after 1922** when the 26-county calendar ends. Plausible death age 87–94, so 1923–1930. Worth searching irishgenealogy.ie civil deaths 1918–1930 for Margaret Gleeson, Croom area.
 7. **Who is "Mrs. John Hayes" of Staten Island** in James's 1946 obit — see disambiguation section above. Identity unknown after Ella withdrawal.
 8. **Fate of Honora, Ellen, Margaret, Jane** — unknown. Any could potentially be Mrs. John Hayes if she emigrated.
 9. **Older siblings** — if James (1863) wasn't actually firstborn, there could be older Patrick + Margaret children pre-1863 that we haven't found. Worth checking Croom register pre-1863 baptisms.
