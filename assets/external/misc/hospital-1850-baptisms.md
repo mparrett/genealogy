@@ -12,7 +12,7 @@ Catherine, daughter of **James Gleeson + Honora O'Brien**, sponsors **John Glees
 **Other Gleeson entries (likely not direct kin):**
 - **3 March 1850, Rockstown:** "Wm Wm Burger Eliza Gleason sps Tom Burger Honora Hedley" — Eliza Gleason as mother (a Gleason woman married into Burger family). Possible distant kin.
 
-**Sponsor read note:** The original LLM transcription rendered the mother's surname as "Strain" and sponsor as "Cathe Connors" — both wrong on close inspection. The maternal surname is clearly O'Brien (confirmed by Ancestry index). The second sponsor is **Catherine Callaghan** (the matching Callaghan surname at Margaret 1842's baptism corroborates the read).
+**Sponsor read note:** The original LLM transcription rendered the mother's surname as "Strain" and sponsor as "Cathe Connors" — both wrong on close inspection. The maternal surname is clearly O'Brien (confirmed by Ancestry index). The second sponsor's letterforms only confirm **C-start, -an-end** (middle uncertain); **Catherine Callaghan** is the working read, tipped by the Michael Callaghan sponsor at the 1842 Margaret baptism (Callaghan as recurring kin-network surname). Could still be Corrigan, Cornican, or another C_an surname if the network-inference is wrong.
 
 ---
 
