@@ -5,14 +5,14 @@ Parish: **Hospital, Co. Limerick** (Cashel & Emly diocese) — **our Patrick Gle
 ## Family-relevant entries on this page
 
 **10 March 1850, Hospital townland (CONFIRMED OUR FAMILY):**
-> "Cathe Jas Gleason Honora **O'Brien** sps John Gleason Cath **[Corrigan?]** Hospital"
+> "Cathe Jas Gleason Honora **O'Brien** sps John Gleason Cath **Callaghan** Hospital"
 
-Catherine, daughter of **James Gleeson + Honora O'Brien**, sponsors **John Gleeson + Cath Corrigan (tentative; could be Cornican or another C_an surname)**. This is our Patrick's natal family — Catherine is a previously undocumented sibling of Patrick (b. 1829/1833). Confirmed via Ancestry "Explore records with AI" extract: "Jas Gleeson, spouse Honora O'Brien, child Cathe Gleeson," source Ireland Catholic Parish Registers 1655-1915.
+Catherine, daughter of **James Gleeson + Honora O'Brien**, sponsors **John Gleeson + Catherine Callaghan**. This is our Patrick's natal family — Catherine is a previously undocumented sibling of Patrick (b. 1829/1833). Confirmed via Ancestry "Explore records with AI" extract: "Jas Gleeson, spouse Honora O'Brien, child Cathe Gleeson," source Ireland Catholic Parish Registers 1655-1915. The Catherine Callaghan sponsor is likely the wife of Michael Callaghan, who sponsored a separate sibling Margaret in 1842 — Callaghan is a recurring kin-network surname for this family.
 
 **Other Gleeson entries (likely not direct kin):**
 - **3 March 1850, Rockstown:** "Wm Wm Burger Eliza Gleason sps Tom Burger Honora Hedley" — Eliza Gleason as mother (a Gleason woman married into Burger family). Possible distant kin.
 
-**Sponsor read note:** The original LLM transcription rendered the mother's surname as "Strain" and sponsor as "Cathe Connors" — both wrong on close inspection. The maternal surname is clearly O'Brien (confirmed by Ancestry index). The second sponsor remains tentative: Corrigan / Cornican / C_an. The Ancestry index doesn't disambiguate.
+**Sponsor read note:** The original LLM transcription rendered the mother's surname as "Strain" and sponsor as "Cathe Connors" — both wrong on close inspection. The maternal surname is clearly O'Brien (confirmed by Ancestry index). The second sponsor is **Catherine Callaghan** (the matching Callaghan surname at Margaret 1842's baptism corroborates the read).
 
 ---
 
@@ -42,7 +42,7 @@ Catherine, daughter of **James Gleeson + Honora O'Brien**, sponsors **John Glees
 * **3** Cathe Edwd Bourke Ellen Morony sps Catherine Bourke Goolesto town
 * **3** Patrick & Dennis of John Cavanagh & Bridget Ryan sp of Patrick & Bridget Fitzgerald & of Denis Honora Neville Herberstown
 * **7** Cathe John Sheedy Honora Sullivan sps John Canty Ellen Connelly Caher
-* **10** **Cathe Jas Gleason Honora O'Brien sps John Gleason Cath [Corrigan?] Hospital** ← **OUR FAMILY**
+* **10** **Cathe Jas Gleason Honora O'Brien sps John Gleason Cath Callaghan Hospital** ← **OUR FAMILY**
 * **10** Mary Tom Barry Mary Loghln sps David Barry Allice Loghln Clohardan
 * **14** Mary Jms Shin Mary Kelly sps James & Honora Fitzgerald Hospital
 * **17** Cathe Jas Carol Shanneen Ryan sps Jas Carol Johanna Brien Kilfrush

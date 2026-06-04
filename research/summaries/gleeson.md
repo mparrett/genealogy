@@ -211,9 +211,20 @@ Documented children:
 
 ### Patrick's documented siblings (Hospital parish)
 
-- **Catherine Gleeson (b. ~10 March 1850, Hospital townland) [T1]** — parents James + Honora O'Brien; sponsors John Gleeson + Cath [Corrigan?]. Confirmed via Ancestry index. First documented sibling of Patrick. If she survived, would be marrying age c. 1868-1880 — search Hospital/Croom/Limerick marriage registers for a Catherine Gleeson b. ~1850 father James. See `assets/external/misc/hospital-1850-baptisms.md`.
-- **Expected more siblings between 1833 and 1850** (17-year gap is implausible; missing children) and after 1850. Hospital parish baptism register 1833-1850 is a high-value search target — likely contains 4-6 additional siblings.
+- **Margaret Gleeson (b. ~3 Nov/Dec 1842, Herbertstown townland) [T1]** — parents James + Honora O'Brien; sponsors **Michael Callaghan + Margaret O'Brien** (the Margaret O'Brien sponsor likely Honora's mother, by the namesake-grandmother pattern).
+- **Catherine Gleeson (b. ~10 March 1850, Hospital townland) [T1]** — parents James + Honora O'Brien; sponsors **John Gleeson + Catherine Callaghan**. Confirmed via Ancestry index. Catherine Callaghan likely the wife of Michael Callaghan (who sponsored Margaret 1842) — Callaghan is a recurring kin-network surname for this family. If Catherine Gleeson survived, would be marrying age c. 1868-1880 — search Hospital/Croom/Limerick marriage registers. See `assets/external/misc/hospital-1850-baptisms.md`.
+- **Expected more siblings in the 1833-1842 (9 yr) and 1842-1850 (8 yr) gaps.** Hospital parish baptism register 1833-1850 is a high-value search target.
 - **Honora O'Brien's active-life window:** confirmed bearing children 1829-1850 (21+ years). Implies birth ~1800-1810.
+- **Family townlands within Hospital parish:** Hospital town (1829, 1850), Ballinvriana (1833), Herbertstown (1842) — family rotated through three townlands.
+
+### Patrick's grandparents [T2 from naming pattern]
+
+With Margaret 1842 + Catherine 1850 both documented, the Irish naming convention pins all four 4th-great-grandparents:
+
+- **Paternal: Patrick Gleeson + Catherine [?]**, b. ~1770s-1780s, Hospital parish. Patrick inferred from 1st son James + 1st-son rule + Stephen Gleeson sponsor 1829. Catherine inferred from 2nd daughter Catherine 1850.
+- **Maternal: Patrick O'Brien + Margaret [?]**, b. ~1770s-1780s, Hospital/Emly area. Patrick inferred from Pat O'Brien sponsor 1833. Margaret inferred from 1st daughter Margaret 1842 + corroborated by Margaret O'Brien sponsor at that same baptism (namesake-grandmother pattern).
+
+T1 upgrade target: James Sr + Honora O'Brien's marriage record (would name both their fathers); or James Sr / Honora's own baptisms in Hospital/Emly registers 1795-1815.
 - **Prior Ancestry attribution "Father: Michael Gleeson"** — rejected; same source pattern as disproven sailor/Windmill attributions.
 
 ### Documented non-parish events
@@ -338,7 +349,10 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 11. **Bridget #2 → Nora Gleason** [T3 → T2 target] — Nora Gleason 1881–1939 buried in the Hayes plot at Staten Island matches Bridget #2's emigration-to-sister pattern, but Bridget ≠ Honora/Nora directly. Needs Hayes-household census check 1900–1940, NY death cert for Nora naming parents, or passenger list under either name.
 12. **The missing ~4 children of James J.** — His 1946 obit says 12 children with Maria Ann; we document 8 (incl. likely Jennie/Jane duplicate). Search WI vital records 1893–1913 for additional Gleeson births to James + Maria. Likely infant deaths.
 13. **Harold Francis Gleason (1903–1988)** — Not listed in 1946 obit's surviving-children list, despite our records showing he died 1988. Either obit error, estrangement, or our death year is wrong.
-15. **Search Hospital parish register 1833-1850** for more siblings of Patrick + Catherine 1850. The 17-year gap implies 4-6 unrecorded children. Likely names per Irish naming pattern: James (after father), more daughters named for paternal/maternal grandmothers, additional Patrick variants. Also search post-1850 for any siblings after Catherine.
+15. **Search Hospital parish register 1833-1850** for more siblings of Patrick. We now have Margaret 1842 + Catherine 1850; gaps 1833-1842 and 1842-1850 likely contain more. Likely names per Irish naming pattern: James (after father), more sons (Pat = maternal grandfather, James = father), more daughters. Also search post-1850 for any later siblings.
 16. **Catherine Gleeson b. ~1850 marriage** — if she survived, search marriage registers c. 1868-1880 in Hospital/Croom/Limerick city for a Catherine Gleeson with father James.
 17. **John Gleeson at Hospital ~1830s-1860s** — second probable paternal uncle (sponsor at Catherine 1850 baptism). Search for his household, marriage, and children to confirm Gleeson-side kin network.
+18. **Margaret 1842 marriage** — if Margaret survived, would be marrying age c. 1860-1870 in Hospital/Croom area. Search for a Margaret Gleeson b. 1842 with father James.
+19. **James Sr + Honora O'Brien marriage record** [T1 upgrade target for grandparents] — would name both their fathers, locking the 4th-great-grandparent layer. Search Hospital + Emly + neighboring parish marriage registers ~1820-1828 (Patrick 1829 implies marriage before).
+20. **Patrick O'Brien + Margaret [?] family** — Honora O'Brien's natal family. Search Hospital/Emly baptisms ~1795-1815 for an Honora O'Brien with father Patrick; should also find sibling Margaret (the 1842 sponsor).
 14. **Naas 1888 Michael Gleeson** [T3 collateral-kin lead] — Michael Gleeson (Limerick resident, Tipperary-born parents) married Johanna Hayde at Naas, Co. Kildare in 1888. Parents named as **Patk Gleeson + Honora O'Brien of Tipperary**. Maternal name + Tipperary residence matches our Patrick's natal family, but father is "Patk" not "James" — so this is *not* our Patrick's sibling but possibly the **son of our Patrick's brother** (i.e., the 1829-Patrick if he survived, married a different Honora O'Brien, and stayed in Tipperary). Would make Michael our James J.'s first cousin and would confirm 1833 as our Patrick's baptism. To upgrade: find Michael's Tipperary baptism c. 1858–1866; find the Patrick + Honora O'Brien marriage in Tipperary; pull the Naas 1888 dispensation document; check British Army records (Naas had a large barracks). See `assets/external/misc/naas-1888-marriage.md` for the full register-page transcript.
