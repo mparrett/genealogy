@@ -201,11 +201,13 @@ Documented children:
 **3rd great-grandfather**
 
 - **Birth:** **c. 1832 (range 1829–1834)** — calibrated from age-shaving patterns; see `research/analysis/gleeson-parents-age-calibration.md`. The Hospital parish baptisms in 1829 and 1833 (same parents) bracket this estimate. Ancestry's "c. 1843" is contamination from the Australian Patrick line.
-- **Birthplace:** **Hospital parish, Co. Limerick** [T2] (Cashel & Emly diocese, ~25 mi east of Croom). Identification rests on the 1829 / 1833 Hospital baptisms naming his confirmed parents; specific baptism (1829 vs 1833) not independently anchored. See [[gleeson-patrick-natal-family]].
+- **Birthplace:** **Hospital parish, Co. Limerick** [T2] (Cashel & Emly diocese, ~25 mi east of Croom). The 1833 baptism records the family at **Ballinvriana townland** (Limerick/Tipperary border, associated with Emly); the 1829 entry records no townland. Specific baptism (1829 vs 1833) not independently anchored; the 1833 reading edges slightly ahead because the sponsor side-switch (Gleeson-side 1829 → O'Brien-side 1833) is a textbook replacement-child signal and fits the calibrated birth-year estimate ~1832. See [[gleeson-patrick-natal-family]].
 - **Death:** Between 3 Nov 1881 (last record as living, informant on Bridget's civil birth) and 31 Mar 1901 (Margaret a widow on census).
 - **Father:** **James Gleeson** [T1 — named in Hospital baptism record(s); identity of *which* baptism is ours is T2]
 - **Mother:** **Honora O'Brien** [T1 — same source]
 - **Father's family:** Stephen Gleeson appears as sponsor at the 1829 baptism and later migrates to Croom (Boherygeela), marrying Mary Twomey 1862 with a 3rd-degree consanguinity dispensation. **Probable paternal uncle [T2]** — sponsor + migration + dispensation form a strong kin cluster, but no record names the exact relationship. Boherygeela descendants would then be Patrick's first cousins.
+- **Mother's family:** Pat O'Brien appears as sponsor at the 1833 baptism — **almost certainly Honora O'Brien's father or brother [T2]** (naming-pattern: baby Patrick + maternal-side sponsor named Patrick). New lead on the maternal Hospital/Emly-area O'Briens. Ellen Walsh (co-sponsor) possibly Pat O'Brien's wife.
+- **Neighbor context (Ballinvriana 1833):** the same baptism page records "Pat Shea & Margt O'Donnell" at Ballinvriana — Shea-Gleeson neighborhood proximity [T3] is supporting context for the Bridget Gleeson m. Thomas Shea probable-sister hypothesis.
 - **Prior Ancestry attribution "Father: Michael Gleeson"** — rejected; same source pattern as disproven sailor/Windmill attributions.
 
 ### Documented non-parish events
