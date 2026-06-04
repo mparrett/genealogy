@@ -4,6 +4,16 @@ Extracted from Ancestry profile exports (Jan 2026).
 
 **Note:** Sibling data in Ancestry trees can be noisy/unreliable. This summary focuses on direct ancestors; sibling information should be independently verified.
 
+## Evidence tier legend
+
+Claims throughout this doc are tagged where confidence matters:
+
+- **[T1]** — Directly documented: the cited record itself names the relationship (baptism naming parents, marriage naming father, census household relationship, obituary naming sibling/child, deed stating relationship).
+- **[T2]** — Strong but inferential: identity established through convergent evidence (multiple records, naming patterns, kin-network behavior) but no single record directly states the claim.
+- **[T3]** — Active lead: single-source or weak association; in research pipeline, not in the proved tree.
+
+Untagged claims in direct-ancestor sections (James J., Maria Ann, Anne Barbara) are T1 unless otherwise noted.
+
 ---
 
 ## James Joseph Gleeson (1863–1946)
@@ -186,14 +196,17 @@ Documented children:
 
 ---
 
-## Patrick Gleeson (c. 1832; d. unknown)
+## Patrick Gleeson (c. 1832; d. between 3 Nov 1881 and 31 Mar 1901)
 
 **3rd great-grandfather**
 
-- **Birth:** **c. 1832 (range 1830–1834)** — calibrated estimate, see `research/analysis/gleeson-parents-age-calibration.md`. Ancestry's "c. 1843" is contamination from the Australian Patrick line (see disambiguation below). Calibrated 2026-06-01 after the prior "Ella firstborn ~1856" anchor was withdrawn (1874 Eau Claire Ella was a different Gleason family).
-- **Death:** Unknown — presumed Ireland. Ancestry's "before 1925" is also Australian-line filler.
-- **Father:** **Unknown.** One unverified Ancestry tree suggests Michael Gleeson (b. c. 1810); no primary documentation found. Same source pattern as the disproven "sailor"/"Windmill" attributions, so treat as hypothesis to test, not a fact.
-- **Mother:** Unknown
+- **Birth:** **c. 1832 (range 1829–1834)** — calibrated from age-shaving patterns; see `research/analysis/gleeson-parents-age-calibration.md`. The Hospital parish baptisms in 1829 and 1833 (same parents) bracket this estimate. Ancestry's "c. 1843" is contamination from the Australian Patrick line.
+- **Birthplace:** **Hospital parish, Co. Limerick** [T2] (Cashel & Emly diocese, ~25 mi east of Croom). Identification rests on the 1829 / 1833 Hospital baptisms naming his confirmed parents; specific baptism (1829 vs 1833) not independently anchored. See [[gleeson-patrick-natal-family]].
+- **Death:** Between 3 Nov 1881 (last record as living, informant on Bridget's civil birth) and 31 Mar 1901 (Margaret a widow on census).
+- **Father:** **James Gleeson** [T1 — named in Hospital baptism record(s); identity of *which* baptism is ours is T2]
+- **Mother:** **Honora O'Brien** [T1 — same source]
+- **Father's family:** Stephen Gleeson appears as sponsor at the 1829 baptism and later migrates to Croom (Boherygeela), marrying Mary Twomey 1862 with a 3rd-degree consanguinity dispensation. **Probable paternal uncle [T2]** — sponsor + migration + dispensation form a strong kin cluster, but no record names the exact relationship. Boherygeela descendants would then be Patrick's first cousins.
+- **Prior Ancestry attribution "Father: Michael Gleeson"** — rejected; same source pattern as disproven sailor/Windmill attributions.
 
 ### Documented non-parish events
 - **11 Sep 1859:** Charged with "Drunk on the Public Street at Croom"; court 19 Sep 1859 before Justices Maxwell + Collins R.M. **Occupation: Farmer.** Residence listed as "Sean" (= Scagh almost certainly). Fined 2s 6d + 1s costs. Source: NAI Petty Sessions Order Books, CSPS1/8381. Earliest primary record of Patrick; documents his occupation.
@@ -201,8 +214,10 @@ Documented children:
 - **4 Jul 1883:** TBD — FamilySearch-indexed entry, content missing; should be in NAI.
 
 ### Marriage
-- **Wife:** Margaret **Moloney** (not Maloney/Mahony — confirmed across multiple Croom parish records), b. **c. 1836 (range 1834–1838)**
-- **Marriage:** About **1862**, Ireland (presumed Croom). Anchored on James (1863) as earliest documented child. The Croom register has now been searched continuously from May 1853 through Feb 1858 (no Patrick + Margaret marriage found) — pushing the marriage estimate to ~1860–1863. Page 151 (Aug 1861 – Mar 1862) is a high-priority re-fetch target — earlier review noted it was obscured by a thumb shadow.
+- **Wife:** Margaret **Moloney** (not Maloney/Mahony — confirmed across multiple Croom parish records [T1]), b. **c. 1836 (range 1834–1838)**
+- **Margaret's parents (T2):** **James Molony + Catherine Kenny**, per the 31 Dec 1836 Croagh/Kilfinny baptism. The baptism record directly names those parents [T1 for the record itself], but identifying this baptized Margaret as *our* Margaret rests on four convergent inferences (mother-name prediction, Kilfinny parish prediction, father-name explaining the Croom Shopkeeper, age-shaving match) — no single record yet directly names Margaret's father. See [[gleeson-margaret-natal-family]]. Top open question: locate Patrick + Margaret's marriage record (would name father directly).
+- **Margaret's death:** After Jan 1918 (signed deed). Absence from 1858–1922 Calendar of Wills is negative evidence — do not treat as bounding her death year.
+- **Marriage:** **~1856 or earlier**, Ireland (presumed Croom or one of the natal parishes). Catherine as firstborn (b. ~1857–1862) pushes the window back from the older James-1863-anchored estimate. The Croom register has been searched continuously May 1853 – Feb 1858 with no Patrick + Margaret marriage found; widening the search to pre-1853 Croom, Hospital parish (Patrick's natal), or Croagh/Kilfinny (Margaret's likely natal) is now appropriate. Page 151 (Aug 1861 – Mar 1862) is no longer the highest-priority target.
 
 ### Australian Patrick disambiguation (NOT our line)
 
@@ -213,16 +228,18 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 - Died 25 Oct 1886, Drouin, Victoria
 - Children include **Michael, Patrick Thomas (b. 1868), Mary Ellen (b. 1875), John (b. 1877)** — note that Patrick Thomas (1868) overlaps with our Bridget (1868), and Mary Ellen (1875) is close to our Mary (1872) and Margaret (1875) — these similar names/years are exactly what drives bad tree merges.
 
-### Children (from Croom/Scagh parish records)
-- **James (Jacobus) Gleeson (23 Dec 1863)** ← our direct ancestor; sponsors: William Storan, Margaret Kiely (Storan is a Croom-rooted surname; corrects earlier "Shaw" index reading). Earliest documented child of Patrick + Margaret.
+### Children (9 documented: 8 from Croom parish records + 1 civil registration)
+- **Catherine Gleeson (b. ~1857–1862, Ireland)** [T1 firstborn; T2 exact birth year] — **firstborn daughter**. Married John Hayes 29 Nov 1879 at Croom (officiant Rev. John Quinlan CC; witnesses Michael + Catharina Shanahan). Emigrated to NY post-1879. Died 1 Nov 1944 at 64 Edison St, Staten Island, widowed (John d. 1929). Buried St Mary's Cemetery Grasmere, Reid Ave Section, in Ryan family plot. = "Mrs. John Hayes, Staten Island" of James's 1946 obit. Croom baptism not yet located (search pages 49–86, covering ~1853–1863). See [[gleeson-mrs-hayes-catherine-identified]].
+- **James (Jacobus) Gleeson (23 Dec 1863)** ← our direct ancestor; sponsors: William Storan, Margaret Kiely (Storan is a Croom-rooted surname; corrects earlier "Shaw" index reading).
 - Honora Gleeson (10 Mar 1866)
 - Bridget (Brigida) Gleeson (21–24 Feb 1868) — likely Mrs. Bridget O'Connor from obituary
 - Ellen / Helena Gleeson (9 Jul 1869, per manuscript re-read; older "15 Jul" was an index transcription) — sponsors Jeremiah O'Leary + Bridget Shanahan; officiant Rev. John Quinlan
 - Mary Gleeson (18 Dec 1872, per manuscript re-read; older "15 Dec" was an index transcription) — sponsors John + Ellen O'Shaughnessy; officiant Rev. John Quinlan. Likely "Miss Mary Gleeson, Croom" from obituary
 - Margaret (Margarita) Gleeson (29 Sep 1875) — sponsors William Blake + Ellen Condon; officiant Rev. John Quinlan
 - Jane / Janet Gleeson (25–28 Sep 1878)
+- **Bridget #2 (civil birth 11 Oct 1881 Croom)** — recorded on Patrick's last documented appearance as living (informant role). Patrick = Shopkeeper, literate ("Patt"). See [[gleeson-bridget-1881-civil-birth]]. **Working hypothesis [T3]:** this Bridget = "Nora Gleason" 1881–1939 buried in the Hayes plot at Staten Island, having emigrated post-1881 to join sister Catherine. Awaits Hayes-household census check 1900–1940.
 
-**Note (withdrawn 2026-06-01):** A previously documented "8th child Ella Isabel Gleason" who married John Nelson Hayes in Eau Claire WI 24 Dec 1874 has been **withdrawn** as a false attribution. The actual 1874 marriage record names that bride's father as C. R. Gleason, not Patrick. The Eau Claire 1874 marriage belongs to a different Gleason family entirely.
+**Note (withdrawn 2026-06-01):** A previously documented "8th child Ella Isabel Gleason" who married John Nelson Hayes in Eau Claire WI 24 Dec 1874 has been **withdrawn** as a false attribution. The actual 1874 marriage record names that bride's father as C. R. Gleason, not Patrick. That Eau Claire 1874 marriage belongs to a different Gleason family. (The "Mrs. John Hayes, Staten Island" of James's 1946 obit is now identified as Catherine above, not Ella.)
 
 ### Notes from Ancestry
 - "Son was born in Cork. Maybe from Tipperary?"
@@ -232,7 +249,7 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 ### Key Details (Croom)
 - **Location:** Scagh townland, Croom parish, Limerick
 - **Sponsor network:** Storan + Kiely (local families; Storan is Croom-distinctive)
-- **Family span:** 1863–1878 (tight, consistent sequence)
+- **Family span:** ~1857–1881 (Catherine firstborn through Bridget #2 civil birth)
 
 ### Research Notes
 - Parish records now provide solid documentation for Patrick as James J.'s father
@@ -300,13 +317,16 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 
 ## Open Questions
 
-1. **Patrick Gleason connection** — Is he definitively James J.'s father? Limited documentation.
-2. **Australia connection** — Why did Margaritte Malony die in Australia? Did other Gleesons emigrate there? (Note: 1886 Drouin death likely belongs to Australian Patrick's wife, not ours.)
-3. **James J.'s return to Ireland (1908–1909)** — Purpose of trip? Family visit?
-4. **Maria Ann's 1884 NYC residence** — Was the family moving back and forth?
-5. **Harold Francis Gleason born Chicago (1903)** — Why Chicago? Family temporarily there?
-6. **William (James) Fitzgerald** — Why the dual first name? Was he "William" or "James"?
-7. **Who is "Mrs. John Hayes" of Staten Island NY?** James's 1946 obit names her as a surviving sister. Previous identification with the 1874 Eau Claire Ella Isabel Gleason was withdrawn after the marriage record's bride's father proved to be C. R. Gleason, not Patrick. The actual sister is now unidentified. Could be any of Honora (1866), Ellen (1869), Margaret (1875), Jane (1878), or an older unknown sister. Worth searching 1940 Staten Island census for an Irish-born female Hayes/Hays, sister-aged to James, without restricting the given name.
-8. **Patrick + Margaret's marriage** — searched Croom register continuously May 1853 – Feb 1858, no match. New estimate ~1860–1863 (since James 1863 is now earliest documented child). Page 151 of the marriage register (Aug 1861 – Mar 1862) is the highest-priority target.
-9. **The missing 4 children of James** — His 1946 obit says 12 children but we only document 8 (incl. likely duplicate). Search WI vital records 1893–1913 for additional Gleeson births to James + Maria. Likely infant deaths.
-10. **Harold Francis Gleason (1903–1988)** — Not listed in 1946 obit's surviving-children list, despite our records showing he died 1988. Either obit error, estrangement, or our death year is wrong.
+1. **Patrick + Margaret's marriage record** [highest priority] — would directly name Margaret's father and lock the Tier 2 identity linkage on Margaret's natal family. Croom register searched May 1853 – Feb 1858 (no match); estimate now ~1860–1863. Page 151 (Aug 1861 – Mar 1862) is the highest-priority re-fetch target (obscured by thumb shadow in earlier review). Also consider Hospital parish 1850s (Patrick's natal area) and Croagh/Kilfinny (Margaret's).
+2. **Which Hospital baptism is our Patrick** — 1829 vs 1833 same-parents Patrick. Calibrated birth ~1832 fits 1833 slightly better; 1829 has the cleaner sponsor chain forward. Needs an independent age anchor (death record, gravestone, marriage age).
+3. **Stephen Gleeson's exact relationship to James Gleeson (Patrick's father)** [T2 → T1 target] — currently "probable paternal uncle" via sponsor + Croom migration + consanguinity dispensation. The 1862 Stephen + Mary Twomey dispensation document, if locatable, may specify the relationship path.
+4. **Margaret's death year** — only known to be after Jan 1918. Absence from Calendar of Wills is negative evidence. Search civil death registration 1918–1930 under both Molony and Moloney spellings.
+5. **Australia connection** — Why did "Margaritte Malony" die in Australia? (Note: 1886 Drouin death likely belongs to Australian Patrick's wife Margaret Mahony, not ours — disambiguation in Patrick's section above.)
+6. **James J.'s return to Ireland (1908–1909)** — Purpose of trip? Family visit?
+7. **Maria Ann's 1884 NYC residence** — Was the family moving back and forth?
+8. **Harold Francis Gleason born Chicago (1903)** — Why Chicago? Family temporarily there?
+9. **William (James) Fitzgerald** — Why the dual first name? Was he "William" or "James"?
+10. **Catherine Gleeson's Croom baptism** — search pages 49–86 (~1853–1863) of the Croom baptism register. Would pin her birth year precisely and possibly narrow the Patrick + Margaret marriage window. The previous sweep was done with the wrong-firstborn (Ella) hypothesis in mind, so a fresh pass is warranted.
+11. **Bridget #2 → Nora Gleason** [T3 → T2 target] — Nora Gleason 1881–1939 buried in the Hayes plot at Staten Island matches Bridget #2's emigration-to-sister pattern, but Bridget ≠ Honora/Nora directly. Needs Hayes-household census check 1900–1940, NY death cert for Nora naming parents, or passenger list under either name.
+12. **The missing ~4 children of James J.** — His 1946 obit says 12 children with Maria Ann; we document 8 (incl. likely Jennie/Jane duplicate). Search WI vital records 1893–1913 for additional Gleeson births to James + Maria. Likely infant deaths.
+13. **Harold Francis Gleason (1903–1988)** — Not listed in 1946 obit's surviving-children list, despite our records showing he died 1988. Either obit error, estrangement, or our death year is wrong.
