@@ -57,9 +57,14 @@ Documented children:
 **Missing children:** 4 additional children (likely infant deaths) implied by the "12 total" obit figure but not yet documented.
 
 ### Second Marriage
-- **Wife:** Sabina Elizabeth "Bina" O'Brien Gleeson (1884–1937)
-- **Marriage:** 1928, Buffalo County, Wisconsin
-- Sabina died 2 August 1937, Mondovi, Wisconsin
+- **Wife:** **Sabina Elizabeth "Bina" Loughney** (1884–1937) — maiden name **Loughney**, not O'Brien; "O'Brien" was her first-marriage surname.
+- **Born:** 22 Sep 1884, **Ironton, Sauk Co. WI** — same exact town as Maria Ann Fitzgerald (see [[gleeson-ironton-wi-irish-enclave]]).
+- **Parents:** Roger Loughney (b. Canada English) + Bridget Loughney (b. WI; alive 1930 at age 78 living in James + Bina's Mondovi household).
+- **First marriage:** Robert Patrick O'Brien (b. 1875 Iowa, traveling salesman), 2 Mar 1908 Douglas Co. WI. **At least one daughter from this marriage: Madeline Genevieve (later Mrs. Devney).** Robert d. before 1929.
+- **Marriage to James:** **14 Jan 1929, St. Louis Co. MN** (cert no. 196-257). Bride was a widow at remarriage. NOT 1928, NOT Buffalo Co. WI — earlier project records were wrong.
+- Sabina died 2 Aug 1937, Mondovi, Buffalo Co. WI.
+- **Burial: Calvary Cemetery, Superior, Douglas Co. WI** (NOT Mondovi — likely tied to her first-marriage Douglas Co. connections).
+- See [[gleeson-bina-loughney-obrien-gleeson]] for full natal family + 1930 census household + obit-gap-resolution implications.
 
 ### Occupations
 - **1900:** Head Sawyer (sawmill worker), Mondovi
@@ -176,6 +181,7 @@ Documented children:
   - Died: 7 Sep 1927, Eau Claire, Eau Claire County, Wisconsin
 - **Richard Lamont Corrigan Gleeson (adopted)** (1938–)
   - Born: 16 Oct 1938, Buffalo County, Wisconsin
+  - **Biological mother:** Eileen Corrigan — Grace Katherine Corrigan's sister. So Richard is John Sr's adopted nephew (sister-in-law's biological son). Common Catholic family pattern when a sister's child needed a home; adoption kept the child within the extended Corrigan family.
 
 ### Second Marriage
 - 1944, Dade, Florida (spouse unknown from this record)
@@ -325,7 +331,7 @@ Any record matching the following fingerprint is the Australian Patrick Gleeson 
 | James J. birthplace | "Ireland" | Croom, Limerick, Ireland |
 | James J.'s parents | Unknown | Patrick Gleason + Margaritte Malony |
 | James J.'s mother's fate | Unknown | Died in Australia 1886 |
-| James J. second marriage | Unknown | 1928 to Sabina O'Brien |
+| James J. second marriage | 1928 to Sabina O'Brien (Buffalo Co. WI) | **14 Jan 1929 to Sabina Loughney (St. Louis Co. MN); Sabina was widowed Mrs. O'Brien at remarriage** |
 | Maria Ann Fitzgerald birth | Ireland? | Ironton, Sauk County, Wisconsin (US-born) |
 | Maria Ann's father | "James Fitzgerald" | William (James) Fitzgerald |
 | Maria Ann's mother | Unknown | Mary Ann Feeney (1836–1913) |
