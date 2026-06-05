@@ -1,36 +1,87 @@
 # Patrick Gleeson — Fact Sheet
 
 **Relationship:** 3rd great-grandfather (Gleeson line)
-**Last updated:** 2026-05-30
+**Last updated:** 2026-06-04
+
+## Evidence tier legend
+
+Claims throughout this doc are tagged where confidence matters:
+
+- **[T1]** — Directly documented: the cited record itself names the relationship (baptism naming parents, marriage naming father, census household relationship, obituary naming sibling/child, deed stating relationship).
+- **[T2]** — Strong but inferential: identity established through convergent evidence (multiple records, naming patterns, kin-network behavior) but no single record directly states the claim.
+- **[T3]** — Active lead: single-source or weak association; in research pipeline, not in the proved tree.
+
+The earlier "⭐ LOCKED" annotations have been retired in favor of these tiers per the 2026-06-03 review (see [[gleeson-patrick-natal-family]] memory for the methodology shift).
 
 ---
 
 ## What we know (documented)
 
-- **Birth: TWO candidate baptisms — both children of James Gleeson + Honora O'Brien** (Cashel & Emly diocese), pending disambiguation:
-  - **Candidate 1:** Baptized **20 March 1829, Hospital parish, Co. Limerick** (transcript at `assets/external/1829-hospital.md`): *"20th Bap. Patrick of James Gleeson & Honora O Brien – Sp Stephen Gleeson & Bridget Higgins"*
-  - **Candidate 2:** Baptized **17 March 1833, Ballinvriana townland, Emly parish, Co. Limerick** (transcript at `assets/external/misc/patk-honora.md`): *"Gleeson | 17 Pat of James Gleeson & Hanora O'Brien | Ballinvriana | Sps Pat O'Brien & Ellen Walsh"* — baptized on St. Patrick's Day
-  - **Both baptized to the same parents** in the same diocese, ~8-10 miles apart. **Most parsimonious interpretation:** the 1829 Patrick died young, and the 1833 Patrick was named in memorial (common Irish Catholic pattern, especially with the deliberate St. Patrick's Day baptism). Under that interpretation, OUR Patrick = **17 March 1833 Ballinvriana**. Alternative: both survived and OUR Patrick is the 1829 Hospital one with a younger brother also named Patrick (unusual but documented).
-  - **Either way**, the parents are locked: **James Gleeson + Honora O'Brien** ⭐. Both names hit our Irish naming-pattern predictions (father = James per 1st-son rule James 1863; mother = Honora per 2nd-daughter rule Honora 1866 after Catherine added as 1st daughter).
-  - **Disambiguators to pursue:** (a) Search Hospital + Emly parish baptisms 1820s–1840s for *siblings* of either Patrick — whichever parish has more children of James + Honora is likely the family's home parish; (b) Look for any death record for an infant Patrick Gleeson 1829–1833; (c) Search Patrick's later life records (Petty Sessions, marriage if found) for any townland references that match Ballinvriana vs Hospital area.
-  - The Stephen Gleeson sponsor at the 1829 baptism is still load-bearing under either interpretation — he's almost certainly Patrick's paternal uncle regardless of which Patrick survived, since the 1862 Croom marriage with 3rd-degree consanguinity dispensation ties him to the natal family.
-- **Father:** **James Gleeson** ⭐ (locked 2026-06-03)
-- **Mother:** **Honora O'Brien** ⭐ (locked 2026-06-03)
-- **Baptism sponsors:** **Stephen Gleeson + Bridget Higgins**. The Stephen Gleeson sponsor is almost certainly the same Stephen Gleeson who later married Mary Twomey at Croom early March 1862 with a **3rd-degree consanguinity dispensation** (see "Stephen Gleeson + Mary Twomey" entry in extended-family network section). So **Stephen Gleeson = Patrick's paternal uncle** (James's brother), who later migrated to Croom area himself and settled at Boherygeela. This identifies the Stephen + Mary Twomey of Boherygeela family (producing Anne 1879, Patrick 1884 in our civil-births search) as **Patrick's first-cousin family** — the cousin Patrick Gleeson 1884 of Boherygeela was named after our Patrick.
-- **Bridget Higgins** (female baptism sponsor) — new surname in our extended family network. Could be Stephen Gleeson's wife (so Stephen + Bridget Higgins were a couple by 1829) OR a sister/aunt of James or Honora. Worth tracing.
+- **Parents [T1]:** **James Gleeson + Honora O'Brien** of Hospital parish, Co. Limerick (Cashel & Emly diocese). Confirmed by four direct baptism records in the Hospital parish register naming this couple as parents (Patrick 1829, Patrick 1833, Margaret 1842, Catherine 1850). Both names also hit our Irish naming-pattern predictions (father = James per 1st-son rule James 1863; mother = Honora per 2nd-daughter rule Honora 1866). The earlier "Michael Gleeson" Ancestry-tree attribution was wrong, same source-pattern as the disproven sailor/Windmill attributions.
+- **Birth [T2]: TWO candidate baptisms in Hospital parish, both to James + Honora O'Brien**, neither independently anchored as ours:
+  - **1829 March 20, Hospital parish page 71** (transcript at `assets/external/1829-hospital.md`): *"20th Bap. Patrick of James Gleeson & Honora O Brien – Sp Stephen Gleeson & Bridget Higgins"*. No townland recorded.
+  - **1833 March 17, Hospital parish page 94, Ballinvriana townland** (transcript at `assets/external/misc/patk-honora.md`): *"Gleeson | 17 Pat of James Gleeson & Hanora O'Brien | Ballinvriana | Sps Pat O'Brien & Ellen Walsh"*. Sponsors are O'Brien-side maternal kin.
+  - **Slight lean to 1833 as ours:** (a) the calibrated birth-year estimate from age-shaving patterns is ~1832 (fits 1833 better than 1829); (b) the sponsor side-switch Gleeson-side 1829 → O'Brien-side 1833 is a textbook replacement-child signal; (c) the deliberate St. Patrick's Day 1833 baptism for a second-Patrick child fits the memorial-naming pattern. Reading: 1829 Patrick died young, 1833 Patrick is ours.
+  - **Alternative:** 1829 Patrick survived; 1833 Patrick is a younger brother. The Naas 1888 Michael Gleeson lead (see Collateral kin section below) is the kind of evidence that would support this — Michael's father "Patk Gleeson + Honora O'Brien Tipperary" could be the surviving 1829 Patrick. [T3]
+  - **Disambiguators to pursue:** (a) any death/burial record for infant Patrick 1829-1833 in Hospital parish, (b) a marriage record naming our Patrick's age, (c) finding Michael Gleeson's Tipperary baptism in the Naas 1888 lead chain.
+- **Baptism sponsors (1829):** **Stephen Gleeson + Bridget Higgins**. The Stephen Gleeson sponsor is almost certainly the same Stephen Gleeson who later married Mary Twomey at Croom early March 1862 with a **3rd-degree consanguinity dispensation** (see "Stephen Gleeson + Mary Twomey" entry in extended-family network section). So **Stephen Gleeson = probable paternal uncle [T2]** (James's brother, plausibly), who later migrated to Croom area himself and settled at Boherygeela. The Stephen + Mary Twomey of Boherygeela family (producing Anne 1879, Patrick 1884 in our civil-births search) are likely Patrick's first cousins.
+- **Bridget Higgins** (female 1829 sponsor) — possibly Stephen Gleeson's first wife (would mean Stephen married Bridget pre-1829, she died, he remarried Mary Twomey 1862). Alternative: sister/aunt of James or Honora. Open lead.
+- **Baptism sponsors (1833):** **Pat O'Brien + Ellen Walsh**. Pat O'Brien is **almost certainly Honora's father or brother [T2]** (naming-pattern: baby Patrick + maternal-side sponsor named Patrick = boy is being named after his maternal grandfather per the Irish 1st-son rule). Most likely Honora's father. Ellen Walsh possibly his wife.
 - **Migration:** Patrick migrated **~25 miles west from Hospital parish to Croom (Scagh townland)** as a young adult, sometime between 1849 (post-Famine emigration era) and 1859 (first Croom Petty Sessions appearance at Scagh). The Hospital → Croom route fits Robert Gleeson's tri-county lore framing: Patrick is a **Limerick–Tipperary borderlands child** (Hospital parish is on the Tipperary border) who moved west to Croom, with cousins later following.
-- **Wife:** Margaret **Moloney** (Latin *Margaritæ Moloney* in Croom register).
-  - Spelling is locked: **Moloney** (not Maloney). Confirmed across multiple Croom baptism records for the children. Ancestry trees with *Maloney* are following the wrong family.
-  - **Margaret's birth/parents LOCKED 2026-06-03 via direct Croagh/Kilfinny baptism transcript:** ⭐⭐⭐
-    - **Baptized 31 Dec 1836, Croagh parish, Co. Limerick** (Diocese of Limerick; the NLI catalogs Kilfinny as a *variant name* for Croagh — same parish). Transcript at `assets/external/misc/croagh-1836.md`: *"Decr. 31st. I Baptized Margt. Legitimate Daur. of James Molony & Catherine Kenny. Sponsors were Michl. Dwyer and Bridget ODea."* Officiant: Patrick S. J. Benson V.P. (Vicar) of Croagh.
-    - **Father:** **James Molony** ⭐ (surname spelling note below)
-    - **Mother:** **Catherine Kenny** ⭐ — matches recalibrated naming-pattern prediction (1st-daughter rule: Catherine Hayes 1857–62 firstborn = Margaret's mother named Catherine ✓)
+- **Wife:** Margaret **Moloney** [T1] (Latin *Margaritæ Moloney* in Croom register).
+  - **Spelling [T1]:** **Moloney** (not Maloney) — confirmed across multiple Croom baptism records for the children. Ancestry trees with *Maloney* are following the wrong family.
+  - **Margaret's natal family — Tier 1 baptism + Tier 2 identity linkage:**
+    - **The baptism record [T1]:** 31 Dec 1836, Croagh parish, Co. Limerick (Diocese of Limerick; the NLI catalogs Kilfinny as a variant name for Croagh — same parish). Transcript at `assets/external/misc/croagh-1836.md`: *"Decr. 31st. I Baptized Margt. Legitimate Daur. of James Molony & Catherine Kenny. Sponsors were Michl. Dwyer and Bridget ODea."* Officiant: Patrick S. J. Benson V.P. (Vicar) of Croagh.
+    - **Identifying this Margaret as ours [T2]:** the baptism record alone proves *a* Margaret to James Molony + Catherine Kenny. Confirming this is *our* Margaret rests on four convergent inferences: (1) mother Catherine matches the pre-registered 1st-daughter prediction (Catherine Hayes 1857-62 firstborn → mother's mother = Catherine); (2) Kilfinny parish was independently predicted from the 1918 Jeremiah Molony of Ballymackeamore deed; (3) father James explains the 1881 Croom Shopkeeper James Moloney via 1st-son naming rule; (4) age math fits the 9-10 yr age-shaving pattern. The convergence is persuasive but probabilistic — no single record directly names our Margaret's father. T1 upgrade target: locate Patrick + Margaret's marriage record.
+    - **Father (per record):** **James Molony** (surname spelling note below)
+    - **Mother (per record):** **Catherine Kenny**
     - **Surname spelling caveat:** The cursive reading is **plausibly "Molony"** but a careful visual inspection allows "Maloney" as well (the leading letter could be Mol- or Mal-). This is **inside-the-normal-variation** for *Ó Maoldhomhnaigh* — the same Gaelic surname renders in both spellings across Irish parish records depending on the priest. Our existing [[gleeson-moloney-not-maloney]] memory's "not Maloney" guidance was based on **US-side Ancestry trees** (where Maloney/Moloney trees track different family clusters in immigration patterns), NOT on Irish parish records (where the spelling drifts freely). The Croagh entry being read as either Molony or Maloney does NOT affect identification — the four other converging predictions (Catherine mother, Kilfinny parish, James father, 9-10 yr age-shaving pattern) lock the candidate regardless of -o- vs -a-.
     - **Baptism sponsors:** Michael Dwyer + Bridget O Dea
     - **Birth date:** ~28–31 Dec 1836 (Dec birth + Dec 31 baptism is a standard 0–3 day Irish Catholic interval)
     - **Age math fits perfectly:** Age 19 at marriage ~1856; age 65 at 1901 Census (self-reported 55 = **10-yr understatement**); age 75 at 1911 (reported 66 = 9-yr understatement); age 82 at 1918 deed signing. The 9–10 year age-shaving pattern is **identical to Catherine Hayes's pattern** (b. 1865 per headstone, reported 68 at 1944 death = 11-yr shave). Confirmed family pattern.
     - **Kilfinny location validates the 1918 Registry of Deeds lead:** Jeremiah Molony of Ballymackeamore (Kilfinny townland) releasing property to widow Margaret in 1918 = almost certainly Margaret's brother (sibling stayed in natal parish; Margaret married out to Croom).
     - **Likely brother James Moloney** (the 1881 Croom Shopkeeper at whose son's baptism Patrick was godfather 17 Feb 1881) is now explained by 1st-son naming rule: eldest son named after paternal grandfather James (= Margaret's father). So James Moloney 1881 Croom = Margaret's brother, named after their shared father James Molony.
+### Patrick's documented siblings (Hospital parish)
+
+Three siblings of Patrick are now directly documented via Hospital parish baptisms to James + Honora O'Brien:
+
+| Year | Sibling | Townland | Sponsors |
+|------|---------|----------|----------|
+| 1842 (~3 Nov/Dec) | **Margaret Gleeson** [T1] | Herbertstown | Michael Callaghan + Margaret O'Brien |
+| 1850 (10 March) | **Catherine Gleeson** [T1] | Hospital town | John Gleeson + Catherine [C___an, working read: Callaghan] |
+
+The 1850 Catherine entry is independently confirmed via Ancestry's Catholic Parish Registers AI index: "Jas Gleeson, spouse Honora O'Brien, child Cathe Gleeson." Sponsor surname letterforms only positively confirm C-start and -an-end; "Callaghan" is the network-inferred working read because Michael Callaghan sponsored Margaret 1842 — Callaghan recurring across two baptisms makes it the favored read.
+
+**Honora O'Brien's active-life window:** confirmed bearing children at least 1829-1850 (21+ year span). Implies birth ~1800-1810.
+
+**Expected more siblings** in the 1833-1842 (9 yr) and 1842-1850 (8 yr) gaps. Hospital parish baptism register 1833-1850 is a high-value search target.
+
+**Family townlands within Hospital parish:** Hospital town (1829, 1850), Ballinvriana (1833), Herbertstown (1842) — family rotated through three townlands.
+
+**Margaret 1850 future search:** if Catherine survived, she'd be marrying age c. 1868-1880. Search Hospital/Croom/Limerick marriage registers for a Catherine Gleeson b. ~1850 with father James. Similarly for Margaret 1842 marrying age c. 1860-1870.
+
+### Patrick's grandparents (4th-great-grandparents of Matt) [T2 from naming pattern + sponsor corroboration]
+
+With four documented siblings + sponsorship from both parental sides, the Irish naming convention pins all four grandparents:
+
+- **Paternal: Patrick Gleeson + Catherine [?]**, b. ~1770s-1780s, Hospital parish area. Patrick inferred from 1st son James + 1st-son rule + Stephen Gleeson 1829 sponsor. Catherine inferred from 2nd daughter Catherine 1850.
+- **Maternal: Patrick O'Brien + Margaret [?]**, b. ~1770s-1780s, Hospital/Emly area. Patrick inferred from Pat O'Brien 1833 sponsor + 2nd-son rule. Margaret inferred from 1st daughter Margaret 1842 + corroborated by Margaret O'Brien herself as 1842 sponsor (namesake-grandmother pattern).
+
+**T1 upgrade target:** James Sr + Honora O'Brien's marriage record would name both their fathers; or James Sr / Honora's own baptisms in Hospital/Emly registers 1795-1815.
+
+### Callaghan kin network [T2]
+
+Michael Callaghan sponsors Margaret 1842; Catherine Callaghan (working read) sponsors Catherine 1850. The same Callaghan surname appearing as sponsor across two baptisms 8 yrs apart strongly suggests Callaghan kinship, not coincidence. Most likely Michael + Catherine are husband + wife (possibly Honora's sister married to a Callaghan, hence maternal aunts/uncles by marriage). Search Hospital marriages 1825-1845 for a Callaghan-O'Brien union.
+
+**John Gleeson** at Catherine 1850 baptism is a second probable paternal uncle (joining Stephen) — could also be an older brother of Patrick not yet documented.
+
+### Collateral kin leads (active, T3)
+
+- **Naas 1888 — Michael Gleeson m. Johanna Hayde, Co. Kildare** (`gleeson-naas-1888-michael-lead` memory). Groom's parents named as Patk Gleeson + Honora O'Brien of Tipperary. Could be the son of the 1829-Patrick (if he survived as a Tipperary-resident brother of our Patrick). Would make Michael our James J.'s first cousin and would confirm 1833 as our Patrick's baptism. Upgrade by finding Michael's Tipperary baptism c. 1858-1866.
+- **Anacarty 1858 — James Gleeson m. Margaret O'Brien at Carhuekeal, Anacarty/Donohill parish** (`gleeson-anacarty-1858-weak-lead` memory). Same diocese (Cashel & Emly) as our family, different parish, no kin link. Surname-watch only — could matter if a James Jr brother of our Patrick or an O'Brien cousin surfaces.
+
+### Patrick's life — Croom
+
 - **Location:** **Scagh townland, Croom parish, Co. Limerick** to 1869+; **Main Street, Croom village** by 3 Nov 1881 (per Bridget's 1881 civil birth registration — see Documented life events). The Scagh→Croom-village move was completed during Patrick's lifetime, not as a widow relocation as previously inferred.
 - **Occupation:** **Farmer** through 1869 (Petty Sessions 1859/1864/1869); **Shopkeeper** by 3 Nov 1881 (per Bridget's civil birth registration, signed by Patrick as informant). The shift between Farmer and Shopkeeper happened between 1869 and 1881. Earlier "sailor" attribution was contamination from a separate Limerick City Pat Gleeson family.
 - **Literacy:** Patrick **wrote his own signature** "Patt Gleeson" on Bridget's 1881 birth registration. He went by **"Patt"** (which is a useful variant for follow-up searches in civil indices).
@@ -129,7 +180,7 @@ Witnessed by J. F. Cronin (Manager, Munster & Leinster Bank Croom) and P. G. Fot
   - Margaret Gleeson of **Nicker, Pallasgreen** — Married Woman, died 24 Feb 1919; husband Daniel Gleeson (farmer)
   - Margaret Gleeson of **Baggotstown West, Hospital** — Widow, died 14 Mar 1910 (grant delayed to 15 Nov 1919); executor Mary Gleeson (Spinster)
 
-### Mrs. John Hayes of Staten Island — locked in 2026-06-03 as Catherine Gleeson ⭐⭐⭐
+### Mrs. John Hayes of Staten Island — identified [T1] as Catherine Gleeson
 
 James's 1946 obit named three surviving sisters: Bridget O'Connor (Croom), Mary Gleeson (Croom), and **Mrs. John Hayes, Staten Island, NY**. The Mrs. John Hayes identity is now **fully confirmed** as **Catherine Gleeson — Patrick + Margaret's firstborn daughter** (b. ~1857–1862 Ireland; d. 1 Nov 1944, 64 Edison St Staten Island). Identification chain:
 
@@ -238,22 +289,25 @@ Two new possibilities open up:
 
 ## What we don't know
 
-1. **Patrick's birth year** — ⭐ **LOCKED 2026-06-03: 20 March 1829** (baptism date at Hospital parish, Co. Limerick — see "What we know" section above). Previous c. 1832 calibration (range 1830–1834) is superseded. The earlier ~1832 estimate was based on James 1863 as firstborn; the actual baptism record places Patrick's birth in early 1829, consistent with Catherine 1857-1862 as true firstborn child.
-1a. **Margaret's birth year** — **REVISED 2026-06-02 to c. 1845** based on 1901 + 1911 Census self-reported ages (55 in 1901, 66 in 1911 — internally consistent within 1 year). Earlier c. 1836 calibration is **withdrawn**. This makes Margaret ~13 years younger than Patrick and ~18 at James's birth in 1863, on the young end of post-Famine marriage norms but plausible. The Census-revised birth year also opens space for **2–3 additional children born 1880–1886** (matching the Mary 24 and Bridget 18 in the 1901 Main Street Croom household, who are too young to be our documented Mary 1872 and Bridget 1868).
-2. **Patrick's death** — bounded: died **after 3 November 1881** (signed birth registration of his daughter Bridget at Croom — see Documented life events table; this is the **hard lower bound**, replacing the earlier soft 1881 godfather bound) and **before 31 March 1901** (Margaret recorded as Widow Head of Household at Main Street Croom in 1901 Census). A **~19-year window** (revised 2026-06-03). Most likely died **intestate without probate** — searched the National Archives Calendar of Wills 1858–1922 (Limerick and adjacent counties) on 2026-06-02 and found no matching Patrick Gleeson (three Limerick Patricks all confirmed wrong-family — see `research/results/gleeson-calendar-of-wills-search.md`). Civil death records search for Patrick Gleeson in Co. Limerick also surfaced **only four candidates**, all ruled out (three too young; the fourth — Moigh/Caherconlish 1911, age 76 — superficially plausible but eliminated on five disqualifiers). **Possible explanations:** (a) Patrick's civil death is indexed under a variant spelling (Gleason / Glissan / Glesson), (b) he died in an adjacent county (Tipperary/Cork), or (c) the registration was filed under a different given name — note **Patrick signed himself "Patt" in 1881**, so "Patt Gleeson" or "Patk Gleeson" variants are worth specific searches. Tightening this window requires another irishgenealogy.ie variant-spelling sweep covering 1881–1901, the 1911 deed itself, or a death record in Croom church burial register if extant.
-3. **Patrick + Margaret's marriage record** — searched 37 pages of Croom register (1844–1874). Not found. Page 151 (1862–63, the most likely window) is obscured by a thumb shadow. Could also be in a neighboring parish.
-4. **Patrick's father** — ⭐ **LOCKED 2026-06-03: James Gleeson** (per 20 Mar 1829 Hospital parish baptism record — see "What we know" section above). The "Michael Gleeson" Ancestry-tree attribution was wrong, same source-pattern as the disproven sailor/Windmill attributions. Patrick's mother was **Honora O'Brien**. Open follow-ups: (a) James Gleeson + Honora O'Brien's own marriage record (Hospital area, ~1820s), (b) baptism records of Patrick's siblings (other children of James + Honora 1820s–1840s at Hospital parish), (c) James Gleeson's father — extending pedigree another generation back.
-5. **Margaret Moloney's origin** — ⭐ **LOCKED 2026-06-03: Baptized 31 Dec 1836 at Croagh parish (= Kilfinny variant), Co. Limerick. Parents James Molony + Catherine Kenny.** See "What we know" section above for the full transcript citation. The Kilfinny lead from the 1918 Registry of Deeds (Jeremiah Molony of Ballymackeamore) is now directly validated — Margaret's natal parish.
-6. **Margaret Moloney's death** — bounded: **alive 11 Jan 1918 at Main Street, Croom** (signed legal documents that day). **Not in Calendar of Wills 1858–1922** (Limerick searched 2026-06-02, only two hits both ruled out — see `research/results/gleeson-calendar-of-wills-search.md`), so most likely died **after 1922** when the 26-county calendar ends. With revised birth year ~1845, plausible death age 78–85 in 1923–1930. Worth searching irishgenealogy.ie civil deaths 1918–1935 for Margaret Gleeson, Croom area.
-
-9. **The 1901 Census "Mary 24" and "Bridget 18" at Main Street Croom — partially resolved 2026-06-03.**
-   - **Bridget = confirmed our family.** Civil birth registration found: Bridget Gleeson born 11 Oct 1881 Croom, parents Patrick Gleeson Shopkeeper + Margaret formerly Moloney (see Documented life events table). Bridget age 18 in 1901 = ~1 year understatement (actual age 19.5 at census date), normal for indexed Irish census ages.
-   - **Mary 1901 status = still unresolved.** The civil birth search (Croom SRD, Gleeson, 1879–1886) found **only one Mary Gleeson — born 10 Feb 1881 Fedamore to James Gleeson + Margaret Hickey** — a different family (the Fedamore-based James + Margaret Hickey cluster, who also had Michael 1880 and Margaret 1885). **Hypothesis (likely):** the 1901 Main Street Mary age 24 is actually our documented Mary 1872 (with age understated by 4 yrs); the 1901 Workhouse Mary age 27 (Matron of Workhouse) is a separate unrelated Gleeson Workhouse staff member. Census ages frequently drift, and Dress Maker (Main Street) fits a daughter living with mother, while Matron of Workhouse is a salaried staff role.
-   - **Alternative (residual possibility):** A daughter Mary was born to Patrick + Margaret outside our 1879–1886 search window — pre-1879 in a non-Croom parish, or post-1886. The Croom register has been swept 1863–1881 with no additional Mary found; this would require either an extra-parish sweep or extending the civil search to 1886–1895. Lower-priority follow-up.
-10. **Margaret's transition to village shop.** Family moved from Patrick's Scagh farm to Main Street Croom shop sometime between 1869 (Patrick's last Petty Sessions appearance at Scagh) and 1901 (Margaret already established at Main Street as Shop Keeper). The 1918 Registry of Deeds documents the Main Street property — they owned the dwelling + lands. The 1911 mortgage may have funded the shop expansion or Patrick's medical care in his final illness.
-7. **Who is "Mrs. John Hayes" of Staten Island** in James's 1946 obit — see disambiguation section above. Identity unknown after Ella withdrawal.
-8. **Fate of Honora, Ellen, Margaret, Jane** — unknown. Any could potentially be Mrs. John Hayes if she emigrated.
-9. **Older siblings** — if James (1863) wasn't actually firstborn, there could be older Patrick + Margaret children pre-1863 that we haven't found. Worth checking Croom register pre-1863 baptisms.
+1. **Patrick's birth year and specific baptism** — parents James + Honora O'Brien are **locked [T1]** by four Hospital parish baptism records. But the **specific baptism (1829 vs 1833) is [T2]** with a slight lean to 1833 (sponsor side-switch + calibrated ~1832 estimate + St Patrick's Day memorial-naming pattern). The earlier ⭐ "LOCKED 1829" framing has been retired — the question is genuinely open. Disambiguators: a death/burial for infant Patrick 1829-1833; a marriage record naming our Patrick's age; verification of the Naas 1888 Michael Gleeson lead (if confirmed, the 1829 Patrick survived → ours is 1833).
+1a. **Margaret's birth year** — **revised back to ~1836** per the Croagh/Kilfinny baptism (see Wife section above). The 2026-06-02 "REVISED to c. 1845" framing based on Census self-reported ages is now superseded — Margaret's documented 9-10 yr age-shaving pattern (matching Catherine Hayes's identical pattern) explains the Census discrepancy. The 1836 baptism record is [T1] for content; identifying that Margaret as ours is [T2] (see Wife section for the four convergent inferences).
+2. **Patrick's death** — bounded: died **after 3 November 1881** (signed birth registration of his daughter Bridget at Croom — see Documented life events table) and **before 31 March 1901** (Margaret recorded as Widow Head of Household at Main Street Croom in 1901 Census). A **~19-year window**. Most likely died **intestate without probate** — searched the National Archives Calendar of Wills 1858–1922 (Limerick and adjacent counties) on 2026-06-02 and found no matching Patrick Gleeson. Civil death records search for Patrick Gleeson in Co. Limerick also surfaced **only four candidates**, all ruled out. **Possible explanations:** (a) variant spelling (Gleason / Glissan / Glesson), (b) died in an adjacent county (Tipperary/Cork), or (c) registration filed under a different given name — note **Patrick signed himself "Patt" in 1881**.
+3. **Patrick + Margaret's marriage record** [highest priority] — would directly name Margaret's father and lock the Tier 2 identity linkage on Margaret's natal family. Searched 37 pages of Croom register (1844–1874). **Marriage window revised earlier:** Catherine as firstborn (b. ~1857-1862) pushes the window back to ~1856 or earlier, so widen search to pre-1853 Croom + Hospital parish (Patrick's natal area) + Croagh/Kilfinny (Margaret's likely natal). Page 151 (Aug 1861 – Mar 1862, thumb-shadow-obscured) is no longer the highest-priority target.
+4. **Which Hospital baptism is our Patrick** — 1829 vs 1833 same-parents Patrick. Repeated from #1 for searchability.
+5. **Stephen Gleeson's exact relationship to James Gleeson Sr (Patrick's father)** [T2 → T1 target] — currently "probable paternal uncle" via sponsor + Croom migration + consanguinity dispensation. The 1862 Stephen + Mary Twomey dispensation document, if locatable, may specify the relationship path.
+6. **Margaret Moloney's death** — bounded: **alive 11 Jan 1918 at Main Street, Croom** (signed legal documents that day). **Not in Calendar of Wills 1858–1922** is **negative evidence only** — do not treat as bounding the death year. Most likely died after 1922 when the 26-county calendar ends. Worth searching irishgenealogy.ie civil deaths 1918–1935 for Margaret Gleeson under both Molony and Moloney spellings, Croom area.
+7. **Catherine Gleeson 1850 marriage** — if she survived, would be marrying age c. 1868-1880. Search Hospital/Croom/Limerick marriage registers for a Catherine Gleeson b. ~1850 with father James.
+8. **Margaret Gleeson 1842 marriage** — if she survived, would be marrying age c. 1860-1870 in Hospital/Croom area.
+9. **Search Hospital parish register 1833-1850** for more siblings of Patrick. We now have Margaret 1842 + Catherine 1850; gaps 1833-1842 and 1842-1850 likely contain more. Likely names per Irish naming pattern: James (after father), more sons, more daughters.
+10. **James Sr + Honora O'Brien marriage record** [T1 upgrade target for grandparents] — would name both their fathers, locking the 4th-great-grandparent layer. Search Hospital + Emly + neighboring parish marriage registers ~1820-1828.
+11. **Patrick O'Brien + Margaret [?] family** — Honora O'Brien's natal family. Search Hospital/Emly baptisms ~1795-1815 for an Honora O'Brien with father Patrick; should also find sibling Margaret (the 1842 sponsor).
+12. **John Gleeson at Hospital ~1830s-1860s** — second probable paternal uncle (sponsor at Catherine 1850 baptism). Search for his household, marriage, and children.
+13. **Callaghan-O'Brien marriage** — search Hospital marriages 1825-1845 for a Callaghan-O'Brien union that would explain the recurring Callaghan sponsorship pattern (Michael 1842, Catherine 1850).
+14. **The 1901 Census "Mary 24" and "Bridget 18" at Main Street Croom — partially resolved 2026-06-03.**
+    - **Bridget = confirmed our family.** Civil birth registration found: Bridget Gleeson born 11 Oct 1881 Croom, parents Patrick Gleeson Shopkeeper + Margaret formerly Moloney. Bridget age 18 in 1901 = ~1 year understatement (actual age 19.5 at census date), normal for indexed Irish census ages.
+    - **Mary 1901 status = still unresolved.** The civil birth search (Croom SRD, Gleeson, 1879–1886) found only one Mary Gleeson born 10 Feb 1881 Fedamore to James Gleeson + Margaret Hickey — a different family. **Hypothesis (likely):** the 1901 Main Street Mary age 24 is actually our documented Mary 1872 with age understated by 4 yrs; the 1901 Workhouse Mary age 27 (Matron of Workhouse) is a separate unrelated Gleeson. Census ages frequently drift.
+15. **Margaret's transition to village shop.** Family moved from Patrick's Scagh farm to Main Street Croom shop sometime between 1869 (Patrick's last Petty Sessions appearance at Scagh) and 1901. The 1911 mortgage may have funded the shop expansion or Patrick's medical care in his final illness.
+16. **Fate of Honora 1866, Ellen 1869, Margaret 1875, Jane 1878** — unknown. Catherine Hayes (Staten Island) is now confirmed as the eldest sister; the unidentified surviving sisters from James's 1946 obit are Bridget O'Connor + Mary Gleeson of Croom (presumably from our documented daughters).
 
 ---
 
