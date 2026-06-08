@@ -372,6 +372,35 @@ Margaret Moloney is one of the most common name combinations in 19th-century Lim
 - **Michael Moloney + Bridget Martin married 10 Aug 1861 in Croom** (page 152; officiant J. Clifford; witnesses Patricio Martin + Maria Cronin) — this is **very likely the Michael Moloney who sponsored our Jane's 1878 baptism and Patrick Moloney's daughter Alicia in 1864**. Strongly supports the hypothesis that Michael Moloney is **Margaret's brother**.
 - **Thomas Moloney as joint witness with Margaret Gleeson 18 Oct 1875** — Croom marriage register entry: *"Stephanum Lee et Mariam Donovan. Coram Thoma Moloney et Margarita Gleeson. Joannes Quinlan CC"* (transcript at `assets/external/catherine-marriage-maybe-page-before-1.md`). The male-female witness pair convention at a non-family wedding strongly favors a brother-sister pairing — **Thomas Moloney is a new candidate for Margaret's brother**, joining the Moloney sibling cluster (Michael 1861 marriage, possibly James 1881, Jeremiah of Ballymackeamore 1918 deed). Margaret's "married name Gleeson" pattern (vs maiden Moloney) is now seen 3 times in the Croom register: 8 Jan 1865 (godmother to sister-in-law Bridget Shea's daughter), 18 Oct 1875 (witness with brother Thomas), and implied at other sponsor events.
 - **Stephen Gleeson + Mary Twomey married early March 1862 in Croom (direct transcript 2026-06-03)** — Croom marriage register: *"Stephanum Gleeson & Mariam Twomey **speciali dispensatione in tertio gradu consanguinitatis** & cum licentia Parochi mat. junxi Coram Patricio Hartigan & Maria Bennett. J. L. Roche V.G."* (transcript at `assets/external/catherine-marriage-maybe-page-before-7.md`). **Direct canonical proof of kinship**: the *tertio gradu consanguinitatis* dispensation = third-degree consanguinity = second cousins (or 1st cousins once removed). Stephen + Mary descended from a common great-grandparent or great-great-grandparent. This is the **Stephen + Mary Twomey of Boherygeela family** that civil records 1879-1884 confirm produced Anne 1879 + Patrick 1884 — a confirmed kin branch to our Patrick. The "Mary Jammey" earlier reading was an OCR error; correct surname is Twomey.
+
+#### Stephen Sr's household across three censuses (2026-06-07/08)
+
+| Census | Location | Household composition |
+|---|---|---|
+| **1901** | Bohergeela East, DED Crean, House 3 | Stephen Sr 62 (Head/Farmer) + **Mary** 58 (Wife) + Stephen Jr 34, Hanoria 32, Kate 30, Jeremiah 28, Timothy 26, Anne 20 (all Single farmer-children) + Bridget Rahelly 19 (servant) |
+| **1911** | Bohergeela East, DED Crean, House 2 | **Jeremiah 38 (Head of Family/Farmer)** + Stephen 44, Hanoria 42, Katie 40, "**Tina**" 34 (almost certainly Timothy — transcription error in the export), Annie 28 (all Single) + 2 servants |
+| **1926** (per [[gleeson_boherygeela_1926_nora]]) | Boherygeela | 5+ unmarried Gleeson siblings still in residence |
+
+Stephen Sr died Sept 1907 (per Ireland Will Index — granted to Jeremiah). **Mary (Stephen Sr's widow) is missing from the 1911 household** — she likely died between 1907 and 1911. New search target: Croom SRD death index for Mary Gleeson 1907–1911. The household passed directly from Stephen Sr → Jeremiah (his son and executor), with the unmarried siblings remaining as a single-household celibate Gleeson cohort that persists into the 1926 census.
+
+Source: `assets/external/census/1911-boherygeela-crean-east-households.md`. Image group IDs for 1911 Form A: nai002722646–002722649 (House 2).
+
+#### Katherine Gleson 65 at Connolly household (1911) — NEW PERSON
+
+**Bohergeela East House 3 in 1911** shows the **Thomas Connolly household** with a "Katherine Gleson 65, Relative" in residence:
+
+- Thomas Connolly (71, Farmer, Head) + Bridget (71, Wife) + 3 adult children
+- **Katherine Gleson, 65, "Relative" of head**
+
+**Significance:** This is the **same Thomas Connolly** who was named as a co-grantee on **Timothy Sr's 1905 will** (per Ireland Will Index 1908 — "granted to Thomas Connolly, Farmer and Mary Anne Gleeson, the widow"). So the Connolly + Gleeson families are intermarried/kin-linked at Boherygeela East.
+
+Katherine Gleeson b. ~1846 — fits between Patrick's documented siblings Margaret (b. 1842) and Catherine (b. 1850). **Candidate identifications**:
+- (a) Mary Anne Gleeson's (Timothy Sr's widow's) sister — keeping the Connolly-Gleeson kin connection alive
+- (b) An undocumented older Gleeson aunt of the Stephen Sr / Timothy Sr cohort
+- (c) Patrick's own sister Catherine 1850 with age-shaving (would be 61 in 1911 if exact)
+- (d) Patrick's own sister Margaret 1842 with age-shaving (would be 69)
+
+T3 lead — needs follow-up: pull her 1911 Form A image to see fuller relationship language, and search Hospital/Croom marriages for a Katherine Gleeson b. ~1846 marriage record. See [[gleeson_katherine_65_connolly_1911]] memory.
 - **Catharina Gleeson, Fedamore parish, 27 Dec 1872** — appears as mother (with Jeremiah Meara) on an illegitimate baptism at Croom; parents noted as belonging to Fedamore parish (adjacent to Croom). Possible extended Gleeson kin
 - **John (Joannes) Moloney + Johanna Moylan, Croom Nov 1872** — another Croom Moloney household. Possibly Margaret's brother or cousin. Worth tracing
 - **Croom sponsor network so far:** Storan, Kiely, O'Leary, Shanahan (Brigida appears for both Ellen 1869 and a Leahy-O'Brien Sep 1875 baptism), Blake, Condon, O'Shaughnessy, Canfield. Storan is the most distinctively Croom-rooted of these — a rare surname (*Ó Stóirín*) intensely clustered in Croom parish (Mark Storan in 1820s Tithe Books at Lower Corrobal; "Master Storan" the 19th-century schoolmaster in Mournane; Storan family continues to farm Lower Morenane in Croom today). All these families are tightly linked to Patrick + Margaret's social circle in Scagh.
