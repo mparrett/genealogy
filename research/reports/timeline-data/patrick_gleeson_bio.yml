@@ -5,12 +5,12 @@ birth:
   label: Born (est.)
   location: Co. Limerick, Ireland
 death:
-  year: 1900
-  label: Died (est.)
-  location: Ireland (presumed)
+  year: 1897
+  label: Died (7 Dec, Croom)
+  location: Croom, Co. Limerick
 events:
-  - year: 1862
-    label: Married Margaret Moloney (est.)
+  - year: 1860
+    label: Married Margaret Moloney (18 Nov, Croagh)
     type: marriage
   - year: 1863
     label: Son James baptized
