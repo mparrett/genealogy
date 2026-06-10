@@ -1,3 +1,5 @@
+> ⚠️ **CONTAMINATION CAUTION (added 2026-06-09).** The raw Griffith's *data* below is fine, but its **Moloney analysis is built on the wrong Margaret.** It treats the Glenbevan / Ballinscola "Margaret Moloney" and "our 1906 Margaret" as our ancestor — that's the **eliminated** Ballinscola Margaret (d. 9 Aug 1906 Croom Workhouse, NOT kin; see memory `gleeson_margaret_moloney_ballinscola_eliminated`). **Our** Margaret = dau of James Molony + Catherine Kenny, **Croagh/Kilfinny** parish (b. 1836, her own baptism). Also note: this report covers **Croom** parish — the Jeremiah/Kate/James↔Michael question lives in **Kilfinny civil parish / Ballymackeamore townland**, which a proper Griffith's check must target. Do not import the conclusions in the "key takeaway" lines below.
+
 ## Griffith's Valuation — Full Report
 
 Here's everything found, organized by family and location.

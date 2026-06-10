@@ -197,14 +197,16 @@ Scagh; sponsors John Moloney & Bridget Gleeson."*
 
 - **James (Jacobus), p.87, "Die 23" Dec 1863:** *"Jacobus filius Patritii Gleeson et
   **Margarita Molony**"*; sponsors Gulielmo [Nolan?] & Margarita Daly. Mother = Margaret.
-- **Honora (Honoria), p.93, 24 Feb 1866:** *"Honoria filia Patritii Gleeson et
-  **Margarita Molony**; Spons. Thoma Shea et Ellena Moloney."* Mother = Margaret;
+- **Honora (Honoria), p.93, baptized 24 MARCH 1866:** *"Honoria filia Patritii Gleeson
+  et **Margarita Molony**; Spons. Thoma Shea et Ellena Moloney."* Mother = Margaret;
   godmother **Ellen Moloney** (a third Moloney godparent across the children — cf. John
-  Moloney for Catherine). **Date image-verified:** entry is **Die 24** under the
-  "In Mense Februarii" header, day-sequence Feb 2/8/10/14/18/22/23/24, with the
-  "In Mense Martii" header following below — so 24 Feb 1866, not 10 Mar. The "10 Mar"
-  in `nli-parish-register-pipeline.md` was a draft transcription error; **reconcile to
-  24 Feb** across the pipeline doc, facts.md, and the timeline YAML.
+  Moloney for Catherine).
+  **⚠️ CORRECTION (supersedes earlier note in this file):** I first read this entry's
+  "Die 24" as **24 February**. The civil birth record (§6) proves Honora was *born*
+  ~22–24 March 1866, so the baptism cannot be February — it is **24 March 1866** (I
+  misjudged the month-section boundary on the faint page). The other Claude's original
+  "March 1866" was correct; my "24 Feb" was the error. **Reconcile to 24 March 1866**
+  across the pipeline doc, facts.md, and the timeline YAML — NOT 24 Feb.
 
 **Net on Maria vs. Margaret — RESOLVED.** Three children's baptisms (Catherine 1862,
 James 1863, Honora 1866) **all** name the mother **Margaret (Margarita)**, as do the
@@ -219,6 +221,101 @@ Croom baptisms p.81 (Catherine) — https://registers.nli.ie/registers/vtls00063
 p.87 (James) — https://registers.nli.ie/registers/vtls000634977#page/87/mode/1up ;
 p.93 (Honora) — https://registers.nli.ie/registers/vtls000634977#page/93/mode/1up
 
+## 6. Honora's civil birth (1866) — CONFIRMED
+
+Civil birth register, **Croom SRD, page 269** (irishgenealogy.ie group reg **7465678**,
+image `births_1866/03535/2301150.pdf`). Read off the image:
+
+> **Honora Gleeson — Female — born ~22–24 March 1866, Skagh [Scagh] — father Patrick
+> Gleeson, Skagh, Farmer — mother Margaret Gleeson formerly Molony — informant Patrick
+> Gleeson, Father, Skagh — registered 25 March 1866.**
+
+- **Unambiguously our family:** father Patrick Gleeson of Scagh (farmer), mother Margaret
+  *formerly Molony*, with Patrick himself the informant (so alive in March 1866).
+- **Resolves the "25 March" question:** 25 March is the *registration* date; birth was
+  ~22–24 March 1866. This forces Honora's **baptism to 24 March 1866** (not 24 Feb — see
+  §5c correction).
+- A *second* indexed "Honora Gleeson, Croom, 1866" (group reg **7465881**, image 2287639,
+  page 206) is on the **November 1866** births page and is a **different child/family**,
+  not ours.
+
+Source: irishgenealogy.ie civil birth, group reg 7465678 (Croom, 1866).
+
+## 7. FamilySearch index — natal family CONFIRMED, Kate relationship CORRECTED
+
+FamilySearch's "Ireland, Catholic Parish Registers, 1740-1900" is **parent-indexed**
+(free, Matt logged in). Two decisive records:
+
+**(a) Margaret's natal family — CONFIRMED.** *Margt Molony, baptized 31 Dec 1836,
+**Croagh**, Co. Limerick; Father **James Molony**, Mother **Catherine Keney [Kenny]**.*
+(FamilySearch ark:/61903/1:1:61QY-R3D7.) This is **Margaret's own baptism naming both
+parents** — the James Molony + Catherine Kenny hypothesis is now **evidenced, not
+inferred.** Birth year (1836) and parish (Croagh) match perfectly. **Natal-family lock
+achieved.**
+
+**(b) Jeremiah's parents — different, so Kate is NOT Margaret's niece.** *Jeremiah
+Molony, baptized 28 Oct 1842, **Croagh**; parents **Michl Molony + Hanora Moinehan
+[Michael Molony + Honora Minihan]**.* This is the same Michael Molony + Honora Minihan
+family seen in the Croagh register image (§4, the 27 Aug 1845 Brigida entry) — a
+**different couple** from Margaret's parents. The only Croagh Jeremiah Molony in the
+~1842–47 window is this one, so Kate's father (1911 census, b.~1844 Ballymackeamore) is
+almost certainly **Michael + Honora's son**, *not* James + Catherine Kenny's.
+
+**⚠️ Consequence — revise the earlier "Kate = niece" conclusion (§2).** That rested on
+treating Jeremiah as Margaret's *brother*. He isn't (different parents). Kate is a more
+distant Molony relative of Margaret. **Michael Molony was the witness at Margaret's
+1860 marriage**, so James and Michael Molony were plausibly **brothers** — which would
+make Margaret and Jeremiah **first cousins** and **Kate a first-cousin-once-removed**
+to Margaret (and Helen/Ellen further still). That sibling link between James and Michael
+is *inference, not yet evidenced* — pin it by finding James and Michael Molony's own
+baptisms (~1800–1815, Croagh) and checking for shared parents. This also fits the
+3rd/4th-degree consanguinity dispensation in Margaret's marriage.
+
+**Memory to revise:** any note stating "Kate → niece confirmed" / "Helen = first cousin"
+should be downgraded to "Kate = Molony cousin (likely 1st-cousin-once-removed); not a
+niece — Jeremiah's parents (Michael Molony + Honora Minihan) differ from Margaret's
+(James Molony + Catherine Kenny)."
+
+Source: FamilySearch, Ireland Catholic Parish Registers 1740-1900 (Margaret bapt
+31 Dec 1836 Croagh; Jeremiah bapt 28 Oct 1842 Croagh).
+
+## 8. Sibling-cluster & James↔Michael chase (partial / limits hit)
+
+- **Sibling cluster — not resolvable via index.** FamilySearch's parish collection
+  returns James-Molony children scattered across *other* Limerick parishes (St. John's,
+  Dromcolligher, Donaghmore, Lurriga) — **none in Croagh except Margaret.** Its Croagh
+  coverage is partial, so James Molony + Catherine Kenny's other children aren't
+  indexed. Candidate sibling **Ellen Molony** (b.1846, father James Molony, m. Michael
+  Hynes 31 Jul 1868 Shanagolden) appeared but her mother isn't confirmed as Catherine
+  Kenny. **To build the cluster:** scan the Croagh baptism register images for
+  *"…filius/filia Jacobi Molony et Catharina Kenny"* — vtls000634970 (1836–43) and
+  vtls000634971 (1843–59). (Note: searches for a *Jeremiah* among James+Catherine's
+  children turned up none — reinforcing that Kate's father Jeremiah belongs to the
+  Michael+Honora household, not James+Catherine's; §7b.)
+- **James ↔ Michael Molony brother test — not provable; Griffith's checked (negative).**
+  The Croagh registers begin only in **1836**; James and Michael were born ~**1805–1815**,
+  so their baptisms don't survive. **Griffith's Valuation (~1851) checked
+  (askaboutireland):**
+  - **Ballymackeamore townland (Kilfinny, Connello Upper):** full occupier list is
+    Noonan, Roche, Harman, Burns, Pigott, Quaide, Houlahan, Keyes, Foley, Dea, Hickey,
+    Hayes — **NO Molony and NO Kelly.** ⚠️ This **corrects the earlier brief's claim**
+    that Griffith's puts Michael Moloney + John Kelly in Ballymackeamore — it does not.
+    Those families arrived **after 1851** (the 1901/1911 census placement is post-Famine
+    in-migration).
+  - **James Molony** occupiers in Co. Limerick: Crecora, Kilkeedy, Mungret, Adare,
+    Shanagolden — **none in Kilfinny/Croagh.** Consistent with James (Margaret's father)
+    having **died before ~1851** (so holding no land; he'd be the older generation).
+  - **Michael Molony** occupiers in Co. Limerick: Caheravally, Killeenagarriff,
+    Rochestown, Stradbally, Effin, Crecora, Kilkeedy, Mungret, Kilcullane, Adare, Bruff,
+    Killeely, Rathronan — **none in Kilfinny/Croagh** either (landless/sub-tenant, or a
+    variant spelling Moloney/Maloney, or not separately listed).
+  - **Net:** Griffith's co-tenancy does **not** establish the James↔Michael brother link
+    (neither is an occupier in Kilfinny/Croagh in 1851). The link stays a *reasonable but
+    unproven* hypothesis, **bounded by record survival, not effort.** So **Kate's exact
+    degree to Margaret tops out at "first-cousin-once-removed (probable)"** unless other
+    evidence (cross-sponsorship; a surviving Molony will/holding) emerges. Don't hold the
+    reconciliation for a proof that may not exist.
+
 ## Open questions / next steps
 
 1. ~~**Maria vs. Margaret**~~ — RESOLVED (§5b–c): three baptisms (1862/1863/1866) +
@@ -226,8 +323,13 @@ p.93 (Honora) — https://registers.nli.ie/registers/vtls000634977#page/93/mode/
    Margaret; "Maria" is a lone scribal variant.
 2. ~~**Croom marriage duplicate**~~ — RESOLVED (§5a): none; marriage recorded only in
    Croagh.
-3. **Natal family still not locked by a named father** (highest-value open lead).
-   Cleanest path is now **Jeremiah, not Margaret**: Jeremiah Moloney (b. ~1845) is
+3. ~~**Natal family not locked**~~ — **RESOLVED (§7a):** Margaret's own baptism (31 Dec
+   1836, Croagh) names parents **James Molony + Catherine Kenny.** Locked. Remaining
+   sub-leads: (i) confirm James Molony ↔ Michael Molony are brothers (to fix Kate's
+   exact relationship — see §7b); (ii) build the James + Catherine Kenny sibling cluster
+   (candidate: Ellen Molony b.1846, m. Michael Hynes 1868 Shanagolden). *Historical
+   note on the earlier plan below (superseded):*
+   Cleanest path was thought to be **Jeremiah, not Margaret**: Jeremiah Moloney (b. ~1845) is
    documented as Kate's father at Ballymackeamore (1911 census) and appears in the 1918
    deed with Margaret. If **Jeremiah's baptism** (Croagh register **vtls000634971**,
    ~1844–47) names **James Molony + Catherine Kenny**, then Jeremiah is a sibling of the
@@ -265,7 +367,7 @@ p.93 (Honora) — https://registers.nli.ie/registers/vtls000634977#page/93/mode/
    settled: Patrick's mother **Honora O'Brien**'s origins, the Hospital-parish Gleeson
    line (James Gleeson + Honora O'Brien), or the shared ancestor implied by the 3rd/4th
    degree consanguinity dispensation. Draft a targeted plan before spending browser time.
-5. **Verify Ellen/"Ellis" Kelly** birth (expected 3 Mar 1905) against the census age 8.
+6. **Verify Ellen/"Ellis" Kelly** birth (expected 3 Mar 1905) against the census age 8.
 6. Optionally pull the census Form A image (years-married / children-born columns) to
    pin down Kate's true age and family structure.
 
