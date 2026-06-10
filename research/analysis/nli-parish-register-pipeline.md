@@ -99,7 +99,7 @@ Full mapping extracted from `gon.pages_metadata`. Pages 1–3 are intro/blank; 4
 | Child | Date | Page | Date range on page |
 |---|---|---|---|
 | James | 23 Dec 1863 | **87** | Nov 1863 to Mar 1864 |
-| Honora | **24 Feb 1866** (img-verified 2026-06-09; "10 Mar" was a Gemini draft error) | **93** | Jan 1866 to May 1866 |
+| Honora | **24 March 1866** (baptized; born ~22–24 Mar, civil-reg 25 Mar. Superseded: "10 Mar" Gemini draft + "24 Feb" image month-misread) | **93** | Jan 1866 to May 1866 |
 | Bridget | Feb 1868 | **98** | Jan 1868 to May 1868 |
 | Ellen | 9 Jul 1869 | **102** | May 1869 to Dec 1869 |
 | Mary | 18 Dec 1872 | **109** | Aug 1872 to Jan 1873 |
