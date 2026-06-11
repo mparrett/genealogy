@@ -165,6 +165,277 @@
             margin: 0.25rem 0 1rem 1.25rem;
         }
 
+        /* === Connection Card (ad-hoc relationship widget) === */
+        details.connection-card {
+            float: right;
+            clear: right;
+            width: 50%;
+            margin: 0.5rem 0 1rem 1.5rem;
+            padding: 0;
+            border: 1px solid rgba(139, 69, 19, 0.2);
+            border-radius: 8px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.6) 0%, rgba(248,244,240,0.8) 100%);
+            overflow: hidden;
+        }
+
+        details.connection-card.full-width {
+            float: none;
+            width: auto;
+            margin: 1.5rem 0;
+        }
+
+        details.connection-card summary {
+            padding: 0.625rem 1rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 0.875rem;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        details.connection-card[open] summary {
+            border-bottom: 1px solid rgba(139, 69, 19, 0.15);
+            border-radius: 8px 8px 0 0;
+        }
+
+        details.connection-card summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.connection-card summary::before {
+            content: '▸';
+            font-size: 0.875rem;
+            color: rgba(139, 69, 19, 0.6);
+            transition: transform 0.2s ease;
+        }
+
+        details.connection-card[open] summary::before {
+            transform: rotate(90deg);
+        }
+
+        details.connection-card summary:hover {
+            background: rgba(139, 69, 19, 0.08);
+        }
+
+        .connection-tree {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 2rem;
+            row-gap: 1.5rem;
+            padding: 1rem 1rem 1.25rem;
+            justify-items: center;
+            font-family: Georgia, 'Times New Roman', serif;
+        }
+
+        .connection-tree .tn {
+            background: rgba(255,255,255,0.75);
+            border: 1px solid rgba(139, 69, 19, 0.3);
+            border-radius: 6px;
+            padding: 0.4rem 0.75rem;
+            text-align: center;
+            line-height: 1.25;
+            min-width: 6.5rem;
+            max-width: 100%;
+            position: relative;
+            z-index: 1;
+        }
+
+        .connection-tree .tn-name {
+            display: block;
+            font-weight: 500;
+            color: var(--primary);
+            font-size: 0.875rem;
+        }
+
+        .connection-tree .tn-meta {
+            display: block;
+            font-size: 0.72rem;
+            color: rgba(122, 58, 15, 0.75);
+            font-style: italic;
+            margin-top: 0.1rem;
+        }
+
+        .connection-tree .tn-focus {
+            background: rgba(139, 69, 19, 0.12);
+            border-color: rgba(139, 69, 19, 0.55);
+        }
+
+        .connection-tree .tn-focus .tn-name {
+            font-weight: 600;
+        }
+
+        .connection-tree .tn-anc { grid-column: 1 / 3; grid-row: 1; }
+        .connection-tree .tn-sib-l { grid-column: 1; grid-row: 2; justify-self: end; }
+        .connection-tree .tn-sib-r { grid-column: 2; grid-row: 2; justify-self: start; }
+        .connection-tree .tn-desc { grid-column: 2; grid-row: 3; justify-self: start; }
+
+        /* Connector lines — geometry tied to column-gap (2rem) and row-gap (1.5rem) */
+        .connection-tree .tn-anc::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            width: 1px;
+            height: 0.75rem;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        .connection-tree .tn-sib-l::before {
+            content: '';
+            position: absolute;
+            top: -0.75rem;
+            left: 50%;
+            right: -1rem;
+            height: 1px;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        .connection-tree .tn-sib-r::before {
+            content: '';
+            position: absolute;
+            top: -0.75rem;
+            left: -1rem;
+            right: 50%;
+            height: 1px;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        .connection-tree .tn-sib-r::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            width: 1px;
+            height: 0.75rem;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        /* === Timeline Card (in-content event timeline) === */
+        details.timeline-card {
+            float: right;
+            clear: right;
+            width: 50%;
+            margin: 0.5rem 0 1rem 1.5rem;
+            padding: 0;
+            border: 1px solid rgba(139, 69, 19, 0.2);
+            border-radius: 8px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.6) 0%, rgba(248,244,240,0.8) 100%);
+            overflow: hidden;
+        }
+
+        details.timeline-card.full-width {
+            float: none;
+            width: auto;
+            margin: 1.5rem 0;
+        }
+
+        details.timeline-card summary {
+            padding: 0.625rem 1rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 0.875rem;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        details.timeline-card[open] summary {
+            border-bottom: 1px solid rgba(139, 69, 19, 0.15);
+            border-radius: 8px 8px 0 0;
+        }
+
+        details.timeline-card summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.timeline-card summary::before {
+            content: '▸';
+            font-size: 0.875rem;
+            color: rgba(139, 69, 19, 0.6);
+            transition: transform 0.2s ease;
+        }
+
+        details.timeline-card[open] summary::before {
+            transform: rotate(90deg);
+        }
+
+        details.timeline-card summary:hover {
+            background: rgba(139, 69, 19, 0.08);
+        }
+
+        ol.timeline-list {
+            list-style: none;
+            margin: 0;
+            padding: 1rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 0.875rem;
+        }
+
+        ol.timeline-list .tl-event {
+            display: grid;
+            grid-template-columns: 3.75rem 1fr;
+            align-items: start;
+        }
+
+        ol.timeline-list .tl-year {
+            text-align: right;
+            padding-right: 0.875rem;
+            padding-top: 0.1rem;
+            color: rgba(122, 58, 15, 0.85);
+            font-weight: 500;
+            font-size: 0.76rem;
+            font-variant-numeric: tabular-nums;
+            white-space: nowrap;
+        }
+
+        ol.timeline-list .tl-body {
+            color: var(--text-primary);
+            line-height: 1.45;
+            border-left: 1px solid rgba(139, 69, 19, 0.3);
+            padding-left: 0.875rem;
+            padding-bottom: 0.75rem;
+            position: relative;
+            font-size: 0.82rem;
+        }
+
+        ol.timeline-list .tl-event:last-child .tl-body {
+            padding-bottom: 0.2rem;
+        }
+
+        ol.timeline-list .tl-body::before {
+            content: '';
+            position: absolute;
+            left: -0.3rem;
+            top: 0.4rem;
+            width: 0.4rem;
+            height: 0.4rem;
+            border-radius: 50%;
+            background: var(--primary);
+            border: 2px solid #fcfcfc;
+            box-sizing: content-box;
+        }
+
+        ol.timeline-list .tl-sub {
+            list-style: disc;
+            margin: 0.3rem 0 0;
+            padding-left: 1.125rem;
+            font-size: 0.78rem;
+            color: var(--text-secondary);
+        }
+
+        ol.timeline-list .tl-sub li {
+            margin: 0.15rem 0;
+        }
+
         /* Clear floats after major sections (h2), but allow h3 to flow around location asides */
         h2, hr {
             clear: both;
@@ -716,13 +987,13 @@
 <img src="../../../images/bio/howard-higgins-01-agua-caliente.jpg" alt="Young boy at Agua Caliente Hot Springs, 1930s" class="float-right-sm">
 
 <p>By late 1928, when Howard was barely a year old, his mother made a decision that would shape the rest of his life. She placed him with <strong>Robert and Sarah Birch</strong>, a couple in their late fifties who operated the <strong>Agua Caliente Hot Springs</strong> resort in the remote Gila River desert of Maricopa County. Doris had been part of the Birch household since at least August 1926—voter registration records show her living at Agua Caliente three months before her marriage to James. The Birches were not strangers; they were trusted friends.</p>
-<p>Robert Birch was a Canadian-born pioneer who had operated saloons in Prescott before Arizona's prohibition drove him to the hospitality business. His wife Sarah was an English immigrant. Together they ran a 22-room adobe hotel that catered to railroad workers, health seekers, and travelers along the Southern Pacific's Sunset Route. It was here, among the mineral springs and desert sunsets, that Howard spent his early childhood.</p>
+<p>Robert Birch was a Canadian-born pioneer who had operated saloons in Prescott before Arizona's prohibition drove him to the hospitality business. His wife Sarah was an English immigrant. Together they ran a 22-room adobe hotel that catered to railroad workers, health seekers, and travelers along the Southern Pacific's Sunset Route. It was here, among the mineral springs and desert sunsets, that Howard spent much of his early childhood—though, as the next chapter shows, not without interruption.</p>
 <h2>A Network of Care</h2>
-<p>Howard's upbringing was not a simple handoff from one family to another. Recent discoveries reveal a <strong>flexible family care network</strong> that included his biological family.</p>
-<p>His maternal aunt, <strong>Jessie Velma Kuthe Rosser</strong>, had established herself in Silver City, New Mexico, by 1920. She married Willis A. Rosser Sr. in 1922 and had a son, <strong>Willis A. Rosser Jr.</strong>, in 1923—making Willis Howard's first cousin, four years his senior. Anecdotal family evidence indicates that Howard and Willis spent time together in New Mexico during the 1930s, though the exact dates remain unclear. Willis may have been like an older brother to Howard during those years.</p>
-<p>And Doris did not disappear. On September 26, 1929, when Howard was two years old, the Arizona Republic noted: &quot;Doris Higgins visits Agua Caliente - Doris spent Sunday with Burch family.&quot; On April 7, 1933, when he was five, the Casa Grande Dispatch reported that &quot;Doris travels to Agua Caliente to visit her small son Howard.&quot; These documented visits—and likely many more that went unrecorded—prove that Howard's mother maintained a relationship with him throughout his childhood.</p>
+<p>Howard's upbringing was not a simple handoff from one family to another. Recent discoveries reveal a <strong>flexible family care network</strong> that moved him between the Birches, his mother, and his mother's relatives as Depression-era circumstances demanded.</p>
+<p>His maternal aunt <strong>Jessie Velma Kuthe Rosser</strong>—Doris's younger sister—had settled in <strong>Silver City, New Mexico</strong>, by around 1930, working for the Forest/Power office near the teachers' college. Jessie's son <strong>Willis &quot;Bill&quot; Rosser Jr.</strong>, born in 1923, was Howard's first cousin and four years his senior. Family accounts hold that during the depths of the Depression the two boys were &quot;sent in together&quot; to a Catholic boarding school in Silver City—<strong>St. Mary Magdalene's Academy</strong>, run by the Sisters of St. Joseph—while their mothers worked to establish themselves nearby. A Silver City historian who looked into the story found some confirmation that <strong>Bill</strong> was lodged there; <strong>Howard's</strong> own presence rests on the family's &quot;they went together&quot; memory rather than a document, and would fall in the gap between the 1930 census—which placed him, then two, with Doris herself in Buckeye, Arizona—and April 1935, when he was back at Agua Caliente. Long known only as a vague &quot;time in New Mexico with Willis,&quot; this Silver City interval now has at least a likely name and place, though the academy's enrollment records that would confirm it have not yet been located.</p>
+<p>And through it all, Doris did not disappear. On September 26, 1929, when Howard was two, the Arizona Republic noted: &quot;Doris Higgins visits Agua Caliente - Doris spent Sunday with Burch family.&quot; On April 7, 1933, when he was five, the Casa Grande Dispatch reported that &quot;Doris travels to Agua Caliente to visit her small son Howard.&quot; These documented visits—and likely many more that went unrecorded—prove that Howard's mother maintained a relationship with him throughout his childhood.</p>
 <h2>Phoenix and High School</h2>
-<p>By April 1935, Howard was still living at Agua Caliente, as recorded in the 1940 census's &quot;previous residence&quot; question. But by 1940, at age twelve, he was living in <strong>Phoenix</strong> with the <strong>Woodard family</strong> at 1517 Almeria Street. The census lists him as a &quot;lodger&quot; in the household of R. Waldo Woodard, a manager, along with Woodard's wife Maisy and sister-in-law Elsie Parkman, an art teacher.</p>
+<p>By April 1935, after the Silver City interlude, Howard was back at Agua Caliente, as recorded in the 1940 census's &quot;previous residence&quot; question. But by 1940, at age twelve, he was living in <strong>Phoenix</strong> with the <strong>Woodard family</strong> at 1517 Almeria Street. The census lists him as a &quot;lodger&quot; in the household of R. Waldo Woodard, a manager, along with Woodard's wife Maisy and sister-in-law Elsie Parkman, an art teacher.</p>
 <p>Why Howard left the Birches' resort for the Woodard household remains a mystery. Robert and Sarah Birch were still at Agua Caliente in 1940—Robert, then seventy-one, was working eighty-four hours a week running the resort. Perhaps the arrangement was about education: Phoenix offered better schools than the remote desert. Perhaps it was part of the broader care network that had always characterized Howard's upbringing. The Woodard connection may have run through the Rossers, the Kuthes, or the Birches themselves.</p>
 <p>Howard attended <strong>North High School</strong> in Phoenix. The 1944 yearbook shows him as &quot;Howard R Higgins&quot;—still carrying his birth name at age sixteen or seventeen.</p>
 <h2>Military Service and a New Name</h2>
@@ -753,8 +1024,10 @@
 <li>Parents: James Everett Higgins (1892–1938) + Doris Pauline Kuthe (1902–1996). Married 6 Nov 1926, Maricopa County. Separated before Howard's birth (James in San Francisco).</li>
 <li>Placed with Robert &amp; Sarah Birch at Agua Caliente Hot Springs, late 1928 (age ~1).</li>
 <li>Biological mother's documented visits: 26 Sept 1929 (Arizona Republic); 7 Apr 1933 (Casa Grande Dispatch - &quot;to visit her small son Howard&quot;).</li>
-<li>Extended care network: Aunt Jessie Kuthe Rosser in New Mexico; cousin Willis A. Rosser Jr. (b. 1923); time in NM with Willis (~1930s, dates unclear).</li>
-<li>1940 Census: Living with Woodard family, Phoenix, as &quot;lodger&quot; (age 12). Previous residence: Agua Caliente (April 1935).</li>
+<li>Extended care network: maternal aunt Jessie Kuthe Rosser (in Silver City, NM by ~1930) and her son, cousin Willis &quot;Bill&quot; Rosser Jr. (b. 1923).</li>
+<li>Silver City foster interval (~1931–1934, ATTRIBUTED — pending records): per family account, Howard and cousin Bill were sent to St. Mary Magdalene's Academy (Sisters of St. Joseph), Silver City, NM. Institution identified by Silver City historian Susan M. Berry, with partial confirmation for Bill; Howard's presence is inferred (no direct document) and sits between Buckeye AZ in 1930 and Agua Caliente by 1935. Enrollment records not yet located. See <code>research/analysis/silver-city-st-marys-foster-2026-06-10.md</code>.</li>
+<li>1930 Census (Apr 1930): Howard (age 2) lodging with his mother Doris at the Parkman household, Buckeye, AZ — i.e., the Silver City interval fell after this, not a continuous 1928–1935 stay at Agua Caliente.</li>
+<li>1940 Census: Living with Woodard family, Phoenix, as &quot;lodger&quot; (age 12). Previous residence (1935): Agua Caliente.</li>
 <li>Education: North High School, Phoenix (yearbook 1944 shows &quot;Howard R Higgins&quot;); University of Arizona, Electrical Engineering, graduated 27 May 1953 (as &quot;Howard R. Birch&quot;).</li>
 <li>Career: General Electric Company (spent significant portion of career there).</li>
 <li>Military: Enlisted 18 Jan 1945 (age 17). Navy and Army records exist; branch unclear.</li>

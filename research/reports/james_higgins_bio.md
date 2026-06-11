@@ -53,6 +53,7 @@ Through his son Laurence, who emigrated to America and married Mary Knight, Jame
 - Per Mary Anne Higgins researcher's research, citing Irish Catholic Parish Registers, Tithe Applotment Books, Griffith's Valuation, and tombstone transcriptions.
 - Marriage: 23 Dec 1850, Rathmines, Dublin; witnesses Patrick Delaney & Elizabeth Doyle.
 - Children compiled from Irish Catholic Parish Registers and Ancestry data.
+- Son **William (1864–1892)** — born 29 Dec 1864 at Loughawn, Harold's Cross; married Mary Reilly 26 Jan 1885 at St. Joseph's, Terenure; died 14 Feb 1892 in the South Dublin Union workhouse at age 27. His son **Christopher Aloisis William Higgins (1885–1963)** emigrated to New York in 1908 (after his mother's death), settling in Brooklyn and later Bethpage, Long Island — a new American Higgins branch paralleling Laurence's. [Likely; per Mary Anne Higgins researcher PDFs, parish + civil registers, not yet independently verified.]
 - Death: 10 May 1880, Harold's Cross, Dublin, Ireland.
 - Some US census records suggest residence in South Bend, Indiana (1860) and New York (1880)—possibly referring to a different James Higgins or confused data.
 - Sources: Ireland Catholic Parish Registers (1655–1915), Geneanet Community Trees, Ancestry family tree.

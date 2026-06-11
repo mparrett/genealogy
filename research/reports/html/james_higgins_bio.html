@@ -165,6 +165,277 @@
             margin: 0.25rem 0 1rem 1.25rem;
         }
 
+        /* === Connection Card (ad-hoc relationship widget) === */
+        details.connection-card {
+            float: right;
+            clear: right;
+            width: 50%;
+            margin: 0.5rem 0 1rem 1.5rem;
+            padding: 0;
+            border: 1px solid rgba(139, 69, 19, 0.2);
+            border-radius: 8px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.6) 0%, rgba(248,244,240,0.8) 100%);
+            overflow: hidden;
+        }
+
+        details.connection-card.full-width {
+            float: none;
+            width: auto;
+            margin: 1.5rem 0;
+        }
+
+        details.connection-card summary {
+            padding: 0.625rem 1rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 0.875rem;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        details.connection-card[open] summary {
+            border-bottom: 1px solid rgba(139, 69, 19, 0.15);
+            border-radius: 8px 8px 0 0;
+        }
+
+        details.connection-card summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.connection-card summary::before {
+            content: '▸';
+            font-size: 0.875rem;
+            color: rgba(139, 69, 19, 0.6);
+            transition: transform 0.2s ease;
+        }
+
+        details.connection-card[open] summary::before {
+            transform: rotate(90deg);
+        }
+
+        details.connection-card summary:hover {
+            background: rgba(139, 69, 19, 0.08);
+        }
+
+        .connection-tree {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 2rem;
+            row-gap: 1.5rem;
+            padding: 1rem 1rem 1.25rem;
+            justify-items: center;
+            font-family: Georgia, 'Times New Roman', serif;
+        }
+
+        .connection-tree .tn {
+            background: rgba(255,255,255,0.75);
+            border: 1px solid rgba(139, 69, 19, 0.3);
+            border-radius: 6px;
+            padding: 0.4rem 0.75rem;
+            text-align: center;
+            line-height: 1.25;
+            min-width: 6.5rem;
+            max-width: 100%;
+            position: relative;
+            z-index: 1;
+        }
+
+        .connection-tree .tn-name {
+            display: block;
+            font-weight: 500;
+            color: var(--primary);
+            font-size: 0.875rem;
+        }
+
+        .connection-tree .tn-meta {
+            display: block;
+            font-size: 0.72rem;
+            color: rgba(122, 58, 15, 0.75);
+            font-style: italic;
+            margin-top: 0.1rem;
+        }
+
+        .connection-tree .tn-focus {
+            background: rgba(139, 69, 19, 0.12);
+            border-color: rgba(139, 69, 19, 0.55);
+        }
+
+        .connection-tree .tn-focus .tn-name {
+            font-weight: 600;
+        }
+
+        .connection-tree .tn-anc { grid-column: 1 / 3; grid-row: 1; }
+        .connection-tree .tn-sib-l { grid-column: 1; grid-row: 2; justify-self: end; }
+        .connection-tree .tn-sib-r { grid-column: 2; grid-row: 2; justify-self: start; }
+        .connection-tree .tn-desc { grid-column: 2; grid-row: 3; justify-self: start; }
+
+        /* Connector lines — geometry tied to column-gap (2rem) and row-gap (1.5rem) */
+        .connection-tree .tn-anc::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            width: 1px;
+            height: 0.75rem;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        .connection-tree .tn-sib-l::before {
+            content: '';
+            position: absolute;
+            top: -0.75rem;
+            left: 50%;
+            right: -1rem;
+            height: 1px;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        .connection-tree .tn-sib-r::before {
+            content: '';
+            position: absolute;
+            top: -0.75rem;
+            left: -1rem;
+            right: 50%;
+            height: 1px;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        .connection-tree .tn-sib-r::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            width: 1px;
+            height: 0.75rem;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        /* === Timeline Card (in-content event timeline) === */
+        details.timeline-card {
+            float: right;
+            clear: right;
+            width: 50%;
+            margin: 0.5rem 0 1rem 1.5rem;
+            padding: 0;
+            border: 1px solid rgba(139, 69, 19, 0.2);
+            border-radius: 8px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.6) 0%, rgba(248,244,240,0.8) 100%);
+            overflow: hidden;
+        }
+
+        details.timeline-card.full-width {
+            float: none;
+            width: auto;
+            margin: 1.5rem 0;
+        }
+
+        details.timeline-card summary {
+            padding: 0.625rem 1rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 0.875rem;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        details.timeline-card[open] summary {
+            border-bottom: 1px solid rgba(139, 69, 19, 0.15);
+            border-radius: 8px 8px 0 0;
+        }
+
+        details.timeline-card summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.timeline-card summary::before {
+            content: '▸';
+            font-size: 0.875rem;
+            color: rgba(139, 69, 19, 0.6);
+            transition: transform 0.2s ease;
+        }
+
+        details.timeline-card[open] summary::before {
+            transform: rotate(90deg);
+        }
+
+        details.timeline-card summary:hover {
+            background: rgba(139, 69, 19, 0.08);
+        }
+
+        ol.timeline-list {
+            list-style: none;
+            margin: 0;
+            padding: 1rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 0.875rem;
+        }
+
+        ol.timeline-list .tl-event {
+            display: grid;
+            grid-template-columns: 3.75rem 1fr;
+            align-items: start;
+        }
+
+        ol.timeline-list .tl-year {
+            text-align: right;
+            padding-right: 0.875rem;
+            padding-top: 0.1rem;
+            color: rgba(122, 58, 15, 0.85);
+            font-weight: 500;
+            font-size: 0.76rem;
+            font-variant-numeric: tabular-nums;
+            white-space: nowrap;
+        }
+
+        ol.timeline-list .tl-body {
+            color: var(--text-primary);
+            line-height: 1.45;
+            border-left: 1px solid rgba(139, 69, 19, 0.3);
+            padding-left: 0.875rem;
+            padding-bottom: 0.75rem;
+            position: relative;
+            font-size: 0.82rem;
+        }
+
+        ol.timeline-list .tl-event:last-child .tl-body {
+            padding-bottom: 0.2rem;
+        }
+
+        ol.timeline-list .tl-body::before {
+            content: '';
+            position: absolute;
+            left: -0.3rem;
+            top: 0.4rem;
+            width: 0.4rem;
+            height: 0.4rem;
+            border-radius: 50%;
+            background: var(--primary);
+            border: 2px solid #fcfcfc;
+            box-sizing: content-box;
+        }
+
+        ol.timeline-list .tl-sub {
+            list-style: disc;
+            margin: 0.3rem 0 0;
+            padding-left: 1.125rem;
+            font-size: 0.78rem;
+            color: var(--text-secondary);
+        }
+
+        ol.timeline-list .tl-sub li {
+            margin: 0.15rem 0;
+        }
+
         /* Clear floats after major sections (h2), but allow h3 to flow around location asides */
         h2, hr {
             clear: both;
@@ -774,6 +1045,7 @@
 <li>Per Mary Anne Higgins researcher's research, citing Irish Catholic Parish Registers, Tithe Applotment Books, Griffith's Valuation, and tombstone transcriptions.</li>
 <li>Marriage: 23 Dec 1850, Rathmines, Dublin; witnesses Patrick Delaney &amp; Elizabeth Doyle.</li>
 <li>Children compiled from Irish Catholic Parish Registers and Ancestry data.</li>
+<li>Son <strong>William (1864–1892)</strong> — born 29 Dec 1864 at Loughawn, Harold's Cross; married Mary Reilly 26 Jan 1885 at St. Joseph's, Terenure; died 14 Feb 1892 in the South Dublin Union workhouse at age 27. His son <strong>Christopher Aloisis William Higgins (1885–1963)</strong> emigrated to New York in 1908 (after his mother's death), settling in Brooklyn and later Bethpage, Long Island — a new American Higgins branch paralleling Laurence's. [Likely; per Mary Anne Higgins researcher PDFs, parish + civil registers, not yet independently verified.]</li>
 <li>Death: 10 May 1880, Harold's Cross, Dublin, Ireland.</li>
 <li>Some US census records suggest residence in South Bend, Indiana (1860) and New York (1880)—possibly referring to a different James Higgins or confused data.</li>
 <li>Sources: Ireland Catholic Parish Registers (1655–1915), Geneanet Community Trees, Ancestry family tree.</li>
