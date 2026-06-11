@@ -26,11 +26,30 @@ ancestors:
       image_thumb: george-kuthe-migration.jpg
       initials: GK
 
-    - name: Huldah Imogene Kuthe
-      years: 1898–1979
-      tagline: Oregon-Born, Williams Arizona Matriarch
-      relation: Great-Grandmother
+    - name: Huldah Imogene (Bridgefarmer) Kuthe
+      years: 1873–1907
+      tagline: Oregon Pioneer Descendant, Farm Wife
+      relation: 2nd Great-Grandmother
       bio: huldah_imogene_kuthe_bio.html
       image_class: huldah
       image_thumb: george-kuthe-migration.jpg
       initials: HK
+
+    - name: Doris Pauline Kuthe
+      years: 1902–1996
+      tagline: Resilient Educator, Devoted Mother
+      relation: Great-Grandmother
+      bio: doris_kuthe_bio.html
+      image_class: doris
+      image_thumb: george-kuthe-migration.jpg
+      initials: DK
+
+  collateral:
+    - name: Jessie Velma Kuthe
+      years: 1905–1993
+      tagline: Writer & Family Chronicler — sister of Doris
+      relation: Great-Grandaunt
+      bio: jessie_kuthe_bio.html
+      image_class: jessie
+      image_thumb: george-kuthe-migration.jpg
+      initials: JK

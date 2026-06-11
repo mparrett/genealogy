@@ -1,0 +1,45 @@
+name: Jessie Velma Kuthe
+birth:
+  year: 1905
+  label: Born
+  location: West Albany, Oregon
+death:
+  year: 1993
+  label: Died
+  location: Nogales, Arizona
+events:
+  - year: 1907
+    label: Mother Huldah dies (age 2)
+    type: event
+  - year: 1912
+    label: Family moves to Phoenix
+    type: event
+  - year: 1922
+    label: Married Willis A. Rosser
+    type: marriage
+  - year: 1923
+    label: Son Bill Rosser born
+    type: event
+  - year: 1930
+    label: Living in Silver City, NM
+    type: event
+  - year: 1933
+    label: Son Bill at St. Mary's, Silver City
+    type: event
+  - year: 1940
+    label: Divorced; in San Francisco
+    type: event
+  - year: 1941
+    label: Married Roy Adair; daughter Juby born
+    type: marriage
+  - year: 1950
+    label: Nogales household with sister Doris
+    type: event
+  - year: 1959
+    label: Ford Times essay on Albany
+    type: event
+
+family_links:
+  - name: Doris Pauline Kuthe
+    relation: Sister
+    link: doris_kuthe_bio.html
