@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Patrick Gleeson (c. 1835–?)</title>
+    <title>Patrick Gleeson (c. 1832–1897)</title>
     <style>
         /* CSS Custom Properties */
         :root {
@@ -163,6 +163,277 @@
             width: 25%;
             float: right;
             margin: 0.25rem 0 1rem 1.25rem;
+        }
+
+        /* === Connection Card (ad-hoc relationship widget) === */
+        details.connection-card {
+            float: right;
+            clear: right;
+            width: 50%;
+            margin: 0.5rem 0 1rem 1.5rem;
+            padding: 0;
+            border: 1px solid rgba(139, 69, 19, 0.2);
+            border-radius: 8px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.6) 0%, rgba(248,244,240,0.8) 100%);
+            overflow: hidden;
+        }
+
+        details.connection-card.full-width {
+            float: none;
+            width: auto;
+            margin: 1.5rem 0;
+        }
+
+        details.connection-card summary {
+            padding: 0.625rem 1rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 0.875rem;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        details.connection-card[open] summary {
+            border-bottom: 1px solid rgba(139, 69, 19, 0.15);
+            border-radius: 8px 8px 0 0;
+        }
+
+        details.connection-card summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.connection-card summary::before {
+            content: '▸';
+            font-size: 0.875rem;
+            color: rgba(139, 69, 19, 0.6);
+            transition: transform 0.2s ease;
+        }
+
+        details.connection-card[open] summary::before {
+            transform: rotate(90deg);
+        }
+
+        details.connection-card summary:hover {
+            background: rgba(139, 69, 19, 0.08);
+        }
+
+        .connection-tree {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 2rem;
+            row-gap: 1.5rem;
+            padding: 1rem 1rem 1.25rem;
+            justify-items: center;
+            font-family: Georgia, 'Times New Roman', serif;
+        }
+
+        .connection-tree .tn {
+            background: rgba(255,255,255,0.75);
+            border: 1px solid rgba(139, 69, 19, 0.3);
+            border-radius: 6px;
+            padding: 0.4rem 0.75rem;
+            text-align: center;
+            line-height: 1.25;
+            min-width: 6.5rem;
+            max-width: 100%;
+            position: relative;
+            z-index: 1;
+        }
+
+        .connection-tree .tn-name {
+            display: block;
+            font-weight: 500;
+            color: var(--primary);
+            font-size: 0.875rem;
+        }
+
+        .connection-tree .tn-meta {
+            display: block;
+            font-size: 0.72rem;
+            color: rgba(122, 58, 15, 0.75);
+            font-style: italic;
+            margin-top: 0.1rem;
+        }
+
+        .connection-tree .tn-focus {
+            background: rgba(139, 69, 19, 0.12);
+            border-color: rgba(139, 69, 19, 0.55);
+        }
+
+        .connection-tree .tn-focus .tn-name {
+            font-weight: 600;
+        }
+
+        .connection-tree .tn-anc { grid-column: 1 / 3; grid-row: 1; }
+        .connection-tree .tn-sib-l { grid-column: 1; grid-row: 2; justify-self: end; }
+        .connection-tree .tn-sib-r { grid-column: 2; grid-row: 2; justify-self: start; }
+        .connection-tree .tn-desc { grid-column: 2; grid-row: 3; justify-self: start; }
+
+        /* Connector lines — geometry tied to column-gap (2rem) and row-gap (1.5rem) */
+        .connection-tree .tn-anc::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            width: 1px;
+            height: 0.75rem;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        .connection-tree .tn-sib-l::before {
+            content: '';
+            position: absolute;
+            top: -0.75rem;
+            left: 50%;
+            right: -1rem;
+            height: 1px;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        .connection-tree .tn-sib-r::before {
+            content: '';
+            position: absolute;
+            top: -0.75rem;
+            left: -1rem;
+            right: 50%;
+            height: 1px;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        .connection-tree .tn-sib-r::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            width: 1px;
+            height: 0.75rem;
+            background: rgba(139, 69, 19, 0.5);
+        }
+
+        /* === Timeline Card (in-content event timeline) === */
+        details.timeline-card {
+            float: right;
+            clear: right;
+            width: 50%;
+            margin: 0.5rem 0 1rem 1.5rem;
+            padding: 0;
+            border: 1px solid rgba(139, 69, 19, 0.2);
+            border-radius: 8px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.6) 0%, rgba(248,244,240,0.8) 100%);
+            overflow: hidden;
+        }
+
+        details.timeline-card.full-width {
+            float: none;
+            width: auto;
+            margin: 1.5rem 0;
+        }
+
+        details.timeline-card summary {
+            padding: 0.625rem 1rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 0.875rem;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        details.timeline-card[open] summary {
+            border-bottom: 1px solid rgba(139, 69, 19, 0.15);
+            border-radius: 8px 8px 0 0;
+        }
+
+        details.timeline-card summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.timeline-card summary::before {
+            content: '▸';
+            font-size: 0.875rem;
+            color: rgba(139, 69, 19, 0.6);
+            transition: transform 0.2s ease;
+        }
+
+        details.timeline-card[open] summary::before {
+            transform: rotate(90deg);
+        }
+
+        details.timeline-card summary:hover {
+            background: rgba(139, 69, 19, 0.08);
+        }
+
+        ol.timeline-list {
+            list-style: none;
+            margin: 0;
+            padding: 1rem;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 0.875rem;
+        }
+
+        ol.timeline-list .tl-event {
+            display: grid;
+            grid-template-columns: 3.75rem 1fr;
+            align-items: start;
+        }
+
+        ol.timeline-list .tl-year {
+            text-align: right;
+            padding-right: 0.875rem;
+            padding-top: 0.1rem;
+            color: rgba(122, 58, 15, 0.85);
+            font-weight: 500;
+            font-size: 0.76rem;
+            font-variant-numeric: tabular-nums;
+            white-space: nowrap;
+        }
+
+        ol.timeline-list .tl-body {
+            color: var(--text-primary);
+            line-height: 1.45;
+            border-left: 1px solid rgba(139, 69, 19, 0.3);
+            padding-left: 0.875rem;
+            padding-bottom: 0.75rem;
+            position: relative;
+            font-size: 0.82rem;
+        }
+
+        ol.timeline-list .tl-event:last-child .tl-body {
+            padding-bottom: 0.2rem;
+        }
+
+        ol.timeline-list .tl-body::before {
+            content: '';
+            position: absolute;
+            left: -0.3rem;
+            top: 0.4rem;
+            width: 0.4rem;
+            height: 0.4rem;
+            border-radius: 50%;
+            background: var(--primary);
+            border: 2px solid #fcfcfc;
+            box-sizing: content-box;
+        }
+
+        ol.timeline-list .tl-sub {
+            list-style: disc;
+            margin: 0.3rem 0 0;
+            padding-left: 1.125rem;
+            font-size: 0.78rem;
+            color: var(--text-secondary);
+        }
+
+        ol.timeline-list .tl-sub li {
+            margin: 0.15rem 0;
         }
 
         /* Clear floats after major sections (h2), but allow h3 to flow around location asides */
@@ -707,43 +978,56 @@
 </head>
 <body>
 <nav class="bio-nav"><a href="../../../index.html">← Family Index</a></nav>
-<div class="bio-layout"><div class="bio-content"><h1>Patrick Gleeson (c. 1835–?)</h1>
+<div class="bio-layout"><div class="bio-content"><h1>Patrick Gleeson (c. 1832–1897)</h1>
 <p><strong>Relationship:</strong> 3rd great-grandfather (Gleeson line)</p>
-<p><em>Sailor, Croom, County Limerick</em></p>
-<p>Patrick Gleeson was born around 1830–1845 in County Limerick, Ireland. He worked as a sailor and lived in the townland of Scagh in Croom parish, where he and his wife Margaret raised a large family over a span of fifteen years.</p>
+<p><em>Croom, County Limerick</em></p>
+<p>Patrick Gleeson was born around 1832–1837 in County Limerick, Ireland. He was the son of <strong>James Gleeson and Honora O'Brien</strong> of <strong>Hospital parish</strong>, on the Limerick–Tipperary border — a family documented across four baptisms in the Hospital register (Patrick 1829, Patrick 1833, Margaret 1842, Catherine 1850). Two of those baptisms record a Patrick to this couple (March 1829 and St. Patrick's Day 1833); the weight of evidence — a calibrated birth estimate near 1832, a sponsor side-switch from the Gleeson side to the O'Brien side, and a death record giving his age as 60 in 1897 — points to the later child as ours, with the earlier Patrick likely having died young. As a young man, Patrick moved roughly 25 miles west to the townland of <strong>Scagh in Croom parish</strong>, where he first appears in the record in 1859. His occupation evolved over his life: he was a <strong>farmer</strong> through the 1860s (documented in Petty Sessions records of 1859, 1864, and 1869), a <strong>shopkeeper</strong> on Main Street in Croom village by 1881, and a <strong>carrier</strong> by the time of his death. The &quot;sailor&quot; attribution from earlier research was contamination from a separate Limerick City Patrick Gleeson family — see <code>research/analysis/gleeson-three-family-confusion.md</code>.</p>
 <aside class="location-aside">
   <img src="../../../images/locations/croom-limerick-1864.jpg" alt="Croom, Co. Limerick, Ireland">
   <div class="location-aside-title">Croom, Co. Limerick</div>
-  <div class="location-aside-date">Ireland, c. 1860</div>
-  <div class="location-aside-text">The market town of Croom sits on the River Maigue, roughly 20 miles from the port of Limerick. Patrick worked as a sailor and raised his family in the nearby townland of Scagh.</div>
+  <div class="location-aside-date">Ireland, c. 1862</div>
+  <div class="location-aside-text">The market town of Croom sits on the River Maigue in Co. Limerick. Patrick raised his family in the nearby townland of Scagh, where seven of his children were baptized between 1863 and 1878.</div>
 </aside>
 
-<p>Patrick married <strong>Margaret Moloney</strong> around 1860 in Ireland. Her surname appears in records under several spellings—Moloney, Molony, Malony—but the Croom baptismal register's Latin form <em>Margaritæ Moloney</em> is the most authoritative. The Moloney surname is common in County Clare and the Clare/Limerick border region, suggesting possible connections across the county line.</p>
-<p>The couple had at least seven children baptized in Croom parish between 1863 and 1878:</p>
+<p>On <strong>18 November 1860</strong>, Patrick married <strong>Margaret Moloney</strong> of Kilfinny in the <strong>Croagh/Kilfinny</strong> parish church. The marriage register records a <strong>dispensation for consanguinity in the third or fourth degree</strong> — Patrick and Margaret were blood relatives, the Gleeson and Moloney lines having already intermarried in an earlier generation. (The register names the bride &quot;Maria,&quot; but three of her children's baptisms, the 1901 and 1911 censuses, an 1918 deed, and her 1922 death record all name her <strong>Margaret</strong>; &quot;Maria&quot; was a lone scribal slip.) Margaret was herself baptized <strong>31 December 1836 in Croagh parish</strong>, daughter of <strong>James Molony and Catherine Kenny</strong>.</p>
+<p>Margaret's surname appears in records under several spellings—Moloney, Molony, Malony, Maloney—but the Croom parish baptism records for the children consistently use the <strong>Moloney</strong> form (Latin <em>Moloney</em>). This is an important distinction: Ancestry trees that merge our line with a <strong>Maloney</strong> family are following the wrong surname and likely the wrong family entirely.</p>
+<p>The couple had at least nine documented children. Their <strong>firstborn was Catherine</strong>, baptized at Croom in January 1862 — eldest of the family and, as later research established, the &quot;Mrs. John Hayes of Staten Island&quot; named in James's 1946 obituary (see below). Eight more children followed, baptized in Croom parish between 1863 and 1881:</p>
 <ul>
-<li><strong>James (Jacobus) Gleeson</strong> (23 Dec 1863) — sponsors: William Shaw, Margaret Kiely</li>
-<li><strong>Honora Gleeson</strong> (10 Mar 1866)</li>
-<li><strong>Bridget (Brigida) Gleeson</strong> (21–24 Feb 1868) — later Mrs. Bridget O'Connor</li>
-<li><strong>Ellen / Helena Gleeson</strong> (15 Jul 1869)</li>
-<li><strong>Mary Gleeson</strong> (15 Dec 1872) — likely &quot;Miss Mary Gleeson, Croom&quot; referenced in James's obituary</li>
-<li><strong>Margaret (Margarita) Gleeson</strong> (29 Sep 1875)</li>
-<li><strong>Jane / Janet Gleeson</strong> (25–28 Sep 1878)</li>
+<li><strong>Catherine Gleeson</strong> (baptized 31 Jan 1862) — firstborn; sponsors: John Moloney, Bridget Gleeson. Married John Hayes at Croom in 1879; died 1944 on Staten Island, New York</li>
+<li><strong>James (Jacobus) Gleeson</strong> (23 Dec 1863) — our direct ancestor; sponsors: William Storan, Margaret Kiely. Emigrated to Wisconsin c. 1883</li>
+<li><strong>Honora (&quot;Nora&quot;) Gleeson</strong> (24 Mar 1866) — sponsors: Thomas Shea, Ellen Moloney</li>
+<li><strong>Bridget (Brigida) Gleeson</strong> (21–24 Feb 1868)</li>
+<li><strong>Ellen / Helena Gleeson</strong> (9 Jul 1869) — sponsors: Jeremiah O'Leary, Bridget Shanahan; officiant Rev. John Quinlan</li>
+<li><strong>Mary Gleeson</strong> (18 Dec 1872) — sponsors: John + Ellen O'Shaughnessy; officiant Rev. John Quinlan, C.C. Likely the &quot;Miss Mary Gleeson, Croom&quot; of James's obituary</li>
+<li><strong>Margaret (Margarita) Gleeson</strong> (29 Sep 1875) — sponsors: William Blake, Ellen Condon</li>
+<li><strong>Jane / Janet Gleeson</strong> (25–28 Sep 1878) — sponsors: Michael Moloney, Maria Quaid</li>
+<li><strong>Bridget Gleeson</strong> (born 11 Oct 1881, Croom) — a second Bridget; registered by Patrick himself as a shopkeeper. Almost certainly the &quot;Mrs. Bridget O'Connor of Croom&quot; of James's 1946 obituary</li>
 </ul>
-<p>The tight, consistent sequence of births confirms a stable family unit in Scagh through the late 1870s. The baptismal sponsors—William Shaw and Margaret Kiely for James—point to a local network of families in the Croom area.</p>
-<p>Patrick's occupation as a sailor is noted in early research but no specific records of his service have been located. Given Croom's position on the River Maigue, roughly 20 miles from the port of Limerick, maritime work would have been accessible.</p>
-<h2>Emigration of James</h2>
-<p>Patrick's eldest son James emigrated to the United States around 1883, arriving in New York from Liverpool and Queenstown at approximately age 19. No U.S. records have been found for Patrick or Margaret, and James appears to have emigrated alone. Patrick likely remained in Ireland for the rest of his life.</p>
+<p>The baptismal sponsors—William Storan and Margaret Kiely for James—point to a local network of families in the Croom area. Storan is a distinctively Croom-area surname (Gaelic <em>Ó Stóirín</em>); Mark Storan appears in the 1820s Tithe Applotment Books for Lower Corrobal in Croom, and the Storan family has farmed in Mournane/Lower Morenane (Croom parish) continuously since. The recurring <strong>Moloney sponsors</strong> across the children's baptisms (John Moloney, Ellen Moloney, Michael Moloney) reflect Margaret's nearby kin.</p>
+<p>James's 1946 obituary named three surviving sisters: <strong>Mrs. Bridget O'Connor</strong> and <strong>Miss Mary Gleeson</strong> in Croom, and <strong>Mrs. John Hayes</strong> on Staten Island — all three now identified among the documented children above.</p>
+<h2>Emigration of the Children</h2>
+<p>At least two of Patrick and Margaret's children crossed the Atlantic. Their <strong>firstborn Catherine</strong> married <strong>John Hayes</strong> at Croom on 29 November 1879 — the officiating priest, Rev. John Quinlan, was the same curate who baptized James, Mary, and Margaret, and the witnesses (Michael and Catharina Shanahan) had been married two months earlier with Patrick himself standing as a witness. Catherine and John emigrated to New York, settling on Staten Island. Catherine died there on 1 November 1944 at 64 Edison Street, a widow; her death record names her parents as Patrick and Margaret Gleason, confirming her as the &quot;Mrs. John Hayes of Staten Island&quot; of James's 1946 obituary. (An earlier hypothesis identifying &quot;Mrs. John Hayes&quot; as an Ella Isabel Gleason of an 1874 Eau Claire, Wisconsin marriage was withdrawn once that bride's father proved to be a &quot;C. R. Gleason&quot; — a different family entirely.)</p>
+<p><strong>James</strong> emigrated around 1883, arriving in New York from Liverpool and Queenstown at approximately age 19, and settled in Buffalo County, Wisconsin (the Mondovi area). Patrick and Margaret themselves remained in Ireland; no U.S. records exist for either.</p>
+<h2>In the Record</h2>
+<ul>
+<li><strong>11 September 1859 — Croom, Co. Limerick.</strong> Patrick was charged with being &quot;Drunk on the Public Street at Croom&quot; by Acting Constable Thomas Turner. Court appearance 19 September 1859 before Justices Robert Maxwell and C. J. Collins R.M. <strong>Occupation listed: Farmer.</strong> Residence on the record: <strong>&quot;Sean&quot;</strong> — almost certainly Scagh/Scaugh (same justice, same court, same charge pattern as the 1864 record). Fined 2 shillings 6 pence + 1 shilling costs, or 24 hours imprisonment. Source: National Archives of Ireland, Petty Sessions Order Books, CSPS1/8381. This is the earliest primary record of Patrick — 4 years before James's baptism — and the first documentary evidence of his occupation as a farmer.</li>
+<li><strong>14 June 1864 — Croom, Co. Limerick.</strong> Patrick was charged again with being &quot;Drunk on the Street at Croom&quot; by Sub-Constable Oliver Goale (assisted by Sub-Constable Edmond Sullivan, witness Sub-Constable W. Eakins). Court appearance 18 July 1864 before Justices Robert Maxwell and Henry Lyons. Fined two shillings + one shilling costs, or 24 hours imprisonment. Residence on the record: <strong>&quot;Scaugh&quot;</strong> (= Scagh townland). Source: National Archives of Ireland, Petty Sessions Order Books, CSPS1/8382.</li>
+<li><strong>3 November 1881 — Croom.</strong> Patrick registered the birth of his daughter Bridget, signing the form himself (&quot;Patt Gleeson, Father&quot;) and recorded as a <strong>shopkeeper</strong> on Main Street — direct evidence that he was literate, alive, and had moved from farming in Scagh to keeping a shop in the village.</li>
+</ul>
 <h2>Death</h2>
-<p>Patrick's date and place of death are unknown. Ancestry trees estimate death before 1925, and his father is listed as Michael Gleeson (b. c. 1810), though this connection has limited documentation.</p>
+<p>Patrick died on <strong>7 December 1897 at Croom</strong>, aged 60, after about a year of heart disease. His occupation at death was recorded as <strong>carrier</strong>, and his daughter <strong>Bridget Gleeson</strong> was present and reported the death, registered six days later. (The same Bridget's 1924 marriage record names her late father as &quot;Patrick Gleeson, Farmer, Main Street Croom,&quot; independently confirming this as our Patrick.) The death at age 60 places his birth around 1837.</p>
+<p>Margaret outlived him by a quarter-century. By the 1901 and 1911 censuses she was the widowed head of the household on Main Street, Croom, running the shop, with daughters Mary and Bridget at home; she signed her own census form in 1911 at age 66. She was still transacting business — releasing a mortgage — in January 1918. Margaret died at <strong>Croom on 18 May 1922</strong>, recorded as a 74-year-old widow (an understatement; a birth around 1836 would make her closer to 86). Her daughter Bridget was again the informant.</p>
 <h2>Disambiguation</h2>
 <p>Early research confused Patrick with an <strong>Australian Patrick Gleeson</strong> from the same era who married a <strong>Margaret Mahony</strong>. The two families were distinguished through several lines of evidence:</p>
 <ul>
-<li>Our Patrick married Margaret <strong>Moloney</strong> (confirmed by Croom baptism register and James's 1892 Wisconsin marriage record)</li>
+<li>Our Patrick married Margaret <strong>Moloney</strong> (confirmed across multiple Croom baptism records for the children, and James's 1892 Wisconsin marriage record)</li>
 <li>The Australian Patrick married Margaret <strong>Mahony</strong> (née Mahony, parents Patrick Mahony + Johanna O'Connell), who emigrated to Australia in 1856/7</li>
 <li>The Australian Patrick had 11 children, none named James</li>
 <li>Correspondence with a descendant of the Australian line (Tony) confirmed no DNA match</li>
 </ul>
-<p>James's obituary mentions siblings <strong>Mrs. Bridget O'Connor</strong> and <strong>Miss Mary Gleeson of Croom</strong>, both of whom map to children in the parish records above. A third reference, <strong>Mrs. John Hayes (New York)</strong>, has not yet been mapped to a known sibling.</p>
+<p>A separate spelling confusion exists between <strong>Moloney</strong> and <strong>Maloney</strong>—two distinct Irish surnames that are often conflated in U.S. records and Ancestry trees. Our line is <strong>Moloney</strong>, confirmed consistently across the Croom parish baptisms. Trees merging in a <strong>Maloney</strong> wife are likely importing the wrong family.</p>
+<p>A <strong>third</strong> confused family is a Limerick City Patrick Gleeson, a sailor who lived at &quot;The Windmill&quot; in St Michael's District, Limerick City. He was married to <strong>Mary Mahony</strong> (not Margaret Moloney). Their son <strong>John</strong> was born 17 May 1864 in Limerick City—only five months after our James was baptized in Croom, which is biologically impossible if the same family. Earlier research wrongly imported this Limerick City family's <strong>sailor</strong> occupation and <strong>Windmill</strong> residence into our Patrick's profile; both have now been struck. See <code>research/analysis/gleeson-three-family-confusion.md</code>.</p>
+<p>A <strong>fourth</strong> confused identification is Ella Isabel Gleason of the 24 Dec 1874 Eau Claire, WI marriage to John Nelson Hayes. The 1874 record names her father as <strong>C. R. Gleason</strong> (likely Charles, Chauncey, Cornelius, or similar) and the groom as John Nelson Hayes, born Venice, Cayuga County, NY, son of Henry and Elmira Hayes. John Nelson Hayes appears to have later partnered with Antoinette &quot;Nettie&quot; Ring, with children Ada (1881), Maud (1882), and Hugh (1889) in Dunn County, WI. None of this connects to our Croom Gleeson line. The misidentification — treating Ella as Patrick's eldest known daughter and &quot;Mrs. John Hayes (NY)&quot; in James's obit — was based on coincidental name overlap; it has been withdrawn 2026-06-01.</p>
 <div class="family-links">
   <h4 class="family-links-title">Family</h4>
   <div class="family-links-grid">
@@ -756,29 +1040,42 @@
 <hr />
 <p><strong>Notes:</strong></p>
 <ul>
-<li>Baptismal records: NLI Catholic Parish Registers, Croom parish (Scagh townland), County Limerick. FamilySearch index lists Jacobus Gleeson baptized 23 Dec 1863, parents Patritii Gleeson + Margaritæ Moloney (Microfilm 02427/07; image unavailable).</li>
-<li>Patrick's occupation as sailor from early Ancestry research; no primary source located.</li>
+<li>Baptismal records: NLI Catholic Parish Registers, Croom parish (Scagh townland), County Limerick. FamilySearch index lists Jacobus Gleeson baptized 23 Dec 1863, parents Patritii Gleeson + Margaritæ Moloney (Microfilm 02427/07). Manuscript re-read 2026-05-31 (Gemini, with surrounding-page context) gives officiant as Rev. John (Joannes) Quinlan, C.C. — consistent across baptisms in 1863, 1869, and 1875. An earlier ChatGPT pass had read &quot;Francis Dunlan&quot; but that was a misread; Dunlan has been retired from the priest network.</li>
+<li>Patrick's occupation shifted across his life: <strong>farmer</strong> (Petty Sessions records, 1859/1864/1869), <strong>shopkeeper</strong> (1881 birth registration of daughter Bridget, signed in his own hand), and <strong>carrier</strong> (1897 death certificate). The earlier &quot;sailor&quot; attribution traced to a separate Limerick City Patrick Gleeson (married Mary Mahony), not ours, and has been struck.</li>
 <li>Disambiguation of the two Patrick Gleesons confirmed via correspondence with Tony (Australian descendant, no DNA match).</li>
-<li>Margaret Moloney's death date and location are unconfirmed for our line. An 1886 death in Drouin, Victoria, Australia attributed to &quot;Margaritte Malony&quot; in some Ancestry trees likely belongs to the Australian Patrick's wife Margaret Mahony.</li>
-<li>Patrick's father Michael Gleeson (b. c. 1810) per Ancestry; limited documentation.</li>
+<li>Patrick's death (7 Dec 1897, Croom) and Margaret's death (18 May 1922, Croom) are both confirmed by civil records, with daughter Bridget as informant on each. An 1886 death in Drouin, Victoria, Australia attributed to &quot;Margaritte Malony&quot; in some Ancestry trees belongs to the Australian Patrick's wife Margaret Mahony, not ours.</li>
+<li>Patrick's parents were <strong>James Gleeson and Honora O'Brien</strong> of Hospital parish, Co. Limerick, documented across four baptisms (1829–1850). The earlier unverified &quot;Michael Gleeson (b. c. 1810)&quot; Ancestry-tree attribution came from the same poor-track-record source that gave the disproven &quot;sailor&quot;/&quot;Windmill&quot; details and is rejected. Which of the two Hospital &quot;Patrick&quot; baptisms (1829 vs. 1833) is ours remains an open question; the 1897 death age (60) hints at a possible third candidate around 1837, making the Hospital register's 1833–1842 gap a priority search target.</li>
+<li>&quot;Ella Isabel Gleason&quot; of the 24 Dec 1874 Eau Claire marriage to John Nelson Hayes was previously misidentified as Patrick's daughter; the actual marriage record names her father as C. R. Gleason. Withdrawn 2026-06-01.</li>
 </ul>
 </div><aside class="bio-timeline">
   <div class="timeline-event">
-    <span class="timeline-year">1835</span>
+    <span class="timeline-year">1832</span>
     <span class="timeline-marker timeline-marker--major"></span>
-    <span class="timeline-label">Born</span>
+    <span class="timeline-label">Born (est.)</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1859</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">First documented record (Petty Sessions, Croom; Farmer)</span>
   </div>
   <div class="timeline-line"></div>
   <div class="timeline-event">
     <span class="timeline-year">1860</span>
     <span class="timeline-marker"></span>
-    <span class="timeline-label">Married Margaret Moloney</span>
+    <span class="timeline-label">Married Margaret Moloney (18 Nov, Croagh)</span>
   </div>
   <div class="timeline-line"></div>
   <div class="timeline-event">
     <span class="timeline-year">1863</span>
     <span class="timeline-marker"></span>
     <span class="timeline-label">Son James baptized</span>
+  </div>
+  <div class="timeline-line"></div>
+  <div class="timeline-event">
+    <span class="timeline-year">1864</span>
+    <span class="timeline-marker"></span>
+    <span class="timeline-label">Petty Sessions court appearance (Croom)</span>
   </div>
   <div class="timeline-line"></div>
   <div class="timeline-event">
@@ -794,9 +1091,9 @@
   </div>
   <div class="timeline-line"></div>
   <div class="timeline-event">
-    <span class="timeline-year">1900</span>
+    <span class="timeline-year">1897</span>
     <span class="timeline-marker timeline-marker--major"></span>
-    <span class="timeline-label">Died (est.)</span>
+    <span class="timeline-label">Died (7 Dec, Croom)</span>
   </div>
 </aside></div>
 </body>
