@@ -29,10 +29,26 @@ research/findings/
 
 ## Existing Directories
 
+**Higgins / Birch / Kuthe**
+
 - `howard-higgins/` - Howard Robert Higgins/Birch (1927-2019)
 - `doris-kuthe/` - Doris Kuthe Higgins Bynon (1902-1996)
+- `jessie-kuthe/` - Jessie Kuthe
 - `robert-birch/` - Robert W. Birch (1869-1950)
 - `james-higgins/` - James Everett Higgins (1892-1938)
+
+**Gleeson (Croom, Co. Limerick → USA)**
+
+- `patrick-gleeson/` - Patrick Gleeson (b. 1833 Emly, Co. Tipperary) of Scagh, Croom — the Irish anchor; largest file in the directory
+- `anne-gleeson/` - Anne Barbara Gleeson
+- `catherine-gleeson-hayes/` - Catherine Gleeson Hayes (1862-1944), Croom → Staten Island; eldest child of Patrick
+
+**Coker / Parrett / Dawson**
+
+- `james-a-coker/` - James A. Coker
+- `effie-may-coker/` - Effie May Coker
+- `jesse_ellsworth_parrett/` - Jesse Ellsworth Parrett
+- `andrew-montgomery-dawson/` - Andrew Montgomery Dawson
 
 ## Relationship to Other Documentation
 

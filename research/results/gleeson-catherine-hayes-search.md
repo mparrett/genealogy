@@ -1,6 +1,23 @@
+> # ⛔ SUPERSEDED — 2026-08-19
+>
+> **This file is retained for its search log only. Its central conclusion is wrong.**
+>
+> This search concluded that **no Croom baptism exists for Catherine** and built a "born outside Croom" hypothesis on that negative. The negative was an artefact of the search window: it swept register pages 88–125 because it trusted the death certificate's stated birth of 14 February 1876. **Catherine's baptism is on frame 81 — 31 January 1862** — found six days after this file was written and image-verified twice since.
+>
+> Disregard entirely:
+> - the §"Irish-side gap: no matching baptism / birth record found" sweep verdict
+> - the §"What this means" hypotheses (born outside Croom / Kilfinny / Tipperary; civil registration missed her; wrong parent attribution)
+> - the 1894 *Teutonic* arrival candidate and everything downstream of its Nenagh residence, including next-pull items 5 and 6
+> - the confidence-summary rows "Irish-side proof missing" and "born in a non-Croom parish"
+>
+> **Current file: `research/findings/catherine-gleeson-hayes/facts.md`.**
+>
+> Still useful here: the US-side anchors, the Nora Gleason = Bridget #2 hypothesis, the confounders list, and the eliminated civil-birth candidates.
+
 # Catherine Hayes née Gleason (Staten Island) — Identification + Open Irish-Side Question
 
 **Search date:** 2026-06-03
+**Status:** ⛔ Superseded 2026-08-19 — see banner above.
 **Triggering lead:** `assets/external/misc/ancestry-catherine-hayes-ny-death.md` — Ancestry-sourced NY death record names Catherine Hayes, b. Ireland 14 Feb 1876, d. 1 Nov 1944 Staten Island, parents Patrick Gleason + Margaret Gleason, "2nd great-grandaunt" tree marker.
 
 ## Resolution: Catherine identifies as "Mrs. John Hayes of Staten Island" from James's 1946 obit

@@ -1,3 +1,9 @@
+> **⛔ Superseded 2026-08-19 — see `research/findings/catherine-gleeson-hayes/facts.md`.**
+>
+> This file is a saved chat reply, written just before Catherine's own fact sheet existed. Everything in it
+> is carried forward into `facts.md` in sourced, tiered form. Kept only as a record of how the picture
+> came together; do not cite it.
+
 Here's the picture, pulled together from `facts.md`, the results file, and the census extracts — and checking it surfaced two things worth knowing.
 
 ## Who she was
