@@ -74,3 +74,17 @@ The overlapping given names (Andreas/Anna/Friedrich/Margareth) across the Huth a
 - Mother's name and sibling Margareth are unconfirmed
 - Mary C. Kuthe is not a confirmed relative
 - Exact origin within Hesse is uncertain — "Darmstadt" from census is all we have
+
+## Red herring: Mary Houser Kuthe (b. 1912 OH – d. 1988)
+
+Surfaced July 2026 via Doc (Silver City Public Library, who found her in a Grant County obituary index) and an Arizona Memory Project hit in the 1953 Tucson city directory ("Kuthe, M. Houser, Mrs., clerk, U of A, 3508 N Estrella"). Because she lived in **Tucson** and her obituary ran in the **Silver City Daily Press (15 Apr 1988)**, she looked like a possible relative of **Jessie Kuthe** (Rosser/Adair) — Silver City being Jessie's town.
+
+**Conclusion: not connected to our Oregon/Arizona Kuthe line.** She married *into* a Kuthe family:
+- Born **20 Apr 1912, Wooster, Wayne Co., Ohio** (parents John & Elizabeth Houser).
+- **Married a Kuthe 21 Dec 1935 in Ohio**; lived in Birmingham / Wayne Co., **Michigan** (1944–47); **divorced 20 Dec 1949, Wayne Co., MI**.
+- Moved to **Tucson by the 1950 census** (Amphitheater, Pima); son **David Kuthe**.
+- Died **9 Apr 1988** (Tucson/Silver City).
+
+The Ohio marriage and Michigan residence point away from Jessie's Missouri→Oregon→Arizona Kuthes. If her husband's Kuthe line connects to anything in this file, it would more plausibly be the Ohio-linked **Küthe** branch (Heinrich Küthe, Vöhl→Lancaster OH) than our line — but that is unproven and not worth pursuing. Definitive check if ever needed: the SCDP obituary (15 Apr 1988), which would name her husband and survivors.
+
+**Sources:** Ancestry (SSDI; SS Applications & Claims; 1950 census; Michigan Divorce Records 1897–1952; Newspapers.com Obituary Index; Find A Grave); ahgp.org Grant County obituary index (K).
