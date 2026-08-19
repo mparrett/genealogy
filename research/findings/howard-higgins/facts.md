@@ -1,6 +1,17 @@
 # Howard Robert Higgins/Birch - Verified Facts
 
-**Last Updated:** 2026-02-02
+**Last Updated:** 2026-06-18
+
+---
+
+## 2026-06 Session Update (new findings)
+
+Cross-refs: research/analysis/silver-city-st-marys-foster-2026-06-10.md · research/analysis/st-marys-academy-silver-city-history.md · research/outreach/comms-log.md
+
+1. **1930 U.S. Census — CONFIRMED (new):** In **April 1930, Howard (age 2) and his mother Doris were lodging with the Parkman family in Buckeye, Maricopa, AZ** (household: Isaac H. & Mary A. Parkman; Maizer & Elsie King; Elsie, Merle, Carroll Parkman; Doris Higgins 27; Howard Higgins 2). ⇒ **The Parkman connection predates 1940** — **Elsie Parkman** appears with Howard in *both* the 1930 (Buckeye) and 1940 (Phoenix/Woodard) households. This largely answers the long-standing "how did the Woodards connect?" question: the through-line is the **Parkman family**, not the Birches.
+2. **The "New Mexico" placement = St. Mary's Academy, Silver City — ATTRIBUTED (pending records).** The undocumented gap between Buckeye (Apr 1930) and Agua Caliente (Apr 1935) is when Howard and cousin **Bill Rosser** were boarded at **St. Mary's (St. Mary Magdalen's) Academy**, a Sisters of St. Joseph Catholic boarding school in Silver City — window **~1931–1934**. Basis: **family oral history + local historian Susan Berry's identification** (St. Mary's was the only nuns' institution there). *For Bill, Berry indicated partial confirmation; for Howard there is NO direct record yet* — the 1930 census lists only the nuns, not students. Aunt **Jessie Kuthe** was living in Silver City in 1930 (903 W. 12th St.), consistent with the placement.
+3. **Records outreach status:** Concordia (Sisters of St. Joseph) archives **confirmed they hold NO St. Mary's records** (16 Jun 2026). Inquiries to the **Silver City Museum**, **St. Vincent de Paul parish** (sacramental), and **Silver City Public Library** are in progress — see comms-log.md.
+4. **Agua Caliente residence — correction:** confirmed only **as of April 1935** (1940 census back-reference), **not continuous from 1928** — the April 1930 Buckeye record shows Howard was *not* at the resort throughout. (A 1931 Doris-and-Howard resort photo suggests the Birch tie existed, but residence ≠ continuous.)
 
 ---
 
