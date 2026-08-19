@@ -316,6 +316,45 @@ Source: FamilySearch, Ireland Catholic Parish Registers 1740-1900 (Margaret bapt
     evidence (cross-sponsorship; a surviving Molony will/holding) emerges. Don't hold the
     reconciliation for a proof that may not exist.
 
+## 9. Wills & administrations — NEW avenue opened (2026-06-09)
+
+Searched the free **NAI Calendar of Wills & Administrations 1858–1920**
+(willcalendars.nationalarchives.ie). First pass:
+
+- **Patrick Gleeson — no Limerick grant found.** All Patrick Gleeson wills/admins in the
+  calendar are Tipperary/Waterford/Galway/Cork; **none in Limerick ~1897.** Our Patrick
+  (d. 7 Dec 1897, Croom) most likely died **intestate with an estate too small to need a
+  grant** — consistent with a modest farmer. (The Ancestry "Patrick Gleeson" will Matt
+  linked is a *Cork* testator, 1881–84 — not ours.)
+- ~~Michael Molony d. 9 Oct 1876~~ — **NOT ours (image checked).** The calendar entry
+  reads *"The Will of Michael Molony late of **John-street, Limerick, Grocer and Wine
+  and Spirit Dealer**, Effects under £1500"* — a wealthy **Limerick city publican/
+  merchant**, not our rural Croagh farmer (Jeremiah's father was a modest Ballymackeamore
+  household; Griffith's didn't even list him as a landholder). The "Bridget Molony"
+  beneficiary is this merchant's relative, unrelated to us. My initial optimism was
+  wrong. **Our Michael Molony (Jeremiah's father) likely has no grant** — modest/
+  intestate, like Patrick Gleeson.
+- Other Limerick Molony grants on page 1 (1858–76): Thomas (1863, 1866), Ellen (1867),
+  John (1870), Edward (1871), Patt (1872). More pages unread.
+
+- **Jeremiah Molony/Moloney (Kate's father) — no Limerick grant.** Searched both
+  spellings: "Molony" Jeremiah → only Clare (1877, 1880) & Cork (1887); "Moloney"
+  Jeremiah → only Cork (1894) & Tipperary (1905). **None in Limerick, none in the
+  1911–1920 window.** So our Jeremiah has no grant either (modest estate; he lived with
+  daughter Kate's family) — or he died after 1920 (past the calendar's Republic-county
+  cutoff).
+
+**Net for the wills avenue — consistent negative, but useful.** None of our three core
+people (Patrick Gleeson d.1897, Michael Molony, Jeremiah Molony) has a will or
+administration grant. This is *informative*: it confirms they were modest farmers/
+labourers who died with estates too small to require probate — consistent with
+everything else (Griffith's, occupations). The search also **cleared two false leads**:
+the Ancestry "Patrick Gleeson" will (Cork testator) and the 1876 "Michael Molony"
+(Limerick-city wine merchant) are both *not ours*. **James Molony** (Margaret's father,
+d. pre-1851) predates the 1858 calendar entirely.
+*Only remaining wills thread:* **Margaret Gleeson d. 1922** is just past the 1920 cutoff —
+would need the post-1922 GRO/PRONI continuation or Ancestry; low priority.
+
 ## Open questions / next steps
 
 1. ~~**Maria vs. Margaret**~~ — RESOLVED (§5b–c): three baptisms (1862/1863/1866) +
