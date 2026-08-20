@@ -12,6 +12,7 @@
 > - **The 1862 godmother Bridget Gleeson is identified** but is *not* established as a sister; that search is closed.
 > - **The reciprocal-witness argument is downgraded** from "conclusive" (and is now moot anyway).
 > - **The 1860 consanguinity dispensation is promoted to an active search target**, its date corrected by a generation, and its surname claim withdrawn — see `research/analysis/gleeson-moloney-consanguinity-1860.md`. It may also explain why Patrick migrated to Croom at all.
+> - **⭐ Griffith's Valuation confirms the kin corridor.** A **Timothy Gleeson held land at Skagh** — Patrick's own townland — around 1851, eight years before Patrick appears there; Stephen Gleeson was already at Boherygeela; and Gleesons share a townland with a Moloney in **Margaret's own parish**. Meanwhile **Patrick's father James held no land at all**. See the Griffith's section below.
 >
 > Full reasoning: `research/analysis/catherine-hayes-vetting-conclusions-2026-08-18.md`, `research/results/gleeson-bridget-baptism-search.md`, `research/results/gleeson-croom-marriage-sweep-1864-1884.md`, `research/results/gleeson-catherine-1879-civil-marriage.md`. Catherine now has her own file at `../catherine-gleeson-hayes/facts.md`. **`research/results/gleeson-croom-marriages-review.md` is unreliable — do not cite it.**
 
@@ -45,6 +46,7 @@ The earlier "⭐ LOCKED" annotations have been retired in favor of these tiers p
   - **Alternative:** 1829 Patrick survived; 1833 Patrick is a younger brother. The Naas 1888 Michael Gleeson lead (see Collateral kin section below) is the kind of evidence that would support this — Michael's father "Patk Gleeson + Honora O'Brien Tipperary" could be the surviving 1829 Patrick. [T3]
   - **Disambiguators to pursue:** (a) any death/burial record for infant Patrick 1829-1833 in Hospital parish, (b) a marriage record naming our Patrick's age, (c) finding Michael Gleeson's Tipperary baptism in the Naas 1888 lead chain.
 - **Baptism sponsors (1829):** **Stephen Gleeson + Bridget Higgins**. The Stephen Gleeson sponsor is almost certainly the same Stephen Gleeson who later married Mary Twomey at Croom early March 1862 with a **3rd-degree consanguinity dispensation** (see "Stephen Gleeson + Mary Twomey" entry in extended-family network section). So **Stephen Gleeson = probable paternal uncle [T2]** (James's brother, plausibly), who later migrated to Croom area himself and settled at Boherygeela. The Stephen + Mary Twomey of Boherygeela family (producing Anne 1879, Patrick 1884 in our civil-births search) are likely Patrick's first cousins.
+  **⭐ Confirmed in the land record 2026-08-20:** Griffith's Valuation (~1851) shows **Stephen Gleeson already holding at Boherygeela** — a decade before his 1862 marriage and **eight years before Patrick's first appearance at Scagh**. He is one of a cluster there: **Stephen, Anne, John and William Gleeson**, alongside a **John Moloney**. The "later migrated" reading was inferred backwards from the 1862 marriage; the migration was in fact complete by 1851. (**Anne Gleeson** of Boherygeela is worth noting on her own — an *Anna Gleeson* witnesses Jacobus Shanahan's Croom marriage in June 1869.) See `research/results/gleeson-griffiths-corridor-test-2026-08-20.md`.
 - **Bridget Higgins** (female 1829 sponsor) — possibly Stephen Gleeson's first wife (would mean Stephen married Bridget pre-1829, she died, he remarried Mary Twomey 1862). Alternative: sister/aunt of James or Honora. Open lead.
 - **Baptism sponsors (1833):** **Pat O'Brien + Ellen Walsh**. Pat O'Brien is **almost certainly Honora's father or brother [T2]** (naming-pattern: baby Patrick + maternal-side sponsor named Patrick = boy is being named after his maternal grandfather per the Irish 1st-son rule). Most likely Honora's father. Ellen Walsh possibly his wife.
 - **Migration:** Patrick migrated **~25 miles west from Hospital parish to Croom (Scagh townland)** as a young adult, sometime between 1849 (post-Famine emigration era) and 1859 (first Croom Petty Sessions appearance at Scagh). The Hospital → Croom route fits Robert Gleeson's tri-county lore framing: Patrick is a **Limerick–Tipperary borderlands child** (Hospital parish is on the Tipperary border) who moved west to Croom, with cousins later following.
@@ -140,6 +142,38 @@ Note: the Griffith's Patrick at Baggotstown West is ambiguous as to whether it =
 - **Anacarty 1858 — James Gleeson m. Margaret O'Brien at Carhuekeal, Anacarty/Donohill parish** (`gleeson-anacarty-1858-weak-lead` memory). Same diocese (Cashel & Emly) as our family, different parish, no kin link. Surname-watch only — could matter if a James Jr brother of our Patrick or an O'Brien cousin surfaces.
 
 ### Patrick's life — Croom
+
+### ⭐ Griffith's Valuation, ~1851 — the land record, and a Gleeson at Skagh before Patrick
+
+Run 2026-08-20 to test the kin-corridor prediction from the consanguinity analysis. Full working: `research/results/gleeson-griffiths-corridor-test-2026-08-20.md`. Griffith's for Co. Limerick falls **after** Patrick left Hospital and **before** he surfaces at Scagh in 1859 — the ideal window.
+
+| Townland (civil parish) | Gleeson occupiers, ~1851 | Why it matters |
+|---|---|---|
+| **SKAGH** (Croom) | **Timothy Gleeson** | ⭐ **Patrick's own townland, ~8 years before his first attestation there.** He did not move 25 miles into a Gleeson-free void. |
+| **BOHERYGEELA** (Tullabracky / Glenogra) | **Stephen, Anne, John, William** — plus **John Moloney** | Confirms Stephen (probable paternal uncle) was already established a decade pre-1862 |
+| **LISNAMUCK** (Croagh) | **James, Michael** — plus **John Moloney** | ⭐ Gleesons and a Moloney as neighbours **in Margaret's own baptismal parish** |
+| **HERBERTSTOWN (O'Grady)** (Kilcullane) | **Malachy, John** | ⭐ See below — a rare forename in the family's own townland |
+| **BAGGOTSTOWN WEST** (Knockainy) | **John, James, Patrick, Denis, William** | Makes the plan's untested **Q1.3** lead concrete |
+| Croom / Dunnaman (Croom) | John; Michael | |
+| Hospital civil parish | Michael ×3, Patrick — **NO JAMES** | See below |
+
+**⭐ Malachy Gleeson of Herbertstown — a better handle than any James.** Patrick's brother **Malachy** was baptised 12 July 1835 and would have been about sixteen in 1851 — far too young to be a Griffith's occupier. So an **older Malachy Gleeson held land in the family's own townland**, and `facts.md` already notes a Malachy Gleeson with wife Biddy Dineen raising children at Hospital from 1841. Under the Irish naming convention a son named Malachy in 1835 points to a Malachy in the parental generation. **Strong candidate for a paternal uncle or great-uncle [T3]** — and given at least four distinct James Gleeson couples in Hospital parish, a rare forename is worth far more as a search handle.
+
+**❌ James Gleeson, Patrick's father, held no land.** He is **not a Griffith's occupier anywhere in Hospital civil parish** — only Michaels and a Patrick appear. He was therefore **landless (a labourer or unrecorded sub-tenant) or dead by ~1851**, though alive to at least mid-1849 (Catherine baptised 10 March 1850). A material finding about the family's economic position: baptising children across three townlands while holding no valued tenancy under the father's name.
+
+**❌ No Gleesons at all in Emly civil parish, Co. Tipperary** — so none at Ballinvreena. Consistent with the family having left for Herbertstown by 1838; they held no land there in 1851. **No Brien or O'Brien at Ballinvreena either**, which weakens without killing the *Baile an Bhrianaigh* reading — the **Tithe Applotment (~1826–34)** catches them while actually resident and remains the right test.
+
+**❌ Kilfinny is empty of both Gleesons and Moloneys**, corroborating the 2026-06-09 finding that the Molony and Kelly families at Ballymackeamore were post-1851 in-migrants.
+
+**Direction of the corridor.** Of **139 Moloney** and **95 Kenny** records in Co. Limerick, only **1** and **3** respectively fall anywhere in Patrick's home district. Against dozens of Gleeson households in the Croom cluster, that is negligible. **The pre-existing link ran Gleeson-westward — the Gleesons were the mobile party, not the Moloneys.**
+
+⚠️ **Calibration.** Co-presence is **necessary but not sufficient**. Gleeson is among the commoner surnames of east Limerick, and **none of these people is yet linked to Patrick by any document**. Skagh and Boherygeela are striking because of *where* they are, not because the names prove anything. The corridor hypothesis survived a test it could have failed; it is not established.
+
+**Civil-parish geography (every land search keys on this, not the Catholic parish):** Skagh → **Croom** · Boherygeela → **Tullabracky / Glenogra** · Lisnamuck → **Croagh** · **Herbertstown → Kilcullane** (⚠️ *not* Hospital — the 1838/1839/1842 baptisms are Hospital *Catholic* parish but Kilcullane civil parish) · Baggotstown West → **Knockainy** · Ballinvreena → **Emly, Co. Tipperary**.
+
+**Indexing note:** Griffith's spells the surname **MOLONEY** — a search on "Molony" returns nothing in these parishes. The Co. Limerick Gleeson index shows **no variant spellings at all** (no Gleason, Glissane, Gleson).
+
+---
 
 - **Location:** **Scagh townland, Croom parish, Co. Limerick** to 1869+; **Main Street, Croom village** by 3 Nov 1881 (per Bridget's 1881 civil birth registration — see Documented life events). The Scagh→Croom-village move was completed during Patrick's lifetime, not as a widow relocation as previously inferred.
 - **Occupation:** **Farmer** through **29 November 1879** (Petty Sessions 1859/1864/1869; civil birth registrations 1872 and 1875; **Catherine's civil marriage certificate 1879**); **Shopkeeper** by 3 Nov 1881 (per Bridget's civil birth registration, signed by Patrick as informant); **Carrier** at death in 1897. **The Farmer → Shopkeeper pivot is now bounded to 29 Nov 1879 – 3 Nov 1881 — under two years** (narrowed 2026-08-20 from the previous 1869–1881 window by the 1879 certificate). Earlier "sailor" attribution was contamination from a separate Limerick City Pat Gleeson family.
