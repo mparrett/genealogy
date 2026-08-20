@@ -93,7 +93,13 @@ Catherine and John Hayes had **no surviving children** — confirmed across the 
 
 **Helen J. Ryan (1905–1989)** was informant and executor on Catherine's 1944 death certificate, listed as *Cousin*. She was born **Ellen Kelly** on 3 March 1905 at Ballymackeamore, Adare, Co. Limerick, to John Kelly and **Kate Moloney**, and later married Thomas Ryan.
 
-Kate Moloney is strongly inferred to be **Margaret Moloney's sister** — the Ballymackeamore townland matches the 1918 Jeremiah Molony deed identifying him as Margaret's brother. On that reading Helen and Catherine were **maternal first cousins**, which explains the 1930s living arrangement: close-kin care of an ageing widow with no children of her own.
+⚠️⚠️ **CORRECTED 2026-08-20 — the previous text here rested on a false citation.** It read: *"Kate Moloney is strongly inferred to be Margaret Moloney's sister — the Ballymackeamore townland matches the 1918 Jeremiah Molony deed **identifying him as Margaret's brother**. On that reading Helen and Catherine were maternal first cousins."*
+
+**The 1918 deed identifies Jeremiah as nothing of the kind** — it calls him "farmer" and "as Mortgagee", and states **no relationship at all**; both witnesses are officers of the Munster and Leinster Bank. See `../../analysis/deed-1918-reread.md`. And the underlying claim had **already been retracted** on 2026-06-09 in `../patrick-gleeson/facts.md`: **Jeremiah was baptised 28 Oct 1842 to Michael Molony and Honora Minihan, so he is NOT Margaret's brother and Kate is NOT her niece.** That retraction simply never reached this file.
+
+**Current best reading of the relationship [T2, degree uncertain]:** Kate Moloney was **Jeremiah's daughter**, and Jeremiah's line is a **Ballymackeamore Molony family distinct from Margaret's natal family** (James Molony × Catherine Kenny of Croagh). If Michael Molony and Margaret's father James were brothers — *unproven and possibly unprovable* — then Margaret and Jeremiah were first cousins, making **Helen and Catherine roughly second cousins once removed**. "Cousin" on the 1944 certificate fits that comfortably; it simply sits farther out than "first cousins" implied.
+
+What is not in doubt: **Helen was close enough to take Catherine in and to bury her.** The 1930s living arrangement is real whatever the exact degree. And the Gleeson–Ballymackeamore-Molony bond is documented across three generations and two continents — see `../patrick-gleeson/facts.md`.
 
 ### Burial
 
