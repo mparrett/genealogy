@@ -80,3 +80,89 @@ Everything else in the covered span was checked and is not Molony: Hartigan, Hay
 - **IIP path for this register:** `FIF=000640000/000634972/vtls000634972_NNN.jp2&CVT=JPG`.
 - **Do not trust `gon.pages_metadata` frame numbers for this register** — build the date map empirically. A cheap way: composite the top-left corner of six frames into one labelled montage canvas and read the years in a single screenshot.
 - **Rendering budget:** at 1450 px canvas width for a 1500 px two-page spread (~0.97×) the hand is readable for surname-spotting, and the capture viewport shows ~34% of page height. **Three bands per frame** (y = 0.02, 0.34, 0.66) gives complete coverage. Two bands leaves the bottom ~14% unseen — a real gap that cost a re-run here.
+
+---
+
+# Follow-up, same day — the civil index checked
+
+## ⚠️ Correction: the 1865 "Maria Molony" was misread on both counts
+
+The civil index resolves the parish entry:
+
+> **MICHAEL RIORDAN and JOHANNA MOLONY, 13 September 1864, Rathkeale — GRID 3039760**
+
+So the register entry I transcribed as *"Sept. 13 [1865] Michael Riordan et **Maria** Molony"* is in fact **13 September 1864**, and the bride is **JOHANNA** — not Maria, not Mary, and certainly not Margaret.
+
+**Both my readings were wrong**: the year (I placed it in 1865 from page context; the left page had simply not turned over yet) and the forename. **Candidate B is eliminated from this entry.**
+
+**Useful practice, recorded:** where a parish entry falls after 1 January 1864 there is normally a civil counterpart, and **the civil index is a cheap check on a parish transcription**. It caught this one in a single query. Apply it routinely.
+
+**So: no Margaret Molony married at Croagh between September 1860 and March 1867.** The one Molony bride in the swept span is accounted for and is somebody else.
+
+---
+
+## The civil marriage index, Rathkeale SRD, 1864–1890
+
+Rathkeale is the superintendent registrar's district containing Croagh and Kilfinny. Searching **Margaret Moloney**, marriages, 1864–1890, variants allowed:
+
+**Exactly one result.**
+
+> **JAMES DILLON and MARGARET MOLONEY, 23 November 1875 — GRID 2866611**
+> Read at image level. Rathkeale union, **Registrar's District of Pallaskenry**, Roman Catholic Chapel of **Stonehall**, entry 97.
+
+| Field | James Dillon | Margaret Moloney |
+|---|---|---|
+| Age | "aged" *(= full age)* | "aged" |
+| Condition | Bachelor | Spinster |
+| Rank | Farmer | Farmer's daughter |
+| Residence | **Kilbreedy** | **Ballycahane** |
+| **Father** | **Patrick Dillon, Alive** | **JAMES MOLONEY, ALIVE** |
+| Father's rank | Farmer | Farmer |
+
+Celebrant **Luke Gleeson P.P.** Witnesses Dan Kirby and Bridget Downes. The bride signed with **her mark**.
+
+### She is neither candidate
+
+- **Not candidate B** — B's father was **Michael** Molony, not James.
+- **Not candidate A** — A's father was a James Molony, but he is believed **dead before ~1851** (he holds no land in Griffith's for Croagh or Kilfinny, which is the basis of that conclusion). This father is explicitly **"Alive"** in 1875. The geography is wrong too: **Ballycahane, Kilbreedy, Stonehall and Pallaskenry are in north-west Limerick**, not the Croagh–Kilfinny district.
+
+**This is a third, unrelated Margaret Moloney.** *(Noting in passing: the officiating priest is a **Luke Gleeson P.P.** — an unrelated coincidence, but exactly the sort of thing that has tripped this project up four times today. It is not our family.)*
+
+---
+
+## ⚠️ Verdict on the falsifying test: INCONCLUSIVE, and structurally so
+
+**Neither candidate Margaret appears as a bride in the Rathkeale civil marriage index between 1864 and 1890.**
+
+That does **not** eliminate candidate B. She may have married before 1864, or outside Rathkeale district, or under a spelling the search missed; she may have died, or emigrated — **or she may be our Margaret.**
+
+**And here is the structural problem.** A woman born in October 1840 would most plausibly marry between about **1858 and 1864**, aged 18–24. **That window falls almost entirely before civil registration began on 1 January 1864.** So the sharpest instrument available cannot reach the period where the answer most likely lies.
+
+Between them, the two sweeps have now covered:
+
+| Instrument | Window covered | Result |
+|---|---|---|
+| Croagh parish marriage register | Sept 1860 – Mar 1867 | one Molony bride, eliminated |
+| Rathkeale civil marriage index | 1864 – 1890 | one Margaret Moloney, eliminated |
+| **Not covered** | **1858 – Sept 1860**, and Croagh parish 1867–1881 | — |
+
+The uncovered pre-1860 window is small but is exactly where a marriage would sit if B married young.
+
+---
+
+## ⭐ A better discriminator, not yet tried: the baptism sponsors
+
+Both candidate Margarets have surviving baptism entries in the **Croagh baptism register, microfilm 02420/03** (`19 Aug 1836 – 11 Jun 1843`, **64 images**). The 1836 transcript already on file shows this register **does record sponsors**:
+
+> *"Decr. 31st. I Baptized Margt. Legitimate Daur. of James Molony & Catherine Kenny. **Sponsors were Michl. Dwyer and Bridget ODea.**"*
+
+**Sponsors are kin-network evidence, and the Ancestry index does not carry them.** Reading both baptism entries at image level and comparing the sponsors against our family's documented associate circle — the Moloneys, Gleesons, Storens, O'Sheas, Quinlans and Shanahans of Croom and Croagh — is a genuinely independent test that neither of today's sweeps could provide.
+
+**This is the leading next step**, ahead of finishing the marriage register.
+
+### Remaining queue
+
+1. ⭐ **Sponsors for both candidate baptisms** — 31 Dec 1836 (A) and 21 Oct 1840 (B), register 02420/03.
+2. **Croagh parish marriages 1858–Sept 1860** — small window, closes the pre-civil gap.
+3. **1901/1911 census at Ballymackeamore** — is a sister Margaret accounted for in Jeremiah's neighbourhood under a married surname?
+4. Croagh parish marriage frames 20–25 (1867–1876).
