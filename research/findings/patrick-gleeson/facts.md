@@ -103,7 +103,13 @@ The earlier "⭐ LOCKED" annotations have been retired in favor of these tiers p
 
       **⭐ The 1860 marriage witness was probably Margaret's brother.** *"Michaele Moloney"* witnessed Patrick × Margaret's wedding on 18 Nov 1860. **Brother Michael, baptised 13 Dec 1840, was 19 years 11 months old that day** — the most ordinary witness imaginable. Prefer this to the older-Michael reading: it uses a documented person rather than an inferred relationship. [T2]
 
-      **⭐ James Moloney the 1881 Croom shopkeeper — upgraded.** He was carried as a *candidate* brother on the naming rule alone. **Margaret had a brother James baptised 8 Jan 1843**, who would be **38** in February 1881 — exactly right for a shopkeeper with an infant son. Still not proven, but now a supported [T2] hypothesis rather than speculation. It also re-reads the **17 Feb 1881 godparenthood**: Patrick stood godfather to *his wife's brother's son*, which is what a brother-in-law does — a better fit than the previous "well-off merchant cluster" framing.
+      **❌ James Moloney the 1881 Croom shopkeeper is NOT Margaret's brother — retracted the same day it was proposed.** The upgrade was made on the naming rule plus a plausible age, then **the 1874 marriage certificate was read and killed it**: *James Moloney × Honoria Quaid, 8 June 1874, Limerick (GRID 2844557)* gives the groom as **27** (so b. c.1847, not 1843) and his father as **MICHAEL Moloney, farmer, of BALLYMACKAMORE**. Margaret's brother James was baptised 8 Jan 1843 to *James* Molony and would have been 31.
+
+      **⭐ But it gives something better.** **Ballymackeamore** is the townland of **Jeremiah Molony** — the 1918 deed counterparty, baptised 28 Oct 1842 to **Michael Molony and Honora Minihan** — and of **Kate Moloney**, whose daughter **Helen Ryan** informed **Catherine Hayes's 1944 death in New York**. So James of Ballymackeamore (b. c.1847, father Michael) is **very probably Jeremiah's younger brother** [T2], and the 1881 godparenthood re-reads as **Patrick standing godfather to Jeremiah's brother's son**.
+
+      That exposes a **sustained three-generation, two-continent tie to the Ballymackeamore Molonys**: godparent 1881 → mortgage release to Margaret 1918 → Helen Ryan at Catherine's deathbed 1944. ⚠️ It does **not** restore the retracted June claims (Kate is still not Margaret's niece; Jeremiah still not her brother) — but the relationship is visible far earlier than 1918 and is denser than one deed implied. Since a bond like that usually has kinship behind it, and the **1860 dispensation's shared ancestral couple (c.1710–1750) has an unknown surname**, the Ballymackeamore Molonys are now a **candidate line for the consanguinity** — they were not on the list before.
+
+      ⚠️ Unproven step: that the 1874 couple is the 1881 Croom couple. Same rare name pair, adjacent parish, seven years apart — likely, not excluded. Full working and the methodological post-mortem: `research/results/moloney-croagh-siblings-2026-08-20.md`.
 
       **⭐ A new sister: Catherine Molony, bapt. 13 Mar 1839** — untraced, never previously in this project.
 
@@ -115,7 +121,7 @@ The earlier "⭐ LOCKED" annotations have been retired in favor of these tiers p
        - Margaret Moloney (b. 31 Dec 1836 Croagh, **own baptism = T1**) — m. Patrick Gleeson, moved to Croom
        - **Catherine Molony** (bapt. 13 Mar 1839) — **sister [T1]**, untraced
        - **Michael Molony** (bapt. 13 Dec 1840) — **brother [T1]**; probably the 1860 marriage witness
-       - **James Molony** (bapt. 8 Jan 1843) — **brother [T1]**; probably the 1881 Croom Shopkeeper who m. Honoria Quaid [[gleeson_james_moloney_margaret_brother]]
+       - **James Molony** (bapt. 8 Jan 1843) — **brother [T1]**, ⚠️ **untraced.** ~~probably the 1881 Croom Shopkeeper~~ — **that identification is retracted**; the shopkeeper's 1874 certificate names his father as *Michael* Moloney of Ballymackeamore. [[gleeson_james_moloney_margaret_brother]] **is superseded.**
        - *Michael Molony senior* — probable **paternal grandfather** [T2], from the first-son naming rule
        - ~~Kate Moloney / Jeremiah Molony~~ — NOT siblings; collateral cousins (Jeremiah = son of Michael Molony + Honora Minihan)
        - ~~Ellen Moloney~~ — **not** one of the four documented children; the sister reading is unsupported
