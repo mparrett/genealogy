@@ -1,7 +1,7 @@
 # Open Threads — running backlog
 
 **Purpose:** the "what I'd actually do next" list, kept in one place so good leads stop evaporating at the end of a session.
-**Last updated:** 2026-08-20 (rev. 2)
+**Last updated:** 2026-08-20 (rev. 3)
 **Convention:** ⭐ = leading candidate · 🔒 = blocked on something external · ✅ = done, kept briefly for the trail · ❌ = closed, do not reopen
 
 ---
@@ -10,12 +10,15 @@
 
 | # | Thread | Why it matters | Status / how |
 |---|---|---|---|
-| 1 | **James J. Gleeson's US naturalization file**, Buffalo Co., Wisconsin | The single document most likely to put a **date and a ship** on the emigration. Post-1906 petitions state exact birth date, birth *town*, vessel and arrival date. His Irish life is otherwise blank 1863→1892. | **Attempted 2026-08-20, Ancestry category 40 — returned only passenger arrivals, no naturalization rows.** Needs the dedicated WI naturalization collections, or NARA Chicago / Wisconsin Historical Society. See §Notes. |
-| 2 | **James J. Gleeson in the 1900–1940 US censuses** | Immigration year and naturalization status, cheaply. Brackets the ~1883 emigration far better than an obituary written 63 years later. | Not started. Ancestry, Mondovi / Buffalo Co. WI. |
+| 1 | ~~**James J. Gleeson's US naturalization file**~~ **— DEMOTED to Tier 3** | Wanted for the emigration **date + ship**. Matt's Ancestry tree already holds both: **29 Sep 1883, SS *Chicago*, Liverpool & Queenstown → New York**. He naturalized pre-1906, so the file would be a county-court record naming neither birth town nor vessel. | ⬇️ See `research/results/ancestry-tree-review-2026-08-20.md` |
+| 2 | ~~**James J. Gleeson in the 1900–1940 US censuses**~~ | — | ✅ **DONE 2026-08-20** — `research/results/james-gleeson-us-censuses-2026-08-20.md` |
 | 3 | **Valuation Office revision books for SKAGH** | Would show when Timothy sr's bachelor holding changed hands and **to whom**. If it passed to Patrick, the Scagh connection becomes a documented succession instead of a surname coincidence. | Not started. Revision books are not on askaboutireland; Valuation Office / FindMyPast. |
 | 4 | ~~1874 marriage cert: James Moloney × Honoria Quaid~~ | — | ✅ **READ 2026-08-20.** Groom is 27 (b. c.1847), father **MICHAEL Moloney of Ballymackeamore** — so **NOT Margaret's brother**; that upgrade is retracted. Opens the Ballymackeamore line instead — see new thread 4a. |
 | **4a** | ⭐ **Michael Moloney × Honora Minihan of BALLYMACKEAMORE — enumerate his children** | The Gleesons had a **three-generation tie** to this family: Patrick godfathers James's son 1881 → Jeremiah releases Margaret's mortgage 1918 → Jeremiah's granddaughter Helen Ryan informs Catherine's death in NY 1944. A bond that sustained usually has kinship behind it, and the 1860 dispensation's shared ancestral couple has an **unknown surname**. **New candidate line for the consanguinity.** | Not started. Croagh/Kilfinny index, `father=Michael_Molony` + `mother=Honora_Minihan`. |
 | **4b** | Confirm the 1874 couple **is** the 1881 Croom couple | The only unproven step in the above. | 1881 civil birth reg of John Moloney — Croom entry 224, group 02039156, register p.203. |
+| **18** | ⭐⭐ **Eau Claire *Leader-Telegram*, 30 Jan 1946, p.2 — the second obituary printing** | An independently-written notice, and the **last source likely to name an Irish place in the family's own words**. Was Tier-3 #16 ("we don't know the paper"); the tree names it exactly. Matt has newspapers.com — this is a direct fetch, not a search. | **Not started. Cheapest high-value item on the board.** |
+| **19** | ⭐ **Croagh baptism sponsors for both candidate Margarets** (1836 James×Catherine Kenny / 1840 Michael×Honora Minihan) | Still the live discriminator on the open Margaret question, now that two of candidate B's four legs have fallen. | Not started. Register 02420/03, 64 images. |
+| **20** | **Reconcile Matt's Ancestry tree (170236006) against the repo** | The tree carries **six** claims our documents disprove — including Patrick d.1915 (cert: 1897), Margaret d.1911 (cert: 1922), and a **1901 Irish census for Co. Clare attached to a man who died in 1897**. Also: the tree is a *source of leads*, not just an error surface — it held two things I was actively hunting. | **Awaiting Matt's go-ahead** — substantial job, not yet requested. Conflicts listed in `ancestry-tree-review-2026-08-20.md` §4. |
 
 ---
 
@@ -41,7 +44,7 @@
 | 13 | **Diocesan dispensation enquiries** — Limerick + Cashel & Emly | Drafts sit **unsent in Matt's Gmail**. Long shot (neither archive lists a dispensation series; ACAI calls Limerick's 19th-c survival "disappointing") but the payoff would collapse two generations. `research/outreach/gleeson-dispensation-inquiries-2026-08-20.md` |
 | 14 | **Q4 — the Moloney cousin degree** | Correctly deprioritised from the start. |
 | 15 | **The Ancestry tree** at `person/tree/62170182/person/34080787772` | Different origin story: john gleeson 1825 + maria 1826, james joseph 1857 **Birr Town**. **Parked by Matt's choice** until the vetting plan closes. |
-| 16 | **Second 1946 obituary paper** | Family recall says the obit ran in two papers; only *St. Cloud Times* is held. Likely Eau Claire / Alma / Mondovi. |
+| 16 | ~~**Second 1946 obituary paper**~~ | ⬆️ **Promoted to Tier-1 #18** — the paper is now known: Eau Claire *Leader-Telegram*, 30 Jan 1946, p.2, per Matt's Ancestry tree. |
 | 17 | **Croagh baptisms 1836–43: map the other Molony families** | Register 02420/03 is only 64 images. If a Michael Molony and a James Molony are baptising in the same years, that supports them being brothers → sons of one father. |
 
 ---
@@ -55,6 +58,8 @@
 | **Trace the Storan/Storin family as a mystery surname** | ❌ Resolved — the mother was a Storen. |
 | **Croagh marriage of James Molony × Catherine Kenny** | ❌ **Impossible.** Croagh has exactly one marriage register: **9 Jan 1844 – 27 Feb 1881**. A c.1835 marriage does not survive. Confirmed at the NLI parish page 2026-08-20. |
 | **1879 civil marriage certificate** | ✅ Read. Names Patrick as Catherine's father. |
+| **The 1883 passenger manifest image** | ❌ **Spent.** Located and read (NARA M237, image NYM237_470-0809). Destination column genuinely reads **Chicago, Illinois** — not a ship-name artifact. But the name/age/occupation columns for those rows are a **dead black light-leak on the film**; brightness ×9 recovers nothing. Occupation and travelling companions are unrecoverable. ⚠️ Also: an 1883 **customs** list has **no "nearest relative in Ireland" column** — that is a post-1893 Immigration Service field. My earlier "the relative column is the prize" was wrong and is withdrawn. |
+| **"James Gleeson, 19, Irish, arr. 29 Sep 1883" = our James** | ⚠️ **NOT closed — recorded as a strong candidate, not a fact.** Forename + surname + nationality + approximate age, with no townland, parent, or companion tying it to Croom. Matt's tree carries it as a fact. Same identifier-strength trap that has burned this project three times. |
 
 ---
 
