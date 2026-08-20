@@ -23,7 +23,7 @@ Born Croom, Co. Limerick, January 1862. Married John Hayes at Croom in 1879 at s
 > **Januarii 31. Catharina filia Patritii Gleeson & Mar[garitae Moloney] de Scagh — Suscep[tores] Johanne Moloney & Brig. Gleeson.**
 
 - **Residence:** *de Scagh* — the family townland, also written Skagh (1875 civil registration) and Scaugh (1864 Petty Sessions).
-- **Sponsors:** **John Moloney** (mother's side) and **Brig. Gleeson** (father's side — abbreviated in the register, not written out). On the Gleeson sponsor see `../../results/gleeson-bridget-baptism-search.md`; she is a Gleeson kinswoman of Patrick's whose exact degree is **not** established.
+- **Sponsors:** **John Moloney** (mother's side) and **Brig. Gleeson** (father's side — abbreviated in the register, not written out). The Gleeson sponsor is **identified [T1]**: **Bridget Gleeson, baptised Croom 22 January 1841**, daughter of **James Gleeson and Bridget Storen** — a separate Croom Gleeson family, *not* Patrick's. She married Thomas O'Shea on 27 Aug 1864, and her husband later godfathered Catherine's sister Honora. ⚠️ She is **not a documented blood relative** of the family; the tie is neighbourhood, not kinship. See `../../results/gleeson-timothy-skagh-2026-08-20.md` §8.
 - Birth was probably within 0–3 days of baptism, i.e. **late January 1862**, on the normal Irish Catholic interval.
 
 **Catherine was Patrick and Margaret's firstborn**, about 22 months older than James (baptised 23 December 1863).

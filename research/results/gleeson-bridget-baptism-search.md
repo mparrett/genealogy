@@ -1,6 +1,21 @@
+> # ✅ ANSWERED 2026-08-20 — she was in neither parish because she was baptised at CROOM
+>
+> **Bridget Gleeson was baptised at Croom on 22 January 1841, daughter of JAMES GLEESON and BRIDGET STOREN** — a *second* James Gleeson family, of Croom, unconnected to Patrick's father James Gleeson of Hospital who married Honora O'Brien. Her siblings were **Timothy (1831), James (1844), Catherine (1846)**.
+>
+> **The negative result below is correct and its reasoning was sound** — the sweeps genuinely covered the windows they claim, and the "at least four distinct James Gleeson couples" warning in §8 was the right instinct. There was simply a **fifth** James Gleeson, twenty-five miles west, in the very townland Patrick moved to.
+>
+> ⚠️ **Two conclusions here need revising upward in strength:**
+> - §8/§10's *"probably NOT a daughter of James Gleeson & Honora O'Brien"* → **certainly not.**
+> - The agreed wording *"a Gleeson kinswoman of Patrick's, of unestablished degree"* → **she is not a documented blood relative at all.** The tie is neighbourhood and reciprocal sponsorship, not kinship.
+>
+> The Storan puzzle also resolves: **her mother was a Storen**, so William Storan witnessing her 1864 marriage is her mother's kin, and her brother Timothy married Ellen Storin in 1867.
+>
+> **Everything below stands as a record of method and of the Hospital/Emly Gleeson landscape** — the four new siblings of Patrick found along the way (Mary 1830, Malachy 1835, Edmund 1838, Honora 1839) are real gains and unaffected. Full working: `research/results/gleeson-timothy-skagh-2026-08-20.md` §8.
+
 # Bridget Gleeson — Search for a Baptism (Hospital and Emly)
 
 **Date:** 2026-08-18
+**Status:** ✅ Answered 2026-08-20 — see banner above.
 **Objective:** Find a baptism for Bridget Gleeson, daughter of James Gleeson and Honora O'Brien, to convert "probably Patrick's sister" from inference into documented fact.
 **Result:** **Not found in either parish, and the search should now stop.** Hospital was read at 2× from January 1836 to December 1844; Emly was read for April 1831 – February 1833 and January 1834 – March 1835. Neither contains a baptism for a Bridget Gleeson to James Gleeson and Honora O'Brien. Three previously undocumented siblings were found along the way, plus evidence that materially *weakens* the sister hypothesis. See §8 and §10 for the conclusion.
 
