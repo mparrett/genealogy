@@ -65,6 +65,31 @@ That is a lot of explanatory power. The **three-generation, two-continent Ballym
 
 ---
 
+## 3a. ⚠️ The farmer→shopkeeper pattern weakens B's strongest leg
+
+Raised by Matt, 2026-08-20, and it holds up. Look at the occupations across this whole circle:
+
+| Person | Occupation |
+|---|---|
+| **Patrick Gleeson** | Farmer 1859–**1879** → **Shopkeeper 1881** → Carrier 1897 |
+| **Margaret Gleeson** | **Shop Keeper**, Main Street Croom, 1901 and 1911 |
+| **James Moloney** of Ballymackeamore | **Farmer**, 1874 |
+| **James Moloney** of Croom | **Shopkeeper**, 1881 |
+| Michael Moloney · Jeremiah Molony · James Gleeson of Scagh · Timothy Gleeson sr & jr · Mark Storin · David Quaid | Farmer, all |
+| John Hayes · Peter Hayes | Weaver |
+
+**Two men in this circle made the same Farmer → Shopkeeper move in the same two-year window, in the same village.** Patrick's pivot is bounded to **29 Nov 1879 – 3 Nov 1881**. James Moloney was a farmer in June 1874 and a Croom shopkeeper by February 1881.
+
+Two consequences, and both cut against reading too much into the 1881 godparenthood:
+
+**(a) Occupation is a poor discriminator here.** A trade change across a few years is normal in this group, not remarkable — so it is evidence neither for nor against any identification. It should stop being used either way.
+
+**(b) The 1881 godparenthood may be a business tie, not a kin tie.** Patrick Gleeson and James Moloney were **both newly-minted shopkeepers in Croom village at the same moment**, and one stood godfather to the other's son in February 1881. Among tradesmen setting up in a small village, that is at least as legible as commerce and neighbourhood as it is as kinship.
+
+**That removes the force of candidate B's first leg.** The 1881 sponsorship was listed above as something B explains and A does not — but A explains it perfectly well too, as one Croom shopkeeper standing for another's child. **B is left with three legs, not four**, and the two strongest (1918, 1944) both involve *Jeremiah's* line rather than Margaret's own generation.
+
+---
+
 ## 4. Honest assessment
 
 **The two lines of evidence are of different kinds, and neither is decisive.**
