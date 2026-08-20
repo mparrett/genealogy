@@ -70,10 +70,41 @@ The earlier "⭐ LOCKED" annotations have been retired in favor of these tiers p
        - **Net:** Margaret's natal parents (James Molony + Catherine Kenny) are locked by her own baptism; the *collateral cluster* (who exactly is a sibling) is mostly unproven. Only **James the shopkeeper** is a candidate sibling; Kate/Jeremiah are collateral cousins, not siblings.
     - ~~**Kilfinny location validates the 1918 deed:** Jeremiah Molony = almost certainly Margaret's brother.~~ ← RETRACTED (Jeremiah = Michael Molony's son, see above)
     - ~~**2026-06-08 T1.5 promotion via Kate = Margaret's sister → Helen = first cousin.**~~ ← RETRACTED (Kate = probable 1C1R, not sister; Helen = ~2C1R). Helen/Ellen Kelly identity itself (b. 3 Mar 1905 Ballymackeamore, dau of John Kelly + Kate Moloney) still stands; only the *degree* changed. See [[gleeson_helen_ryan_ellen_kelly_identified]].
+    - ### ⭐⭐ Margaret's SIBLINGS — documented 2026-08-20
+
+      Found in the indexed Croagh register (Ancestry coll. 61039) by searching **both** parents. Full working: `research/results/moloney-croagh-siblings-2026-08-20.md`.
+
+      **JAMES MOLONY × CATHERINE KENNY**, Croagh/Kilfinny:
+
+      | Child | Baptism | Indexed as |
+      |---|---|---|
+      | **Margaret** — *our ancestor* | **31 Dec 1836** | Molony |
+      | **Catherine** | **13 Mar 1839** | Moloney |
+      | **Michael** | **13 Dec 1840** | Mollone y |
+      | **James** | **8 Jan 1843** | Moloney |
+
+      Three spellings of one surname across four entries in one parish — a live demonstration of the spelling-drift caution above. ⚠️ **The register begins in 1836**, so any older siblings are invisible; Margaret may not be the eldest. Nothing after Jan 1843.
+
+      **⭐ The naming pattern names a grandfather.** First son = paternal grandfather, so **James Molony's father was probably MICHAEL Molony** (b. c.1775–90) — i.e. Margaret's paternal grandfather [T2]. ⚠️ This means there are now **three** distinct Michael Molonys in play — the grandfather, Margaret's brother (1840), and Jeremiah's father (m. Honora Minihan) — so any "the Michaels must be the same man" reasoning is much weaker than it looked. The grandfather reading explains the name's recurrence more cleanly than the brother-of-James reading did.
+
+      **⭐ The 1860 marriage witness was probably Margaret's brother.** *"Michaele Moloney"* witnessed Patrick × Margaret's wedding on 18 Nov 1860. **Brother Michael, baptised 13 Dec 1840, was 19 years 11 months old that day** — the most ordinary witness imaginable. Prefer this to the older-Michael reading: it uses a documented person rather than an inferred relationship. [T2]
+
+      **⭐ James Moloney the 1881 Croom shopkeeper — upgraded.** He was carried as a *candidate* brother on the naming rule alone. **Margaret had a brother James baptised 8 Jan 1843**, who would be **38** in February 1881 — exactly right for a shopkeeper with an infant son. Still not proven, but now a supported [T2] hypothesis rather than speculation. It also re-reads the **17 Feb 1881 godparenthood**: Patrick stood godfather to *his wife's brother's son*, which is what a brother-in-law does — a better fit than the previous "well-off merchant cluster" framing.
+
+      **⭐ A new sister: Catherine Molony, bapt. 13 Mar 1839** — untraced, never previously in this project.
+
+      ⚠️ **Ellen Moloney is NOT among these four children.** The reading of her as Margaret's sister — already weakened by the collapse of the "Patrick's sister marries, Margaret's sister witnesses" symmetry (see the 1864 O'Shea entry) — now needs a different basis or should be withdrawn.
+
+      ⚠️ **This does not reach the consanguinity.** The 1860 dispensation puts the shared ancestral couple at c.1710–1750; this gets us to roughly 1780.
+
     - **Margaret's natal kin — current best read:**
        - Margaret Moloney (b. 31 Dec 1836 Croagh, **own baptism = T1**) — m. Patrick Gleeson, moved to Croom
-       - James Moloney (1881 Croom Shopkeeper, m. Honoria Quaid) — *candidate* brother (inference, naming rule) [[gleeson_james_moloney_margaret_brother]]
+       - **Catherine Molony** (bapt. 13 Mar 1839) — **sister [T1]**, untraced
+       - **Michael Molony** (bapt. 13 Dec 1840) — **brother [T1]**; probably the 1860 marriage witness
+       - **James Molony** (bapt. 8 Jan 1843) — **brother [T1]**; probably the 1881 Croom Shopkeeper who m. Honoria Quaid [[gleeson_james_moloney_margaret_brother]]
+       - *Michael Molony senior* — probable **paternal grandfather** [T2], from the first-son naming rule
        - ~~Kate Moloney / Jeremiah Molony~~ — NOT siblings; collateral cousins (Jeremiah = son of Michael Molony + Honora Minihan)
+       - ~~Ellen Moloney~~ — **not** one of the four documented children; the sister reading is unsupported
 ### Patrick's documented siblings (Hospital parish)
 
 **Updated 2026-08-19/20 — the sibling set is now NINE**, after an image-level sweep of the Hospital register (Jan 1836 – Dec 1844, at 2×) and the Emly register, plus a FamilySearch index search on the parent pair. Full working at `research/results/gleeson-bridget-baptism-search.md`.
