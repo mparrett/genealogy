@@ -171,6 +171,7 @@ Two consequences worth holding:
 - **NY death record 1944:** extract at `assets/external/misc/ancestry-catherine-hayes-ny-death.md`
 - **Burial:** Find A Grave memorial 77836976, St Mary's Cemetery Grasmere, Staten Island
 - **Obituary:** *St. Cloud Times*, 28 January 1946, p.5 — image at `assets/external/james-gleeson-obit-minnesota-1946.jpg`, citation at `assets/external/james-gleeson-obit-source.txt`
+  - ⚠️ **2026-08-20:** James's death was reported in **three** printings. The *Leader-Telegram* pieces of **30 Jan 1946 p.2** and **2 Feb 1946 p.9** **do not mention the sisters at all.** So the Catherine → *Mrs. John Hayes, Staten Island* link rests on the **St. Cloud printing alone** — it is not corroborated by a second paper, as one might assume from "the obituary ran twice". All three transcribed at `research/results/james-gleeson-obituaries-1946-all-printings.md`.
 - **Croom marriage sweep:** `research/results/gleeson-croom-marriage-sweep-1864-1884.md`
 - **Superseded:** `research/results/gleeson-catherine-hayes-search.md` (3 June 2026)
 

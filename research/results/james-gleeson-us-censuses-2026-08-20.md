@@ -99,7 +99,7 @@ Ancestry's "suggested records" for him include two newspapers.com indexes, both 
 - **U.S., Newspapers.com™ Obituary Index, 1800s–current** — *James Gleeson*
 - **Wisconsin, U.S., Newspapers.com™ Stories and Events Index, 1800s–current** — ***James J. Gleason***
 
-The second is the more interesting: family recall has always held that **the 1946 obituary ran in two papers**, and only the *St. Cloud Times* copy is held. A **Wisconsin** index entry is exactly what a second printing in an Eau Claire / Alma / Mondovi paper would look like. **This is now the cheapest open lead in the project.**
+The second is the more interesting: family recall has always held that **the 1946 obituary ran in two papers**, and only the *St. Cloud Times* copy is held. A **Wisconsin** index entry is exactly what a second printing in an Eau Claire / Alma / Mondovi paper would look like. **This is now the cheapest open lead in the project.** ✅ **DONE 2026-08-20 — and there were THREE printings.** See `james-gleeson-obituaries-1946-all-printings.md`. ⭐ The 2 Feb *Leader-Telegram* adds **Porter's Mills, Eau Claire** as his first American workplace, which corroborates this file's *"Head Sawier"* occupation reading and gives a searchable place for dating the arrival.
 
 ---
 
