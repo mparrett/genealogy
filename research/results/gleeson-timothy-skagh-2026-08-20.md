@@ -1,7 +1,7 @@
 # Timothy Gleeson of Skagh — index findings
 
 **Started:** 2026-08-20, following the Griffith's corridor test
-**Status:** ✅ **1867 certificate READ at image level 2026-08-20.** See §3.
+**Status:** ✅ **RESOLVED 2026-08-20.** The 1867 certificate was read at image level (§3), and the family was then found in the indexed Croom register (§8). **Bridget and Timothy are confirmed siblings, and Bridget Gleeson is NOT Patrick's sister.**
 **Why he matters:** Griffith's Valuation (~1851) shows a **Timothy Gleeson holding land at SKAGH, Croom civil parish** — Patrick's own townland, about eight years before Patrick's first attestation there in September 1859. If Timothy is kin, he is the reason Patrick came to Croom. See `gleeson-griffiths-corridor-test-2026-08-20.md`.
 
 ---
@@ -175,3 +175,73 @@ Chrome's own PDF viewer decodes the file — the sidebar thumbnail renders corre
 3. **The two 1870s births** (10344657, 10066261) — name the father and the mother's maiden name; if the mother is Ellen Storin they belong to the 1867 couple and confirm the younger Timothy's household.
 4. **Valuation Office revision books for Skagh** — these run forward from the 1850s and would show **when Timothy's holding changed hands and to whom**. If it passed to Patrick, the corridor stops being an inference about surnames and becomes a documented succession of tenancy. This remains the single highest-value item.
 5. **The Croom Catholic register** for Timothy Gleeson entries — sponsorships especially, since sponsors map kin networks.
+
+---
+
+## 8. ⭐⭐⭐ RESOLVED — James Gleeson married Bridget STOREN, and the whole knot unties
+
+Found 2026-08-20 in **Ancestry collection 61039**, indexed from **NLI microfilm 02427/06** — i.e. `vtls000634976`, the volume identified in §6.
+
+### The family
+
+**JAMES (Jacobi) GLEESON × BRIDGET (Brigida) STOREN**, Croom
+
+| Child | Baptism | Indexed as |
+|---|---|---|
+| **Timothy** | **29 Oct 1831** | *Timotheus Gleeson* — father *Jacobi*, mother **Brigida Storen** |
+| **Bridget** | **22 Jan 1841** | *Brigida Gleeson* |
+| **James** | **3 Sep 1844** | *Jacobus Gleeson* |
+| **Catherine** | **18 Dec 1846** | *Catherinam Gleeson* |
+
+A search on the mother (*Brigida Storen*) returns these four and no others, so this is the indexed set. The ten-year gap between 1831 and 1841 probably holds further children not indexed or indexed under a variant mother-spelling.
+
+### The §4 hypothesis is CONFIRMED
+
+**Timothy and Bridget were siblings.** Both children of James Gleeson and Bridget Storen of Croom.
+
+Ages line up as well as nineteenth-century Irish stated ages ever do:
+
+- **Timothy** baptised Oct 1831 → **35** at his March 1867 marriage; the certificate says **31**. A four-year understatement, unremarkable in a family where Margaret and Catherine each shave nine to eleven.
+- **Bridget** baptised Jan 1841 → **23½** at her August 1864 marriage; the certificate says **22**. Off by about eighteen months.
+
+### ⭐ And the Storan thread was never a coincidence — the mother was a Storen
+
+Three separate Gleeson–Storan appearances had accumulated in this file with no explanation:
+
+| Appearance | Now explained as |
+|---|---|
+| **William Storan** witnesses Bridget's 1864 marriage | **Her mother's kin** |
+| **Timothy marries Ellen Storin** in 1867, daughter of Mark Storin of Tory Hill | **He married into his own mother's family** — very likely a maternal cousin |
+| "Trace the Storan/Storin family" logged as an open lead because the surname came from nowhere | **It came from the mother.** Lead closed. |
+
+A man marrying his mother's kinswoman is precisely the pattern that generates consanguinity dispensations a generation or two later — worth holding alongside `research/analysis/gleeson-moloney-consanguinity-1860.md`, though it bears on *this* family, not directly on Patrick's.
+
+### ⚠️⚠️ The consequence for Bridget — and it is a correction
+
+**Bridget Gleeson, godmother to Patrick's firstborn in 1862, was NOT Patrick's sister.** She was the daughter of **James Gleeson and Bridget Storen of Croom** — a different James Gleeson entirely from Patrick's father James Gleeson of Hospital, who married Honora O'Brien.
+
+**This is why the August 2026 sweeps failed.** Hospital was read at 2× for January 1836 – December 1844, and Emly for April 1831 – February 1833 and January 1834 – March 1835, hunting a Bridget who was never in either register. She was baptised at **Croom on 22 January 1841**, twenty-five miles west, four years before Patrick is thought to have arrived there.
+
+The wording previously agreed — *"a Gleeson kinswoman of Patrick's, of unestablished degree"* — should now be **corrected further**: she is **not documented as a kinswoman at all**. What is documented is that she was a **Gleeson neighbour at Scagh** who stood godmother to his firstborn and whose husband Thomas O'Shea godfathered his next daughter. That is a close social relationship; any blood relationship is undemonstrated.
+
+⚠️ Note this does **not** dispose of the consanguinity question. Patrick and *Margaret* were second cousins once removed, and that stands on its own record. Whether Patrick was also kin to the Scagh Gleesons is simply unproven — and given how thoroughly this file has now been re-shaped twice by discovering a second James Gleeson, it should not be assumed.
+
+### Revised picture of the Scagh Gleesons
+
+> **Timothy Gleeson sr** — b. ~1804, **bachelor**, farmer at Skagh, Griffith's occupier 1851, d. 6 Jan 1876 (§5)
+> — brother, probably — **James Gleeson × Bridget Storen**
+>   ├── **Timothy jr** — bapt. 29 Oct 1831; m. Ellen Storin 1867; present at his uncle's death; likely successor to the holding
+>   ├── **Bridget** — bapt. 22 Jan 1841; m. Thomas O'Shea 1864; **godmother to Catherine Gleeson 1862**
+>   ├── **James** — bapt. 3 Sep 1844
+>   └── **Catherine** — bapt. 18 Dec 1846
+
+Still inference: the brother link between Timothy sr and James, resting on the childless-bachelor inheritance pattern, the shared townland and the repeated forename.
+
+### 🔧 Method — why every earlier search missed this
+
+**Ancestry's index of the Croom register preserves the LATIN forenames.** The father is indexed as **"Jacobi Gleeson"**, not James; children appear as *Timotheus*, *Brigida*, *Jacobus*, *Catherinam*. A search on `father=James_Gleeson` returns 407 results across Ireland and **not one Croom entry**. Switching to `father=Jacobi_Gleeson` surfaced the family immediately.
+
+Two further quirks of collection 61039, both cost real time here:
+
+- **The place/location filter does not bind through URL parameters** — `baptism=_Croom-Limerick-Ireland`, with or without `baptism_x=1-0-0`, is silently ignored and returns all 35,243 Gleesons. The **county facet `f-F0003040=Limerick` does work.**
+- Setting the location field needs the **autocomplete suggestion to be clicked** so a place ID attaches; typing the text alone does nothing. Clicking by screenshot coordinate proved unreliable — set the value with a native setter, wait ~3.5 s, then click the matching `[role="option"]`.
