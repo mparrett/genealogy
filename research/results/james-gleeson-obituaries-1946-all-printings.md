@@ -71,9 +71,15 @@ The two papers disagree:
 | *St. Cloud Times* | "funeral service and **burial in Sacred Heart cemetery**" |
 | *Leader-Telegram* p.9 | "funeral services … at the **Sacred Heart church** … **Interment was in Riverside cemetery**" |
 
-**Prefer the Leader-Telegram.** It is the local paper, it was written *after* the funeral rather than before, and it distinguishes the church from the cemetery — which is exactly the distinction the distant St. Cloud paper would collapse. The repo and tree both currently imply Sacred Heart.
-
-**Consequence: if we want his grave, look at Riverside Cemetery, Mondovi first.** Note that Maria Ann Fitzgerald and her father James Fitzgerald are recorded in this repo as buried at *Sacred Heart* Cemetery, Mondovi — so the family used both, or one of those attributions is also wrong. Worth an hour on Find A Grave.
+> ## ⚠️⚠️ RESOLVED THE SAME DAY — and the paragraph below was WRONG. Struck, kept for the trail.
+>
+> ~~**Prefer the Leader-Telegram.** It is the local paper, it was written *after* the funeral rather than before, and it distinguishes the church from the cemetery — which is exactly the distinction the distant St. Cloud paper would collapse.~~ ~~**Consequence: if we want his grave, look at Riverside Cemetery, Mondovi first.**~~
+>
+> **He is in SACRED HEART Cemetery, Mondovi** — Find A Grave memorial [39556693](https://www.findagrave.com/memorial/39556693/james-joseph-gleeson), *Dec 1863 – 28 Jan 1946*, in a plot with **Maria Ann Fitzgerald**, **Joseph Patrick** (the son who died at 17), and four more Gleesons. **Riverside City Cemetery returns "no matches found for Gleeson"** — not one.
+>
+> **The distant paper was right and the local paper was wrong.** I ranked two conflicting sources by a plausibility heuristic instead of spending five minutes on a primary source that settles it. See `research/results/gleeson-burial-and-1911-crossings-2026-08-20.md` §1.
+>
+> ✅ The repo's existing note that **Maria and James Fitzgerald are at Sacred Heart is confirmed**, not undermined.
 
 ### 4. Confirmed: **twelve** children
 
