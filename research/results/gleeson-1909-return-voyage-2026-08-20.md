@@ -114,3 +114,50 @@ These are not a conclusion. They are **every candidate he found, all attached at
 - **Parents shown as "Patrick Gleason 1843–1925" and "Margaritte Malony 1840–1886, d. Drouin, Victoria, AUSTRALIA."** The current tree shows 1829–1915 and 1836–1911. **Both versions conflict with our certificates** (Patrick d. 7 Dec 1897; Margaret d. 18 May 1922), and the Australian death is plainly a wrong-person attachment. The tree has changed a great deal since January, so a reconciliation must be done against the *live* tree, not this print.
 - **"Age 39 — Birth of son Harold Francis Gleason, 4 Aug 1903 · Chicago, Cook, Illinois"** sits thirteen days from **"Anne Barbara Gleeson, 17 Aug 1903 · Mondovi."** Two sons in two states a fortnight apart is impossible; one is a wrong attachment. ⚠️ This is also the *actual* source of the "Chicago" thread I flagged earlier — not the 1883 ship.
 - Source list includes **four separate** *Newspapers.com™ Obituary Index* entries, plus *UK and Ireland, Incoming Passenger Lists, 1878–1960* — the latter is the **outbound Dec 1908 leg**, and a UK-side list may record his **destination address in Ireland**. New thread.
+
+---
+
+## 6. The outbound leg, read — and my premise for reading it was wrong
+
+**Chased 2026-08-20 on my own call**, on the reasoning that a UK inward passenger list would carry a *"proposed address in the United Kingdom"* column, which in December 1908 would mean **an address in Ireland** — possibly *"c/o Mrs Margaret Gleeson, Main Street, Croom"*, which would have been the first document tying James to his mother outside the parish register.
+
+**Record found and verified:** Ancestry coll. **1518**, record **16018635**, image **30807_A000341-00077**, TNA **BT26, piece 341, item 56**.
+
+| Field | Value |
+|---|---|
+| Ship | **Lucania** (Cunard Steamship Company Ltd), official no. 102105 |
+| Departed | **New York** |
+| Landed | **Queenstown**, **16 Dec 1908** |
+| Name on the sheet | **Gleeson, James** |
+| Age | **43** |
+| Occupation | **Farmer** |
+| Nationality (country of which citizen) | **U.S.A.** |
+| Ship's through ticket to | **Queenstown** |
+
+Line neighbours, for the record: O'Brien John (56) · Gallivan Edmund, bricklayer (24) · Matthew Patrick, labourer (28) · Buckley James (31) · **Gleeson James, farmer (43)** · Leahy John, labourer (38) · Wallace Robt (37) · O'Brien Mary, laundress · Gallagher Dora, waitress.
+
+### ⚠️⚠️ The column I went there for does not exist on this form
+
+The 1908 BT26 sheet is headed *"NAMES AND DESCRIPTIONS OF **ALIEN** PASSENGERS"* and its columns are: **Port of Embarkation · Names of Passengers · Class · Profession, Occupation or Calling · Ages · Nationality · Ship's Through Ticket to · Port at which Passengers have landed.**
+
+**There is no "proposed address in the United Kingdom" column.** That field belongs to the *later* BT26 forms. I predicted a column from the wrong decade.
+
+**⚠️ This is the THIRD time in this session I have chased a column by assuming a form's contents from its era**, and the second time in two hours:
+
+1. The 1883 customs manifest — predicted a *"nearest relative in Ireland"* column. **It does not exist before 1893.**
+2. The 1909 T715 manifest — the *"nearest relative in country whence alien came"* column **does** exist, but is **struck through blank** for returning US citizens.
+3. This 1908 BT26 — predicted a *"proposed address in the United Kingdom"* column. **Wrong decade.**
+
+**The rule in memory said "know the document's era before predicting its columns." I wrote that rule this session and then broke it twice.** The fix is procedural, not attitudinal: **look at a blank example of the exact form and year before deciding a document is worth chasing.** Recorded as a hard precondition on any future "this column is the prize" claim.
+
+### What the document does give
+
+1. **A fourth independent confirmation of the man** — age 43, occupation **farmer**, nationality **U.S.A.**, at Queenstown. All four match the Feb 1909 return exactly.
+2. **The round trip is now documented at both ends.** Out from New York on the **Lucania**, landing **Queenstown 16 Dec 1908**; home on the **Lusitania**, New York **14 Feb 1909**.
+3. **He spent roughly two months in Ireland, over Christmas 1908 and into February 1909** — at 45, twelve years after his father's death, with his widowed mother living on Main Street, Croom. Whatever else, that is a real fact about the man.
+4. **His through ticket ended at Queenstown** — no onward rail destination was recorded, so the sheet offers no route inland.
+
+### ⚠️ Unchased: possible FURTHER crossings
+
+The same collection returned James Gleeson records for **13 Oct 1911** and **15 Dec 1911**, both New York → Queenstown. **Unverified — no age or occupation checked, and "James Gleeson" is exactly the identifier this project has been burned by.** But if either is his, he went back more than once, and 1911 would put him in Ireland in the year of the census that records his mother at Main Street, Croom. **Worth ten minutes.**
+
