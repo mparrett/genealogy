@@ -1,8 +1,8 @@
 # Catherine Gleeson Hayes — Fact Sheet
 
 **Relationship:** 2nd great-grandaunt (Gleeson line) — eldest sister of James J. Gleeson, who was Anne Barbara Gleeson's father
-**Parents:** Patrick Gleeson + Margaret Moloney of Scagh, Croom, Co. Limerick — see `../patrick-gleeson/facts.md`
-**Last updated:** 2026-08-19
+**Parents:** Patrick Gleeson + Margaret Moloney of Scagh, Croom, Co. Limerick — see `../patrick-gleeson/facts.md`. **Father documented directly [T1]** on her 1879 civil marriage certificate; mother by the 1862 baptism.
+**Last updated:** 2026-08-20
 
 Evidence tiers follow the convention in `../patrick-gleeson/facts.md`: **[T1]** directly documented, **[T2]** strong but inferential, **[T3]** active lead.
 
@@ -34,11 +34,38 @@ Born Croom, Co. Limerick, January 1862. Married John Hayes at Croom in 1879 at s
 
 > **In mense Novembris — Die 29[na] Joannem Hayes et Catherinam Gleeson. Coram Michaele et Catherinâ Shanahan. Joannes Quinlan.**
 
-**Civil record:** IrishGenealogy civil marriage index — **"JOHN HAYES and KATE GLEESON, 29 November 1879, Croom"**, Group Registration ID **2662886**. *The register image has not been opened.* It would give both fathers' names, ages, residences, occupations and witnesses, and is the single cheapest unexploited record on the Irish side.
+**Civil record — read at image level 2026-08-20** [T1]. Croom Superintendent Registrar's District, marriage **No. 93**, Group Registration ID **2662886**; image `marriage_returns/marriages_1879/11085/8056995.pdf`, page stamp 147. Full analysis at `../../results/gleeson-catherine-1879-civil-marriage.md`; cropped image at `assets/external/catherine-hayes-1879-civil-marriage-entry93.png`.
 
-She was **seventeen**. Both witnesses are Shanahans — Michael Shanahan had married Catherine Synan [surname reading uncertain] in the same register two months earlier, on 22 September 1879, with **Patrick Gleeson** as a witness. The reciprocal pattern is real but should be described as strong contextual evidence, not proof; see `../../results/gleeson-croom-marriage-sweep-1864-1884.md`.
+| Col. | Field | John Hayes | Catherine Gleeson |
+|---|---|---|---|
+| 4 | Age | *full age* | *full age* |
+| 5 | Condition | Batchelor | Spinster |
+| 6 | Rank or profession | **Weaver** | **Farmer's daughter** |
+| 7 | Residence | Croom | Croom |
+| 8 | **Father** | **Peter Hayes** | **Patrick Gleeson** |
+| 9 | **Father's rank** | **Weaver** | **Farmer** |
 
-**John Hayes** was a local Croom-area man, not an incomer. Edmund, Thomas, Ellen, Brigida and Daniel Hayes all appear as Croom witnesses through the 1870s, and a different John Hayes married Maria O'Brien at Croom on 3 February 1875.
+Celebrant **John Quinlan P.P.**; witnesses **Michael Shanahan** and **Kate Shanahan**; registered 1 December 1879 by Wallace, Deputy Registrar. The signature block is entirely in the clerk's hand — this is the registrar's return, not the original register, so **infer no literacy from it**.
+
+### ⭐ This is what documents Catherine's parentage [T1]
+
+Column 8 names her father as **Patrick Gleeson** and column 9 gives his rank as **Farmer**. It is the **first record to state the relationship directly**. The 1862 baptism names her parents but is a record of her *birth*; the Catholic marriage entry names no fathers at all (Latin registers don't); every American source is third-hand. Before this certificate, the join between "Patrick's daughter" and "the woman who married John Hayes" rested on inference plus the absence of a competing Patrick in the 1864–1884 marriage register.
+
+**Residual caveat:** the certificate names **no mother**. It does not by itself tie the bride to Margaret Moloney — that link is still convergence (the 1862 baptism, the Scagh residence, the associate circle), not a single document.
+
+She was **seventeen**, though the certificate does not say so — see the age note below. Both witnesses are Shanahans: Michael Shanahan had married a Catherine [Synan? — surname reading uncertain] in the same register two months earlier, on 22 September 1879, with **Patrick Gleeson** as a witness. The certificate's "Kate Shanahan" independently supports reading that September bride's forename as **Catherine**. The reciprocal pattern is real but is strong contextual evidence, not proof; see `../../results/gleeson-croom-marriage-sweep-1864-1884.md`.
+
+⚠️ **"Full age" is formulaic here.** It means 21 or over, and Catherine was 17 years 10 months — but **entry 92 on the same page also gives "full age" for both parties**, and the phrase recurs down the page. This is the registrar's default, not a misstatement by the couple. The certificate yields **no usable age for anyone on it**; it is deliberately excluded from the birth-year table below.
+
+⚠️ **The residence column does not prove the Skagh → Main Street move.** Both parties read "Croom", but this registrar enters district-level place names (entry 92 gives "Limerick City" and "Fedamore"), whereas *birth* registrations name the townland because the birth happened there. Patrick is still styled **Farmer** in the same row, which points to Skagh. Probably still at Skagh in 1879 — **possible, not established**.
+
+### John Hayes and the weaving trade [T1 for the facts, T2 for the reading]
+
+**John Hayes, Weaver**, son of **Peter Hayes, Weaver**, of Croom. A **trade household, two generations deep — not land.**
+
+This matters for the emigration. Irish handloom weaving collapsed through the second half of the nineteenth century under mechanised British competition. A young weaver marrying in 1879 was entering a trade with no future, which supplies the first **economic motive** for the couple's departure around 1895 that does not rest on guesswork — and makes the sixteen-year gap legible rather than puzzling.
+
+He was also a local man, not an incomer: Edmund, Thomas, Ellen, Brigida and Daniel Hayes all appear as Croom witnesses through the 1870s, and a different John Hayes married Maria O'Brien at Croom on 3 February 1875.
 
 ### The sixteen-year gap [T2]
 
@@ -88,6 +115,7 @@ Also in the plot:
 | Grasmere headstone | 1865 | −3 years |
 | 1920 census (age 48) | ~1872 | −10 years |
 | NY death certificate (age 68) | 14 February 1876 | **−14 years** |
+| *1879 marriage cert ("full age")* | *— excluded* | *formulaic; see marriage section* |
 
 Only the baptism is a primary record of the event itself; the rest are self-reported or third-hand. A fourteen-year understatement is extreme but not out of character for this family — her mother Margaret understated by nine to ten years across the 1901 and 1911 censuses.
 
@@ -101,7 +129,8 @@ The 2026-08-18 vetting plan (Q3) flagged that Nora's certificate gives 10 Januar
 
 ## Open leads
 
-1. **The 1879 civil marriage image** (GRID 2662886) — never opened. Names both fathers, ages, residences, occupations, witnesses. Cheapest remaining Irish-side record.
+1. ~~**The 1879 civil marriage image** (GRID 2662886)~~ — ✅ **read 2026-08-20**, see above. Replaced by: **Peter Hayes, weaver of Croom** [T3], John Hayes's father and a wholly new name. Testable against Griffith's Valuation, the 1901 census if he lived, and civil death records. Worth establishing whether the Hayes weavers are a distinct household from the other Croom Hayes families already catalogued.
+1a. **John Hayes's own origins** — the certificate places him at Croom in 1879 but gives no age, so his birth year still rests on the headstone (1862). A Croom baptism to Peter Hayes c. 1855–1865 would fix it.
 2. **John P. Leo, boarder, 1920** [T3] — **Leo is a Croom surname.** It appears twice in the Croom marriage register: Stephen Leo married Mary Donovan on 18 October 1875 with **Thomas Moloney and Margaret Gleeson** as witnesses, and a Maria Leo witnesses in 1880. A John P. Leo, aged 29, boarding with the Hayeses on Staten Island in 1920 looks like the Croom network reassembling in New York. Untraced.
 3. **Nora Gleason = Bridget Gleeson #2** [T2] — test against the 1930 census for the Ryan/Hayes household, and against a US death record for Nora Gleason d. 1939.
 4. **John Hayes's 1929 NY death record** — parents, immigration year, and possibly the Irish marriage place.
@@ -123,7 +152,7 @@ The likeliest explanation is stale family knowledge — the informant was almost
 Two consequences worth holding:
 
 - The obit's sister-list reflects **what Minnesota knew**, so "Mrs. Brigit O'Connor" and "Miss Mary Gleeson" being alive in January 1946 is also softer than it reads.
-- The obit's load-bearing contribution is unaffected: it **places a Croom-born Gleeson sister in Staten Island married to a John Hayes**. Whether she was still living when it went to press is irrelevant to that. But `facts.md`'s phrasing that the obit "**locks** the identification" overstates it — prefer "anchors".
+- The obit's load-bearing contribution is unaffected: it **places a Croom-born Gleeson sister in Staten Island married to a John Hayes**. Whether she was still living when it went to press is irrelevant to that. But `patrick-gleeson/facts.md`'s phrasing that the obit "**locks** the identification" overstates it — prefer "**anchors**". *(As of 2026-08-20 the identification no longer depends on the obituary at all: the 1879 civil certificate names Patrick Gleeson as her father directly.)*
 
 ---
 
@@ -131,7 +160,7 @@ Two consequences worth holding:
 
 - **Baptism:** NLI Croom CPR, microfilm 02427/07, `vtls000634977` frame 81 — https://registers.nli.ie/registers/vtls000634977
 - **Catholic marriage:** same register, frame 161
-- **Civil marriage:** IrishGenealogy.ie, Group Registration ID 2662886 — https://www.irishgenealogy.ie/view/?record_id=cima-2662886
+- **Civil marriage:** IrishGenealogy.ie, Croom SR district marriage No. 93, Group Registration ID 2662886 — https://www.irishgenealogy.ie/view/?record_id=cima-2662886 — image `marriage_returns/marriages_1879/11085/8056995.pdf` p.147; read 2026-08-20; analysis at `research/results/gleeson-catherine-1879-civil-marriage.md`; crop at `assets/external/catherine-hayes-1879-civil-marriage-entry93.png`
 - **1920 US Census:** Richmond Assembly District 2, Egbert Street — extract at `assets/external/ancestry-cath-hayes-1920-census.txt`
 - **NY death record 1944:** extract at `assets/external/misc/ancestry-catherine-hayes-ny-death.md`
 - **Burial:** Find A Grave memorial 77836976, St Mary's Cemetery Grasmere, Staten Island
