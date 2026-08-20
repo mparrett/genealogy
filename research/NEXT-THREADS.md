@@ -1,7 +1,7 @@
 # Open Threads — running backlog
 
 **Purpose:** the "what I'd actually do next" list, kept in one place so good leads stop evaporating at the end of a session.
-**Last updated:** 2026-08-20 (rev. 4)
+**Last updated:** 2026-08-20 (rev. 5)
 **Convention:** ⭐ = leading candidate · 🔒 = blocked on something external · ✅ = done, kept briefly for the trail · ❌ = closed, do not reopen
 
 ---
@@ -11,6 +11,8 @@
 | # | Thread | Why it matters | Status / how |
 |---|---|---|---|
 | 1 | **James J. Gleeson's US naturalization file**, Buffalo Co., Wisconsin — **restored, at Tier 2 weight** | ⚠️ I demoted this on the strength of the tree's 1883 arrival. **Withdrawn** — Matt flags immigration/naturalization as the *exception* to his tree's reliability, and 1883 matches **neither** census (1900 says 1885, 1920 says 1882). It stays a **pre-1906 county record** (a line, not a story — that finding is from the 1900 census, independent of the tree), but it is now the **only unexploited source that could independently date the emigration**, and a **Declaration of Intention** sometimes names the vessel. | Wisconsin Historical Society, county naturalizations. Not the Ancestry category search — that returned arrivals only. |
+| **1b** | ⭐⭐⭐ **Re-read the 1909 Lusitania manifest at higher resolution** — FamilySearch (NARA T715, free) or the Statue of Liberty–Ellis Island Foundation | **Two unread cells on image NYT715_1199-0672, line 10.** (a) *"Whether ever before in the United States — year"* is **filled in his own words** — two years, "188…" and "189…" — and would be the **best of four conflicting answers** to when he emigrated. Ancestry's viewer will not resolve the final digits and I refused to guess them. (b) A *"…d Court, Delaware Co., Iowa · 2 Nov 1896"* entry that has the **shape of a naturalization** — if it is his, it answers thread #1 off a manifest. ⚠️ Delaware Co., **Iowa** does not fit a Buffalo Co., **Wisconsin** man; it may belong to the adjacent line. **Unverified — do not cite.** | **Not started. Highest-value cheap task on the board.** `research/results/gleeson-1909-return-voyage-2026-08-20.md` |
+| **1c** | ⭐ **The outbound leg: UK & Ireland Incoming Passenger Lists, Dec 1908** | He sailed **16 Dec 1908 to Liverpool & Queenstown**. A UK-side incoming list may record his **destination address in Ireland** — which would be a Croom address, and the nearest thing to a townland we have ever had for him. The collection is already cited on his tree profile. | Not started. |
 | **1a** | ⭐ **Passenger search across the full 1882–1885 window** — not just 1883 | The tree's 29 Sep 1883 record is **one candidate inside the window, not the answer**: bare forename + surname + nationality + age, on a film frame whose name column is destroyed, for a year neither census supports. **1885 is the leading year** (1900 census, corroborated by its own "years in US = 15"). | Queenstown → NY / Boston / Philadelphia, James Gleeson aged 18–21. |
 | 2 | ~~**James J. Gleeson in the 1900–1940 US censuses**~~ | — | ✅ **DONE 2026-08-20** — `research/results/james-gleeson-us-censuses-2026-08-20.md` |
 | 3 | **Valuation Office revision books for SKAGH** | Would show when Timothy sr's bachelor holding changed hands and **to whom**. If it passed to Patrick, the Scagh connection becomes a documented succession instead of a surname coincidence. | Not started. Revision books are not on askaboutireland; Valuation Office / FindMyPast. |
@@ -62,6 +64,7 @@
 | **Croagh marriage of James Molony × Catherine Kenny** | ❌ **Impossible.** Croagh has exactly one marriage register: **9 Jan 1844 – 27 Feb 1881**. A c.1835 marriage does not survive. Confirmed at the NLI parish page 2026-08-20. |
 | **1879 civil marriage certificate** | ✅ Read. Names Patrick as Catherine's father. |
 | **The 1883 passenger manifest image** | ❌ **Spent.** Located and read (NARA M237, image NYM237_470-0809). Destination column genuinely reads **Chicago, Illinois** — not a ship-name artifact. But the name/age/occupation columns for those rows are a **dead black light-leak on the film**; brightness ×9 recovers nothing. Occupation and travelling companions are unrecoverable. ⚠️ Also: an 1883 **customs** list has **no "nearest relative in Ireland" column** — that is a post-1893 Immigration Service field. My earlier "the relative column is the prize" was wrong and is withdrawn. |
+| **"James Gleeson, 43, arr. 14 Feb 1909, Lusitania" = our James** | ✅ **Accepted.** Unlike the 1883 record this one carries **four independent hooks**: birth county **Limerick**, last residence **Mondovi**, wife **Maria**, and US citizenship — all matching our documented James J. Gleeson. **He returned to Ireland in winter 1908–09, while his mother was alive in Croom.** `gleeson-1909-return-voyage-2026-08-20.md` |
 | **"James Gleeson, 19, Irish, arr. 29 Sep 1883" = our James** | ⚠️ **NOT closed — recorded as a strong candidate, not a fact.** Forename + surname + nationality + approximate age, with no townland, parent, or companion tying it to Croom. Matt's tree carries it as a fact. Same identifier-strength trap that has burned this project three times. |
 
 ---
