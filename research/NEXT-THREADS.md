@@ -1,7 +1,7 @@
 # Open Threads — running backlog
 
 **Purpose:** the "what I'd actually do next" list, kept in one place so good leads stop evaporating at the end of a session.
-**Last updated:** 2026-08-20 (rev. 3)
+**Last updated:** 2026-08-20 (rev. 4)
 **Convention:** ⭐ = leading candidate · 🔒 = blocked on something external · ✅ = done, kept briefly for the trail · ❌ = closed, do not reopen
 
 ---
@@ -10,7 +10,8 @@
 
 | # | Thread | Why it matters | Status / how |
 |---|---|---|---|
-| 1 | ~~**James J. Gleeson's US naturalization file**~~ **— DEMOTED to Tier 3** | Wanted for the emigration **date + ship**. Matt's Ancestry tree already holds both: **29 Sep 1883, SS *Chicago*, Liverpool & Queenstown → New York**. He naturalized pre-1906, so the file would be a county-court record naming neither birth town nor vessel. | ⬇️ See `research/results/ancestry-tree-review-2026-08-20.md` |
+| 1 | **James J. Gleeson's US naturalization file**, Buffalo Co., Wisconsin — **restored, at Tier 2 weight** | ⚠️ I demoted this on the strength of the tree's 1883 arrival. **Withdrawn** — Matt flags immigration/naturalization as the *exception* to his tree's reliability, and 1883 matches **neither** census (1900 says 1885, 1920 says 1882). It stays a **pre-1906 county record** (a line, not a story — that finding is from the 1900 census, independent of the tree), but it is now the **only unexploited source that could independently date the emigration**, and a **Declaration of Intention** sometimes names the vessel. | Wisconsin Historical Society, county naturalizations. Not the Ancestry category search — that returned arrivals only. |
+| **1a** | ⭐ **Passenger search across the full 1882–1885 window** — not just 1883 | The tree's 29 Sep 1883 record is **one candidate inside the window, not the answer**: bare forename + surname + nationality + age, on a film frame whose name column is destroyed, for a year neither census supports. **1885 is the leading year** (1900 census, corroborated by its own "years in US = 15"). | Queenstown → NY / Boston / Philadelphia, James Gleeson aged 18–21. |
 | 2 | ~~**James J. Gleeson in the 1900–1940 US censuses**~~ | — | ✅ **DONE 2026-08-20** — `research/results/james-gleeson-us-censuses-2026-08-20.md` |
 | 3 | **Valuation Office revision books for SKAGH** | Would show when Timothy sr's bachelor holding changed hands and **to whom**. If it passed to Patrick, the Scagh connection becomes a documented succession instead of a surname coincidence. | Not started. Revision books are not on askaboutireland; Valuation Office / FindMyPast. |
 | 4 | ~~1874 marriage cert: James Moloney × Honoria Quaid~~ | — | ✅ **READ 2026-08-20.** Groom is 27 (b. c.1847), father **MICHAEL Moloney of Ballymackeamore** — so **NOT Margaret's brother**; that upgrade is retracted. Opens the Ballymackeamore line instead — see new thread 4a. |
@@ -19,6 +20,8 @@
 | **18** | ⭐⭐ **Eau Claire *Leader-Telegram*, 30 Jan 1946, p.2 — the second obituary printing** | An independently-written notice, and the **last source likely to name an Irish place in the family's own words**. Was Tier-3 #16 ("we don't know the paper"); the tree names it exactly. Matt has newspapers.com — this is a direct fetch, not a search. | **Not started. Cheapest high-value item on the board.** |
 | **19** | ⭐ **Croagh baptism sponsors for both candidate Margarets** (1836 James×Catherine Kenny / 1840 Michael×Honora Minihan) | Still the live discriminator on the open Margaret question, now that two of candidate B's four legs have fallen. | Not started. Register 02420/03, 64 images. |
 | **20** | **Reconcile Matt's Ancestry tree (170236006) against the repo** | The tree carries **six** claims our documents disprove — including Patrick d.1915 (cert: 1897), Margaret d.1911 (cert: 1922), and a **1901 Irish census for Co. Clare attached to a man who died in 1897**. Also: the tree is a *source of leads*, not just an error surface — it held two things I was actively hunting. | **Awaiting Matt's go-ahead** — substantial job, not yet requested. Conflicts listed in `ancestry-tree-review-2026-08-20.md` §4. |
+
+**⚠️ How to weigh the tree (Matt, 2026-08-20).** *"Don't treat my findings as 100% authoritative — but much of it is the best I could find. Immigration and naturalization being exceptions."* Treat the tree as a strong, good-faith secondary source: **check it before opening a search**, cite it as a lead, never as proof — and treat its **immigration and naturalization attachments as unreliable by the curator's own assessment**. A tree attachment does not close a thread.
 
 ---
 

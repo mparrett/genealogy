@@ -106,6 +106,6 @@ The second is the more interesting: family recall has always held that **the 194
 ## Revised plan
 
 1. ⭐ **Newspapers.com — the second obituary.** Wisconsin papers, January 1946. May name more relatives than the St. Cloud version.
-2. ⭐ **Passenger manifest, 1882–1885**, Queenstown → New York / Boston / Philadelphia, James Gleeson aged 18–21. Now bounded by documents rather than guesswork. The "nearest relative in Ireland" column is the prize.
+2. ⭐ **Passenger manifest, 1882–1885**, Queenstown → New York / Boston / Philadelphia, James Gleeson aged 18–21. Now bounded by documents rather than guesswork. ⚠️ **Correction 2026-08-20:** this line originally said *"the 'nearest relative in Ireland' column is the prize."* **There is no such column on an 1880s customs list** — that is a post-1893 Immigration Service field. An 1880s customs manifest gives name / age / sex / occupation / citizenship / destination and nothing more. The realistic prize is an **occupation** and a **travelling companion**, not a named relative.
 3. **Naturalization, downgraded.** Buffalo County, Wisconsin circuit court, pre-1900. Wisconsin Historical Society holds county naturalization records. Expect a line, not a story; check whether a Declaration of Intention survives separately.
 4. **1910 and 1930 censuses** — would bracket Mary Fitzgerald's death and confirm the 1885/1882 conflict with a third data point.
