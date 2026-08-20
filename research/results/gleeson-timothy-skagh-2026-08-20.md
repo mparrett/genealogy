@@ -110,7 +110,52 @@ Scagh in the 1850s–60s held **a cluster of Gleesons**: Timothy senior (the 185
 
 ---
 
-## 5. A note on the earlier block, now resolved
+## 5. ⭐ Timothy senior's death certificate — he died a BACHELOR
+
+Read at image level 2026-08-20. Croom deaths register, **entry 26**, GRID 7684349 (the index also carries this death a second time as `cidenc-197771` — a duplicate, not a second man). Image `deaths_returns/deaths_1876/020590/7224501.pdf`.
+
+> **26 · Sixth January 1876 · SKAGH · Timothy Gleeson · Male · BACHELOR · 72 years · Farmer**
+> Cause: *"Griping, 2 years, no medical [attendant]"*
+> Informant: **"Timothy Gleeson, present at death, Skagh"**
+> Registered sixteenth January 1876 · R. Wallace, Deputy Registrar
+
+### Two things follow, and they matter
+
+**(a) He was unmarried and childless.** "Bachelor" at 72 means the Skagh holding had **no direct heir**. In Irish practice a bachelor farmer's land went to a brother's son — and the nephew was very often *named for the uncle*, which is exactly the pattern a Timothy-son-of-James beside a Timothy-with-no-sons produces.
+
+**(b) The informant is the younger Timothy.** "Timothy Gleeson, present at death, Skagh" — a second Timothy Gleeson living at Skagh in January 1876. That is Timothy junior (b. ~1836, m. Ellen Storin 1867, farmer at Scagh), at his uncle's deathbed.
+
+**Working reconstruction of the Scagh Gleesons [T2]:**
+
+> **Timothy Gleeson sr** (b. ~1804, bachelor, farmer at Skagh, Griffith's occupier 1851, d. 6 Jan 1876)
+> — brother, probably — **James Gleeson**, farmer at Scagh
+>   ├── **Timothy jr** (b. ~1836; m. Ellen Storin 1867; present at his uncle's death; likely successor to the holding)
+>   └── **Bridget** (b. ~1842; m. Thomas O'Shea 1864; godmother to Patrick's firstborn 1862) — *hypothesis, see §4*
+
+⚠️ The brother link between Timothy sr and James is **inference from the inheritance pattern and the shared townland**, not documentation. Note also the registrar: **R. Wallace**, the same deputy registrar who recorded Catherine's 1879 marriage.
+
+---
+
+## 6. The Croom baptism register DOES cover the right years — mapped and ready
+
+The relevant volume is **not** the one this project has been using. `vtls000634977` (microfilm 02427/07) begins **4 October 1844**, which is *after* both births. But **microfilm 02427/06 = `vtls000634976`** covers **Baptisms 29 Oct 1828 – 30 Sep 1844**, 143 images. **Both Timothy junior's and Bridget's baptisms should be in it.**
+
+Frame→date map read from `gon.pages_metadata`. Baptisms run frames **5–107**; marriages begin at frame 109.
+
+| Target | Birth window | **Frames to read** |
+|---|---|---|
+| **Timothy jr** (31 on 3 Mar 1867) | Mar 1835 – Mar 1836 | **50–55** |
+| **Bridget** (22 at 27 Aug 1864) | Aug 1841 – Aug 1842 | **85–93** |
+
+⚠️ **This register records no townlands** — entries are bare Latin (*"Maria filia Johannis Wright & Mariae Hallor"*). So a hit cannot be tied to Scagh directly; identification will rest on the **parents' names**, and finding Timothy jr first is the efficient order, because his mother's name then identifies every sibling including Bridget.
+
+⚠️ **Correction to the image-access note:** the IIP path is **`FIF=000640000/000634976/vtls000634976_NNN.jp2`** — parent directory, then the vtls number *without* the `vtls` prefix, then the prefixed filename. The form recorded in project memory (`000640000/vtls000634976/…`) returns nothing. Verified by testing five variants.
+
+**Cost warning.** At the magnification this hand needs, the rendered half-page canvas is ~1440×2640 while the capture viewport is ~993×723, so a full rigorous sweep of all 15 frames would run to roughly 90 screenshots. **Do the Timothy window (50–55) alone first** — six frames, and a hit there makes the Bridget window cheap to confirm.
+
+---
+
+## 7. A note on the earlier block, now resolved
 
 `marriages_1867/11492/8224682.pdf` **hangs pdf.js**, exactly as the 1864 and 1879 returns did.
 
@@ -124,8 +169,9 @@ Chrome's own PDF viewer decodes the file — the sidebar thumbnail renders corre
 
 ## Next actions, in order
 
-1. ⭐ **Sweep the Croom baptism register for children of a JAMES GLEESON at Scagh, c. 1830–1848.** This is a **new target** — every previous Bridget search was run in Hospital and Emly on the assumption that her father was Patrick's father. If §4 is right, her baptism and Timothy's are both sitting in the *Croom* register, and the sweep would recover the whole sibling set in one pass. **Highest value, and cheap.**
-2. **Read the 1876 death certificate** (GRID 197771) — gives the informant, who is very often a son or widow, and the residence at death. Confirms whether the 1876 man was still at Skagh. **Deaths from 1871 are online**, so this is available.
+1. ⭐ **Sweep `vtls000634976` frames 50–55** (Mar 1835 – Mar 1836) for Timothy junior's baptism. Gives his mother's name, which then identifies every sibling — including Bridget — and tests §4 directly. Then frames **85–93** for Bridget. Full mapping and cost warning in §6.
+1a. **Index shortcut, if available.** Ancestry's collection **61039** (*Ireland, Catholic Parish Registers*) indexes parent names and its own guidance suggests "searching for just a last name and parents' names to see all of the children born to a couple." Attempted 2026-08-20 but the browser session showed **signed out**, and the parish/location filter does not bind through URL parameters — the place field needs the autocomplete to attach a place ID, or the results come back unfiltered (35,243 rows). Worth one try signed in before committing to the image sweep.
+2. ~~Read the 1876 death certificate~~ ✅ **done — see §5** (GRID 197771) — gives the informant, who is very often a son or widow, and the residence at death. Confirms whether the 1876 man was still at Skagh. **Deaths from 1871 are online**, so this is available.
 3. **The two 1870s births** (10344657, 10066261) — name the father and the mother's maiden name; if the mother is Ellen Storin they belong to the 1867 couple and confirm the younger Timothy's household.
 4. **Valuation Office revision books for Skagh** — these run forward from the 1850s and would show **when Timothy's holding changed hands and to whom**. If it passed to Patrick, the corridor stops being an inference about surnames and becomes a documented succession of tenancy. This remains the single highest-value item.
 5. **The Croom Catholic register** for Timothy Gleeson entries — sponsorships especially, since sponsors map kin networks.
