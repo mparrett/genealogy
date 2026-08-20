@@ -126,3 +126,97 @@ Where to look:
 - **Strike the "unique Margaret Molony in Croagh" claim from `facts.md`.** It is factually wrong and it is currently doing real work in the identification. The identification may well survive on the naming and age evidence alone — but it must not rest on a uniqueness that does not exist.
 - **Record candidate B explicitly**, so nobody re-derives this in six months.
 - **Downgrade the confidence wording.** `facts.md` currently reads *"strong identification"* and *"now ~T1"*. With a second candidate in the same parish it should read **[T2] — strong but contested**, pending the §5 test.
+
+---
+
+# Session update — 2026-08-20, later
+
+## Both candidate families are now fully enumerated
+
+**Candidate B's family — MICHAEL MOLONY × HONORA MINIHAN, Croagh** (Ancestry coll. 61039, searched on both parents):
+
+| Child | Baptism |
+|---|---|
+| **Margaret** — *the 1840 candidate* | **21 Oct 1840** |
+| **Jeremiah** — the 1918 deed party | 28 Oct 1842 *(from the June FamilySearch work; mother indexed differently, so absent from this query)* |
+| **Bridget** | 27 Aug 1845 |
+| **James** | **8 Oct 1847** |
+
+**Candidate A's family — JAMES MOLONY × CATHERINE KENNY, Croagh:** Margaret (31 Dec 1836), Catherine (13 Mar 1839), Michael (13 Dec 1840), James (8 Jan 1843).
+
+## ✅ Confirmed on the way: the 1874 groom is Jeremiah's brother
+
+**James Molony baptised 8 October 1847** to Michael Molony and Honora Minihan would be **26 years 8 months** on 8 June 1874, against a **stated 27**. That is as close as stated ages get. Combined with the certificate's *father: Michael Moloney* and *residence: Ballymackamore*, the identification is now **established**, not inferred: the man who married Honoria Quaid was **Jeremiah's younger brother James**.
+
+---
+
+## ⭐⭐ A new argument, and it favours candidate A
+
+This one does not depend on any of the legs that collapsed today. It uses the Irish naming convention — the same instrument that has already delivered for Patrick's family.
+
+Patrick and Margaret's children in order: **Catherine** (31 Jan 1862), **James** (23 Dec 1863), **Honora** (24 Mar 1866), Ellen (1869), Mary (1872), Margaret (1875), Jane (1878), Bridget (1881).
+
+| Slot | Convention says | Actual | Fits? |
+|---|---|---|---|
+| 1st son | paternal grandfather | **James** | ✓ Patrick's father was James |
+| **1st daughter** | **maternal grandmother** | **Catherine** | **✓ under A (Catherine Kenny) · ✗ under B (Honora Minihan)** |
+| 2nd daughter | paternal grandmother | **Honora** | ✓ Patrick's mother was Honora O'Brien |
+
+**Under candidate A the three testable slots all fit exactly.** The first daughter carries the maternal grandmother's name Catherine, the second carries the paternal grandmother's name Honora, and the first son carries the paternal grandfather's name James.
+
+**Under candidate B the pattern breaks at the first daughter.** If Margaret's mother were Honora Minihan, *both* grandmothers would be Honora — and you would expect **Honora** in the first-daughter slot, not the second. Worse, **"Catherine" would have no source at all** among the four grandparents.
+
+⚠️ **Weight this properly.** Naming conventions were followed loosely, and this family breaks the third-daughter rule (the third daughter is Ellen, not Margaret after her mother). A single mis-slot is not fatal to B. But the fit for A is exact across all three testable positions, and B requires the most heavily-observed slot of the whole convention — first daughter, maternal grandmother — to be wrong *and* the name actually used to come from nowhere.
+
+**This is now the strongest single argument in the file for the status quo.**
+
+---
+
+## ⚠️ And one that still favours B — stated ages
+
+Honesty requires recording the other side. Our Margaret's reported ages:
+
+| Source | Reported | Shave if b. **Dec 1836** (A) | Shave if b. **Oct 1840** (B) |
+|---|---|---|---|
+| 1901 census (31 Mar) | 55 | −9 yrs | **−5 yrs** |
+| 1911 census (2 Apr) | 66 | −8 yrs | **−4 yrs** |
+| 1922 death (18 May) | 74 | −11 yrs | **−7 yrs** |
+
+**Candidate B fits the reported ages materially better** — a consistent 4-to-7-year understatement rather than 8-to-11. `facts.md` currently presents the 9–10 year shave as a "confirmed family pattern" matching Catherine Hayes's, and Catherine's shaves do run 3 to 14 — so A remains within family range. But B is the more parsimonious read of the census and death data, and that should not be brushed aside.
+
+**Net: the naming convention points hard at A; the stated ages point moderately at B.** They are genuinely in tension, which is why the falsifying test still matters.
+
+---
+
+## The falsifying test — attempted, inconclusive
+
+Searched Ancestry coll. 61039 for **Margaret Molony marriages in Co. Limerick**. **No Croagh or Kilfinny marriage surfaced in the top fifty.**
+
+⚠️ **Do not read this as a negative result.** The collection's results are relevance-ranked with **no working parish filter** (see the method note above), so a Croagh entry could easily sit below the cut. Croagh's marriage register also only begins **9 January 1844**, and coverage of it in the index is untested.
+
+**The test is still the right one; it just needs a better instrument.** Options, in order:
+1. **Civil marriage index 1864+** — a Margaret Molony/Moloney marrying in Rathkeale or Croom districts. Civil certificates name the father, so a hit is decisive either way. The 1840 Margaret would be 24+ in 1864 and may well have married before then, so this is a partial net.
+2. **Read the Croagh marriage register images directly**, `vtls000634972`, 28 frames covering 1844–1881 — small enough to sweep properly, unlike Croom's 143.
+3. **The 1901/1911 censuses for Ballymackeamore** — if the 1840 Margaret married locally and stayed, she is findable in Jeremiah's neighbourhood under a married surname.
+
+---
+
+## ⚠️ Reconciling §2 with the update above — the age argument is CIRCULAR
+
+§2 above and the session update reach **opposite conclusions from the same numbers**, and the update is right. Recording why, because the error in §2 is instructive.
+
+§2 argues: *Margaret's documented understatement runs 9–10 years; under A the 1901 and 1911 figures land exactly on that pattern; therefore A.*
+
+**But the "documented 9–10 year pattern" was itself derived by assuming A.** It is calculated as (age implied by a 1836 birth) − (age reported). Feeding that back in as independent support for a 1836 birth is circular. Strip the assumption out and the raw data says only this: **whichever birth year is correct, the shaves are internally consistent** — 9/8/11 under A, 5/4/7 under B. Both are self-consistent; **B's are simply smaller and therefore the more parsimonious.**
+
+**Correct handling: the stated ages do not support A. They mildly favour B, and §2's use of them should be disregarded.**
+
+That leaves the two cases resting on:
+
+| | Supports |
+|---|---|
+| **A** | The naming convention — three testable slots, three exact hits, with the first-daughter slot (the most reliable one in the whole convention) fitting **Catherine Kenny** and having no source under B |
+| **B** | Slightly more parsimonious stated ages, and the 1944 "Cousin" degree |
+| **Neither** | The 1881 godparenthood (business tie), the 1918 deed (commercial instrument, no relationship stated), the 1860 witness (works under both) |
+
+**The naming convention is now doing almost all the work for A**, and B has lost every documentary leg it started with. Neither is established. **Run the falsifying test.**
