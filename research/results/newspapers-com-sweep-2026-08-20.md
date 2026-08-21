@@ -78,3 +78,50 @@ All via Matt's logged-in Newspapers.com account, in-browser.
 
 - **"Harry Gleeson of Chicago, better known as 'Kid' Gleeson"** — Eau Claire league ballplayer, 1908. ⚠️ Noted only because Matt's tree carries a son **Harold Francis Gleason b. 1903 Chicago**. **Not related** — "Kid" Gleeson is an adult professional in 1908, when Harold would have been five. **Do not pursue.**
 - **John Gleeson**, Eau Claire, May 1885 — assault and theft. Same city and year as the disputed directory entries. ⚠️ No evidence connecting him to anything of ours; recorded only so a future session does not rediscover him and get excited.
+
+---
+
+## ⭐ ROUND TWO — the 19 pages read, and the Mondovi column found
+
+Run 2026-08-20 immediately after the correction above.
+
+### ✅ Matt was right: the column exists, and I found it
+
+**Leader-Telegram, Friday 19 February 1909, page 8:**
+
+> **MONDOVI**
+> *A FEW ITEMS FROM THE CATTLE CITY TAKEN FROM **THE HERALD**.*
+
+So the Eau Claire daily **reprinted a digest of the Mondovi Herald** in 1908–09, not only in 1931. `Mondovi Herald` as a phrase returns **30 matching pages** for 10 Dec 1908 – 10 Mar 1909 alone, so the column ran regularly. My "Buffalo County is not covered" claim is fully retired.
+
+### ❌ But the Ireland trip is NOT in it
+
+James landed at New York on **14 February 1909**. The Mondovi column of **19 February 1909** — five days later, the first one after his return — carries these items in full:
+
+> the Eau Claire ski tournament and who from Mondovi attended · **Peter C. Moe**, born Norway 27 Sept 1849, died Mondovi 4 Feb 1909, *"came to this country in 1879 and worked at Eau Claire for several years"* · H. J. Canar's opera-house improvements · **Norman Halverson** down from Eau Claire for his grandmother Mrs. Marie Halverson's funeral · Mr. and Mrs. Clinton Perry · Mrs. A. J. Branstad and baby, arrived from Eau Claire on a visit.
+
+**No Gleeson.** And note the shape of the Moe item — a Norwegian immigrant's death notice giving his birth date, birth country and arrival year. **That is exactly the kind of paragraph that would have named Croom** if the column had carried one for James. It didn't.
+
+Also checked: **24 Feb 1909** (a sports page, incidental mention) and **27 Dec 1908** (a *Durand* correspondence column mentioning the Buffalo County Old Settlers' banquet at Mondovi — right genre, wrong village, no Gleeson).
+
+### The decisive negative
+
+| Search | Window | Result |
+|---|---|---|
+| `Gleeson` | Eau Claire, **15 Nov 1908 – 15 Apr 1909** | **ZERO matches** |
+| `Gleason` | same window | **31 matches** — all Eau Claire *city* Gleasons: "Gleason Park", Wm. H. Gleason, a Gleason family burglary story |
+| `Mondovi` | 1 Dec 1908 – 15 Mar 1909 | 126 pages — the county content is there |
+| `Mondovi Herald` | 10 Dec 1908 – 10 Mar 1909 | 30 pages — the digest column ran regularly |
+
+### ⚠️ Why this is "not found," not "not there"
+
+**The column is a digest — it says so in its own subtitle: "A FEW ITEMS."** The Herald was a weekly carrying columns of local personals; the city daily reprinted a handful. A Mondovi farmer's two-month trip to Ireland could easily have run in the Herald and been left out of the digest.
+
+Add to that: **1908 letterpress OCR is poor**, and I read a sample of columns rather than every issue in the window.
+
+### What it means for the letters
+
+**It strengthens them rather than replacing them.** The free proxy has now been tested properly and does not carry the item. **The Mondovi Herald itself — the source the column was condensing — is still the target**, and it is on microfilm at the Wisconsin Historical Society and possibly at the UW–Eau Claire ARC, which serves Buffalo County.
+
+**Send the letters.** The four drafts in `research/outreach/gleeson-wisconsin-archive-inquiries-2026-08-20.md` stand, and the ⭐⭐ Diocese of La Crosse one — the 1892 Catholic marriage register — remains the highest-upside of the four, because it does not depend on a newspaper at all.
+
