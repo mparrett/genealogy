@@ -33,3 +33,9 @@ The June 2026 survey produced a filing plan but the plan was never executed — 
 
 - Decide whether to execute §8 now, given ~10 weeks have passed and the burial-record open question (resolved by the interment card) is still not reflected in the repo's tracked facts.
 - Re-survey `~/Downloads-no-iCloud/` first in case folder contents have changed since 2026-06-11.
+
+## Large-asset policy (decided 2026-08-20)
+
+The 2026-06-11 survey didn't say whether the promoted/quarantined files should be committed to git. Resolved: **keep local-only**. `assets/external/ancestry/james-higgins/`, `assets/external/_namesakes-not-ours/`, and any `.ged` files directly under `assets/external/` are now gitignored — same pattern already used for `assets/external/catholic-protectory-1909/` and `images/originals/`. Files still live on disk for local site/tooling use, just not pushed to GitHub.
+
+Note this doesn't address the two large PDFs already committed as regular blobs (`Doris Pauline Kuthe-ancestry-2026-01-26.pdf`, 22MB; `Howard Robert Higgins Birch-with-speculations-2026-01-26.pdf`, 28MB) — those predate this policy and remain tracked, contributing to `.git` being 250MB as of this date. Untracking them (`git rm --cached`) wouldn't shrink history; a history rewrite would be needed for that, and hasn't been requested.
