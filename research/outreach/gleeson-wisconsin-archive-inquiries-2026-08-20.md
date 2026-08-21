@@ -82,6 +82,26 @@ These letters are still worth having drafted — a hometown weekly carries far m
 
 ---
 
+## Draft 5 — ⭐⭐ ORDER two Wisconsin vital records *(added 2026-08-20, after Matt's WHS link)*
+
+| | |
+|---|---|
+| **To** | WHS copy order (Ask Archives form, or the "Buy" link on each record page) · or the **Wisconsin State Vital Records Office** · ⭐ or ask **UW–Eau Claire ARC** whether they hold the Buffalo County reels locally — they serve that county and it may be free |
+| **Why** | **Both records are already located, with exact citations.** This is an *order*, not a search — no one can come back asking us to narrow it. |
+
+| Record | Citation |
+|---|---|
+| ⭐⭐ **Marriage — Gleason, James, 23 Nov 1892, Buffalo Co.** | **Vol 2, p.102 · Index Vol F · Seq 03071** · WHS `MR1381044` |
+| ⭐ **Death — Gleason, Leo, 26 Feb 1905, Buffalo Co.** | **Vol 1, p.375 · Reel 009 · Seq 124724** · WHS `DR333441` |
+
+**The marriage record is the point.** Wisconsin returns of this period usually give **each party's birthplace** and **both sets of parents' names**. That is the same prize as Draft 4 — *where in Ireland, and who were his parents* — from a **second, independent source**. Do both; if they agree, the question is settled.
+
+**The death record** tests whether **Leo Gleason** is one of the two or three children the obituaries say existed and we cannot name.
+
+⚠️ WHS: *"Wisconsin State Law prohibits the online reproduction of a complete vital record."* Options are in-person microfilm, a hired researcher, or the state office. Costs as for Draft 2.
+
+---
+
 ## ⚠️ Calibration
 
 | Draft | Probability | Payoff |
@@ -90,5 +110,6 @@ These letters are still worth having drafted — a hometown weekly carries far m
 | 2 — WHS Madison | **High** that they hold the film. | Medium. Costs money and takes weeks; lab currently closed for digitisation. |
 | 3 — BCHS / Mondovi | Medium. Small volunteer bodies. | Medium, occasionally very high — clipping files are uncatalogued. |
 | 4 — Diocese of La Crosse | Medium, slow. | ⭐⭐ **Highest.** A contemporary Catholic register naming his Irish birthplace and parents. |
+| **5 — WI vital records order** | ⭐ **Highest of the five** — the records are already located and cited; only cost and turnaround stand between us and them. | ⭐⭐ Equal to Draft 4, and **independent of it**. Plus a test of the Leo Gleason child. |
 
 All four are written to make **a negative answer easy and useful** — the same principle as the Irish diocesan letters. A clean "we hold nothing" closes a route instead of leaving it a standing maybe.
