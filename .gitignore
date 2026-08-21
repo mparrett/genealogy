@@ -32,6 +32,11 @@ pdf/internal/
 # Bulk page-image extracts (large; keep locally only)
 assets/external/catholic-protectory-1909/
 
+# Raw Downloads-ancestry material filed per the 2026-06-11 inventory (large; keep locally only)
+assets/external/ancestry/james-higgins/
+assets/external/_namesakes-not-ours/
+assets/external/*.ged
+
 # High-res original images (keep locally, don't publish)
 images/originals/
 
