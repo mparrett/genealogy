@@ -94,13 +94,13 @@ Both substantial printings say twelve, five living. Our documented list runs to 
 | "born **Dec. 21, 1864**" | born 21 Dec **1863** | Day and month exact; year off by one. Matches the tree's "21 Dec 1864" alternates — they all trace to this obituary. |
 | "In **Nov. 1876**, he married Maria Fitzgerald" | **23 Nov 1892** | **Impossible** — Maria was born 1865 and would have been 11. The *month* is right. A typesetting error, almost certainly for 1892. |
 | "died Aug. 2, **1837**" (Bina O'Brien) | 2 Aug **1937** | Obvious misprint; Matt flagged it in his Bear note. |
-| "In **Jan. 1928**, married Mrs. Bina O'Brien" | tree: **14 Jan 1929** | One or the other is wrong; unresolved. |
+| "In **Jan. 1928**, married Mrs. Bina O'Brien" | **14 Jan 1929**, St. Louis Co., Minnesota | ✅ **RESOLVED 2026-08-20 — the newspaper is wrong.** Two sources incl. the Minnesota Official Marriage System. See `sabina-loughney-gleeson-2026-08-20.md`. |
 | "**83**" (p.2) vs "**82**" (St. Cloud) | 82 | Born Dec 1863, died Jan 1946. |
 | "**nine** grandchildren" (St. Cloud) vs "**ten**" (p.9) | — | Five days apart, two different counts. |
 | "Mrs. Gleeson has been dead **28** years" | Maria d. 1916 (30 yrs); Sabina d. 1937 (9 yrs) | Matches neither wife. |
 | "Mrs. John **Hayes**… survives" | Catherine died **1 Nov 1944** | Already analysed — stale family knowledge, not a misidentification. |
 
-**Standing observation:** across three printings of one man's death, in five days, by two newspapers, we get **two ages, two grandchild counts, two cemeteries, a birth year off by one, and a marriage year off by sixteen.** This is a useful calibration on how much weight a single newspaper figure can carry anywhere else in this project.
+**Standing observation:** across three printings of one man's death, in five days, by two newspapers, we get **two ages, two grandchild counts, two cemeteries, a birth year off by one, a first-marriage year off by sixteen, and a second-marriage year off by one.** This is a useful calibration on how much weight a single newspaper figure can carry anywhere else in this project.
 
 ---
 
