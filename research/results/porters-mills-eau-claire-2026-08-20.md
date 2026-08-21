@@ -93,3 +93,63 @@ If the 1884 edger is ours, he was in Wisconsin by 1884 — which would **exclude
 2. ⭐ **Northwestern Lumber Co. and Valley Lumber Co. records** — UW–Eau Claire McIntyre Library, Special Collections & Area Research Center; Wisconsin Historical Society. A payroll or time book with his name and a start date would date the arrival outright.
 3. **Buffalo County / Mondovi directories, 1886–1892** — where did he go after Eau Claire, and when did he reach Mondovi?
 4. ❌ **1885 Wisconsin state census — do not bother.** The 1885 and 1895 Wisconsin state censuses record only the **head of household by name, plus tallies**. A single man boarding at a mill is invisible in them by construction. *(Checked the form's coverage before spending time on it.)*
+
+---
+
+## 5. ⚠️ The Enoch test — RUN 2026-08-20. It cleared the hypothesis I set, and surfaced a better rival.
+
+### Part 1: the settled Gleason family does NOT contain a James — hypothesis not supported
+
+**1880 US census, Eau Claire, Eau Claire Co., Wisconsin** (roll 1424, p.349b, ED 126):
+
+| Household | Members |
+|---|---|
+| **Enoch Gleason**, 78, b. abt **1802 New York**, occupation **leather dresser**, Farwell St, dwelling 49 · parents both born **Massachusetts** | **Elizabeth D. Gleason**, 71, b. abt 1809 Massachusetts (wife). **No children at home.** |
+| **Charles R. Gleason**, 49, b. abt **1831 New York** | **Francis Gleason**, 50, b. New York (wife) · **Frank Gleason**, 18, b. abt **1862 Wisconsin**, single, **laborer** (son) |
+
+This is an **old Yankee family** — New York and Massachusetts, not Irish. Enoch and Elizabeth were **78 and 71** in 1880; Elizabeth would have been **54 in 1863**, so a son James born then is effectively impossible. Their son is Charles R.; **his** son is Frank, b. 1862.
+
+**A search of the whole 1880 census for Gleasons in Eau Claire County born c.1853–1873 returns exactly one person: Frank Gleason (b. 1862), Charles R.'s son.**
+
+✅ **So the hypothesis I set out to test — that the 1884 edger belongs to the settled Enoch Gleason family — is NOT supported.** That family has no James of the right age, in 1880 or anywhere in the directories.
+
+### Part 2: ⚠️⚠️ …but a DIFFERENT competitor turned up, and he is better documented than ours
+
+The same sweep returned, in the same city and census:
+
+> **James Gleason · age 30 · b. abt 1850, CANADA · father's birthplace FRANCE · mother's birthplace FRANCE · single · occupation LUMBERMAN · Menomonee Street, Eau Claire · dwelling 21 · household of one**
+> *(1880 US census, Ancestry coll. 6742, record 28380066)*
+
+**A single French-Canadian lumberman living alone in Eau Claire in 1880.**
+
+He fits *"Gleason James, edger Valley Lumber Co, bds company's boarding house"* **at least as well as our man, and arguably better**:
+
+| | The Canadian lumberman | Our James |
+|---|---|---|
+| In Eau Claire before 1884? | **Yes — documented, 1880 census** | Unknown. Possibly not yet in the country. |
+| In the lumber trade? | **Yes — "lumberman," 1880** | Inferred from an **undated** obituary phrase |
+| Single, would board? | Yes — living alone, 1880 | Yes — married Nov 1892 |
+| Age in 1884 | 34 | ~20 |
+
+**Verdict: the 1884 edger identification is WEAKENED, not strengthened.** It should be downgraded from "strong candidate" to "one of at least two candidates, and not the better-documented one."
+
+### Part 3: and the argument I made in §3 has to be withdrawn
+
+I wrote that *"James appears in 1884 and 1885 and then vanishes, while the rest of the family recurs — settled families recur, transients do not."*
+
+**That still holds as an observation, but it no longer points where I aimed it.** The vanishing James is just as consistent with a **French-Canadian lumberman moving on to the next camp** as with an Irish immigrant leaving for a Mondovi farm. The transient pattern discriminates *settled local family* from *transient*; it does **not** discriminate *our transient* from *someone else's*.
+
+### ⚠️ And the structural point from §1 cuts against the whole line
+
+**Porter's Mills was a separate village four miles downriver and is not covered by the Eau Claire city directory.** If our James's first years were spent at Porter's Mills, **he would not appear in these directories at all** — and neither 1884 nor 1885 would be him.
+
+**Standing position: no directory entry is currently attributable to James J. Gleeson. The Eau Claire years remain documented only by the obituary.**
+
+### What would still settle it
+
+1. ⭐⭐ **Northwestern Lumber Co. / Valley Lumber Co. payrolls and time books** — UW–Eau Claire McIntyre Library, Special Collections & Area Research Center; Wisconsin Historical Society. **Now the only route likely to name him.** A payroll gives a name *and* a date, which is exactly what neither the directory nor the census can supply here.
+2. Track the **Canada-born James Gleason** forward (1885/1895 WI state census, 1900 census). If he left Eau Claire before 1884, the directory entry reopens for ours. *(Attempted 2026-08-20 in the 1900 census; the birthplace facet would not bind and no Wisconsin match surfaced in the first page. Unresolved.)*
+3. **Buffalo County / Mondovi directories 1886–1892** — approach the question from the Mondovi end instead.
+
+**Method note:** this is what a test looks like when it works. It was cheap, it was decisive about the thing it was aimed at, and it changed the answer — just not in the direction I was hoping for. Recording the disappointment as carefully as the discovery is the whole point.
+
