@@ -1,7 +1,23 @@
 # Open Threads — running backlog
 
 **Purpose:** the "what I'd actually do next" list, kept in one place so good leads stop evaporating at the end of a session.
-**Last updated:** 2026-08-20 (rev. 16)
+**Last updated:** 2026-08-21 (rev. 17)
+
+> ## ⚠️ HANDOFF NOTE — read before running git in this repo
+>
+> **1. `git` leaves lock files it cannot delete.** The Cowork device mount refuses `unlink`, so **every git command that writes the index or a ref leaves a `.lock` behind**, and the *next* such command then fails with *"Another git process seems to be running."* It is not a real concurrent process.
+> **The workaround, before every commit:**
+> ```bash
+> for f in $(find .git -name '*.lock'); do mv "$f" /tmp/$(basename $f).$RANDOM; done
+> ```
+> `mv` works where `rm` does not. ⚠️ **Do not run a ref-writing "probe" to test this** — it creates the very lock it is testing for. (I did; it cost four extra rounds.)
+>
+> **2. `.git/objects` accumulates `tmp_obj_*` orphans** for the same reason. 278 were cleared on 2026-08-21; they are harmless but `git gc` will complain.
+>
+> **3. ⚠️ The repo is 46 commits AHEAD of `origin/main` and has never been pushed this session.** Anything built here is local only. `git@github.com:mparrett/genealogy.git`. **Matt has not asked for a push — do not push without asking.**
+>
+> **4. `_to_delete/` is untracked and holds files Matt must remove himself** (the mount cannot delete). As of 2026-08-21 it contains two misfiled research files plus `git-litter-2026-08-21/` (292 parked lock and temp-object files).
+
 **Convention:** ⭐ = leading candidate · 🔒 = blocked on something external · ✅ = done, kept briefly for the trail · ❌ = closed, do not reopen
 
 ---
