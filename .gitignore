@@ -37,6 +37,10 @@ assets/external/ancestry/james-higgins/
 assets/external/_namesakes-not-ours/
 assets/external/*.ged
 
+# Large pre-existing Ancestry exports, stripped from git history 2026-08-21 (kept locally only)
+assets/external/ancestry/Doris Pauline Kuthe-ancestry-2026-01-26.pdf
+assets/external/ancestry/Howard Robert Higgins Birch-with-speculations-2026-01-26.pdf
+
 # High-res original images (keep locally, don't publish)
 images/originals/
 
